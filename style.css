@@ -45,7 +45,9 @@ section > h2 { font-size: 1.05rem; margin: 0 0 .6rem; }
 .tag { font-size: .8rem; }
 
 .days-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px,1fr)); gap: .6rem; }
-.day-tile { display: block; background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: .7rem .8rem; text-decoration: none; color: var(--text); }
+.day-tile { display: block; background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: .7rem .8rem; text-decoration: none; color: var(--text); overflow: hidden; }
+.day-tile-img { display: block; width: calc(100% + 1.6rem); max-width: none; height: 90px; object-fit: cover; margin: -.7rem -.8rem .6rem; background: var(--accent-soft); }
+.day-tile-img:not([src]) { display: none; }
 .day-tile .dn { font-size: .75rem; color: var(--muted); }
 .day-tile .dt { font-size: .88rem; font-weight: 600; margin-top: .2rem; }
 .day-tile .dh { font-size: .75rem; color: var(--accent); margin-top: .3rem; }
@@ -67,6 +69,24 @@ section > h2 { font-size: 1.05rem; margin: 0 0 .6rem; }
 .timeline li { padding: .7rem 0; border-top: 1px solid var(--border); font-size: .93rem; }
 .timeline li:first-child { border-top: none; }
 .timeline .time { color: var(--accent); font-weight: 600; }
+.timeline li.has-img { display: flex; gap: .7rem; align-items: flex-start; }
+.timeline .item-thumb { width: 100px; height: 100px; object-fit: cover; border-radius: 8px; flex-shrink: 0; background: var(--accent-soft); }
+.timeline .item-thumb:not([src]) { display: none; }
+.timeline .item-text { flex: 1; min-width: 0; }
+
+.clickable-img { cursor: zoom-in; }
+
+.lightbox {
+  display: none; position: fixed; inset: 0; z-index: 1000;
+  background: rgba(0,0,0,.85); align-items: center; justify-content: center;
+  padding: 2rem; cursor: zoom-out;
+}
+.lightbox.open { display: flex; }
+.lightbox img { max-width: 100%; max-height: 100%; border-radius: 8px; object-fit: contain; }
+
+@media (min-width: 480px) {
+  .timeline .item-thumb { width: 128px; height: 128px; }
+}
 
 .legenda { font-size: .82rem; color: var(--muted); }
 footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 2rem 1rem; }

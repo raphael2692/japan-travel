@@ -5,6 +5,101 @@ function mdInline(s) {
     .replace(/\*(.+?)\*/g, "<i>$1</i>");
 }
 
+// Immagini di anteprima recuperate al volo (nessuna immagine ospitata sul
+// sito). Fonte primaria: Openverse, per poter cercare una foto coerente con
+// la stagione (viaggio 18/11-9/12, foliage autunnale) e con l'orario
+// dell'attività (mattina/tramonto/notte). Fallback: miniatura Wikipedia
+// (sempre pertinente al luogo, ma non alla stagione/ora). Cache in-memory
+// per evitare richieste doppie.
+const WIKI_IMG_CACHE = {};
+function fetchWikiThumb(title) {
+  if (WIKI_IMG_CACHE[title] !== undefined) return Promise.resolve(WIKI_IMG_CACHE[title]);
+  return fetch("https://en.wikipedia.org/api/rest_v1/page/summary/" + encodeURIComponent(title))
+    .then(res => res.ok ? res.json() : null)
+    .then(data => {
+      const thumb = data && data.thumbnail && data.thumbnail.source ? data.thumbnail.source : null;
+      const full = data && data.originalimage && data.originalimage.source ? data.originalimage.source : thumb;
+      const result = thumb ? { thumb, full } : null;
+      WIKI_IMG_CACHE[title] = result;
+      return result;
+    })
+    .catch(() => { WIKI_IMG_CACHE[title] = null; return null; });
+}
+
+function stripDiacritics(s) {
+  return s.normalize("NFD").replace(/[̀-ͯ]/g, "");
+}
+
+// Estrae dall'orario dell'attività (**HH:MM**) un indizio sul momento della
+// giornata, per non usare foto diurne su attività serali/notturne o viceversa.
+function timeOfDayKeyword(line) {
+  const m = line && line.match(/\*\*(\d{2}):(\d{2})/);
+  if (!m) return null;
+  const h = parseInt(m[1], 10);
+  if (h >= 5 && h <= 8) return "morning";
+  if (h >= 17 && h <= 18) return "sunset";
+  if (h >= 19 || h <= 4) return "night";
+  return null;
+}
+
+function buildSeasonalQuery(entry, line) {
+  const bits = [stripDiacritics(entry.title), "Japan"];
+  if (entry.season) bits.push("autumn foliage");
+  const tk = timeOfDayKeyword(line);
+  if (tk) bits.push(tk);
+  return bits.join(" ");
+}
+
+const SEASONAL_IMG_CACHE = {};
+function fetchSeasonalThumb(entry, line) {
+  const query = buildSeasonalQuery(entry, line);
+  if (SEASONAL_IMG_CACHE[query] !== undefined) return Promise.resolve(SEASONAL_IMG_CACHE[query]);
+  const url = "https://api.openverse.org/v1/images/?page_size=1&q=" + encodeURIComponent(query);
+  return fetch(url)
+    .then(res => res.ok ? res.json() : null)
+    .then(data => {
+      const hit = data && data.results && data.results[0];
+      const result = hit && hit.thumbnail ? { thumb: hit.thumbnail, full: hit.url || hit.thumbnail } : null;
+      SEASONAL_IMG_CACHE[query] = result;
+      return result;
+    })
+    .catch(() => { SEASONAL_IMG_CACHE[query] = null; return null; });
+}
+
+// Prova prima una foto coerente con stagione/ora (Openverse), poi ripiega
+// sulla miniatura Wikipedia del luogo se la ricerca non trova nulla.
+function fetchThumb(entry, line) {
+  return fetchSeasonalThumb(entry, line).then(res => res || fetchWikiThumb(entry.title));
+}
+
+// Lightbox condiviso: mostra l'immagine a piena risoluzione al click.
+function openLightbox(url) {
+  let box = document.getElementById("lightbox");
+  if (!box) {
+    box = document.createElement("div");
+    box.id = "lightbox";
+    box.className = "lightbox";
+    box.innerHTML = `<img>`;
+    box.addEventListener("click", () => box.classList.remove("open"));
+    document.body.appendChild(box);
+  }
+  box.querySelector("img").src = url;
+  box.classList.add("open");
+}
+
+function makeClickable(img, fullUrl) {
+  img.classList.add("clickable-img");
+  img.addEventListener("click", () => openLightbox(fullUrl));
+}
+
+function findWikiEntry(line, wikiMap) {
+  const keys = Object.keys(wikiMap).sort((a, b) => b.length - a.length);
+  for (const k of keys) {
+    if (line.includes(k)) return wikiMap[k];
+  }
+  return null;
+}
+
 function renderDeadline(d) {
   const div = document.createElement("div");
   div.className = "card deadline" + (d.done ? " done" : "");
@@ -35,8 +130,17 @@ function renderIndex() {
     a.className = "day-tile";
     a.href = "giorno.html?d=" + g.data;
     const dateFmt = new Date(g.data + "T00:00:00").toLocaleDateString("it-IT", { day: "2-digit", month: "short" });
-    a.innerHTML = `<div class="dn">${g.giorno} ${dateFmt}</div><div class="dt">${g.titolo}</div>${g.hotel ? `<div class="dh">🏨 ${g.hotel.split(",")[0]}</div>` : ""}`;
+    a.innerHTML = `<img class="day-tile-img" alt="" loading="lazy"><div class="dn">${g.giorno} ${dateFmt}</div><div class="dt">${g.titolo}</div>${g.hotel ? `<div class="dh">🏨 ${g.hotel.split(",")[0]}</div>` : ""}`;
     grid.appendChild(a);
+
+    const line = g.items.find(i => findWikiEntry(i, t.wikiMap || {}));
+    const entry = line ? findWikiEntry(line, t.wikiMap || {}) : null;
+    if (entry) {
+      const img = a.querySelector("img.day-tile-img");
+      fetchThumb(entry, line).then(res => { if (res) img.src = res.thumb; else img.remove(); });
+    } else {
+      a.querySelector("img.day-tile-img").remove();
+    }
   });
 
   const hotels = document.getElementById("hotel-list");
@@ -87,11 +191,25 @@ function renderGiorno() {
   });
 
   const list = document.getElementById("d-timeline");
+  const usedTitles = new Set();
   g.items.forEach(line => {
     const li = document.createElement("li");
     const m = line.match(/^\*\*([^*]+)\*\*\s*(.*)$/);
-    if (m) li.innerHTML = `<span class="time">${m[1]}</span> ${mdInline(m[2])}`;
-    else li.innerHTML = mdInline(line);
+    const textHtml = m ? `<span class="time">${m[1]}</span> ${mdInline(m[2])}` : mdInline(line);
+
+    const entry = findWikiEntry(line, t.wikiMap || {});
+    if (entry && !usedTitles.has(entry.title)) {
+      usedTitles.add(entry.title);
+      li.className = "has-img";
+      li.innerHTML = `<img class="item-thumb" alt="" loading="lazy"><div class="item-text">${textHtml}</div>`;
+      const img = li.querySelector("img.item-thumb");
+      fetchThumb(entry, line).then(res => {
+        if (res) { img.src = res.thumb; makeClickable(img, res.full); }
+        else li.querySelector("img.item-thumb").remove();
+      });
+    } else {
+      li.innerHTML = textHtml;
+    }
     list.appendChild(li);
   });
 

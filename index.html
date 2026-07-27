@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Viaggio in Giappone</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <h1 id="trip-title"></h1>
+  <p id="trip-subtitle"></p>
+</header>
+<main>
+
+  <section>
+    <h2>📅 Giorno per giorno</h2>
+    <div id="days-grid" class="days-grid"></div>
+  </section>
+
+  <section>
+    <h2>✅ Scadenze e prenotazioni</h2>
+    <p class="legenda" id="legenda"></p>
+    <div id="scadenze-list"></div>
+  </section>
+
+  <section>
+    <h2>🏨 Hotel</h2>
+    <div id="hotel-list"></div>
+  </section>
+
+  <section>
+    <h2>✈️ Voli</h2>
+    <div id="flight-list"></div>
+  </section>
+
+  <section>
+    <h2>💡 Note pratiche</h2>
+    <div id="note-rapide"></div>
+  </section>
+
+</main>
+<footer>Aggiornato tramite Claude — parla con lui per modificare il piano.</footer>
+<script src="data.js"></script>
+<script src="app.js"></script>
+<script>
+  document.getElementById("legenda").textContent = window.TRIP.legenda.join("  ·  ");
+  renderIndex();
+</script>
+</body>
+</html>

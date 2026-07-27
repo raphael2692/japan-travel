@@ -1,0 +1,72 @@
+:root {
+  --bg: #faf8f5; --card: #fff; --text: #23201c; --muted: #6b645c;
+  --accent: #b4472c; --accent-soft: #f3e3dc; --border: #e8e1d8;
+  --done: #4f7a5a;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg:#181614; --card:#221f1c; --text:#eee8e0; --muted:#a89e92; --accent:#e07a54; --accent-soft:#3a2a22; --border:#332e28; --done:#7fb08a; }
+}
+:root[data-theme="dark"] { --bg:#181614; --card:#221f1c; --text:#eee8e0; --muted:#a89e92; --accent:#e07a54; --accent-soft:#3a2a22; --border:#332e28; --done:#7fb08a; }
+:root[data-theme="light"] { --bg:#faf8f5; --card:#fff; --text:#23201c; --muted:#6b645c; --accent:#b4472c; --accent-soft:#f3e3dc; --border:#e8e1d8; --done:#4f7a5a; }
+
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.5;
+}
+header.top {
+  padding: 1.5rem 1rem 1rem; text-align: center;
+  border-bottom: 1px solid var(--border);
+}
+header.top h1 { margin: 0 0 .25rem; font-size: 1.4rem; }
+header.top p { margin: 0; color: var(--muted); }
+main { max-width: 720px; margin: 0 auto; padding: 1rem; }
+nav.tabs { display: flex; gap: .5rem; justify-content: center; margin: 1rem 0; flex-wrap: wrap; }
+nav.tabs a, nav.tabs button {
+  padding: .4rem .9rem; border-radius: 999px; border: 1px solid var(--border);
+  background: var(--card); color: var(--text); text-decoration: none; font-size: .85rem; cursor: pointer;
+}
+nav.tabs a.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+section { margin-bottom: 1.75rem; }
+section > h2 { font-size: 1.05rem; margin: 0 0 .6rem; }
+
+.card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: .9rem 1rem; margin-bottom: .6rem; }
+
+.deadline { display: flex; gap: .7rem; align-items: flex-start; }
+.deadline input[type=checkbox] { margin-top: .3rem; width: 18px; height: 18px; accent-color: var(--done); flex-shrink: 0; }
+.deadline.done { opacity: .55; }
+.deadline.done .d-title { text-decoration: line-through; }
+.deadline .d-title { font-weight: 600; }
+.deadline .d-meta { font-size: .82rem; color: var(--muted); margin-top: .15rem; }
+.deadline .d-notes { font-size: .82rem; margin-top: .35rem; color: var(--text); }
+.deadline .d-notes div { margin-top: .2rem; }
+.tag { font-size: .8rem; }
+
+.days-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px,1fr)); gap: .6rem; }
+.day-tile { display: block; background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: .7rem .8rem; text-decoration: none; color: var(--text); }
+.day-tile .dn { font-size: .75rem; color: var(--muted); }
+.day-tile .dt { font-size: .88rem; font-weight: 600; margin-top: .2rem; }
+.day-tile .dh { font-size: .75rem; color: var(--accent); margin-top: .3rem; }
+
+.hotel-card, .flight-card { font-size: .9rem; }
+.hotel-card b, .flight-card b { display:block; margin-bottom:.15rem; }
+
+.day-nav { display: flex; justify-content: space-between; gap: .5rem; margin: 1.2rem 0; }
+.day-nav a { flex: 1; text-align: center; padding: .6rem; border-radius: 10px; background: var(--card); border: 1px solid var(--border); text-decoration: none; color: var(--text); font-size: .85rem; }
+.day-nav a.disabled { opacity: .35; pointer-events: none; }
+
+.day-header h1 { margin: 0 0 .1rem; font-size: 1.3rem; }
+.day-header .wk { color: var(--muted); font-size: .95rem; }
+.day-hotel { display:inline-block; margin-top:.5rem; font-size:.85rem; background: var(--accent-soft); color: var(--accent); padding: .25rem .6rem; border-radius: 999px; }
+
+.callout { background: var(--accent-soft); border-radius: 10px; padding: .7rem .9rem; margin: .5rem 0; font-size: .88rem; }
+
+.timeline { list-style: none; padding: 0; margin: 1rem 0; }
+.timeline li { padding: .7rem 0; border-top: 1px solid var(--border); font-size: .93rem; }
+.timeline li:first-child { border-top: none; }
+.timeline .time { color: var(--accent); font-weight: 600; }
+
+.legenda { font-size: .82rem; color: var(--muted); }
+footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 2rem 1rem; }

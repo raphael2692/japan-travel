@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dettaglio giorno — Giappone</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <p><a href="index.html">← Panoramica viaggio</a></p>
+</header>
+<main>
+  <div class="day-header">
+    <div class="wk" id="d-weekday"></div>
+    <h1 id="d-title"></h1>
+    <span class="day-hotel" id="d-hotel"></span>
+  </div>
+
+  <div id="d-notes"></div>
+
+  <ul class="timeline" id="d-timeline"></ul>
+
+  <nav class="day-nav">
+    <a id="nav-prev" href="#">← giorno prec.</a>
+    <a id="nav-next" href="#">giorno succ. →</a>
+  </nav>
+</main>
+<script src="data.js"></script>
+<script src="app.js"></script>
+<script>renderGiorno();</script>
+</body>
+</html>

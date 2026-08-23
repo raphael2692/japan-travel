@@ -66,19 +66,19 @@ window.TRIP = {
     { data: "2026-11-18", giorno: "Mercoledì", titolo: "Partenza", hotel: null,
       items: [
         "**15:05** Volo ITA Airways AZ 792, Roma Fiumicino → Tokyo Haneda. 🎫",
-        "📌 Codici QR di *Visit Japan Web* già generati prima dell'imbarco. 🎫"
+        "Codici QR di *Visit Japan Web* già generati prima dell'imbarco. 🎫"
       ] },
 
     { data: "2026-11-19", giorno: "Giovedì", titolo: "Arrivo a Tokyo e primo assaggio", hotel: "Hotel Metropolitan Edmont",
       note: ["🍽️ ⚠️ Eccezione pranzo: l'atterraggio a mezzogiorno passato rende impossibile pranzare entro le 12:00 oggi."],
       items: [
         "**11:20 – 13:00** Arrivo a Haneda, immigrazione, dogana, eSIM/Pocket Wi-Fi, attivazione Suica. 🎫",
-        "**13:00 – 13:45** 🍜 Pranzo veloce: ramen o gyoza vicino a Haneda o stazione.",
+        "**13:00 – 13:45** Pranzo veloce: ramen o gyoza vicino a Haneda o stazione.",
         "**13:45 – 14:30** Trasferimento in hotel.",
         "**14:30 – 15:00** Check-in / deposito bagagli, Hotel Metropolitan Edmont, Iidabashi.",
         "**15:15 – 16:15** 🌟✅ Koishikawa Korakuen Gardens — primo foliage. ⚠️ Chiude 17:00, ultimo ingresso 16:30.",
         "**16:30 – 17:15** Riposo breve in hotel.",
-        "**17:30 – 19:30** 🍶 Cena: izakaya a Kagurazaka.",
+        "**17:30 – 19:30** Cena: izakaya a Kagurazaka.",
         "**19:45 – 21:00** ✅ Passeggiata serale nei vicoli di Kagurazaka."
       ] },
 
@@ -93,7 +93,7 @@ window.TRIP = {
         "**09:15 – 09:35** Fujikyu Railway fino a Shimoyoshida.",
         "**09:45 – 11:15** 🌟🌤️✅ Chureito Pagoda — vista iconica del Fuji, 400 gradini. Mattina = miglior visibilità.",
         "**11:15 – 11:35** Rientro in treno a Kawaguchiko.",
-        "**11:45 – 12:45** 🍲 Pranzo: Houtou Fudo, noodles in brodo di miso.",
+        "**11:45 – 12:45** Pranzo: Houtou Fudo, noodles in brodo di miso.",
         "**13:00 – 14:15** 🔄🌤️✅ Mt. Fuji Panoramic Ropeway sul lago.",
         "**14:30 – 16:15** 🌟✅ Momiji Kairo — corridoio di aceri illuminato al tramonto, sponda nord. ⚠️ Festival di solito fino al 23/11 circa.",
         "**16:45 – 19:00** Rientro a Tokyo."
@@ -104,11 +104,11 @@ window.TRIP = {
       items: [
         "**08:30 – 10:00** 🌟✅ Senso-ji, Asakusa, e Nakamise-dori.",
         "**10:15 – 11:15** 🔄✅ Kappabashi Kitchen Town — utensili e sampuru. ⚠️ Molti negozi chiusi la domenica.",
-        "**11:30 – 12:30** 🍣 Pranzo: unagi da Unagi Maekawa o tempura ad Asakusa.",
+        "**11:30 – 12:30** Pranzo: unagi da Unagi Maekawa o tempura ad Asakusa.",
         "**13:00 – 14:15** 🔄✅ Crociera sul Sumida verso Hamarikyu (o solo giardini, chiude 17:00).",
         "**14:30 – 16:15** 🌟✅ Yanaka Ginza, quartiere nostalgico.",
         "**16:30 – 17:30** 🌟✅ Yanaka Ginza al tramonto.",
-        "**17:45 – 19:45** 🍢 Cena: izakaya tradizionale tra Yanaka e Ueno."
+        "**17:45 – 19:45** Cena: izakaya tradizionale tra Yanaka e Ueno."
       ] },
 
     { data: "2026-11-22", giorno: "Domenica", titolo: "Harajuku, Shimokitazawa e Shibuya", hotel: "Hotel Metropolitan Edmont",
@@ -116,12 +116,12 @@ window.TRIP = {
       items: [
         "**08:00 – 09:30** 🌟✅ Meiji Jingu — santuario nel bosco urbano, tranquillo la domenica presto.",
         "**09:45 – 11:00** ✅ Harajuku e Takeshita Street.",
-        "**11:00 – 11:45** 🥞 Pranzo: crepes/street food ad Harajuku.",
+        "**11:00 – 11:45** Pranzo: crepes/street food ad Harajuku.",
         "**12:00 – 13:30** 🔄✅ Shimokitazawa (vintage) o, in alternativa, Nezu Museum.",
         "**13:45 – 15:15** Tempo libero prima di Shibuya Sky.",
         "**15:40 – 18:30** 🌟🎫 Shibuya Sky — non sacrificabile, slot già pagato. ⚠️ ingresso 15:40 o 16:00, tramonto 16:30, no limite permanenza.",
         "**18:30 – 19:15** ✅ Shibuya Crossing e Hachiko (versione breve).",
-        "**19:15 – 21:15** 🥩 Cena: yakiniku o tonkatsu a Shibuya."
+        "**19:15 – 21:15** Cena: yakiniku o tonkatsu a Shibuya."
       ] },
 
     { data: "2026-11-23", giorno: "Lunedì", titolo: "Festa nazionale: Shinjuku Gyoen e Nakameguro", hotel: "Hotel Metropolitan Edmont",
@@ -131,14 +131,14 @@ window.TRIP = {
       ],
       items: [
         "**08:30 – 11:00** 🌟✅ Shinjuku Gyoen National Garden — entrata all'apertura.",
-        "**11:30 – 13:30** 🍜 Pranzo: AFURI Nakameguro (yuzu shio ramen) + Starbucks Reserve Roastery.",
+        "**11:30 – 13:30** Pranzo: AFURI Nakameguro (yuzu shio ramen) + Starbucks Reserve Roastery.",
         "**14:00 – 16:00** 🔄✅ Daikanyama e Nakameguro, Tsutaya Books.",
         "**16:15 – 17:00** Buffer verso Yurakucho-Ginza.",
-        "**17:15 – 19:15** 🥩 Cena: yakiniku/izakaya a Omoide Yokocho, Shinjuku (prenotare, è festivo).",
+        "**17:15 – 19:15** Cena: yakiniku/izakaya a Omoide Yokocho, Shinjuku (prenotare, è festivo).",
         "**19:30 – 21:00** ✅ Ebisu Garden Place — luminarie, lampadario Baccarat, Sky Lounge gratuita al 38° piano."
       ] },
 
-    { data: "2026-11-24", giorno: "Martedì", titolo: "Trasferimento a Kanazawa, modalità leggera", emoji: "🎒🌤️", hotel: "Lian Kanazawa",
+    { data: "2026-11-24", giorno: "Martedì", titolo: "Trasferimento a Kanazawa, modalità leggera", emoji: "🌤️", hotel: "Lian Kanazawa",
       items: [
         "**07:30 – 10:00** 🎫🌤️ Hokuriku Shinkansen Tokyo→Kanazawa (~2h30, Kagayaki). Posti lato sinistro per le Alpi. Solo bagaglio a mano.",
         "**10:00 – 10:45** Deposito bagagli al Lian Kanazawa.",
@@ -146,7 +146,7 @@ window.TRIP = {
         "**13:00 – 14:00** ✅ Castello di Kanazawa e parco.",
         "**14:00 – 15:15** 🌟✅ Seisonkaku Villa — residenza Edo 1863. ⚠️ ultimo ingresso 16:30, chiusa il mercoledì. Vietato fotografare interno.",
         "**15:15 – 16:45** 🌟✅ Kenrokuen Garden — yukitsuri già installati. 💡 ingresso libero primissime ore del mattino.",
-        "**17:00 – 19:00** 🥢 Cena: cucina Kaga Ryori.",
+        "**17:00 – 19:00** Cena: cucina Kaga Ryori.",
         "**19:15 – 20:30** ✅ Higashi Chaya e Kazuemachi, quartieri geisha illuminati.",
         "💡 Verificate se attiva l'illuminazione serale gratuita del Kenrokuen."
       ] },
@@ -155,11 +155,11 @@ window.TRIP = {
       items: [
         "**09:00 – 10:45** 🌟✅ Nagamachi, quartiere samurai, e Nomura Family Samurai House.",
         "**10:45 – 11:15** 🔄✅ Oyama Shrine, portale a vetrate colorate.",
-        "**11:30 – 12:30** 🍛 Pranzo: Kanazawa curry o soba locale.",
+        "**11:30 – 12:30** Pranzo: Kanazawa curry o soba locale.",
         "**13:30 – 14:45** 🌟🎫 Myoryu-ji, Ninja-dera — solo su prenotazione, visita guidata a orario fisso.",
         "**14:45 – 15:30** ✅ Teramachi e Nishi Chaya.",
         "**15:45 – 16:45** 🔄✅ Kutani-yaki Kosen Kiln o Kaga Yuzen Center. ⚠️ verificare chiusure.",
-        "**17:00 – 19:00** 🍶 Cena centro Kanazawa.",
+        "**17:00 – 19:00** Cena centro Kanazawa.",
         "**19:15 – 20:45** 🔄✅ Onsen/sento locale o riposo — prima finestra onsen del viaggio."
       ] },
 
@@ -167,22 +167,22 @@ window.TRIP = {
       items: [
         "**07:30 – 09:50** ✅ Hokuriku Shinkansen fino a Tsuruga, cambio, Thunderbird per Kyoto (~2h10 tot).",
         "**10:00 – 11:00** Check-in KABIN Kyoto, ritiro valigie takkyubin.",
-        "**11:30 – 13:30** 🍢 Pranzo: Nishiki Market.",
+        "**11:30 – 13:30** Pranzo: Nishiki Market.",
         "**14:00 – 16:00** 🌟✅ Maruyama Park e Yasaka Shrine.",
         "**16:15 – 17:30** 🌟✅ Gion e Hanamikoji Street al tramonto. ⚠️ vietato fotografare nelle stradine private.",
         "**17:45 – 20:15** 🌟🎫 Cena: THE KAISEKI — non sacrificabile, turno 17:45."
       ] },
 
-    { data: "2026-11-27", giorno: "Venerdì", titolo: "Picco foliage: Fushimi Inari all'alba, Tofuku-ji e Uji", emoji: "🍁", hotel: "KABIN Kyoto",
+    { data: "2026-11-27", giorno: "Venerdì", titolo: "Picco foliage: Fushimi Inari all'alba, Tofuku-ji e Uji", hotel: "KABIN Kyoto",
       note: ["🔄 Alternativa relax: tutte le voci sono ✅. Se preferite dormire, spostate Fushimi Inari più tardi o saltate Uji."],
       items: [
         "**06:30 – 09:00** 🌟✅ Fushimi Inari Taisha all'alba, silenzio prima dei bus. 💡 salite fino al belvedere Yotsutsuji.",
         "**09:15 – 11:00** 🌟✅ Tofuku-ji, ponte Tsutenkyo nel rosso. ⚠️ divieto foto dal ponte in alta stagione, verificare ingressi anticipati a pagamento.",
         "**11:15 – 11:35** Treno per Uji (~20 min).",
-        "**11:45 – 12:45** 🍵 Pranzo: soba al tè matcha a Uji.",
+        "**11:45 – 12:45** Pranzo: soba al tè matcha a Uji.",
         "**13:00 – 15:15** 🔄✅ Byodo-in e degustazione matcha — sacrificabile se stanchi.",
         "**15:30 – 16:30** Rientro a Kyoto.",
-        "**17:00 – 19:00** 🥩 Cena tipica a Kyoto."
+        "**17:00 – 19:00** Cena tipica a Kyoto."
       ] },
 
     { data: "2026-11-28", giorno: "Sabato", titolo: "Lago Biwa o Kyoto Est, e foliage serale a Eikando", hotel: "KABIN Kyoto",
@@ -193,27 +193,27 @@ window.TRIP = {
       items: [
         "**Opzione A — Monte Hiei:**",
         "**08:00 – 13:00** 🔄✅ Enryaku-ji e vista sul Lago Biwa.",
-        "**13:00 – 14:00** 🍱 Pranzo in zona o a Otsu.",
+        "**13:00 – 14:00** Pranzo in zona o a Otsu.",
         "**14:00 – 15:00** Rientro a Kyoto.",
         "**Opzione B — alternativa (consigliata se stanchi/piove), classici Kyoto nord-est:**",
         "**09:00 – 10:15** ✅ Nanzen-ji e acquedotto in mattoni rossi.",
         "**10:30 – 11:30** ✅ Sentiero della Filosofia.",
-        "**11:45 – 12:45** 🍱 Pranzo lungo il sentiero.",
+        "**11:45 – 12:45** Pranzo lungo il sentiero.",
         "**13:00 – 14:30** ✅ Ginkaku-ji, Padiglione d'Argento.",
         "**14:45 – 16:00** Pausa o rientro lento verso Eikando.",
         "**Serata, comune a entrambe:**",
         "**17:00 – 18:45** 🌟✅ Eikando Zenrinji illuminato. ⚠️ biglietto serale separato, presentatevi alle 17:00 (non 16:30 né 18:00).",
-        "**19:00 – 21:00** 🏮 Cena: Pontocho Alley."
+        "**19:00 – 21:00** Cena: Pontocho Alley."
       ] },
 
     { data: "2026-11-29", giorno: "Domenica", titolo: "Kurama, Kibune e tunnel di aceri", hotel: "KABIN Kyoto",
       items: [
         "**08:00 – 10:30** 🌟✅ Eizan Railway verso Kurama e Kurama-dera.",
         "**10:30 – 11:45** 🔄✅ Trekking leggero fino a Kibune e santuario Kifune. ⚠️ verificare sentiero aperto.",
-        "**11:45 – 12:45** 🍲 Pranzo: nabe/zuppa calda sul fiume a Kibune.",
+        "**11:45 – 12:45** Pranzo: nabe/zuppa calda sul fiume a Kibune.",
         "**13:00 – 14:30** Tempo libero a Kibune.",
         "**15:00 – 16:30** 🌟✅ Rientro col trenino Kirara attraverso il Momiji-no-Tunnel. ⚠️ fine novembre tardino, picco a metà mese.",
-        "**17:00 – 19:00** 🥢 Cena: izakaya o ramen a Kyoto.",
+        "**17:00 – 19:00** Cena: izakaya o ramen a Kyoto.",
         "**19:15 – 20:15** ✅ Relax in centro Kyoto."
       ] },
 
@@ -221,10 +221,10 @@ window.TRIP = {
       items: [
         "**07:00 – 09:00** 🌟✅ Kiyomizu-dera (apre 06:00) — terrazza quasi vuota alle 07:00.",
         "**09:15 – 11:00** 🌟✅ Ninenzaka e Sannenzaka, semideserte prima delle 10:30.",
-        "**11:15 – 12:15** 🍡 Pranzo: casa da tè tradizionale.",
+        "**11:15 – 12:15** Pranzo: casa da tè tradizionale.",
         "**12:30 – 14:00** 🔄✅ Hokan-ji, Pagoda di Yasaka.",
         "**14:00 – 16:00** 🔄✅ Riposo in hotel o onsen/sento — seconda finestra onsen del viaggio.",
-        "**16:30 – 18:15** 🥟 Cena: gyoza o obanzai.",
+        "**16:30 – 18:15** Cena: gyoza o obanzai.",
         "**18:30 – 20:00** 🌟✅ Kodai-ji Illuminations — bambù e aceri riflessi. ⚠️ verificare illuminazione ancora attiva."
       ] },
 
@@ -233,24 +233,24 @@ window.TRIP = {
       items: [
         "**07:50 – 08:35** ✅ Limited express Kintetsu o JR, Kyoto→Nara.",
         "**09:00 – 11:45** 🌟✅ Nara Park coi cervi, Todai-ji, Kasuga Taisha.",
-        "**11:45 – 12:45** 🍣 Pranzo: kaki-no-ha sushi o udon a Naramachi.",
+        "**11:45 – 12:45** Pranzo: kaki-no-ha sushi o udon a Naramachi.",
         "**13:00 – 14:30** 🔄✅ Naramachi, quartiere storico.",
         "**14:45 – 15:45** Tempo libero prima dell'Aoniyoshi.",
         "**15:55 – 16:30** 🌟🎫 AONIYOSHI, Kintetsu Nara→Kyoto — non sacrificabile, posto già pagato. Carrozze 1 o 4.",
-        "**17:00 – 19:00** 🍱 Cena a Kyoto."
+        "**17:00 – 19:00** Cena a Kyoto."
       ] },
 
-    { data: "2026-12-02", giorno: "Mercoledì", titolo: "Arashiyama all'alba: bambù, scimmie, giardini zen e Padiglione d'Oro", emoji: "🐒✨", hotel: "KABIN Kyoto",
+    { data: "2026-12-02", giorno: "Mercoledì", titolo: "Arashiyama all'alba: bambù, scimmie, giardini zen e Padiglione d'Oro", hotel: "KABIN Kyoto",
       note: ["🔄 Alternativa relax: ultima alba del viaggio, il pomeriggio è la parte più sacrificabile."],
       items: [
         "**07:15 – 08:20** 🌟✅ Arashiyama Bamboo Grove prima della folla.",
         "**08:30 – 09:45** 🌟✅ Tenryu-ji, giardino zen di Muso Soseki. ⚠️ apre 08:30 in punto.",
-        "**10:00 – 11:15** 🍱 Pranzo: Bread, Espresso & Arashiyama Garden.",
+        "**10:00 – 11:15** Pranzo: Bread, Espresso & Arashiyama Garden.",
         "**11:30 – 13:15** 🔄✅ Scegliete: (a) 🌟 Kinkaku-ji e Ryoan-ji (~20-25min bus), oppure (b) Gio-ji e Otagi Nenbutsu-ji (più intime, ~2km tra loro).",
-        "**13:30 – 14:00** ☕ Pausa caffè lungo il fiume.",
-        "**14:30 – 15:45** 🔄🐒✅ Arashiyama Monkey Park Iwatayama. ⚠️ in inverno chiude presto, salire entro le 14:45.",
+        "**13:30 – 14:00** Pausa caffè lungo il fiume.",
+        "**14:30 – 15:45** 🔄✅ Arashiyama Monkey Park Iwatayama. ⚠️ in inverno chiude presto, salire entro le 14:45.",
         "**16:00 – 17:15** ✅ Ponte Togetsukyo al tramonto.",
-        "**17:30 – 19:30** 🥢 Cena: okonomiyaki o ramen."
+        "**17:30 – 19:30** Cena: okonomiyaki o ramen."
       ] },
 
     { data: "2026-12-03", giorno: "Giovedì", titolo: "Himeji, wagyu A5 e spedizione bagagli per Tokyo", hotel: "KABIN Kyoto",
@@ -258,30 +258,30 @@ window.TRIP = {
       items: [
         "**08:30 – 09:30** ✅ Shinkansen Kyoto→Himeji (~50min, Hikari).",
         "**09:45 – 11:45** 🌟✅ Castello di Himeji. 💡 scale ripide, si entra scalzi, scarpe comode.",
-        "**11:45 – 12:45** 🍱 Pranzo: anago o soba a Himeji.",
+        "**11:45 – 12:45** Pranzo: anago o soba a Himeji.",
         "**13:00 – 14:00** 🌟✅ Giardini Koko-en.",
         "**14:15 – 15:45** Rientro in Shinkansen a Kyoto.",
         "**16:00 – 17:30** Pomeriggio libero.",
         "**17:45 – 20:15** 🌟🎫 Cena culmine: Mishima-tei, sukiyaki/teppanyaki wagyu A5 — non sacrificabile, turno 17:45-18:00."
       ] },
 
-    { data: "2026-12-04", giorno: "Venerdì", titolo: "Trasferimento a Osaka, modalità leggera", emoji: "🎒", hotel: "Aloft by Marriott Osaka Dojima",
+    { data: "2026-12-04", giorno: "Venerdì", titolo: "Trasferimento a Osaka, modalità leggera", hotel: "Aloft by Marriott Osaka Dojima",
       note: ["🍽️ ⚠️ teamLab richiede il buio, apre 17:30: cena a Dotonbori necessariamente dopo le 19:15."],
       items: [
         "**08:30 – 09:30** ✅ JR Special Rapid Kyoto→Osaka (~30min). Deposito bagagli Aloft Dojima.",
         "**10:15 – 11:45** 🌟✅ Kuromon Market e Shinsekai con Tsutenkaku Tower.",
-        "**11:45 – 12:45** 🍢 Pranzo: kushikatsu a Shinsekai. 💡 non si intinge due volte.",
+        "**11:45 – 12:45** Pranzo: kushikatsu a Shinsekai. 💡 non si intinge due volte.",
         "**13:00 – 15:15** 🔄 Osaka Aquarium Kaiyukan — sacrificabile, non comprare biglietto in anticipo se in dubbio.",
         "**15:15 – 16:10** Trasferimento Osakako→Nagai (~50min con cambio a Hommachi).",
         "**17:30 – 19:15** 🌟🎫 teamLab Botanical Garden — non sacrificabile. ⚠️ esperienza all'aperto e al freddo.",
-        "**19:30 – 22:00** 🐙 Dotonbori: neon, Glico Man, takoyaki, okonomiyaki."
+        "**19:30 – 22:00** Dotonbori: neon, Glico Man, takoyaki, okonomiyaki."
       ] },
 
     { data: "2026-12-05", giorno: "Sabato", titolo: "Ritorno a Tokyo e riunione bagagli", emoji: "🌤️", hotel: "Shiba Park Hotel",
       items: [
         "**08:30 – 11:00** 🎫🌤️ Shinkansen Tokaido Shin-Osaka→Tokyo (~2h30, Nozomi). Posti D o E per il Fuji, visibile ~40min dopo Nagoya.",
         "**11:00 – 11:40** Arrivo Shiba Park Hotel, ritiro valigie takkyubin. ⚠️ check-in vero dalle 15:00, chiedere early check-in.",
-        "**11:45 – 12:45** 🍣 Pranzo: Tokyo Ramen Street o sushi a Ginza.",
+        "**11:45 – 12:45** Pranzo: Tokyo Ramen Street o sushi a Ginza.",
         "**13:00 – 15:00** 🔄✅ Tokyo Tower e Zojo-ji, dietro l'hotel.",
         "**15:15 – 17:15** 🌟✅ Odaiba: baia di Tokyo, Statua della Libertà, Gundam.",
         "**17:30 – 19:30** 🌟🎫 Cena: ristorante panoramico con vista Rainbow Bridge — turno 17:30."
@@ -291,10 +291,10 @@ window.TRIP = {
       note: ["💡 Regola di scambio: se i ginkgo del Gaien sono già al picco stamattina, scambiate questa mattinata con quella dell'8/12."],
       items: [
         "**09:30 – 11:30** 🌟✅ Akihabara. 💡 la domenica Chuo-dori diventa isola pedonale nel pomeriggio.",
-        "**11:45 – 12:45** 🍛 Pranzo: katsu curry ad Akihabara.",
+        "**11:45 – 12:45** Pranzo: katsu curry ad Akihabara.",
         "**13:00 – 14:30** 🔄✅ Marunouchi e Stazione di Tokyo.",
         "**14:45 – 16:00** 🌟✅ Ginza con luminarie.",
-        "**16:00 – 17:30** 🍻 Cena: izakaya a Yurakucho o vicino Komagome.",
+        "**16:00 – 17:30** Cena: izakaya a Yurakucho o vicino Komagome.",
         "**17:30 – 18:00** Trasferimento a Komagome (~25min).",
         "**18:00 – 19:30** 🌟🎫 Illuminazione notturna del Rikugien. ⚠️ biglietto a numero chiuso, comprare online in anticipo."
       ] },
@@ -303,17 +303,17 @@ window.TRIP = {
       items: [
         "**08:00 – 09:15** ✅ Treno Tokyo→Kamakura (~1h, linea Yokosuka).",
         "**09:30 – 11:45** 🌟✅ Kotoku-in (Grande Buddha) e Hase-dera coi giardini a terrazze.",
-        "**11:45 – 12:45** 🐟 Pranzo: shirasu-don.",
+        "**11:45 – 12:45** Pranzo: shirasu-don.",
         "**13:00 – 15:45** 🔄✅ Trenino Enoden fino a Enoshima, vista Fuji al tramonto dal ponte — sacrificabile.",
         "**16:00 – 17:15** Rientro a Tokyo.",
-        "**17:30 – 19:30** 🥢 Cena a Tokyo."
+        "**17:30 – 19:30** Cena a Tokyo."
       ] },
 
     { data: "2026-12-08", giorno: "Martedì", titolo: "Ginkgo, Palazzo Imperiale e Roppongi", hotel: "Shiba Park Hotel",
       note: ["⚠️ Picco ginkgo Meiji Jingu Gaien di solito metà nov-primi dic: se il 6/12 già al massimo, scambiare le due mattinate."],
       items: [
         "**09:30 – 11:00** 🌟✅ Meiji Jingu Gaien, viale dei ginkgo.",
-        "**11:15 – 12:00** 🍝 Pranzo: bistrot ad Aoyama.",
+        "**11:15 – 12:00** Pranzo: bistrot ad Aoyama.",
         "**12:15 – 13:15** 🔄✅ Chidorigafuchi e fossati del Palazzo Imperiale.",
         "**13:30 – 15:00** ✅ Aoyama e Omotesando.",
         "**15:15 – 17:15** 🌟✅ Roppongi Hills: Tokyo City View e mercatini natalizi.",
@@ -326,7 +326,7 @@ window.TRIP = {
         "**08:30 – 09:30** Check-out e colazione.",
         "**09:30 – 10:15** Trasferimento a Haneda (taxi ~25-30min o Monorail da Hamamatsucho).",
         "**10:15 – 13:20** Imbarco e ultimi acquisti. 💡 Terminal 3 ha zona artigianato in stile Edo.",
-        "**13:20 – 20:25** 🛫 Volo ITA Airways AZ 793 per Roma Fiumicino. 🎫"
+        "**13:20 – 20:25** Volo ITA Airways AZ 793 per Roma Fiumicino. 🎫"
       ] }
   ]
 };

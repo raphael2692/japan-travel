@@ -303,7 +303,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 ## Mercoledì 18 novembre -- Partenza
 
 - **15:05** Volo ITA Airways AZ 792, Roma Fiumicino -> Tokyo Haneda. 🎫
-- 📌 Codici QR di *Visit Japan Web* già generati **prima dell'imbarco**. 🎫
+- Codici QR di *Visit Japan Web* già generati **prima dell'imbarco**. 🎫
 
 ---
 
@@ -314,12 +314,12 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 > 🍽️ ⚠️ **Eccezione pranzo:** il volo atterra a mezzogiorno passato e l'immigrazione richiede tempo, quindi oggi è impossibile pranzare entro le 12:00. È il pranzo più anticipato possibile data la logistica dell'arrivo.
 
 - **11:20 -- 13:00** Arrivo a Haneda, immigrazione e dogana, ritiro eSIM o Pocket Wi-Fi, attivazione Suica. 🎫 *(orario fisso, dipende dal volo)*
-- **13:00 -- 13:45** 🍜 *Pranzo veloce (eccezione):* ramen o gyoza vicino a Haneda o alla stazione, appena finita l'immigrazione.
+- **13:00 -- 13:45** *Pranzo veloce (eccezione):* ramen o gyoza vicino a Haneda o alla stazione, appena finita l'immigrazione.
 - **13:45 -- 14:30** Trasferimento in hotel.
 - **14:30 -- 15:00** Check-in o deposito bagagli all'**Hotel Metropolitan Edmont**, Iidabashi.
 - **15:15 -- 16:15** 🌟✅ **Koishikawa Korakuen Gardens:** primo assaggio di foliage a due passi dall'hotel, perfetto per stare all'aria aperta e resettare il fuso. ⚠️ **Chiude alle 17:00, ultimo ingresso alle 16:30**: con questo orario avete ampio margine.
 - **16:30 -- 17:15** Riposo breve in hotel, utile col jet-lag prima di cena.
-- **17:30 -- 19:30** 🍶 *Cena:* izakaya a Kagurazaka. Ingresso alle 17:30, dentro la finestra.
+- **17:30 -- 19:30** *Cena:* izakaya a Kagurazaka. Ingresso alle 17:30, dentro la finestra.
 - **19:45 -- 21:00** ✅ Passeggiata al buio tra i vicoli in salita di **Kagurazaka**, il quartiere più francese di Tokyo -- ora ancora più suggestiva, col buio pieno e meno gente. Poi a letto presto, domani si parte alle 07:00.
 - 🏨 **Hotel Metropolitan Edmont**
 
@@ -337,7 +337,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 - **09:15 -- 09:35** Fujikyu Railway fino a **Shimoyoshida**.
 - **09:45 -- 11:15** 🌟🌤️✅ **Chureito Pagoda:** la vista iconica del Fuji incorniciato dalla pagoda. Ingresso libero, ma preparatevi ai 400 gradini. Il mattino è statisticamente il momento migliore per la visibilità della vetta.
 - **11:15 -- 11:35** Rientro in treno a Kawaguchiko.
-- **11:45 -- 12:45** 🍲 *Pranzo (ingresso 11:45):* **Houtou Fudo**, noodles spessi in brodo di miso serviti bollenti nei tegami di ghisa. Perfetti col freddo.
+- **11:45 -- 12:45** *Pranzo (ingresso 11:45):* **Houtou Fudo**, noodles spessi in brodo di miso serviti bollenti nei tegami di ghisa. Perfetti col freddo.
 - **13:00 -- 14:15** 🔄🌤️✅ **Mt. Fuji Panoramic Ropeway:** funivia sul lago. Sacrificabile se il cielo è coperto o se siete indietro coi tempi. Biglietto in loco.
 - **14:30 -- 16:15** 🌟✅ **Momiji Kairo, il corridoio degli aceri del Lago Kawaguchi:** tunnel di aceri rossi illuminato al tramonto, sulla sponda nord. Ci si arriva col bus della linea rossa. Ingresso libero. ⚠️ Il festival dura di solito **fino al 23 novembre circa**: siete dentro, ma verificate le date.
 - **16:45 -- 19:00** Rientro a Tokyo.
@@ -351,11 +351,11 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 - **08:30 -- 10:00** 🌟✅ **Senso-ji**, Asakusa, e le bancarelle di Nakamise-dori. Ingresso libero.
 - **10:15 -- 11:15** 🔄✅ **Kappabashi Kitchen Town:** il quartiere degli utensili da cucina e dei modelli di cibo in cera, i *sampuru*. Sacrificabile. ⚠️ Molti negozi chiudono la domenica e alcuni anche il sabato pomeriggio: per questo lo mettiamo subito dopo Senso-ji.
-- **11:30 -- 12:30** 🍣 *Pranzo (ingresso 11:30):* unagi da *Unagi Maekawa* oppure tempura ad Asakusa.
+- **11:30 -- 12:30** *Pranzo (ingresso 11:30):* unagi da *Unagi Maekawa* oppure tempura ad Asakusa.
 - **13:00 -- 14:15** 🔄✅ Crociera sul fiume Sumida verso Hamarikyu. Alternativa: relax nei giardini di Hamarikyu senza crociera. ⚠️ Hamarikyu chiude alle 17:00.
 - **14:30 -- 16:15** 🌟✅ **Yanaka Ginza:** quartiere nostalgico, con la luce del tardo pomeriggio.
 - **16:30 -- 17:30** 🌟✅ **Yanaka Ginza al tramonto** *(continua/rifinisce la visita col tramonto verso le 16:30, il momento più bello)*.
-- **17:45 -- 19:45** 🍢 *Cena (ingresso 17:45):* izakaya tradizionale tra Yanaka e Ueno.
+- **17:45 -- 19:45** *Cena (ingresso 17:45):* izakaya tradizionale tra Yanaka e Ueno.
 - 🏨 **Hotel Metropolitan Edmont**
 
 ---
@@ -366,12 +366,12 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 - **08:00 -- 09:30** 🌟✅ **Meiji Jingu:** grande santuario shintoista nel bosco urbano. Ingresso libero. La domenica mattina presto è l'unico modo per averlo tranquillo, e con un po' di fortuna vedete un matrimonio shintoista.
 - **09:45 -- 11:00** ✅ **Harajuku** e Takeshita Street.
-- **11:00 -- 11:45** 🥞 *Pranzo (ingresso 11:00):* crepes, street food o caffè ad Harajuku.
+- **11:00 -- 11:45** *Pranzo (ingresso 11:00):* crepes, street food o caffè ad Harajuku.
 - **12:00 -- 13:30** 🔄✅ **Shimokitazawa:** quartiere vintage, dischi e boutique indie. Sacrificabile. Alternativa: **Nezu Museum**, giardino e arte, aperto la domenica.
 - **13:45 -- 15:15** Tempo libero / relax prima di Shibuya Sky.
 - **15:40 -- 18:30** 🌟🎫 **Shibuya Sky:** osservatorio all'aperto. ⚠️ **Slot da prenotare: ingresso 15:40 o 16:00**, non 16:30. Il tramonto è alle 16:30 e non c'è limite di permanenza, quindi entrate prima, prendete posizione sull'angolo sud-ovest e restate fino al buio. **Non sacrificabile, slot già pagato.**
 - **18:30 -- 19:15** ✅ Shibuya Crossing e statua di Hachiko (versione breve, per lasciare spazio alla cena).
-- **19:15 -- 21:15** 🥩 *Cena (eccezione, ingresso 19:15 per via di Shibuya Sky):* yakiniku o tonkatsu a Shibuya.
+- **19:15 -- 21:15** *Cena (eccezione, ingresso 19:15 per via di Shibuya Sky):* yakiniku o tonkatsu a Shibuya.
 - 🏨 **Hotel Metropolitan Edmont**
 
 ---
@@ -381,16 +381,16 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 - 🚨 **Spedizione bagagli, prima tappa:** entro le **07:45** consegnate le valigie grandi alla reception per la spedizione a **KABIN Kyoto**. ⚠️ Verificare in anticipo che il servizio operi nel giorno festivo.
 - ⚠️ **Nota su Shinjuku Gyoen:** normalmente è **chiuso il lunedì**. Poiché il 23/11 è festivo, apre e sposta la chiusura al giorno seguente. È un margine sottile e vale la pena **confermarlo sul sito ufficiale la settimana prima**.
 - **08:30 -- 11:00** 🌟✅ **Shinjuku Gyoen National Garden:** entrate all'apertura per anticipare la folla del giorno festivo. Biglietto in loco.
-- **11:30 -- 13:30** 🍜 *Pranzo e caffè (ingresso 11:30, già entro la finestra):* *AFURI Nakameguro*, yuzu shio ramen, e caffè allo *Starbucks Reserve Roastery*.
+- **11:30 -- 13:30** *Pranzo e caffè (ingresso 11:30, già entro la finestra):* *AFURI Nakameguro*, yuzu shio ramen, e caffè allo *Starbucks Reserve Roastery*.
 - **14:00 -- 16:00** 🔄✅ Passeggiata tra Daikanyama e Nakameguro, boutique di design e Tsutaya Books. Sacrificabile.
 - **16:15 -- 17:15** 🌟✅ **Tokyo Metropolitan Government Office**, Nishi-Shinjuku: osservatorio gratuito, nessuna prenotazione. Il tramonto è verso le 16:30 e nei giorni tersi si vede anche il Fuji. Trasferimento da Nakameguro incluso nel tempo.
-- **17:30 -- 19:30** 🥩 *Cena (ingresso 17:30, dentro la finestra; è festivo, prenotate):* yakiniku o izakaya a Omoide Yokocho, Shinjuku.
+- **17:30 -- 19:30** *Cena (ingresso 17:30, dentro la finestra; è festivo, prenotate):* yakiniku o izakaya a Omoide Yokocho, Shinjuku.
 - **19:45 -- 21:00** ✅ **Ebisu Garden Place:** luminarie invernali, il grande lampadario Baccarat e la Sky Lounge gratuita al 38° piano -- ora dopo cena, col buio pieno è ancora più bello. ⚠️ È un rientro verso sud rispetto a Shinjuku: se siete stanchi, sacrificabile.
 - 🏨 **Hotel Metropolitan Edmont**
 
 ---
 
-## Martedì 24 novembre -- Trasferimento a Kanazawa, in modalità leggera 🎒 🌤️
+## Martedì 24 novembre -- Trasferimento a Kanazawa, in modalità leggera 🌤️
 
 > ✏️ *Giornata riorganizzata: la Seisonkaku Villa si è spostata qui dal 25, perché il mercoledì è chiusa. Sta dentro il Kenrokuen, quindi si incastra senza costi di spostamento.*
 
@@ -414,11 +414,11 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 - **09:00 -- 10:45** 🌟✅ **Nagamachi:** il quartiere dei samurai, con i muri di terra battuta e i canali, e la **Nomura Family Samurai House** col suo giardino interno. Biglietto in loco.
 - **10:45 -- 11:15** 🔄✅ **Oyama Shrine:** santuario col portale a vetrate colorate, insolito e un po' fuori scala. Sacrificabile. Ingresso libero.
-- **11:30 -- 12:30** 🍛 *Pranzo (ingresso 11:30):* Kanazawa curry, denso e scuro, oppure soba locale.
+- **11:30 -- 12:30** *Pranzo (ingresso 11:30):* Kanazawa curry, denso e scuro, oppure soba locale.
 - **13:30 -- 14:45** 🌟🎫 **Myoryu-ji, Ninja-dera:** tempio-fortezza del periodo Edo con porte nascoste, scale segrete, trabocchetti e ventinove scale in un edificio che dall'esterno sembra a due piani. ⚠️ **Solo su prenotazione**, visita guidata a orario fisso in giapponese con libretto in inglese. Non si entra senza aver prenotato.
 - **14:45 -- 15:30** ✅ **Teramachi** e **Nishi Chaya**, il quartiere dei templi e il più piccolo dei tre distretti delle geisha, appena dietro il Ninja-dera.
 - **15:45 -- 16:45** 🔄✅ **Kutani-yaki Kosen Kiln** oppure **Kaga Yuzen Traditional Industry Center:** ceramica Kutani o seta dipinta a mano. Sacrificabile. ⚠️ Verificate i giorni di chiusura, che variano.
-- **17:00 -- 19:00** 🍶 *Cena (ingresso 17:00):* ristorante nel centro di Kanazawa.
+- **17:00 -- 19:00** *Cena (ingresso 17:00):* ristorante nel centro di Kanazawa.
 - **19:15 -- 20:45** 🔄✅ **Onsen o sento locale**, oppure semplice riposo in hotel -- spostato dopo cena. 💡 Questa è la prima delle due finestre onsen del viaggio: sarebbe un peccato fare tre settimane in Giappone in viaggio di nozze senza mai entrare in un bagno termale.
 - 🏨 **Lian Kanazawa**
 
@@ -428,7 +428,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 - **07:30 -- 09:50** ✅ Hokuriku Shinkansen fino a **Tsuruga**, cambio, poi limited express **Thunderbird** per Kyoto. Circa 2 ore e 10 in totale, con un cambio comodo sulla stessa banchina a Tsuruga.
 - **10:00 -- 11:00** Check-in al **KABIN Kyoto**, Shimogyo Ward, e **ritiro delle valigie grandi** arrivate col takkyubin.
-- **11:30 -- 13:30** 🍢 *Pranzo (ingresso 11:30):* **Nishiki Market**, il mercato coperto lungo cinque isolati. ⚠️ Alcuni banchi chiudono il mercoledì, ma oggi è giovedì.
+- **11:30 -- 13:30** *Pranzo (ingresso 11:30):* **Nishiki Market**, il mercato coperto lungo cinque isolati. ⚠️ Alcuni banchi chiudono il mercoledì, ma oggi è giovedì.
 - **14:00 -- 16:00** 🌟✅ **Maruyama Park** e **Yasaka Shrine**. Ingresso libero.
 - **16:15 -- 17:30** 🌟✅ **Gion** e **Hanamikoji Street** al tramonto. Il tramonto a Kyoto è verso le 16:45, siete a tempo. ⚠️ Nelle stradine private di Gion **è vietato fotografare**, con multe reali: attenetevi alle vie principali.
 - **17:45 -- 20:15** 🌟🎫 *Cena:* **THE KAISEKI**, alta cucina tradizionale. **Non sacrificabile.** 💡 **Chiedete il turno delle 17:45 in fase di prenotazione** (apre il 26 settembre) per rientrare nella finestra.
@@ -436,17 +436,17 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 ---
 
-## Venerdì 27 novembre -- Picco foliage: Fushimi Inari all'alba, Tofuku-ji e Uji 🍁
+## Venerdì 27 novembre -- Picco foliage: Fushimi Inari all'alba, Tofuku-ji e Uji
 
 > 🔄 **Alternativa relax:** giornata intensa con sveglia alle 06:30, tutte le voci sono ✅ senza prenotazione. Se preferite dormire, spostate Fushimi Inari a un orario più tardo accettando la folla, oppure tenete solo una delle due albe tra oggi e il 30/11. In alternativa saltate Uji, che richiede uno spostamento extra.
 
 - **06:30 -- 09:00** 🌟✅ **Fushimi Inari Taisha:** salita tra i torii nel silenzio, prima che arrivino i pullman. Accesso libero 24 ore su 24. 💡 Salite almeno fino al belvedere Yotsutsuji, circa 30-40 minuti: sotto quel punto è solo la parte turistica.
 - **09:15 -- 11:00** 🌟✅ **Tofuku-ji:** la vista dal ponte **Tsutenkyo** immerso nel picco del rosso. Biglietto in loco. ⚠️ **Due avvertenze:** in alta stagione **è vietato fotografare dal ponte Tsutenkyo**, e negli ultimi anni sono stati introdotti ingressi anticipati a pagamento con orario. Verificate sul sito la settimana prima. La coda a metà mattina di un venerdì di picco sarà già lunga: mettetelo in conto.
 - **11:15 -- 11:35** Treno per **Uji**, linea JR Nara, circa 20 minuti.
-- **11:45 -- 12:45** 🍵 *Pranzo (ingresso 11:45):* soba al tè matcha a Uji.
+- **11:45 -- 12:45** *Pranzo (ingresso 11:45):* soba al tè matcha a Uji.
 - **13:00 -- 15:15** 🔄✅ **Byodo-in** e degustazione del matcha migliore del Giappone. Sacrificabile se l'alba vi ha stroncati. Alternativa: rientro anticipato a Kyoto per riposare.
 - **15:30 -- 16:30** Rientro a Kyoto.
-- **17:00 -- 19:00** 🥩 *Cena (ingresso 17:00):* ristorante tipico a Kyoto.
+- **17:00 -- 19:00** *Cena (ingresso 17:00):* ristorante tipico a Kyoto.
 - 🏨 **KABIN Kyoto**
 
 ---
@@ -462,21 +462,21 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 **Opzione A, Monte Hiei:**
 
 - **08:00 -- 13:00** 🔄✅ Escursione a **Enryaku-ji** e vista panoramica sul **Lago Biwa**. Biglietto in loco.
-- **13:00 -- 14:00** 🍱 *Pranzo (eccezione, oltre le 12 per via dell'escursione)* in zona o a Otsu.
+- **13:00 -- 14:00** *Pranzo (eccezione, oltre le 12 per via dell'escursione)* in zona o a Otsu.
 - **14:00 -- 15:00** Rientro a Kyoto.
 
 **Opzione B, alternativa consigliata se siete stanchi o piove**, e che colma un buco: nel piano attuale mancano tutti i classici di Kyoto nord-est.
 
 - **09:00 -- 10:15** ✅ **Nanzen-ji** e l'acquedotto in mattoni rossi, uno degli scorci più fotogenici della città.
 - **10:30 -- 11:30** ✅ **Sentiero della Filosofia** lungo il canale, con gli aceri.
-- **11:45 -- 12:45** 🍱 *Pranzo (ingresso 11:45)* lungo il sentiero.
+- **11:45 -- 12:45** *Pranzo (ingresso 11:45)* lungo il sentiero.
 - **13:00 -- 14:30** ✅ **Ginkaku-ji**, il Padiglione d'Argento, e il suo giardino di sabbia.
 - **14:45 -- 16:00** Pausa o rientro lento a piedi verso Eikando, che è a dieci minuti dal Nanzen-ji.
 
 **Serata, comune a entrambe le opzioni:**
 
 - **17:00 -- 18:45** 🌟✅ **Eikando Zenrinji:** il tempio numero uno per gli aceri, con illuminazione notturna. ⚠️ **Attenzione al meccanismo:** l'ingresso diurno chiude verso le 16:00 e quello serale è un **biglietto separato** che parte intorno alle 17:30. La coda è seria. Presentatevi alle **17:00**, non alle 16:30 e non alle 18:00. Verificate le date esatte dell'illuminazione, che di solito copre da metà novembre a inizio dicembre.
-- **19:00 -- 21:00** 🏮 *Cena (eccezione, ingresso 19:00 per via di Eikando):* **Pontocho Alley**, il vicolo lungo il canale.
+- **19:00 -- 21:00** *Cena (eccezione, ingresso 19:00 per via di Eikando):* **Pontocho Alley**, il vicolo lungo il canale.
 - 🏨 **KABIN Kyoto**
 
 ---
@@ -485,7 +485,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 - **08:00 -- 10:30** 🌟✅ **Eizan Railway** verso **Kurama** e visita al **Kurama-dera**, con la salita nel bosco di cedri.
 - **10:30 -- 11:45** 🔄✅ Trekking leggero sul crinale fino a **Kibune** e al santuario **Kifune**. Sacrificabile. ⚠️ Il sentiero è stato chiuso per anni dopo i danni di un tifone: **verificate che sia aperto** prima di contarci. Alternativa: fermarsi più a lungo a Kurama-dera e prendere il bus per Kibune.
-- **11:45 -- 12:45** 🍲 *Pranzo (ingresso 11:45):* nabe o zuppa calda nei ristoranti sul fiume a Kibune.
+- **11:45 -- 12:45** *Pranzo (ingresso 11:45):* nabe o zuppa calda nei ristoranti sul fiume a Kibune.
 - **13:00 -- 14:30** Tempo libero a Kibune.
 - **15:00 -- 16:30** 🌟✅ Rientro col trenino panoramico **Kirara** attraverso il **Momiji-no-Tunnel**. Scegliete i posti rivolti verso le vetrate. ⚠️ Fine novembre è tardino per il tunnel: il picco è di solito a metà mese, quindi potreste trovarlo già scarico. Nessuna prenotazione, quindi zero rischio economico.
 - **17:00 -- 19:00** 🥢 *Cena (ingresso 17:00):* izakaya o ramen a Kyoto.
@@ -498,10 +498,10 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 - **07:00 -- 09:00** 🌟✅ **Kiyomizu-dera:** apre alle **06:00**, quindi alle 07:00 avrete la terrazza quasi vuota. È probabilmente il momento più bello dell'intero itinerario di Kyoto. Biglietto in loco.
 - **09:15 -- 11:00** 🌟✅ **Ninenzaka** e **Sannenzaka** ancora semideserte, prima delle 10:30 quando aprono i negozi e arriva la folla.
-- **11:15 -- 12:15** 🍡 *Pranzo (ingresso 11:15):* casa da tè tradizionale.
+- **11:15 -- 12:15** *Pranzo (ingresso 11:15):* casa da tè tradizionale.
 - **12:30 -- 14:00** 🔄✅ **Hokan-ji**, la Pagoda di Yasaka, per le foto.
 - **14:00 -- 16:00** 🔄✅ Riposo in hotel, oppure **onsen o sento tradizionale a Kyoto**. 💡 Seconda finestra onsen del viaggio, dopo una sveglia all'alba è il momento giusto.
-- **16:30 -- 18:15** 🥟 *Cena (ingresso 16:30, ben dentro la finestra):* gyoza o cucina casalinga *obanzai*.
+- **16:30 -- 18:15** *Cena (ingresso 16:30, ben dentro la finestra):* gyoza o cucina casalinga *obanzai*.
 - **18:30 -- 20:00** 🌟✅ **Kodai-ji Illuminations:** giardini di bambù e aceri riflessi nello stagno -- spostata dopo cena. L'ingresso serale parte di solito dalle 17:00 con ultimo ingresso verso le 21:30, quindi c'è ampio margine. Biglietto in loco. ⚠️ Verificate che l'illuminazione autunnale sia ancora in corso: di solito arriva a inizio dicembre.
 - 🏨 **KABIN Kyoto**
 
@@ -513,16 +513,16 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 - **07:50 -- 08:35** ✅ Limited express Kintetsu ordinario, oppure JR, da Kyoto a Nara. Circa 35-45 minuti.
 - **09:00 -- 11:45** 🌟✅ **Nara Park** coi cervi liberi, **Todai-ji** col Grande Buddha e **Kasuga Taisha** con le sue lanterne di pietra. Ingressi in loco. 💡 I biscotti per i cervi si comprano dai banchetti: i cervi si inchinano davvero per averli.
-- **11:45 -- 12:45** 🍣 *Pranzo (ingresso 11:45):* kaki-no-ha sushi, sushi avvolto in foglia di cachi, oppure udon a Naramachi.
+- **11:45 -- 12:45** *Pranzo (ingresso 11:45):* kaki-no-ha sushi, sushi avvolto in foglia di cachi, oppure udon a Naramachi.
 - **13:00 -- 14:30** 🔄✅ **Naramachi:** il quartiere storico di case mercantili conservate. Sacrificabile se preferite tornare prima.
 - **14:45 -- 15:45** Tempo libero prima dell'Aoniyoshi.
 - **15:55 -- 16:30** 🌟🎫 **AONIYOSHI**, Kintetsu Nara -> Kyoto. Carrozze 1 o 4, sedili inclinati verso le vetrate panoramiche. **Non sacrificabile, posto già pagato.** ⚠️ Verificate l'orario esatto della corsa al momento della prenotazione, il 1° novembre.
-- **17:00 -- 19:00** 🍱 *Cena (ingresso 17:00)* a Kyoto.
+- **17:00 -- 19:00** *Cena (ingresso 17:00)* a Kyoto.
 - 🏨 **KABIN Kyoto**
 
 ---
 
-## Mercoledì 02 dicembre -- Arashiyama all'alba: bambù, scimmie, giardini zen e il Padiglione d'Oro 🐒✨
+## Mercoledì 02 dicembre -- Arashiyama all'alba: bambù, scimmie, giardini zen e il Padiglione d'Oro
 
 > 🔄 **Alternativa relax:** ultima alba del viaggio. Se sentite la stanchezza accumulata, il pomeriggio è la parte più sacrificabile: la mattinata bambù e Tenryu-ji resta il cuore imperdibile. Nessuna voce è prenotata, decidete al risveglio.
 
@@ -532,13 +532,13 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 - **07:15 -- 08:20** 🌟✅ **Arashiyama Bamboo Grove:** la foresta di bambù prima che arrivi chiunque. Accesso libero. Alle 09:00 è già ingestibile.
 - **08:30 -- 09:45** 🌟✅ **Tenryu-ji:** il giardino zen di Muso Soseki, immutato dal XIV secolo, con lo stagno che riflette le montagne. ⚠️ Apre alle 08:30 in punto, siate lì.
-- **10:00 -- 11:15** 🍱 *Pranzo (ingresso 10:00, ben dentro la finestra):* *Bread, Espresso & Arashiyama Garden*, dentro una residenza storica.
+- **10:00 -- 11:15** *Pranzo (ingresso 10:00, ben dentro la finestra):* *Bread, Espresso & Arashiyama Garden*, dentro una residenza storica.
 - **11:30 -- 13:15** 🔄✅ **Scegliete un'opzione:**
   - **(a) 🌟 Kinkaku-ji (Padiglione d'Oro) e Ryoan-ji:** circa 20-25 minuti di bus da Arashiyama (o taxi). Il Kinkaku-ji, rivestito in foglia d'oro e specchiato nello stagno, è forse l'immagine più iconica del Giappone; il Ryoan-ji, a pochi minuti, ha il celebre giardino zen di sole pietre e ghiaia rastrellata. Biglietti in loco. Consigliata se non l'avete ancora vista dal vivo.
   - **(b) Gio-ji** col tappeto di muschio e **Otagi Nenbutsu-ji** con le 1.200 statue di pietra scolpite ognuna con una faccia diversa: più intime e meno turistiche, ma non vicine tra loro (circa 2 km in salita) -- sceglietene una delle due se optate per questa alternativa.
   - Sacrificabile in entrambi i casi, decidete al momento in base a energie e voglia.
-- **13:30 -- 14:00** ☕ *Pausa caffè o spuntino leggero* lungo il fiume, se serve.
-- **14:30 -- 15:45** 🔄🐒✅ **Arashiyama Monkey Park Iwatayama:** venti minuti di salita ripida, poi le scimmie e il panorama su Kyoto. ⚠️ **In inverno chiude presto**, di solito alle 16:00 con ultimo ingresso verso le 15:30. Salite entro le 14:45 o lasciate perdere. 💡 Se avete scelto l'opzione (a) Kinkaku-ji e siete di ritorno tirati con i tempi, questo è il primo punto sacrificabile della giornata.
+- **13:30 -- 14:00** *Pausa caffè o spuntino leggero* lungo il fiume, se serve.
+- **14:30 -- 15:45** 🔄✅ **Arashiyama Monkey Park Iwatayama:** venti minuti di salita ripida, poi le scimmie e il panorama su Kyoto. ⚠️ **In inverno chiude presto**, di solito alle 16:00 con ultimo ingresso verso le 15:30. Salite entro le 14:45 o lasciate perdere. 💡 Se avete scelto l'opzione (a) Kinkaku-ji e siete di ritorno tirati con i tempi, questo è il primo punto sacrificabile della giornata.
 - **16:00 -- 17:15** ✅ Ponte **Togetsukyo** al tramonto e rientro.
 - **17:30 -- 19:30** 🥢 *Cena (ingresso 17:30):* okonomiyaki o ramen a Kyoto.
 - 🏨 **KABIN Kyoto**
@@ -552,7 +552,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 - 🚨 **Spedizione bagagli, seconda tappa:** ⚠️ **entro le 08:00**, non le 10:00. Alle 08:30 siete già sul treno. Consegnate le valigie grandi alla reception del KABIN Kyoto prima di uscire, destinazione **Shiba Park Hotel**. Preparate tutto la sera prima e tenete fuori il trolley piccolo per Osaka.
 - **08:30 -- 09:30** ✅ Shinkansen Kyoto -> Himeji, circa 50 minuti con l'Hikari.
 - **09:45 -- 11:45** 🌟✅ **Castello di Himeji**, il Castello dell'Airone Bianco, il più bello e meglio conservato del Giappone. Biglietto in loco. 💡 La salita interna al torrione è ripida e con scale strettissime: mettete scarpe comode, si entra scalzi.
-- **11:45 -- 12:45** 🍱 *Pranzo (ingresso 11:45):* anago, l'anguilla di mare locale, o soba a Himeji.
+- **11:45 -- 12:45** *Pranzo (ingresso 11:45):* anago, l'anguilla di mare locale, o soba a Himeji.
 - **13:00 -- 14:00** 🌟✅ Giardini **Koko-en**, accanto al castello -- spostati qui dopo il pranzo.
 - **14:15 -- 15:45** Rientro in Shinkansen a Kyoto.
 - **16:00 -- 17:30** Pomeriggio libero e riposo prima della cena.
@@ -561,7 +561,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 ---
 
-## Venerdì 04 dicembre -- Trasferimento a Osaka, in modalità leggera 🎒
+## Venerdì 04 dicembre -- Trasferimento a Osaka, in modalità leggera
 
 > ⚠️ **Correzione di tempi:** da Kaiyukan a Nagai ci vogliono **45-50 minuti** di metro con cambio a Hommachi. Uscire dall'acquario alle 17:30 per essere a teamLab alle 18:00 era impossibile. Ricalibrato sotto.
 
@@ -569,11 +569,11 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 - **08:30 -- 09:30** ✅ JR Special Rapid Kyoto -> Osaka, circa 30 minuti. Deposito bagagli all'**Aloft Osaka Dojima**.
 - **10:15 -- 11:45** 🌟✅ **Kuromon Market** e il quartiere retrò di **Shinsekai** con la **Tsutenkaku Tower**, che è la Osaka anni Cinquanta rimasta ferma.
-- **11:45 -- 12:45** 🍢 *Pranzo (ingresso 11:45):* kushikatsu, spiedini fritti, a Shinsekai. 💡 Regola sacra: **non si intinge due volte** nella salsa comune.
+- **11:45 -- 12:45** *Pranzo (ingresso 11:45):* kushikatsu, spiedini fritti, a Shinsekai. 💡 Regola sacra: **non si intinge due volte** nella salsa comune.
 - **13:00 -- 15:15** 🔄 **Osaka Aquarium Kaiyukan:** uno degli acquari più spettacolari al mondo, con la vasca centrale dello squalo balena. Sacrificabile se preferite più calma. ⚠️ Se pensate di saltarlo, non comprate il biglietto in anticipo: nessun impegno preso.
 - **15:15 -- 16:10** Trasferimento Osakako -> Nagai, linea Chuo fino a Hommachi, poi Midosuji. Calcolate 50 minuti pieni.
 - **17:30 -- 19:15** 🌟🎫 **teamLab Botanical Garden:** museo notturno all'aperto nel parco botanico di Nagai, 240.000 metri quadri di installazioni luminose interattive. **Non sacrificabile.** ⚠️ È un'esperienza **all'aperto e al freddo**: vestitevi di conseguenza.
-- **19:30 -- 22:00** 🐙 *Dotonbori e cena (eccezione, ingresso dopo le 19:15 per via di teamLab):* insegne al neon, il Glico Man, takoyaki e okonomiyaki. Da Nagai sono venti minuti di Midosuji fino a Namba.
+- **19:30 -- 22:00** *Dotonbori e cena (eccezione, ingresso dopo le 19:15 per via di teamLab):* insegne al neon, il Glico Man, takoyaki e okonomiyaki. Da Nagai sono venti minuti di Midosuji fino a Namba.
 - 🏨 **Aloft by Marriott Osaka Dojima**
 
 ---
@@ -582,7 +582,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 - **08:30 -- 11:00** 🎫🌤️ Shinkansen Tokaido Shin-Osaka -> Tokyo, circa 2h30 col Nozomi. **Posti D o E** per il Fuji, che vi sarà sulla sinistra andando verso est. Posto già prenotato, nessuna azione se è coperto. 💡 Il Fuji si vede circa 40 minuti dopo Nagoya, tenete d'occhio il finestrino.
 - **11:00 -- 11:40** Arrivo allo **Shiba Park Hotel**, Minato City, e **ritiro delle valigie grandi**. ⚠️ Il check-in vero è di solito dalle 15:00: probabilmente potrete solo depositare e cambiarvi. Chiedete un early check-in in anticipo.
-- **11:45 -- 12:45** 🍣 *Pranzo (ingresso 11:45):* Tokyo Ramen Street sotto la stazione, oppure sushi a Ginza.
+- **11:45 -- 12:45** *Pranzo (ingresso 11:45):* Tokyo Ramen Street sotto la stazione, oppure sushi a Ginza.
 - **13:00 -- 15:00** 🔄✅ **Tokyo Tower** e tempio **Zojo-ji**, letteralmente dietro l'hotel. Sacrificabile. Alternativa: pausa in hotel.
 - **15:15 -- 17:15** 🌟✅ **Odaiba:** baia di Tokyo, Statua della Libertà e il Gundam a grandezza naturale, che fa una breve animazione a orari fissi.
 - **17:30 -- 19:30** 🌟🎫 *Cena (ingresso 17:30, dentro la finestra):* ristorante panoramico affacciato sulla baia, con vista sul **Rainbow Bridge** che si illumina proprio in quest'ora -- l'orario è perfetto anche per lo spettacolo. 💡 **Chiedete il turno delle 17:30 in fase di prenotazione** (apre il 1° novembre). Verificare la policy di cancellazione.
@@ -599,7 +599,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 - **11:55 -- 14:00** 🌟✅ *Pranzo (ingresso 11:55):* **Tsukiji Outer Market**, il vecchio mercato del pesce -- oggi tutto street food e bancarelle: tamagoyaki, spiedini, ostriche, sushi da passeggio. Niente prenotazioni, ci si ferma dove si vuole, quindi più tempo del solito pranzo. ⚠️ Molti banchi aprono all'alba e iniziano a chiudere nel primo pomeriggio: con questo orario siete ancora nel pieno, ma non lasciatelo per dopo le 14:00.
 - **14:00 -- 14:15** Trasferimento a Ginza, circa 10 minuti a piedi.
 - **14:15 -- 16:00** 🌟✅ **Ginza** con le grandi boutique addobbate e le luminarie.
-- **16:00 -- 17:30** 🍻 *Cena (ingresso 16:00, ben dentro la finestra):* izakaya sotto le rotaie a Yurakucho, o qualcosa di semplice vicino a Komagome se preferite mangiare più vicino al Rikugien.
+- **16:00 -- 17:30** *Cena (ingresso 16:00, ben dentro la finestra):* izakaya sotto le rotaie a Yurakucho, o qualcosa di semplice vicino a Komagome se preferite mangiare più vicino al Rikugien.
 - **17:30 -- 18:00** Trasferimento a Komagome, circa 25 minuti con la Namboku.
 - **18:00 -- 19:30** 🌟🎫 **Illuminazione notturna del Rikugien:** il giardino Edo del 1695 illuminato, con gli aceri riflessi nello stagno e la proiezione sui muri di terra del magazzino storico. Apre proprio alle 18:00: con la cena anticipata ci arrivate perfettamente in orario. ⚠️ **Biglietto a numero chiuso da comprare online in anticipo.** Il percorso è a senso unico e dura circa un'ora.
 - 💡 **Regola di scambio:** se il 6 mattina notate che i ginkgo del Gaien sono al picco, scambiate questa mattinata con quella dell'8 dicembre. Vedi la nota del giorno 8.
@@ -611,7 +611,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 - **08:00 -- 09:15** ✅ Treno da Tokyo a Kamakura, circa un'ora con la linea Yokosuka.
 - **09:30 -- 11:45** 🌟✅ **Kotoku-in** col Grande Buddha di bronzo del 1252, all'aperto da quando lo tsunami del 1498 si è portato via l'edificio che lo copriva, e il tempio **Hase-dera** coi suoi giardini a terrazze sulla baia. Biglietti in loco.
-- **11:45 -- 12:45** 🐟 *Pranzo (ingresso 11:45):* shirasu-don, riso con bianchetti freschi, la specialità locale.
+- **11:45 -- 12:45** *Pranzo (ingresso 11:45):* shirasu-don, riso con bianchetti freschi, la specialità locale.
 - **13:00 -- 15:45** 🔄✅ Trenino **Enoden** lungo la costa fino a **Enoshima**, con la vista del Fuji al tramonto dal ponte. Sacrificabile: l'isola richiede una salita e siete a fine viaggio.
 - **16:00 -- 17:15** Rientro a Tokyo.
 - **17:30 -- 19:30** 🥢 *Cena (ingresso 17:30)* a Tokyo.
@@ -624,7 +624,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 > ⚠️ **Nota stagionale:** il picco dorato dei ginkgo del **Meiji Jingu Gaien** è di solito tra metà novembre e i primissimi giorni di dicembre. L'8 dicembre potreste trovare più "tappeto d'oro" a terra che alberi pieni, che è comunque bellissimo ma diverso dalla foto che avete in testa. **Se il 6 mattina passando li vedete al massimo, scambiate le due mattinate**: Akihabara sta bene in qualsiasi giorno, i ginkgo no.
 
 - **09:30 -- 11:00** 🌟✅ **Meiji Jingu Gaien:** il viale dei ginkgo, 146 alberi potati a cono in prospettiva perfetta.
-- **11:15 -- 12:00** 🍝 *Pranzo (ingresso 11:15):* bistrot raffinato ad Aoyama.
+- **11:15 -- 12:00** *Pranzo (ingresso 11:15):* bistrot raffinato ad Aoyama.
 - **12:15 -- 13:15** 🔄✅ **Chidorigafuchi** e i fossati del Palazzo Imperiale. Sacrificabile -- spostato dopo pranzo.
 - **13:30 -- 15:00** ✅ Passeggiata tra* **Aoyama** e **Omotesando**, con l'architettura contemporanea delle boutique.
 - **15:15 -- 17:15** 🌟✅ **Roppongi Hi*lls:** osservatorio **Tokyo City View** e mercatini natalizi.
@@ -639,4 +639,4 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 - **08:30 -- 09:30** Check-out e colazione.
 - **09:30 -- 10:15** Trasferimento a Haneda. Dallo Shiba Park sono circa 25-30 minuti in taxi, oppure Monorail da Hamamatsucho, che è a due passi.
 - **10:15 -- 13:20** Imbarco e ultimi acquisti. 💡 Haneda Terminal 3 ha una zona in stile Edo con negozi di artigianato: è il posto giusto per gli ultimi regali.
-- **13:20 -- 20:25** 🛫 Volo ITA Airways AZ 793 per Roma Fiumicino. 🎫
+- **13:20 -- 20:25** Volo ITA Airways AZ 793 per Roma Fiumicino. 🎫

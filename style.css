@@ -30,6 +30,9 @@
   --shadow-hover: 2px 2px 0 var(--accent);
   --notch: 8px;
   --notch-sm: 5px;
+  --bgart-far: .16; --bgart-fg: .13;
+  --bgart-window: var(--muted); --bgart-window-op: .3;
+  --bgart-sun-display: block; --bgart-moon-display: none;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -41,6 +44,9 @@
     --scanline: .05;
     --shadow: 3px 3px 0 rgba(0,0,0,.55);
     --shadow-hover: 2px 2px 0 var(--accent);
+    --bgart-far: .22; --bgart-fg: .2;
+    --bgart-window: #e8e4d6; --bgart-window-op: 1;
+    --bgart-sun-display: none; --bgart-moon-display: block;
   }
 }
 :root[data-theme="dark"] {
@@ -51,6 +57,9 @@
   --scanline: .05;
   --shadow: 3px 3px 0 rgba(0,0,0,.55);
   --shadow-hover: 2px 2px 0 var(--accent);
+  --bgart-far: .22; --bgart-fg: .2;
+  --bgart-window: #e8e4d6; --bgart-window-op: 1;
+  --bgart-sun-display: none; --bgart-moon-display: block;
 }
 :root[data-theme="light"] {
   --bg: #f4e8d4; --card: #fffdf7; --text: #2b1e13; --muted: #7a6650;
@@ -60,6 +69,9 @@
   --scanline: 0;
   --shadow: 3px 3px 0 var(--border);
   --shadow-hover: 2px 2px 0 var(--accent);
+  --bgart-far: .16; --bgart-fg: .13;
+  --bgart-window: var(--muted); --bgart-window-op: .3;
+  --bgart-sun-display: block; --bgart-moon-display: none;
 }
 
 /* tinta stagionale: --h va da 45 (oro) a 8 (rosso) lungo il viaggio */
@@ -98,6 +110,48 @@ body::after {
     rgba(255,255,255,.75) 0px, rgba(255,255,255,.75) 1px, transparent 1px, transparent 3px);
   opacity: var(--scanline);
   mix-blend-mode: overlay;
+}
+
+/* ---------- sfondo pixel-art: Kyoto <-> Tokyo, con parallax ---------- */
+.bg-scene {
+  position: fixed; inset: 0; z-index: -1;
+  overflow: hidden; pointer-events: none;
+  color: var(--text);
+}
+.bg-layer {
+  position: absolute;
+  transform: translate3d(0, calc(var(--py, 0px) * var(--speed, 0)), 0);
+  will-change: transform;
+}
+.bg-far {
+  top: 3vh; left: 50%; width: clamp(80px, 9vw, 150px);
+  transform: translate3d(-50%, calc(var(--py, 0px) * var(--speed, .015)), 0);
+  opacity: var(--bgart-far);
+  --speed: .015;
+}
+.bg-far svg { width: 100%; height: auto; display: block; }
+.bg-far .bg-sun { display: var(--bgart-sun-display, block); }
+.bg-far .bg-moon { display: var(--bgart-moon-display, none); }
+.bg-kyoto {
+  left: 0; bottom: 0; --speed: .045;
+  display: flex; align-items: flex-end; gap: .3rem;
+  opacity: var(--bgart-fg);
+}
+.bg-kyoto .bg-torii { width: clamp(26px, 3.2vw, 48px); height: auto; }
+.bg-kyoto .bg-temple { width: clamp(100px, 11vw, 190px); height: auto; }
+.bg-tokyo {
+  right: 0; bottom: 0; --speed: .045;
+  width: clamp(150px, 19vw, 300px);
+  opacity: var(--bgart-fg);
+}
+.bg-tokyo svg { width: 100%; height: auto; display: block; }
+.bg-windows { fill: var(--bgart-window); opacity: var(--bgart-window-op); }
+
+@media (max-width: 900px) {
+  .bg-kyoto, .bg-tokyo { display: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .bg-layer { transform: none !important; }
 }
 
 /* ---------- header ---------- */

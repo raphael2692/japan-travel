@@ -1,5 +1,125 @@
 // Rendering minimale, condiviso da index.html e giorno.html.
 
+// --- sfondo pixel-art: tempio di Kyoto a sinistra, skyline di Tokyo a
+// destra, sole/luna in alto al centro a fare da cerniera. Livelli "fixed"
+// con una leggera deriva verticale legata allo scroll (via --py), per un
+// effetto parallax discreto dietro ai contenuti. Sole/luna e finestre dei
+// grattacieli seguono il tema chiaro/scuro (vedi --bgart-* in style.css):
+// chiaro = giorno, scuro = notte. Il tema iniziale, se l'utente non ne ha
+// mai scelto uno a mano, è già impostato dallo script inline in base
+// all'ora reale del dispositivo (vedi index.html/giorno.html). ---
+function initBgScene() {
+  if (document.querySelector(".bg-scene")) return;
+  const wrap = document.createElement("div");
+  wrap.className = "bg-scene";
+  wrap.setAttribute("aria-hidden", "true");
+  wrap.innerHTML = `
+    <div class="bg-layer bg-far">
+      <svg class="bg-sun" viewBox="0 0 32 32" shape-rendering="crispEdges" fill="var(--accent)">
+        <rect x="11" y="0" width="10" height="2"/>
+        <rect x="7" y="2" width="18" height="2"/>
+        <rect x="5" y="4" width="22" height="2"/>
+        <rect x="3" y="6" width="26" height="2"/>
+        <rect x="2" y="8" width="28" height="2"/>
+        <rect x="1" y="10" width="30" height="2"/>
+        <rect x="1" y="12" width="30" height="2"/>
+        <rect x="0" y="14" width="32" height="2"/>
+        <rect x="0" y="16" width="32" height="2"/>
+        <rect x="1" y="20" width="30" height="2"/>
+        <rect x="3" y="24" width="26" height="2"/>
+        <rect x="7" y="28" width="18" height="2"/>
+        <rect x="11" y="30" width="10" height="2"/>
+      </svg>
+      <svg class="bg-moon" viewBox="0 0 32 32" shape-rendering="crispEdges" fill="var(--bgart-window)">
+        <rect x="11" y="0" width="10" height="2"/>
+        <rect x="7" y="2" width="18" height="2"/>
+        <rect x="5" y="4" width="22" height="2"/>
+        <rect x="3" y="6" width="26" height="2"/>
+        <rect x="2" y="8" width="28" height="2"/>
+        <rect x="1" y="10" width="30" height="2"/>
+        <rect x="1" y="12" width="30" height="2"/>
+        <rect x="0" y="14" width="32" height="2"/>
+        <rect x="0" y="16" width="32" height="2"/>
+        <rect x="1" y="18" width="30" height="2"/>
+        <rect x="1" y="20" width="30" height="2"/>
+        <rect x="2" y="22" width="28" height="2"/>
+        <rect x="3" y="24" width="26" height="2"/>
+        <rect x="5" y="26" width="22" height="2"/>
+        <rect x="7" y="28" width="18" height="2"/>
+        <rect x="11" y="30" width="10" height="2"/>
+        <g fill="var(--bg)">
+          <rect x="9" y="9" width="3" height="3"/>
+          <rect x="20" y="14" width="2" height="2"/>
+          <rect x="13" y="22" width="3" height="3"/>
+        </g>
+      </svg>
+    </div>
+    <div class="bg-layer bg-kyoto">
+      <svg class="bg-torii" viewBox="0 0 20 26" shape-rendering="crispEdges" fill="currentColor">
+        <rect x="0" y="4" width="20" height="3"/>
+        <rect x="2" y="0" width="16" height="2"/>
+        <rect x="2" y="6" width="3" height="20"/>
+        <rect x="15" y="6" width="3" height="20"/>
+      </svg>
+      <svg class="bg-temple" viewBox="0 0 60 50" shape-rendering="crispEdges" fill="currentColor">
+        <rect x="2" y="44" width="56" height="6"/>
+        <rect x="12" y="28" width="2" height="16"/>
+        <rect x="17" y="28" width="2" height="16"/>
+        <rect x="22" y="28" width="2" height="16"/>
+        <rect x="27" y="28" width="2" height="16"/>
+        <rect x="32" y="28" width="2" height="16"/>
+        <rect x="37" y="28" width="2" height="16"/>
+        <rect x="42" y="28" width="2" height="16"/>
+        <rect x="47" y="28" width="2" height="16"/>
+        <rect x="0" y="20" width="6" height="4"/>
+        <rect x="54" y="20" width="6" height="4"/>
+        <rect x="4" y="24" width="52" height="4"/>
+        <rect x="10" y="18" width="40" height="6"/>
+        <rect x="18" y="12" width="24" height="6"/>
+        <rect x="25" y="8" width="10" height="4"/>
+        <rect x="28" y="6" width="4" height="2"/>
+      </svg>
+    </div>
+    <div class="bg-layer bg-tokyo">
+      <svg viewBox="0 0 90 90" shape-rendering="crispEdges">
+        <g fill="currentColor">
+          <rect x="2" y="40" width="14" height="50"/>
+          <rect x="20" y="55" width="12" height="35"/>
+          <rect x="36" y="30" width="12" height="60"/>
+          <rect x="52" y="80" width="22" height="10"/>
+          <rect x="54" y="70" width="18" height="10"/>
+          <rect x="56" y="60" width="14" height="10"/>
+          <rect x="54" y="52" width="18" height="8"/>
+          <rect x="58" y="44" width="10" height="8"/>
+          <rect x="59" y="34" width="8" height="10"/>
+          <rect x="57" y="28" width="12" height="6"/>
+          <rect x="61" y="16" width="4" height="12"/>
+          <rect x="62" y="6" width="2" height="10"/>
+          <rect x="62" y="0" width="2" height="6"/>
+        </g>
+        <g class="bg-windows">
+          <rect x="5" y="46" width="2" height="2"/><rect x="10" y="46" width="2" height="2"/>
+          <rect x="5" y="54" width="2" height="2"/><rect x="10" y="60" width="2" height="2"/>
+          <rect x="23" y="62" width="2" height="2"/><rect x="27" y="68" width="2" height="2"/>
+          <rect x="39" y="38" width="2" height="2"/><rect x="43" y="46" width="2" height="2"/>
+          <rect x="39" y="54" width="2" height="2"/><rect x="43" y="62" width="2" height="2"/>
+        </g>
+      </svg>
+    </div>`;
+  document.body.prepend(wrap);
+
+  if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+
+  let ticking = false;
+  function update() {
+    wrap.style.setProperty("--py", window.scrollY + "px");
+    ticking = false;
+  }
+  window.addEventListener("scroll", () => {
+    if (!ticking) { requestAnimationFrame(update); ticking = true; }
+  }, { passive: true });
+}
+
 // --- tema chiaro/scuro ---
 function initTheme() {
   const root = document.documentElement;

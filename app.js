@@ -1,4 +1,64 @@
 // Rendering minimale, condiviso da index.html e giorno.html.
+
+// --- tema chiaro/scuro ---
+function initTheme() {
+  const root = document.documentElement;
+  const btn = document.getElementById("theme-toggle");
+
+  function current() {
+    return root.getAttribute("data-theme") || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  }
+  function paint() {
+    if (!btn) return;
+    const c = current();
+    btn.textContent = c === "dark" ? "昼" : "夜";
+    const label = c === "dark" ? "Passa al tema chiaro" : "Passa al tema scuro";
+    btn.setAttribute("aria-label", label);
+    btn.title = label;
+  }
+  if (btn) {
+    btn.addEventListener("click", () => {
+      const next = current() === "dark" ? "light" : "dark";
+      root.setAttribute("data-theme", next);
+      localStorage.setItem("theme", next);
+      paint();
+    });
+  }
+  paint();
+}
+
+// --- foglie d'autunno che cadono (decorazione) ---
+function initLeaves() {
+  if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  const field = document.createElement("div");
+  field.className = "leaf-field";
+  field.setAttribute("aria-hidden", "true");
+  document.body.appendChild(field);
+
+  const colors = ["leaf-red", "leaf-orange", "leaf-gold"];
+  const N = 9;
+  for (let i = 0; i < N; i++) {
+    const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    svg.setAttribute("viewBox", "0 0 8 8");
+    svg.classList.add("pixel-leaf", colors[i % colors.length]);
+    const use = document.createElementNS("http://www.w3.org/2000/svg", "use");
+    use.setAttribute("href", "#pixel-leaf");
+    svg.appendChild(use);
+
+    const size = 8 + Math.random() * 10;
+    const left = Math.random() * 100;
+    const fallDuration = 14 + Math.random() * 12;
+    const swayDuration = 3 + Math.random() * 2;
+    const delay = -(Math.random() * fallDuration);
+    const drift = (20 + Math.random() * 30).toFixed(0) + "px";
+    svg.style.cssText =
+      `width:${size}px;height:${size}px;left:${left}%;` +
+      `animation-duration:${fallDuration}s,${swayDuration}s;` +
+      `animation-delay:${delay}s,${delay}s;--drift:${drift};`;
+    field.appendChild(svg);
+  }
+}
+
 function mdInline(s) {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;")
     .replace(/\*\*(.+?)\*\*/g, "<b>$1</b>")

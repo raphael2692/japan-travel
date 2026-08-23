@@ -138,6 +138,32 @@ section > h2 { font-size: 1.1rem; margin: 0 0 1rem; font-weight: 700; }
 }
 .timeline .time { color: var(--accent); font-weight: 700; }
 
+/* --- ricerca globale --- */
+.global-search { max-width: 480px; margin: 1.1rem auto 0; position: relative; z-index: 20; }
+.search-wrap { position: relative; }
+#search-input {
+  width: 100%; padding: .65rem 1.1rem; border-radius: 999px;
+  border: 1px solid var(--border); background: var(--card); color: var(--text);
+  font-size: .9rem; outline: none; transition: border-color .15s, box-shadow .15s;
+}
+#search-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.search-results {
+  display: none; position: absolute; top: calc(100% + .5rem); left: 0; right: 0;
+  background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+  box-shadow: var(--shadow-hover); max-height: 65vh; overflow-y: auto; text-align: left;
+}
+.search-results.open { display: block; }
+.search-result {
+  display: block; padding: .6rem .95rem; text-decoration: none; color: var(--text);
+  border-bottom: 1px solid var(--border); transition: background .15s;
+}
+.search-result:last-child { border-bottom: none; }
+.search-result:hover, .search-result:focus-visible { background: var(--accent-soft); }
+.sr-section { font-size: .7rem; color: var(--accent); font-weight: 600; margin-bottom: .2rem; }
+.sr-text { font-size: .84rem; color: var(--text); line-height: 1.4; }
+.sr-text mark { background: var(--accent-soft); color: var(--accent); border-radius: 3px; padding: 0 .1em; }
+.search-empty { padding: .8rem .95rem; font-size: .84rem; color: var(--muted); }
+
 .legenda { font-size: .82rem; color: var(--muted); }
 footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 2.5rem 1rem 3rem; }
 

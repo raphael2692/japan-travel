@@ -64,6 +64,111 @@ function renderIndex() {
   });
 }
 
+// --- ricerca globale ---
+function escapeHtml(s) {
+  return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+
+function stripMd(s) {
+  return s.replace(/\*\*(.+?)\*\*/g, "$1").replace(/\*(.+?)\*/g, "$1");
+}
+
+function normText(s) {
+  return s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+}
+
+function buildSearchIndex() {
+  const t = window.TRIP;
+  const idx = [];
+
+  t.scadenze.forEach(d => {
+    idx.push({ section: "✅ Scadenze", text: stripMd([d.titolo, d.dove, ...(d.note || [])].join(" · ")), link: "index.html#scadenze" });
+  });
+
+  t.hotel.forEach(h => {
+    idx.push({ section: "🏨 Hotel", text: `${h.citta} — ${h.nome}, ${h.indirizzo} (${h.dal} → ${h.al})`, link: "index.html#hotel" });
+  });
+
+  idx.push({ section: "✈️ Voli", text: stripMd(t.voli.andata), link: "index.html#voli" });
+  idx.push({ section: "✈️ Voli", text: stripMd(t.voli.ritorno), link: "index.html#voli" });
+
+  Object.values(t.noteRapide).forEach(n => {
+    idx.push({ section: "💡 Note", text: stripMd(n), link: "index.html#note" });
+  });
+
+  t.giorni.forEach(g => {
+    const dateFmt = new Date(g.data + "T00:00:00").toLocaleDateString("it-IT", { day: "2-digit", month: "short" });
+    const label = `📅 ${g.giorno} ${dateFmt} — ${g.titolo}`;
+    const link = "giorno.html?d=" + g.data;
+    idx.push({ section: label, text: stripMd(g.titolo + (g.hotel ? " · 🏨 " + g.hotel : "")), link });
+    (g.note || []).forEach(n => idx.push({ section: label, text: stripMd(n), link }));
+    g.items.forEach(item => idx.push({ section: label, text: stripMd(item), link }));
+  });
+
+  return idx;
+}
+
+function highlightSnippet(text, q) {
+  const safe = escapeHtml(text);
+  const i = normText(text).indexOf(q);
+  let snippet = safe;
+  if (i >= 0 && text.length > 110) {
+    const start = Math.max(0, i - 30);
+    const end = Math.min(text.length, i + q.length + 50);
+    snippet = (start > 0 ? "…" : "") + escapeHtml(text.slice(start, end)) + (end < text.length ? "…" : "");
+  } else if (text.length > 110) {
+    snippet = safe.slice(0, 110) + "…";
+  }
+  const re = new RegExp("(" + q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "ig");
+  return q ? snippet.replace(re, "<mark>$1</mark>") : snippet;
+}
+
+function renderSearch() {
+  const root = document.getElementById("global-search");
+  if (!root) return;
+  root.innerHTML = `
+    <div class="search-wrap">
+      <input type="text" id="search-input" placeholder="🔍 Cerca nel piano di viaggio…" autocomplete="off">
+      <div id="search-results" class="search-results"></div>
+    </div>`;
+
+  const input = document.getElementById("search-input");
+  const results = document.getElementById("search-results");
+  const index = buildSearchIndex();
+
+  function close() { results.classList.remove("open"); results.innerHTML = ""; }
+
+  function runSearch() {
+    const q = normText(input.value.trim());
+    if (q.length < 2) { close(); return; }
+    const matches = index.filter(r => normText(r.text).includes(q)).slice(0, 30);
+    if (!matches.length) {
+      results.innerHTML = `<div class="search-empty">Nessun risultato per "${escapeHtml(input.value.trim())}"</div>`;
+      results.classList.add("open");
+      return;
+    }
+    results.innerHTML = matches.map(m => `
+      <a class="search-result" href="${m.link}">
+        <div class="sr-section">${m.section}</div>
+        <div class="sr-text">${highlightSnippet(m.text, q)}</div>
+      </a>`).join("");
+    results.classList.add("open");
+  }
+
+  input.addEventListener("input", runSearch);
+  input.addEventListener("focus", () => { if (input.value.trim().length >= 2) runSearch(); });
+  input.addEventListener("keydown", e => {
+    if (e.key === "Escape") { input.blur(); close(); }
+    if (e.key === "Enter") {
+      const first = results.querySelector(".search-result");
+      if (first) location.href = first.getAttribute("href");
+    }
+  });
+  document.addEventListener("click", e => {
+    if (!root.contains(e.target)) close();
+  });
+}
+
 function renderGiorno() {
   const t = window.TRIP;
   const params = new URLSearchParams(location.search);

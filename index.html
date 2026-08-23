@@ -10,6 +10,7 @@
 <header class="top">
   <h1 id="trip-title"></h1>
   <p id="trip-subtitle"></p>
+  <div id="global-search" class="global-search"></div>
 </header>
 <nav class="quicknav">
   <a href="#giorni">📅 Giorni</a>
@@ -53,6 +54,7 @@
 <script>
   document.getElementById("legenda").textContent = window.TRIP.legenda.join("  ·  ");
   renderIndex();
+  renderSearch();
 </script>
 </body>
 </html>

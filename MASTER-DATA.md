@@ -296,9 +296,9 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 - **08:30 -- 11:00** 🌟✅ **Shinjuku Gyoen National Garden:** entrate all'apertura per anticipare la folla del giorno festivo. Biglietto in loco.
 - **11:30 -- 13:30** 🍜 *Pranzo e caffè (ingresso 11:30, già entro la finestra):* *AFURI Nakameguro*, yuzu shio ramen, e caffè allo *Starbucks Reserve Roastery*.
 - **14:00 -- 16:00** 🔄✅ Passeggiata tra Daikanyama e Nakameguro, boutique di design e Tsutaya Books. Sacrificabile.
-- **16:15 -- 17:00** Buffer / trasferimento verso Yurakucho-Ginza.
-- **17:15 -- 19:15** 🥩 *Cena (ingresso 17:15, dentro la finestra; è festivo, prenotate):* yakiniku o izakaya a Omoide Yokocho, Shinjuku.
-- **19:30 -- 21:00** ✅ **Ebisu Garden Place:** luminarie invernali, il grande lampadario Baccarat e la Sky Lounge gratuita al 38° piano -- ora dopo cena, col buio pieno è ancora più bello.
+- **16:15 -- 17:15** 🌟✅ **Tokyo Metropolitan Government Office**, Nishi-Shinjuku: osservatorio gratuito, nessuna prenotazione. Il tramonto è verso le 16:30 e nei giorni tersi si vede anche il Fuji. Trasferimento da Nakameguro incluso nel tempo.
+- **17:30 -- 19:30** 🥩 *Cena (ingresso 17:30, dentro la finestra; è festivo, prenotate):* yakiniku o izakaya a Omoide Yokocho, Shinjuku.
+- **19:45 -- 21:00** ✅ **Ebisu Garden Place:** luminarie invernali, il grande lampadario Baccarat e la Sky Lounge gratuita al 38° piano -- ora dopo cena, col buio pieno è ancora più bello. ⚠️ È un rientro verso sud rispetto a Shinjuku: se siete stanchi, sacrificabile.
 - 🏨 **Hotel Metropolitan Edmont**
 
 ---
@@ -311,10 +311,11 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 - **10:00 -- 10:45** Deposito bagagli leggeri al **Lian Kanazawa**, Yasuecho, a due passi dal mercato.
 - **11:00 -- 12:45** 🌟 *Pranzo (ingresso 11:00, già entro la finestra):* **Omicho Market**. Kaisen-don e assaggio di **nodoguro**, il pesce locale più pregiato.
 - **13:00 -- 14:00** ✅ **Castello di Kanazawa** e il parco che lo circonda.
-- **14:00 -- 15:15** 🌟✅ **Seisonkaku Villa:** elegante residenza in stile Edo costruita nel 1863 per la madre del tredicesimo signore Maeda. Stucchi, shoji dipinti a fiori e uccelli, tatami e giardini interni tra i meglio conservati del Giappone. ⚠️ **Ultimo ingresso alle 16:30, chiusa il mercoledì**: ecco perché sta qui e non domani. Vietato fotografare all'interno.
-- **15:15 -- 16:45** 🌟✅ **Kenrokuen Garden**, uno dei tre giardini più belli del Giappone, con lo *yukitsuri*, le corde coniche che proteggono i pini dalla neve, già installate da novembre. 💡 Il Kenrokuen ha anche ingresso libero nelle prime ore del mattino, prima dell'orario ufficiale: se domani vi svegliate presto, è un secondo giro gratis.
-- **17:00 -- 19:00** 🥢 *Cena (ingresso 17:00):* cucina *Kaga Ryori*, la tradizione gastronomica locale.
-- **19:15 -- 20:30** ✅ **Higashi Chaya** e **Kazuemachi**, i quartieri storici delle geisha, con le lanterne accese -- spostati dopo cena, il buio rende l'atmosfera ancora più suggestiva.
+- **14:00 -- 15:00** 🌟✅ **Seisonkaku Villa:** elegante residenza in stile Edo costruita nel 1863 per la madre del tredicesimo signore Maeda. Stucchi, shoji dipinti a fiori e uccelli, tatami e giardini interni tra i meglio conservati del Giappone. ⚠️ **Ultimo ingresso alle 16:30, chiusa il mercoledì**: ecco perché sta qui e non domani. Vietato fotografare all'interno.
+- **15:00 -- 16:15** 🌟✅ **Kenrokuen Garden**, uno dei tre giardini più belli del Giappone, con lo *yukitsuri*, le corde coniche che proteggono i pini dalla neve, già installate da novembre. 💡 Il Kenrokuen ha anche ingresso libero nelle prime ore del mattino, prima dell'orario ufficiale: se domani vi svegliate presto, è un secondo giro gratis.
+- **16:15 -- 17:15** 🌟✅ **21st Century Museum of Contemporary Art**, proprio di fronte al Kenrokuen: la celebre installazione "Swimming Pool" di Leandro Erlich e le altre gallerie, con l'ala esterna gratuita. ⚠️ Di solito chiuso il lunedì: il 24/11 è martedì, quindi va bene, ma verificate l'orario di chiusura vicino alla data.
+- **17:30 -- 19:30** 🥢 *Cena (ingresso 17:30, dentro la finestra):* cucina *Kaga Ryori*, la tradizione gastronomica locale.
+- **19:45 -- 21:00** ✅ **Higashi Chaya** e **Kazuemachi**, i quartieri storici delle geisha, con le lanterne accese -- spostati dopo cena, il buio rende l'atmosfera ancora più suggestiva.
 - 💡 Verificate se in questi giorni è attiva l'**illuminazione serale del Kenrokuen**, che di solito si tiene in alcune sere di fine novembre ed è gratuita.
 - 🏨 **Lian Kanazawa**
 
@@ -507,9 +508,10 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 > ✏️ *Giornata riorganizzata per accogliere l'illuminazione del Rikugien, spostata qui dal 19 novembre dove non sarebbe stata attiva. La cena anticipata si incastra perfettamente perché il Rikugien apre proprio alle 18:00.*
 
 - **09:30 -- 11:30** 🌟✅ **Akihabara:** elettronica, gadget, retrogaming e cultura pop. 💡 **La domenica Chuo-dori diventa isola pedonale nel pomeriggio**, cosa che non succede in settimana: siete capitati nel giorno giusto.
-- **11:45 -- 12:45** 🍛 *Pranzo (ingresso 11:45):* katsu curry ad Akihabara.
-- **13:00 -- 14:30** 🔄✅ Zona **Marunouchi** e viali alberati attorno alla Stazione di Tokyo, con la facciata in mattoni rossi restaurata. Sacrificabile.
-- **14:45 -- 16:00** 🌟✅ **Ginza** con le grandi boutique addobbate e le luminarie.
+- **11:30 -- 11:55** Trasferimento a Tsukiji, circa 25 minuti (Hibiya Line più un breve tratto a piedi).
+- **11:55 -- 14:00** 🌟✅ *Pranzo (ingresso 11:55):* **Tsukiji Outer Market**, il vecchio mercato del pesce -- oggi tutto street food e bancarelle: tamagoyaki, spiedini, ostriche, sushi da passeggio. Niente prenotazioni, ci si ferma dove si vuole, quindi più tempo del solito pranzo. ⚠️ Molti banchi aprono all'alba e iniziano a chiudere nel primo pomeriggio: con questo orario siete ancora nel pieno, ma non lasciatelo per dopo le 14:00.
+- **14:00 -- 14:15** Trasferimento a Ginza, circa 10 minuti a piedi.
+- **14:15 -- 16:00** 🌟✅ **Ginza** con le grandi boutique addobbate e le luminarie.
 - **16:00 -- 17:30** 🍻 *Cena (ingresso 16:00, ben dentro la finestra):* izakaya sotto le rotaie a Yurakucho, o qualcosa di semplice vicino a Komagome se preferite mangiare più vicino al Rikugien.
 - **17:30 -- 18:00** Trasferimento a Komagome, circa 25 minuti con la Namboku.
 - **18:00 -- 19:30** 🌟🎫 **Illuminazione notturna del Rikugien:** il giardino Edo del 1695 illuminato, con gli aceri riflessi nello stagno e la proiezione sui muri di terra del magazzino storico. Apre proprio alle 18:00: con la cena anticipata ci arrivate perfettamente in orario. ⚠️ **Biglietto a numero chiuso da comprare online in anticipo.** Il percorso è a senso unico e dura circa un'ora.

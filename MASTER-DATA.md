@@ -207,6 +207,93 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 ---
 
+# Pasti — pranzi e cene, giorno per giorno
+
+> 🍽️ Struttura di lavoro per organizzare ogni pasto del viaggio. Il cibo è uno dei motivi principali del viaggio, quindi questa tabella va tenuta viva: ogni volta che scegliete o prenotate un locale, ditelo a Claude e la aggiorna qui.
+
+**Come leggere le colonne:**
+- **Prenotazione:** 🎫 *Fissa* = reservation vera e propria da fare, con finestra di apertura precisa (vedi checklist scadenze in cima al documento). 📞 *Consigliata* = locale popolare o giornata affollata, meglio prenotare o arrivare presto. ✅ *Walk-in* = mercato/street food/locale informale, nessuna prenotazione sensata.
+- **Tabelog:** link alla scheda del locale su Tabelog (utile anche per orari, menu e recensioni). 🔬 *in ricerca* = sto cercando il link adesso. 🔍 *da cercare* = nessuna ricerca fatta ancora, locale/link da individuare quando decidete.
+- I pasti senza nome specifico ("🔍 da scegliere") sono lasciati apposta generici nel piano: decidibili sul momento in base a dove vi trovate, zero rischio. Sostituiteli con un nome appena ne trovate uno che vi piace.
+
+> 🚨 **Priorità alta:** due cene sono già 🎫 *fisse* (prenotazione obbligatoria, finestra 1-15 novembre) ma **nel piano non è ancora stato scelto il ristorante**: cena panoramica di Odaiba (05/12) e cena finale a Roppongi (08/12). Vanno decise entro fine ottobre per avere margine di prenotazione. Ricerca in corso, vedi sotto.
+
+## Tokyo, prima tappa (19-24 novembre)
+
+| Data | Pasto | Ingresso | Locale proposto | Prenotazione | Tabelog | Note |
+|---|---|---|---|---|---|---|
+| 19/11 gio | Pranzo | 13:00 | Ramen o gyoza vicino Haneda/stazione — 🔍 da scegliere | ✅ Walk-in | — | Eccezione orario: primo pasto dopo l'arrivo |
+| 19/11 gio | Cena | 17:30 | Izakaya a Kagurazaka — 🔍 da scegliere | 📞 Consigliata | — | Quartiere ricco di opzioni |
+| 20/11 ven | Pranzo | 11:45 | **Houtou Fudo**, Kawaguchiko (houtou in tegame di ghisa) | ✅ Walk-in (non accetta prenotazioni) | [Tabelog](https://tabelog.com/en/yamanashi/A1903/A190303/19000047/) | ⚠️ Può esaurire e chiudere prima delle 19:00 nei giorni feriali: arrivate presto |
+| 20/11 ven | Cena | libera, rientro ~19:00 | Zona Hotel Metropolitan Edmont — 🔍 da scegliere | ✅ Walk-in | — | Fuori dalla finestra 16:30-18 per i tempi di rientro |
+| 21/11 sab | Pranzo | 11:30 | **Unagi Komagata Maekawa**, Asakusa (unagi, vista sul Sumida) — alt. tempura ad Asakusa | 📞 Consigliata | [Tabelog](https://tabelog.com/en/tokyo/A1311/A131102/13003666/) | Nome ufficiale "Komagata Maekawa", non "Unagi Maekawa". Prenotabile online o tel. 050-5589-9710. Servizio 10% dopo le 16:00 |
+| 21/11 sab | Cena | 17:45 | Izakaya tradizionale tra Yanaka e Ueno — 🔍 da scegliere | 📞 Consigliata | — | |
+| 22/11 dom | Pranzo | 11:00 | **Santa Monica Crepes**, Takeshita Street (miglior rapporto qualità/coda, buon menu salato: avocado gamberi, pollo piccante) | ✅ Walk-in | — | Alt. **Marion Crepes**, il brand storico dal 1976, ma di solito più coda e impasto meno riuscito: fatelo solo se non c'è fila |
+| 22/11 dom | Cena | 19:15 | Yakiniku o tonkatsu a Shibuya — 🔍 da scegliere | 📞 Consigliata | — | Eccezione orario: dopo Shibuya Sky, prenotate un turno tardo |
+| 23/11 lun | Pranzo | 11:30 | **AFURI Nakameguro** (yuzu shio ramen) + Starbucks Reserve Roastery | ✅ Walk-in (niente prenotazioni, si fa la fila) | [Tabelog](https://tabelog.com/en/tokyo/A1317/A131701/13129706/) | ⚠️ Solo pagamento cashless (carta/e-money) |
+| 23/11 lun | Cena | 17:15 | **Shinjuku Omoide Yokocho Gyutan Iroha** (gyutan, lingua di manzo brasata 5h) — alt. Aburi Shimizu (ha sale private) | 📞 Consigliata, è festivo | [Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13228233/) · [alt.](https://tabelog.com/en/tokyo/A1304/A130401/13227771/) | Prenotazione online 24/7 con conferma immediata: da fare per non trovarsi in coda la sera del festivo |
+
+## Kanazawa (24-26 novembre)
+
+| Data | Pasto | Ingresso | Locale proposto | Prenotazione | Tabelog | Note |
+|---|---|---|---|---|---|---|
+| 24/11 mar | Pranzo | 11:00 | **Omicho Market** → **Kaisen-don Yutaka Suisan** (nodoguro comprato personalmente all'asta dallo chef) | ✅ Walk-in (niente prenotazioni, mettete conto la coda) | [Tabelog](https://tabelog.com/en/ishikawa/A1701/A170101/17012730/) | ⚠️ Solo colazione/pranzo, 7:00-15:00, chiuso il mercoledì |
+| 24/11 mar | Cena | 17:00 | Cucina Kaga Ryori, centro Kanazawa — 🔍 da scegliere | 📞 Consigliata | — | |
+| 25/11 mer | Pranzo | 11:30 | Kanazawa curry o soba locale — 🔍 da scegliere | ✅ Walk-in | — | |
+| 25/11 mer | Cena | 17:00 | Ristorante centro Kanazawa — 🔍 da scegliere | 📞 Consigliata | — | |
+
+## Kyoto (26 novembre - 4 dicembre, incluse gite a Nara e Himeji)
+
+| Data | Pasto | Ingresso | Locale proposto | Prenotazione | Tabelog | Note |
+|---|---|---|---|---|---|---|
+| 26/11 gio | Pranzo | 11:30 | **Nishiki Market** — 3 banchi consigliati: **Nishiki Hirano** (spiedone di gambero tempura), **Konnamonja** (soft-serve/donut al soia, dal maestro del tofu Kyotofu Fujino), **Nishiki Yatai Mura** (mini-degustazione sakè, primo bicchiere ~¥100, o amazake) | ✅ Walk-in (mercato) | [Hirano: Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26007725/) | Arrivate verso le 10-11, prima dei gruppi turistici; per lo più cash only, ci si sposta di lato per mangiare (non si cammina masticando) |
+| 26/11 gio | Cena | 17:45 | **THE KAISEKI**, Kyoto 🎫🌟 (Higashiyama, THE HIGASHIYAMA CLUB by HAPPO-EN) | 🎫 Fissa (già in checklist scadenze) | [Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26044552/) | Chiedere turno 17:30-18:00. Solo prenotazione online (no telefono): verificate la data di apertura sul sito ufficiale the-higashiyama-club.com/the-kaiseki/ a fine settembre. ⚠️ Chiuso il mercoledì |
+| 27/11 ven | Pranzo | 11:45 | Soba al tè matcha, Uji — 🔍 da scegliere | ✅ Walk-in | — | |
+| 27/11 ven | Cena | 17:00 | Ristorante tipico a Kyoto — 🔍 da scegliere | 📞 Consigliata | — | |
+| 28/11 sab | Pranzo | 13:00 o 11:45 | Zona Otsu, o lungo il Sentiero della Filosofia (dipende opzione A/B) — 🔍 da scegliere | ✅ Walk-in | — | |
+| 28/11 sab | Cena | 19:00 | Pontocho Alley — 🔍 locale specifico da scegliere | 📞 Consigliata | — | Eccezione orario: dopo Eikando, vicolo affollato in stagione illuminazioni |
+| 29/11 dom | Pranzo | 11:45 | Nabe/zuppa calda sul fiume, Kibune — 🔍 da scegliere | 📞 Consigliata | — | Posti sul fiume limitati |
+| 29/11 dom | Cena | 17:00 | Izakaya o ramen a Kyoto — 🔍 da scegliere | ✅ Walk-in | — | |
+| 30/11 lun | Pranzo | 11:15 | Casa da tè tradizionale — 🔍 da scegliere | ✅ Walk-in | — | |
+| 30/11 lun | Cena | 16:30 | Gyoza o obanzai — 🔍 da scegliere | 📞 Consigliata | — | |
+| 01/12 mar | Pranzo | 11:45 | Kaki-no-ha sushi o udon, Naramachi — 🔍 da scegliere | ✅ Walk-in | — | Gita a Nara |
+| 01/12 mar | Cena | 17:00 | Kyoto — 🔍 da scegliere | ✅ Walk-in | — | |
+| 02/12 mer | Pranzo | 10:00 | **Bread, Espresso & Arashiyama Garden** (cascina restaurata di 200 anni) | 📞 Consigliata (molto popolare, in pratica spesso si fa coda anche con slot online) | [Tabelog](https://tabelog.com/en/kyoto/A2601/A260403/26032681/) | Aperto 8:00-18:00 |
+| 02/12 mer | Cena | 17:30 | Okonomiyaki o ramen a Kyoto — 🔍 da scegliere | ✅ Walk-in | — | |
+| 03/12 gio | Pranzo | 11:45 | Anago o soba, Himeji — 🔍 da scegliere | ✅ Walk-in | — | Gita a Himeji |
+| 03/12 gio | Cena | 17:45 | **Mishima-tei** (Honten), Kyoto 🎫🌟 | 🎫 Fissa (già in checklist scadenze) | [Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26000646/) | Chiedere turno 17:45-18:00, apertura 3 ottobre. Prenotabile anche tel. 075-221-0003. Machiya del periodo Meiji, sukiyaki dal 1873 |
+
+## Osaka (4-5 dicembre)
+
+| Data | Pasto | Ingresso | Locale proposto | Prenotazione | Tabelog | Note |
+|---|---|---|---|---|---|---|
+| 04/12 ven | Pranzo | 11:45 | 💡 **Valutate di spostare il pranzo al Kuromon Ichiba Market** (già sulla strada la mattina), invece di camminare fino a Shinsekai: stile "a spizzico" coerente con gli altri pasti-mercato del viaggio, e a inizio dicembre è piena stagione del granchio reale. Consigliati: **Yashima** (zampe di granchio reale alla griglia), **Niku Hoshi** (spiedini di wagyu A5 scottati al momento), un banco di granchio delle nevi, un banco di uni/ikura. Se preferite restare sul kushikatsu seduti a Shinsekai: **Yaekatsu** (dal 1949, la scelta dei locali, meno coda) invece di Kushikatsu Daruma (più iconico ma turistico, fino a un'ora d'attesa) | ✅ Walk-in | [Daruma: Tabelog](https://tabelog.com/en/osaka/A2701/A270206/27004260/) — Yaekatsu cercabile su Tabelog ("Yaekatsu Shinsekai") | Se scegliete Kuromon: arrivate verso le 10 per banchi pieni e griglie calde. Non si intinge due volte nella salsa comune, vale in entrambi i casi |
+| 04/12 ven | Cena | 19:30 | **Takoyaki Doraku Wanaka** (Bib Gourmand Michelin, 8 pezzi ~¥700) o **Takohachi** (set takoyaki+okonomiyaki in un unico locale); per okonomiyaki seduti: **Chibo Okonomiyaki** | ✅ Walk-in | [Wanaka: Tabelog](https://tabelog.com/en/osaka/A2701/A270202/27104548/) | Eccezione orario: dopo teamLab Botanical Garden. 💡 Evitate i banchi proprio sotto l'insegna Glico/il granchio: i più cari e scadenti, buoni solo per la foto — spostatevi di una o due strade verso Soemoncho per opzioni meno turistiche |
+
+## Tokyo, seconda tappa (5-9 dicembre, inclusa gita a Kamakura)
+
+| Data | Pasto | Ingresso | Locale proposto | Prenotazione | Tabelog | Note |
+|---|---|---|---|---|---|---|
+| 05/12 sab | Pranzo | 11:45 | Tokyo Ramen Street o sushi a Ginza — 🔍 da scegliere | ✅ Walk-in | — | |
+| 05/12 sab | Cena | 17:30 | Ristorante panoramico Odaiba 🎫🌟 — **2 candidati, da scegliere uno:**<br>**(A) YORIMICHI Odaiba** — 6F Aqua City, tutti i tavoli affacciati sul Rainbow Bridge<br>**(B) Teppanyaki "Icho"**, Grand Nikko Tokyo Daiba — 30F, wagyu Kumamoto, richiedere posto lato Rainbow Bridge | 🎫 Fissa (già in checklist scadenze) | [A: Tabelog](https://tabelog.com/en/tokyo/A1313/A131306/13275005/) · [B: Tabelog](https://tabelog.com/en/tokyo/A1313/A131306/13004858/) / [TableCheck](https://tablecheck.com/en/tokyo-grand-nikko-icho) | 💡 (A) vista più diretta e drammatica sul ponte; (B) ristorante d'hotel, prenotazioni in anticipo più affidabili (di solito 1-2 mesi prima, coerente con l'apertura 1° nov) |
+| 06/12 dom | Pranzo | 11:55 | **Tsukiji Outer Market** — banchi consigliati: **Tsukiji Yamacho** (tamagoyaki su stecco), **Tsukiji Shouro** (tamagoyaki sando, dal 1924, meno coda di Yamacho), **Kakigoya** (ostriche al vapore o crude), + un banco di tachigui-zushi (sushi in piedi: scegliete quello con la coda più corta e il banco più fresco) | ✅ Walk-in (mercato) | [Yamacho: Tabelog](https://tabelog.com/en/tokyo/A1313/A131301/13100313/) | Arrivate presto per code più corte, cash consigliato; alcuni banchi chiudono appena finite le scorte |
+| 06/12 dom | Cena | 16:00 | Izakaya a Yurakucho o vicino Komagome — 🔍 da scegliere | ✅ Walk-in | — | |
+| 07/12 lun | Pranzo | 11:45 | Shirasu-don — 🔍 da scegliere | ✅ Walk-in | — | Gita a Kamakura |
+| 07/12 lun | Cena | 17:30 | Tokyo — 🔍 da scegliere | ✅ Walk-in | — | |
+| 08/12 mar | Pranzo | 11:15 | Bistrot ad Aoyama — 🔍 da scegliere | ✅ Walk-in | — | |
+| 08/12 mar | Cena | 17:30 | Cena romantica a Roppongi 🎫🌟 — **2 candidati, da scegliere uno:**<br>**(A) Restaurant THE MOON** — 52F Roppongi Hills Mori Tower, cucina francese, dentro il complesso da cui parte l'illuminazione di Keyakizaka<br>**(B) BALCON TOKYO** — 14F Mitsui Garden Hotel Roppongi Premier, vista diretta sulla Tokyo Tower, "Anniversary Course" ¥12.500 con champagne e torta | 🎫 Fissa (già in checklist scadenze) | [A: Tabelog](https://tabelog.com/en/tokyo/A1307/A130701/13184767/) / [TableCheck](https://tablecheck.com/en/themoon) · [B: Tabelog](https://tabelog.com/en/tokyo/A1307/A130701/13241321/) | 💡 (A) più comodo per restare dentro Roppongi Hills e vedere le luci di Keyakizaka prima/dopo cena; (B) la vista sulla Tokyo Tower più bella e un percorso già pensato per anniversari — ultima cena del viaggio, coerente col tema. ⚠️ (B) penale 100% se si cancella entro 3 giorni dalla prenotazione |
+
+## Spuntini di qualità fuori pasto (non sostituiscono pranzo/cena)
+
+> Zone che attraversate comunque per il programma della giornata, dove vale la pena una sosta veloce anche se non sono un pasto ufficiale nella tabella sopra.
+
+- **Fushimi Inari, 27/11 (visita 6:30-9:00):** ❌ non fattibile a quell'ora — i banchi di inari-zushi e kitsune udon vicino all'ingresso aprono verso le 9:00-17:00, prima non trovate nulla di aperto. Se la visita dovesse sforare oltre le 9:00, **Kendonya** (udon alla kitsune, storico, a pochi passi dalla stazione) è una vera opzione.
+- **Naramachi, 01/12 pomeriggio:** ✅ **Nakatanidou** — lo storico spettacolo di mochi pestato a mano a ritmo velocissimo, soprattutto nel pomeriggio (si ferma verso le 15:00, quindi andateci prima), mochi allo yomogi fresco da mangiare sul momento. 5-10 minuti, non sostituisce il pranzo ma è uno dei momenti più fotografati di Nara.
+- **Ameyoko Market, Ueno — vicino a Yanaka Ginza, 21/11 pomeriggio:** ✅ se avete tempo, **Niku no Ohyama** (menchi-katsu) e **Hyakkaen** (spiedini di frutta fresca). Mercato più orientato allo shopping che al cibo, quindi una sosta breve, non una meta a sé.
+- **Yanaka Ginza, 21/11 pomeriggio (già in programma):** ✅ **Niku no Suzuki** — macelleria ottantenne famosa per il Genki Menchi Katsu (misto manzo giapponese/australiano), spesso in coda per la fama in TV ma la fila scorre veloce. Spuntino perfetto passeggiando, nessuna prenotazione.
+
+---
+
 # Piano completo giorno per giorno
 
 > 🔁 **Promemoria valido per ogni giornata:** le voci senza 🎫 sono sempre modificabili all'ultimo momento senza penali. Fate la verifica dei 30 secondi la sera prima o al mattino: come state fisicamente, che tempo fa, quali 🎫 avete quel giorno. Quelle restano fisse, il resto si adatta attorno.

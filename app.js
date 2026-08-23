@@ -27,36 +27,9 @@ function initTheme() {
   paint();
 }
 
-// --- foglie d'autunno che cadono (decorazione) ---
-function initLeaves() {
-  if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-  const field = document.createElement("div");
-  field.className = "leaf-field";
-  field.setAttribute("aria-hidden", "true");
-  document.body.appendChild(field);
-
-  const colors = ["leaf-red", "leaf-orange", "leaf-gold"];
-  const N = 9;
-  for (let i = 0; i < N; i++) {
-    const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-    svg.setAttribute("viewBox", "0 0 8 8");
-    svg.classList.add("pixel-leaf", colors[i % colors.length]);
-    const use = document.createElementNS("http://www.w3.org/2000/svg", "use");
-    use.setAttribute("href", "#pixel-leaf");
-    svg.appendChild(use);
-
-    const size = 8 + Math.random() * 10;
-    const left = Math.random() * 100;
-    const fallDuration = 14 + Math.random() * 12;
-    const swayDuration = 3 + Math.random() * 2;
-    const delay = -(Math.random() * fallDuration);
-    const drift = (20 + Math.random() * 30).toFixed(0) + "px";
-    svg.style.cssText =
-      `width:${size}px;height:${size}px;left:${left}%;` +
-      `animation-duration:${fallDuration}s,${swayDuration}s;` +
-      `animation-delay:${delay}s,${delay}s;--drift:${drift};`;
-    field.appendChild(svg);
-  }
+// --- tinta stagionale: oro (45) all'inizio del viaggio, rosso (8) alla fine ---
+function tintHue(ratio) {
+  return Math.round(45 - ratio * 37);
 }
 
 function mdInline(s) {
@@ -90,12 +63,14 @@ function renderIndex() {
     .forEach(d => scad.appendChild(renderDeadline(d)));
 
   const grid = document.getElementById("days-grid");
+  const last = t.giorni.length - 1;
   t.giorni.forEach((g, i) => {
     const a = document.createElement("a");
-    a.className = "day-tile";
+    a.className = "day-tile notched tinted";
     a.href = "giorno.html?d=" + g.data;
+    a.style.setProperty("--h", tintHue(last ? i / last : 0));
     const dateFmt = new Date(g.data + "T00:00:00").toLocaleDateString("it-IT", { day: "2-digit", month: "short" });
-    a.innerHTML = `<div class="dnum">${String(i + 1).padStart(2, "0")}</div><div class="dn">${g.giorno} ${dateFmt}</div><div class="dt">${g.titolo}</div>${g.hotel ? `<div class="dh">🏨 ${g.hotel.split(",")[0]}</div>` : ""}`;
+    a.innerHTML = `<div class="dnum">${String(i + 1).padStart(2, "0")}</div><div class="dn">${g.giorno} ${dateFmt}</div><div class="dt">${g.titolo}</div>${g.hotel ? `<div class="dh">${g.hotel.split(",")[0]}</div>` : ""}`;
     grid.appendChild(a);
   });
 
@@ -142,25 +117,25 @@ function buildSearchIndex() {
   const idx = [];
 
   t.scadenze.forEach(d => {
-    idx.push({ section: "✅ Scadenze", text: stripMd([d.titolo, d.dove, ...(d.note || [])].join(" · ")), link: "index.html#scadenze" });
+    idx.push({ section: "SCADENZE", text: stripMd([d.titolo, d.dove, ...(d.note || [])].join(" · ")), link: "index.html#scadenze" });
   });
 
   t.hotel.forEach(h => {
-    idx.push({ section: "🏨 Hotel", text: `${h.citta} — ${h.nome}, ${h.indirizzo} (${h.dal} → ${h.al})`, link: "index.html#hotel" });
+    idx.push({ section: "HOTEL", text: `${h.citta} — ${h.nome}, ${h.indirizzo} (${h.dal} → ${h.al})`, link: "index.html#hotel" });
   });
 
-  idx.push({ section: "✈️ Voli", text: stripMd(t.voli.andata), link: "index.html#voli" });
-  idx.push({ section: "✈️ Voli", text: stripMd(t.voli.ritorno), link: "index.html#voli" });
+  idx.push({ section: "VOLI", text: stripMd(t.voli.andata), link: "index.html#voli" });
+  idx.push({ section: "VOLI", text: stripMd(t.voli.ritorno), link: "index.html#voli" });
 
   Object.values(t.noteRapide).forEach(n => {
-    idx.push({ section: "💡 Note", text: stripMd(n), link: "index.html#note" });
+    idx.push({ section: "NOTE", text: stripMd(n), link: "index.html#note" });
   });
 
   t.giorni.forEach(g => {
     const dateFmt = new Date(g.data + "T00:00:00").toLocaleDateString("it-IT", { day: "2-digit", month: "short" });
-    const label = `📅 ${g.giorno} ${dateFmt} — ${g.titolo}`;
+    const label = `${g.giorno.toUpperCase()} ${dateFmt} — ${g.titolo}`;
     const link = "giorno.html?d=" + g.data;
-    idx.push({ section: label, text: stripMd(g.titolo + (g.hotel ? " · 🏨 " + g.hotel : "")), link });
+    idx.push({ section: label, text: stripMd(g.titolo + (g.hotel ? " · " + g.hotel : "")), link });
     (g.note || []).forEach(n => idx.push({ section: label, text: stripMd(n), link }));
     g.items.forEach(item => idx.push({ section: label, text: stripMd(item), link }));
   });
@@ -188,7 +163,7 @@ function renderSearch() {
   if (!root) return;
   root.innerHTML = `
     <div class="search-wrap">
-      <input type="text" id="search-input" placeholder="🔍 Cerca nel piano di viaggio…" autocomplete="off">
+      <input type="text" id="search-input" placeholder="Cerca nel piano di viaggio …" autocomplete="off">
       <div id="search-results" class="search-results"></div>
     </div>`;
 
@@ -237,10 +212,16 @@ function renderGiorno() {
 
   const dateFmt = new Date(g.data + "T00:00:00").toLocaleDateString("it-IT", { day: "2-digit", month: "long", year: "numeric" });
   document.title = g.titolo + " — Giappone";
+
+  // la pagina prende la tinta stagionale della sua posizione nel viaggio
+  const last = t.giorni.length - 1;
+  const pos = idx >= 0 ? idx : 0;
+  document.querySelector("main").style.setProperty("--h", tintHue(last ? pos / last : 0));
+
   document.getElementById("d-weekday").textContent = g.giorno + " " + dateFmt;
   document.getElementById("d-title").textContent = g.titolo + (g.emoji ? " " + g.emoji : "");
   const hotelEl = document.getElementById("d-hotel");
-  if (g.hotel) { hotelEl.textContent = "🏨 " + g.hotel; hotelEl.style.display = "inline-block"; }
+  if (g.hotel) { hotelEl.textContent = g.hotel; hotelEl.style.display = "inline-block"; }
   else hotelEl.style.display = "none";
 
   const notes = document.getElementById("d-notes");

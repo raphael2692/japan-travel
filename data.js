@@ -90,11 +90,11 @@ window.TRIP = {
       "dove": "sito ufficiale"
     },
     {
-      "cosa": "Bus o treno per Kawaguchiko (20/11)",
+      "cosa": "Treno Fuji Excursion (20/11)",
       "apre": "20 ott",
       "oraIt": "03:00",
       "entro": "01 nov",
-      "dove": "Japan Bus Online / JR"
+      "dove": "JR / Ekinet"
     },
     {
       "cosa": "Ninja-dera Myoryu-ji (25/11)",
@@ -196,12 +196,14 @@ window.TRIP = {
           ]
         },
         {
-          "titolo": "Trasporto per Kawaguchiko, 20/11",
+          "titolo": "Treno Fuji Excursion, Shinjuku → Kawaguchiko, 20/11",
           "tags": "🎫🌤️",
           "done": false,
           "note": [
-            "⚠️ **Nuova voce prenotabile.** Il bus espresso Shinjuku → Kawaguchiko è a **posti riservati e si esaurisce**, specie in stagione foliage. Idem il treno limited express *Fuji Excursion*.",
-            "Apertura: circa **1 mese prima**, quindi 20 ottobre. Prenotare su Japan Bus Online o presso JR per il Fuji Excursion."
+            "⚠️ **Semplificato su richiesta: niente bus riservato.** Si va in treno diretto, limited express **Fuji Excursion** (JR/Fujikyu, materiale E353), Shinjuku → Kawaguchiko in circa 2 ore, un solo treno senza cambi.",
+            "Apertura: circa **1 mese prima**, quindi 20 ottobre 2026 (03:00 ora italiana). Limite: 1° novembre. Prenotabile su Ekinet o agli sportelli JR. ⚠️ **Posti riservati, si esauriscono** in stagione foliage: prenotate appena si apre la finestra.",
+            "💡 *Tip sedili andata (Shinjuku → Kawaguchiko):* **posto A, lato sinistro, finestrino** — è il lato da cui si vede il Fuji avvicinandosi.",
+            "💡 *Tip sedili ritorno (Kawaguchiko → Shinjuku):* il lato si inverte, **posto D, lato destro, finestrino**."
           ]
         },
         {
@@ -379,7 +381,7 @@ window.TRIP = {
       "righe": [
         "Le attività legate alla vista del Monte Fuji dipendono dal cielo sereno. In questo periodo il Fuji è visibile circa il 40-50% dei giorni, con probabilità nettamente più alte al mattino presto.",
         "• Controllare le **webcam del Fuji** (Fujigoko o l'ente turismo di Yamanashi) la sera prima del 20/11, per decidere se confermare Kawaguchiko o rimandare.",
-        "• **Se il 20/11 è coperto:** scambiate con il 21/11 (Tokyo Est) se il bus lo consente, oppure sostituite con una giornata lenta a Kawaguchiko che non dipenda dalla vetta: onsen con vista lago e Museo Kubota Itchiku, chiuso il martedì ma il 20 è venerdì.",
+        "• **Se il 20/11 è coperto:** scambiate con il 21/11 (Tokyo Est) — nessuna prenotazione da disdire, il treno è sempre disponibile — oppure sostituite con una giornata lenta a Kawaguchiko che non dipenda dalla vetta: onsen con vista lago e Museo Kubota Itchiku, chiuso il martedì ma il 20 è venerdì.",
         "• **Per gli Shinkansen del 24/11 e del 05/12:** nessuna azione. Il posto è già prenotato 🎫 a prescindere dal meteo, il Fuji è un bonus in corsa. Se è coperto vi godete comunque le Alpi o la costa."
       ]
     },
@@ -387,7 +389,7 @@ window.TRIP = {
       "titolo": "Riepilogo rapido, cosa è fissato e cosa è libero",
       "righe": [
         "Per decidere in fretta cosa tagliare in una giornata intensa: **le attività senza 🎫 si tagliano per prime, sempre.**",
-        "**Fissate con prenotazione (🎫, non toccare):** Shibuya Sky 22/11, trasporto Kawaguchiko 20/11, Shinkansen Hokuriku 24/11, THE KAISEKI 26/11, Ninja-dera 25/11, Aoniyoshi 01/12, Mishima-tei 03/12, teamLab 04/12, Shinkansen Tokaido 05/12, ristorante Odaiba 05/12, illuminazione Rikugien 06/12, cena Roppongi 08/12, Visit Japan Web entro il 16/11.",
+        "**Fissate con prenotazione (🎫, non toccare):** Shibuya Sky 22/11, treno Fuji Excursion 20/11, Shinkansen Hokuriku 24/11, THE KAISEKI 26/11, Ninja-dera 25/11, Aoniyoshi 01/12, Mishima-tei 03/12, teamLab 04/12, Shinkansen Tokaido 05/12, ristorante Odaiba 05/12, illuminazione Rikugien 06/12, cena Roppongi 08/12, Visit Japan Web entro il 16/11.",
         "**Libere, decidibili sul momento (✅):** tutto il resto del piano, incluse le voci marcate 🔄 giorno per giorno."
       ]
     }
@@ -809,16 +811,16 @@ window.TRIP = {
     ],
     "2026-11-20": [
       [
-        "Busta Shinjuku",
-        35.6885,
-        139.7005,
-        "07:00"
+        "Shinjuku Station",
+        35.6896,
+        139.7006,
+        "07:20"
       ],
       [
         "Chureito Pagoda",
         35.5012,
         138.8013,
-        "09:45"
+        "09:15"
       ],
       [
         "Houtou Fudo Higashi Koiji",
@@ -827,16 +829,22 @@ window.TRIP = {
         "11:45"
       ],
       [
+        "Oishi Park",
+        35.5322,
+        138.7604,
+        "13:25"
+      ],
+      [
         "Mt. Fuji Panoramic Ropeway",
         35.5034,
         138.7676,
-        "13:00"
+        "15:30"
       ],
       [
         "Momiji Kairo Kawaguchiko",
         35.5203,
         138.7486,
-        "14:30"
+        "14:15"
       ]
     ],
     "2026-11-21": [
@@ -1492,19 +1500,22 @@ window.TRIP = {
       "hotel": "Hotel Metropolitan Edmont",
       "emoji": "🌤️",
       "note": [
-        "🔄 **Alternativa relax:** se il volo vi ha distrutti o le webcam mostrano cielo coperto, sostituite con una mattinata lenta a Tokyo e un solo giardino nel pomeriggio, tipo Shinjuku Gyoen. Il Fuji si rivede comunque dallo Shinkansen del 24/11 e del 05/12, già 🎫 prenotati. ⚠️ Attenzione però: il trasporto per Kawaguchiko è 🎫 prenotato, quindi verificate la policy di cancellazione prima di dare buca.",
-        "⚠️ **Correzione logistica:** la Chureito Pagoda **non è a Kawaguchiko**, ma sopra la stazione di **Shimoyoshida**, una fermata diversa sulla Fujikyu Railway. Sono circa 400 scalini dalla base. La sequenza sotto evita avanti-indietro inutili.",
-        "🍽️ Nessuna cena fissa oggi: il rientro a Tokyo arriva verso le 19:00, quindi la cena serale cade fuori dalla finestra 16:30-18 per via dei tempi di viaggio — gestitela libera in zona hotel."
+        "✏️ **Giornata semplificata su richiesta:** niente bus riservato — si va e si torna col treno diretto **Fuji Excursion** (Shinjuku → Kawaguchiko, un solo treno, ~2h, posto riservato 🎫). Il programma punta su tre tappe con calma — Chureito Pagoda, Oishi Park, Momiji Kairo — con la funivia come extra solo se resta tempo.",
+        "🔄 **Alternativa relax:** se il volo vi ha distrutti o le webcam mostrano cielo coperto, sostituite con una mattinata lenta a Tokyo e un solo giardino nel pomeriggio, tipo Shinjuku Gyoen. Il Fuji si rivede comunque dallo Shinkansen del 24/11 e del 05/12, già 🎫 prenotati. ⚠️ Attenzione però: il Fuji Excursion è 🎫 prenotato, quindi verificate la policy di cancellazione prima di dare buca.",
+        "⚠️ **Correzione logistica:** la Chureito Pagoda **non è a Kawaguchiko**, ma sopra la stazione di **Shimoyoshida**, una fermata intermedia dello stesso Fuji Excursion (ferma anche lì). Sono circa 400 scalini dalla base. La sequenza sotto evita avanti-indietro inutili.",
+        "🍽️ Nessuna cena fissa oggi: il rientro a Tokyo arriva verso le 18:45, quindi la cena serale cade fuori dalla finestra 16:30-18 per via dei tempi di viaggio — gestitela libera in zona hotel."
       ],
       "items": [
-        "**07:00 – 09:15** 🎫 Bus espresso da Shinjuku, oppure treno *Fuji Excursion*, fino a **Fujisan Station** o Kawaguchiko. Posto già prenotato.",
-        "**09:15 – 09:35** Fujikyu Railway fino a **Shimoyoshida**.",
-        "**09:45 – 11:15** 🌟🌤️✅ **Chureito Pagoda:** la vista iconica del Fuji incorniciato dalla pagoda. Ingresso libero, ma preparatevi ai 400 gradini. Il mattino è statisticamente il momento migliore per la visibilità della vetta.",
-        "**11:15 – 11:35** Rientro in treno a Kawaguchiko.",
+        "**07:20 – 09:10** 🎫 **Treno Fuji Excursion**, Shinjuku → **Shimoyoshida**. Posto già prenotato: **posto A, lato sinistro** per il Fuji in avvicinamento.",
+        "**09:15 – 10:45** 🌟🌤️✅ **Chureito Pagoda:** la vista iconica del Fuji incorniciato dalla pagoda. Ingresso libero, ma preparatevi ai 400 gradini. Il mattino è statisticamente il momento migliore per la visibilità della vetta. Con calma, nessuna fretta.",
+        "**10:50 – 11:05** ✅ Fujikyu Railway (treno locale, nessuna prenotazione), Shimoyoshida → **Kawaguchiko Station**.",
         "**11:45 – 12:45** *Pranzo (ingresso 11:45):* **Houtou Fudo**, noodles spessi in brodo di miso serviti bollenti nei tegami di ghisa. Perfetti col freddo.",
-        "**13:00 – 14:15** 🔄🌤️✅ **Mt. Fuji Panoramic Ropeway:** funivia sul lago. Sacrificabile se il cielo è coperto o se siete indietro coi tempi. Biglietto in loco.",
-        "**14:30 – 16:15** 🌟✅ **Momiji Kairo, il corridoio degli aceri del Lago Kawaguchi:** tunnel di aceri rossi illuminato al tramonto, sulla sponda nord. Ci si arriva col bus della linea rossa. Ingresso libero. ⚠️ Il festival dura di solito **fino al 23 novembre circa**: siete dentro, ma verificate le date.",
-        "**16:45 – 19:00** Rientro a Tokyo."
+        "**13:00 – 13:25** ✅ Bus di linea (Kawaguchiko Line, rossa — pagamento a bordo, nessuna prenotazione) fino a **Oishi Park**.",
+        "**13:25 – 14:15** 🌟✅ **Oishi Park:** passeggiata con calma sulla sponda nord del lago, vista aperta sul Fuji, campi fioriti e un caffè con vista lago. Ingresso libero.",
+        "**14:15 – 15:30** 🌟✅ **Momiji Kairo, il corridoio degli aceri del Lago Kawaguchi:** tunnel di aceri rossi, a pochi minuti a piedi da Oishi Park lungo il lago. Ingresso libero. ⚠️ Il festival dura di solito **fino al 23 novembre circa**: siete dentro, ma verificate le date.",
+        "**15:30 – 16:15** 🔄🌤️✅ *Se resta tempo:* **Mt. Fuji Panoramic Ropeway**, raggiungibile con lo stesso bus di linea in pochi minuti. Primo punto da saltare se siete indietro coi tempi o il cielo è coperto. Biglietto in loco.",
+        "**16:15 – 16:40** Bus di ritorno a **Kawaguchiko Station**.",
+        "**16:45 – 18:45** 🎫 **Treno Fuji Excursion**, Kawaguchiko → Shinjuku. Posto già prenotato: **posto D, lato destro** per il Fuji (il lato si inverte rispetto all'andata). ⚠️ Verificate l'orario esatto delle corse pomeridiane al momento della prenotazione: non sono frequenti come un treno locale."
       ]
     },
     {

@@ -1,124 +1,6 @@
 // Rendering minimale, condiviso da index.html e giorno.html.
 
-// --- sfondo pixel-art: tempio di Kyoto a sinistra, skyline di Tokyo a
-// destra, sole/luna in alto al centro a fare da cerniera. Livelli "fixed"
-// con una leggera deriva verticale legata allo scroll (via --py), per un
-// effetto parallax discreto dietro ai contenuti. Sole/luna e finestre dei
-// grattacieli seguono il tema chiaro/scuro (vedi --bgart-* in style.css):
-// chiaro = giorno, scuro = notte. Il tema iniziale, se l'utente non ne ha
-// mai scelto uno a mano, è già impostato dallo script inline in base
-// all'ora reale del dispositivo (vedi index.html/giorno.html). ---
-function initBgScene() {
-  if (document.querySelector(".bg-scene")) return;
-  const wrap = document.createElement("div");
-  wrap.className = "bg-scene";
-  wrap.setAttribute("aria-hidden", "true");
-  wrap.innerHTML = `
-    <div class="bg-layer bg-far">
-      <svg class="bg-sun" viewBox="0 0 32 32" shape-rendering="crispEdges" fill="var(--accent)">
-        <rect x="11" y="0" width="10" height="2"/>
-        <rect x="7" y="2" width="18" height="2"/>
-        <rect x="5" y="4" width="22" height="2"/>
-        <rect x="3" y="6" width="26" height="2"/>
-        <rect x="2" y="8" width="28" height="2"/>
-        <rect x="1" y="10" width="30" height="2"/>
-        <rect x="1" y="12" width="30" height="2"/>
-        <rect x="0" y="14" width="32" height="2"/>
-        <rect x="0" y="16" width="32" height="2"/>
-        <rect x="1" y="20" width="30" height="2"/>
-        <rect x="3" y="24" width="26" height="2"/>
-        <rect x="7" y="28" width="18" height="2"/>
-        <rect x="11" y="30" width="10" height="2"/>
-      </svg>
-      <svg class="bg-moon" viewBox="0 0 32 32" shape-rendering="crispEdges" fill="var(--bgart-window)">
-        <rect x="11" y="0" width="10" height="2"/>
-        <rect x="7" y="2" width="18" height="2"/>
-        <rect x="5" y="4" width="22" height="2"/>
-        <rect x="3" y="6" width="26" height="2"/>
-        <rect x="2" y="8" width="28" height="2"/>
-        <rect x="1" y="10" width="30" height="2"/>
-        <rect x="1" y="12" width="30" height="2"/>
-        <rect x="0" y="14" width="32" height="2"/>
-        <rect x="0" y="16" width="32" height="2"/>
-        <rect x="1" y="18" width="30" height="2"/>
-        <rect x="1" y="20" width="30" height="2"/>
-        <rect x="2" y="22" width="28" height="2"/>
-        <rect x="3" y="24" width="26" height="2"/>
-        <rect x="5" y="26" width="22" height="2"/>
-        <rect x="7" y="28" width="18" height="2"/>
-        <rect x="11" y="30" width="10" height="2"/>
-        <g fill="var(--bg)">
-          <rect x="9" y="9" width="3" height="3"/>
-          <rect x="20" y="14" width="2" height="2"/>
-          <rect x="13" y="22" width="3" height="3"/>
-        </g>
-      </svg>
-    </div>
-    <div class="bg-layer bg-kyoto">
-      <svg class="bg-torii" viewBox="0 0 20 26" shape-rendering="crispEdges" fill="currentColor">
-        <rect x="0" y="4" width="20" height="3"/>
-        <rect x="2" y="0" width="16" height="2"/>
-        <rect x="2" y="6" width="3" height="20"/>
-        <rect x="15" y="6" width="3" height="20"/>
-      </svg>
-      <svg class="bg-temple" viewBox="0 0 60 50" shape-rendering="crispEdges" fill="currentColor">
-        <rect x="2" y="44" width="56" height="6"/>
-        <rect x="12" y="28" width="2" height="16"/>
-        <rect x="17" y="28" width="2" height="16"/>
-        <rect x="22" y="28" width="2" height="16"/>
-        <rect x="27" y="28" width="2" height="16"/>
-        <rect x="32" y="28" width="2" height="16"/>
-        <rect x="37" y="28" width="2" height="16"/>
-        <rect x="42" y="28" width="2" height="16"/>
-        <rect x="47" y="28" width="2" height="16"/>
-        <rect x="0" y="20" width="6" height="4"/>
-        <rect x="54" y="20" width="6" height="4"/>
-        <rect x="4" y="24" width="52" height="4"/>
-        <rect x="10" y="18" width="40" height="6"/>
-        <rect x="18" y="12" width="24" height="6"/>
-        <rect x="25" y="8" width="10" height="4"/>
-        <rect x="28" y="6" width="4" height="2"/>
-      </svg>
-    </div>
-    <div class="bg-layer bg-tokyo">
-      <svg viewBox="0 0 90 90" shape-rendering="crispEdges">
-        <g fill="currentColor">
-          <rect x="2" y="40" width="14" height="50"/>
-          <rect x="20" y="55" width="12" height="35"/>
-          <rect x="36" y="30" width="12" height="60"/>
-          <rect x="52" y="80" width="22" height="10"/>
-          <rect x="54" y="70" width="18" height="10"/>
-          <rect x="56" y="60" width="14" height="10"/>
-          <rect x="54" y="52" width="18" height="8"/>
-          <rect x="58" y="44" width="10" height="8"/>
-          <rect x="59" y="34" width="8" height="10"/>
-          <rect x="57" y="28" width="12" height="6"/>
-          <rect x="61" y="16" width="4" height="12"/>
-          <rect x="62" y="6" width="2" height="10"/>
-          <rect x="62" y="0" width="2" height="6"/>
-        </g>
-        <g class="bg-windows">
-          <rect x="5" y="46" width="2" height="2"/><rect x="10" y="46" width="2" height="2"/>
-          <rect x="5" y="54" width="2" height="2"/><rect x="10" y="60" width="2" height="2"/>
-          <rect x="23" y="62" width="2" height="2"/><rect x="27" y="68" width="2" height="2"/>
-          <rect x="39" y="38" width="2" height="2"/><rect x="43" y="46" width="2" height="2"/>
-          <rect x="39" y="54" width="2" height="2"/><rect x="43" y="62" width="2" height="2"/>
-        </g>
-      </svg>
-    </div>`;
-  document.body.prepend(wrap);
-
-  if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-
-  let ticking = false;
-  function update() {
-    wrap.style.setProperty("--py", window.scrollY + "px");
-    ticking = false;
-  }
-  window.addEventListener("scroll", () => {
-    if (!ticking) { requestAnimationFrame(update); ticking = true; }
-  }, { passive: true });
-}
+// Lo sfondo e le illustrazioni pixel-art sono in art.js (initBgScene).
 
 // --- tema chiaro/scuro ---
 function initTheme() {
@@ -152,10 +34,22 @@ function tintHue(ratio) {
   return Math.round(45 - ratio * 37);
 }
 
+// markdown minimo: grassetto, corsivo, link, a capo
 function mdInline(s) {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;")
+    .replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
     .replace(/\*\*(.+?)\*\*/g, "<b>$1</b>")
-    .replace(/\*(.+?)\*/g, "<i>$1</i>");
+    .replace(/(^|[^*])\*([^*\s][^*]*?)\*/g, "$1<i>$2</i>")
+    .replace(/\n/g, "<br>");
+}
+
+// righe di un blocco note: "• " = punto elenco, "  • " = sotto-punto
+function renderLines(lines) {
+  return lines.map(l => {
+    const sub = l.startsWith("  • "), bullet = sub || l.startsWith("• ");
+    const text = bullet ? l.replace(/^\s*• /, "") : l;
+    return `<div class="${bullet ? "li" + (sub ? " sub" : "") : "p"}">${mdInline(text)}</div>`;
+  }).join("");
 }
 
 function renderDeadline(d) {
@@ -165,8 +59,7 @@ function renderDeadline(d) {
     <input type="checkbox" disabled ${d.done ? "checked" : ""}>
     <div>
       <div class="d-title">${mdInline(d.titolo)} <span class="tag">${d.tags}</span></div>
-      <div class="d-meta">Apre: ${d.apre}${d.oraIt ? " (" + d.oraIt + " IT)" : ""} · Entro: ${d.entro} · ${d.dove}</div>
-      ${d.note ? `<div class="d-notes">${d.note.map(n => `<div>${mdInline(n)}</div>`).join("")}</div>` : ""}
+      ${d.note.length ? `<div class="d-notes">${d.note.map(n => `<div>${mdInline(n)}</div>`).join("")}</div>` : ""}
     </div>`;
   return div;
 }
@@ -177,10 +70,20 @@ function renderIndex() {
   document.getElementById("trip-subtitle").textContent = t.subtitle;
 
   const scad = document.getElementById("scadenze-list");
-  t.scadenze
-    .slice()
-    .sort((a, b) => a.done - b.done)
-    .forEach(d => scad.appendChild(renderDeadline(d)));
+  const table = document.createElement("div");
+  table.className = "card table-wrap";
+  table.innerHTML = `<table class="scad-table">
+    <thead><tr><th>Cosa</th><th>Apre</th><th>Ora IT</th><th>Entro</th><th>Dove</th></tr></thead>
+    <tbody>${t.scadenzeTabella.map(r => `<tr><td>${mdInline(r.cosa)}</td><td>${mdInline(r.apre)}</td><td>${r.oraIt}</td><td>${mdInline(r.entro)}</td><td>${mdInline(r.dove)}</td></tr>`).join("")}</tbody>
+  </table>`;
+  scad.appendChild(table);
+  t.scadenze.forEach(grp => {
+    const h = document.createElement("h3");
+    h.className = "sub-h";
+    h.textContent = grp.titolo;
+    scad.appendChild(h);
+    grp.items.slice().sort((a, b) => a.done - b.done).forEach(d => scad.appendChild(renderDeadline(d)));
+  });
 
   const grid = document.getElementById("days-grid");
   const last = t.giorni.length - 1;
@@ -201,9 +104,15 @@ function renderIndex() {
     div.innerHTML = `<b>${h.citta} — ${h.nome}</b>${h.indirizzo}<br>${h.dal} → ${h.al}`;
     hotels.appendChild(div);
   });
+  (t.hotelNota || []).forEach(n => {
+    const div = document.createElement("div");
+    div.className = "callout";
+    div.innerHTML = mdInline(n);
+    hotels.appendChild(div);
+  });
 
   const flights = document.getElementById("flight-list");
-  [t.voli.andata, t.voli.ritorno].forEach(f => {
+  t.voli.forEach(f => {
     const div = document.createElement("div");
     div.className = "card flight-card";
     div.innerHTML = mdInline(f);
@@ -211,10 +120,10 @@ function renderIndex() {
   });
 
   const note = document.getElementById("note-rapide");
-  Object.values(t.noteRapide).forEach(n => {
+  t.note.forEach(n => {
     const div = document.createElement("div");
-    div.className = "card";
-    div.innerHTML = mdInline(n);
+    div.className = "card note-card";
+    div.innerHTML = `<b>${mdInline(n.titolo)}</b>${renderLines(n.righe)}`;
     note.appendChild(div);
   });
 }
@@ -225,7 +134,7 @@ function escapeHtml(s) {
 }
 
 function stripMd(s) {
-  return s.replace(/\*\*(.+?)\*\*/g, "$1").replace(/\*(.+?)\*/g, "$1");
+  return s.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1").replace(/\*\*(.+?)\*\*/g, "$1").replace(/\*(.+?)\*/g, "$1").replace(/\n/g, " ");
 }
 
 function normText(s) {
@@ -236,20 +145,22 @@ function buildSearchIndex() {
   const t = window.TRIP;
   const idx = [];
 
-  t.scadenze.forEach(d => {
-    idx.push({ section: "SCADENZE", text: stripMd([d.titolo, d.dove, ...(d.note || [])].join(" · ")), link: "index.html#scadenze" });
+  t.scadenzeTabella.forEach(r => {
+    idx.push({ section: "SCADENZE", text: stripMd(`${r.cosa} · apre ${r.apre} · entro ${r.entro} · ${r.dove}`), link: "index.html#scadenze" });
   });
+  t.scadenze.forEach(grp => grp.items.forEach(d => {
+    idx.push({ section: "SCADENZE", text: stripMd([d.titolo, ...d.note].join(" · ")), link: "index.html#scadenze" });
+  }));
 
   t.hotel.forEach(h => {
     idx.push({ section: "HOTEL", text: `${h.citta} — ${h.nome}, ${h.indirizzo} (${h.dal} → ${h.al})`, link: "index.html#hotel" });
   });
 
-  idx.push({ section: "VOLI", text: stripMd(t.voli.andata), link: "index.html#voli" });
-  idx.push({ section: "VOLI", text: stripMd(t.voli.ritorno), link: "index.html#voli" });
+  t.voli.forEach(v => idx.push({ section: "VOLI", text: stripMd(v), link: "index.html#voli" }));
 
-  Object.values(t.noteRapide).forEach(n => {
-    idx.push({ section: "NOTE", text: stripMd(n), link: "index.html#note" });
-  });
+  t.note.forEach(n => n.righe.forEach(r => {
+    idx.push({ section: "NOTE — " + stripMd(n.titolo).toUpperCase(), text: stripMd(r.replace(/^\s*• /, "")), link: "index.html#note" });
+  }));
 
   t.giorni.forEach(g => {
     const dateFmt = new Date(g.data + "T00:00:00").toLocaleDateString("it-IT", { day: "2-digit", month: "short" });
@@ -258,6 +169,7 @@ function buildSearchIndex() {
     idx.push({ section: label, text: stripMd(g.titolo + (g.hotel ? " · " + g.hotel : "")), link });
     (g.note || []).forEach(n => idx.push({ section: label, text: stripMd(n), link }));
     g.items.forEach(item => idx.push({ section: label, text: stripMd(item), link }));
+    (t.pasti[g.data] || []).forEach(p => idx.push({ section: label, text: stripMd(`${p.pasto}: ${p.locale}`), link }));
   });
 
   return idx;
@@ -356,9 +268,23 @@ function renderGiorno() {
   g.items.forEach(line => {
     const li = document.createElement("li");
     const m = line.match(/^\*\*([^*]+)\*\*\s*(.*)$/);
-    li.innerHTML = m ? `<span class="time">${m[1]}</span> ${mdInline(m[2])}` : mdInline(line);
+    if (line.startsWith("• ")) li.className = "sub";
+    li.innerHTML = m ? `<span class="time">${m[1]}</span><span class="pin-refs"></span> ${mdInline(m[2])}` : mdInline(line.replace(/^• /, ""));
+    if (m && /^\d{1,2}:\d{2}/.test(m[1])) li.dataset.range = m[1];
     list.appendChild(li);
   });
+
+  const pasti = t.pasti[g.data] || [];
+  const pastiBox = document.getElementById("d-pasti");
+  if (pastiBox && pasti.length) {
+    pastiBox.innerHTML = `<h2 class="sub-h">Pasti</h2>` + pasti.map(p => `
+      <div class="card meal">
+        <div class="meal-head"><span class="time">${p.pasto}${p.ingresso ? " · " + p.ingresso : ""}</span>${p.prenotazione ? `<span class="meal-book">${mdInline(p.prenotazione)}</span>` : ""}</div>
+        <div>${mdInline(p.locale)}</div>
+        ${p.tabelog ? `<div class="meal-links">${mdInline(p.tabelog)}</div>` : ""}
+        ${p.note ? `<div class="meal-note">${mdInline(p.note)}</div>` : ""}
+      </div>`).join("");
+  }
 
   const prev = t.giorni[idx - 1], next = t.giorni[idx + 1];
   const prevA = document.getElementById("nav-prev"), nextA = document.getElementById("nav-next");

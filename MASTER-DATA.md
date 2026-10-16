@@ -640,3 +640,127 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 - **09:30 -- 10:15** Trasferimento a Haneda. Dallo Shiba Park sono circa 25-30 minuti in taxi, oppure Monorail da Hamamatsucho, che è a due passi.
 - **10:15 -- 13:20** Imbarco e ultimi acquisti. 💡 Haneda Terminal 3 ha una zona in stile Edo con negozi di artigianato: è il posto giusto per gli ultimi regali.
 - **13:20 -- 20:25** Volo ITA Airways AZ 793 per Roma Fiumicino. 🎫
+---
+
+# Mappa — coordinate dei luoghi
+
+> 🗺️ Alimenta la mappa del sito. Quando aggiungete, togliete o spostate un luogo nel piano, aggiornate anche questa tabella (ordine = ordine di visita del giorno). Il nome del luogo è usato anche come ricerca su Google Maps, quindi tenetelo "pulito" (nome ufficiale, in romaji/inglese). Coordinate approssimate al quartiere o all'ingresso principale.
+
+## Hotel
+
+| Hotel | Lat | Lng |
+|---|---|---|
+| Hotel Metropolitan Edmont | 35.7003 | 139.7466 |
+| Lian Kanazawa | 36.5735 | 136.6535 |
+| KABIN Kyoto | 34.9985 | 135.768 |
+| Aloft by Marriott Osaka Dojima | 34.6945 | 135.496 |
+| Shiba Park Hotel | 35.6575 | 139.752 |
+
+## Luoghi per giorno
+
+| Data | Ora | Luogo | Lat | Lng |
+|---|---|---|---|---|
+| 19/11 | 11:20 | Haneda Airport | 35.5494 | 139.7798 |
+| 19/11 | 15:15 | Koishikawa Korakuen | 35.7056 | 139.7497 |
+| 19/11 | 17:30 | Kagurazaka | 35.702 | 139.7405 |
+| 20/11 | 07:00 | Busta Shinjuku | 35.6885 | 139.7005 |
+| 20/11 | 09:45 | Chureito Pagoda | 35.5012 | 138.8013 |
+| 20/11 | 11:45 | Houtou Fudo Higashi Koiji | 35.4985 | 138.769 |
+| 20/11 | 13:00 | Mt. Fuji Panoramic Ropeway | 35.5034 | 138.7676 |
+| 20/11 | 14:30 | Momiji Kairo Kawaguchiko | 35.5203 | 138.7486 |
+| 21/11 | 08:30 | Senso-ji | 35.7148 | 139.7967 |
+| 21/11 | 10:15 | Kappabashi Kitchen Town | 35.7123 | 139.788 |
+| 21/11 | 11:30 | Komagata Maekawa | 35.7083 | 139.7952 |
+| 21/11 | 13:00 | Hamarikyu Gardens | 35.66 | 139.7632 |
+| 21/11 | 14:30 | Yanaka Ginza | 35.7276 | 139.766 |
+| 22/11 | 08:00 | Meiji Jingu | 35.6764 | 139.6993 |
+| 22/11 | 09:45 | Takeshita Street | 35.6716 | 139.7031 |
+| 22/11 | 12:00 | Shimokitazawa | 35.6618 | 139.668 |
+| 22/11 | 15:40 | Shibuya Sky | 35.6584 | 139.7022 |
+| 22/11 | 18:30 | Shibuya Crossing | 35.6595 | 139.7005 |
+| 23/11 | 08:30 | Shinjuku Gyoen | 35.6852 | 139.7101 |
+| 23/11 | 11:30 | AFURI Nakameguro | 35.644 | 139.699 |
+| 23/11 | 12:30 | Starbucks Reserve Roastery Tokyo | 35.6492 | 139.6936 |
+| 23/11 | 14:00 | Daikanyama T-Site | 35.6492 | 139.7 |
+| 23/11 | 16:15 | Tokyo Metropolitan Government Building | 35.6896 | 139.6921 |
+| 23/11 | 17:30 | Omoide Yokocho | 35.6929 | 139.6995 |
+| 23/11 | 19:45 | Ebisu Garden Place | 35.6421 | 139.7137 |
+| 24/11 | 10:00 | Kanazawa Station | 36.5781 | 136.6478 |
+| 24/11 | 11:00 | Omicho Market | 36.5716 | 136.6567 |
+| 24/11 | 13:00 | Kanazawa Castle Park | 36.5651 | 136.6595 |
+| 24/11 | 14:00 | Seisonkaku | 36.56 | 136.664 |
+| 24/11 | 15:00 | Kenrokuen | 36.5621 | 136.6627 |
+| 24/11 | 16:15 | 21st Century Museum of Contemporary Art Kanazawa | 36.5609 | 136.6582 |
+| 24/11 | 19:45 | Higashi Chaya District | 36.5724 | 136.6667 |
+| 24/11 | 20:00 | Kazuemachi | 36.5704 | 136.6643 |
+| 25/11 | 09:00 | Nomura Samurai House | 36.5627 | 136.6497 |
+| 25/11 | 10:45 | Oyama Shrine | 36.566 | 136.6543 |
+| 25/11 | 13:30 | Myoryu-ji Ninja-dera | 36.5555 | 136.653 |
+| 25/11 | 14:45 | Nishi Chaya District | 36.556 | 136.6505 |
+| 25/11 | 15:45 | Kutani Kosen Kiln | 36.5546 | 136.6467 |
+| 26/11 | 09:45 | Kyoto Station | 34.9858 | 135.7588 |
+| 26/11 | 11:30 | Nishiki Market | 35.005 | 135.7649 |
+| 26/11 | 14:00 | Yasaka Shrine | 35.0037 | 135.7786 |
+| 26/11 | 14:30 | Maruyama Park | 35.0034 | 135.781 |
+| 26/11 | 16:15 | Hanamikoji Street | 35.0018 | 135.7752 |
+| 26/11 | 17:45 | THE KAISEKI Higashiyama | 34.9985 | 135.7795 |
+| 27/11 | 06:30 | Fushimi Inari Taisha | 34.9671 | 135.7727 |
+| 27/11 | 07:30 | Yotsutsuji Intersection | 34.9654 | 135.7835 |
+| 27/11 | 09:15 | Tofuku-ji | 34.9767 | 135.774 |
+| 27/11 | 11:15 | Uji Station | 34.8936 | 135.8005 |
+| 27/11 | 13:00 | Byodo-in | 34.8892 | 135.8078 |
+| 28/11 | 08:00 (opz. A) | Enryaku-ji | 35.0703 | 135.841 |
+| 28/11 | 09:00 (opz. B) | Nanzen-ji | 35.011 | 135.7944 |
+| 28/11 | 10:30 (opz. B) | Philosopher's Path | 35.023 | 135.7945 |
+| 28/11 | 13:00 (opz. B) | Ginkaku-ji | 35.027 | 135.7982 |
+| 28/11 | 17:00 | Eikando Zenrin-ji | 35.0147 | 135.7943 |
+| 28/11 | 19:00 | Pontocho Alley | 35.0064 | 135.771 |
+| 29/11 | 08:00 | Kurama-dera | 35.1179 | 135.7708 |
+| 29/11 | 10:30 | Kifune Shrine | 35.1217 | 135.7628 |
+| 29/11 | 15:00 | Kibuneguchi Station | 35.1032 | 135.7629 |
+| 30/11 | 07:00 | Kiyomizu-dera | 34.9949 | 135.785 |
+| 30/11 | 09:15 | Sannenzaka | 34.9965 | 135.7814 |
+| 30/11 | 10:00 | Ninenzaka | 34.9982 | 135.7802 |
+| 30/11 | 12:30 | Hokan-ji Yasaka Pagoda | 34.9986 | 135.7793 |
+| 30/11 | 18:30 | Kodai-ji | 35.0006 | 135.7811 |
+| 01/12 | 08:30 | Kintetsu Nara Station | 34.6844 | 135.827 |
+| 01/12 | 09:00 | Todai-ji | 34.689 | 135.8398 |
+| 01/12 | 10:00 | Nara Park | 34.6851 | 135.843 |
+| 01/12 | 11:00 | Kasuga Taisha | 34.6813 | 135.8484 |
+| 01/12 | 13:00 | Naramachi | 34.677 | 135.83 |
+| 01/12 | 14:45 | Nakatanidou | 34.6826 | 135.8288 |
+| 02/12 | 07:15 | Arashiyama Bamboo Grove | 35.017 | 135.6713 |
+| 02/12 | 08:30 | Tenryu-ji | 35.0156 | 135.6738 |
+| 02/12 | 10:00 | Bread, Espresso & Arashiyama Garden | 35.0136 | 135.676 |
+| 02/12 | 11:30 (opz. a) | Kinkaku-ji | 35.0394 | 135.7292 |
+| 02/12 | 12:30 (opz. a) | Ryoan-ji | 35.0345 | 135.7182 |
+| 02/12 | 14:30 | Arashiyama Monkey Park Iwatayama | 35.0103 | 135.677 |
+| 02/12 | 16:00 | Togetsukyo Bridge | 35.0129 | 135.6778 |
+| 03/12 | 09:45 | Himeji Castle | 34.8394 | 134.6939 |
+| 03/12 | 13:00 | Koko-en Garden | 34.838 | 134.6905 |
+| 03/12 | 17:45 | Mishima-tei Kyoto | 35.0055 | 135.768 |
+| 04/12 | 10:15 | Kuromon Market | 34.6654 | 135.5066 |
+| 04/12 | 11:00 | Tsutenkaku | 34.6525 | 135.5063 |
+| 04/12 | 13:00 | Osaka Aquarium Kaiyukan | 34.6545 | 135.4289 |
+| 04/12 | 17:30 | teamLab Botanical Garden Osaka | 34.6116 | 135.518 |
+| 04/12 | 19:30 | Dotonbori Glico Sign | 34.6687 | 135.5013 |
+| 05/12 | 11:00 | Tokyo Station | 35.6812 | 139.7671 |
+| 05/12 | 13:00 | Tokyo Tower | 35.6586 | 139.7454 |
+| 05/12 | 14:00 | Zojo-ji | 35.6575 | 139.7484 |
+| 05/12 | 15:15 | Unicorn Gundam Odaiba | 35.625 | 139.7756 |
+| 05/12 | 16:30 | Statue of Liberty Odaiba | 35.6276 | 139.7718 |
+| 06/12 | 09:30 | Akihabara | 35.6984 | 139.7731 |
+| 06/12 | 11:55 | Tsukiji Outer Market | 35.6655 | 139.7707 |
+| 06/12 | 14:15 | Ginza | 35.6717 | 139.765 |
+| 06/12 | 16:00 | Yurakucho Gado-shita | 35.6748 | 139.7629 |
+| 06/12 | 18:00 | Rikugien | 35.733 | 139.7465 |
+| 07/12 | 09:00 | Kamakura Station | 35.319 | 139.5503 |
+| 07/12 | 09:30 | Kotoku-in Great Buddha | 35.3167 | 139.5357 |
+| 07/12 | 10:45 | Hase-dera Kamakura | 35.3125 | 139.5332 |
+| 07/12 | 13:00 | Enoshima | 35.299 | 139.48 |
+| 08/12 | 09:30 | Icho Namiki Jingu Gaien | 35.6745 | 139.7182 |
+| 08/12 | 12:15 | Chidorigafuchi | 35.6905 | 139.747 |
+| 08/12 | 13:30 | Omotesando | 35.6654 | 139.71 |
+| 08/12 | 15:15 | Roppongi Hills Tokyo City View | 35.6604 | 139.7292 |
+| 08/12 | 17:30 | Keyakizaka Roppongi | 35.6593 | 139.729 |
+| 09/12 | 10:15 | Haneda Airport | 35.5494 | 139.7798 |

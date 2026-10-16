@@ -11,6 +11,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -49,7 +50,15 @@
 
   <div id="d-notes"></div>
 
+  <div id="d-map-box" class="d-map-box">
+    <div id="d-map" class="map-box map-box-sm"></div>
+    <p class="map-hint">I numeri sui pin corrispondono ai numeri accanto agli orari del programma: cliccane uno per vederlo sulla mappa. Zoom: pinch o ctrl+rotella.</p>
+    <a id="d-map-route" class="btn map-route" href="#" target="_blank" rel="noopener" hidden>Percorso del giorno su Google Maps ↗</a>
+  </div>
+
   <ul class="timeline" id="d-timeline"></ul>
+
+  <div id="d-pasti" class="d-pasti"></div>
 
   <nav class="day-nav">
     <a id="nav-prev" class="btn" href="#">← giorno prec.</a>
@@ -57,8 +66,11 @@
   </nav>
 </main>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
 <script src="data.js"></script>
+<script src="art.js"></script>
 <script src="app.js"></script>
-<script>initBgScene(); renderGiorno(); renderSearch(); initTheme();</script>
+<script src="map.js"></script>
+<script>initBgScene(); renderGiorno(); renderSearch(); renderMappaGiorno(); initTheme();</script>
 </body>
 </html>

@@ -11,6 +11,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -39,6 +40,7 @@
     </span>
     <button id="theme-toggle" class="btn theme-toggle" type="button" aria-label="Cambia tema"></button>
   </div>
+  <div id="hero-art" class="hero-art" aria-hidden="true"></div>
   <h1 id="trip-title"></h1>
   <p class="subtitle" id="trip-subtitle"></p>
   <div id="global-search" class="global-search"></div>
@@ -47,6 +49,7 @@
 
 <nav class="quicknav">
   <a class="btn" href="#giorni">Giorni</a>
+  <a class="btn" href="#mappa">Mappa</a>
   <a class="btn" href="#scadenze">Scadenze</a>
   <a class="btn" href="#hotel">Hotel</a>
   <a class="btn" href="#voli">Voli</a>
@@ -58,6 +61,24 @@
   <section id="giorni">
     <h2><svg class="h2-leaf" viewBox="0 0 11 11" aria-hidden="true"><use href="#leaf-momiji"></use></svg>Giorno per giorno</h2>
     <div id="days-grid" class="days-grid"></div>
+  </section>
+
+  <section id="mappa">
+    <h2><svg class="h2-leaf" viewBox="0 0 11 11" aria-hidden="true"><use href="#leaf-momiji"></use></svg>Mappa</h2>
+    <div class="map-controls">
+      <select id="map-day" class="btn map-select" aria-label="Filtra per giorno">
+        <option value="all">Tutti i giorni</option>
+      </select>
+      <div class="map-cities">
+        <button class="btn" type="button" data-city="Tokyo">Tokyo</button>
+        <button class="btn" type="button" data-city="Kanazawa">Kanazawa</button>
+        <button class="btn" type="button" data-city="Kyoto">Kyoto</button>
+        <button class="btn" type="button" data-city="Osaka">Osaka</button>
+      </div>
+    </div>
+    <div id="map" class="map-box"></div>
+    <p class="map-hint">Pin colorati per giorno (oro → rosso), linea tratteggiata = ordine di visita, 宿 = hotel. Click su un pin per aprirlo in Google Maps. Zoom: pinch o ctrl+rotella. Scegliendo un giorno i pin sono numerati come nella pagina del giorno.
+      <a id="map-route" class="btn map-route" href="#" target="_blank" rel="noopener" hidden>Percorso del giorno su Google Maps ↗</a></p>
   </section>
 
   <section id="scadenze">
@@ -85,13 +106,17 @@
 
 <footer>Aggiornato tramite Claude — parla con lui per modificare il piano.</footer>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
 <script src="data.js"></script>
+<script src="art.js"></script>
 <script src="app.js"></script>
+<script src="map.js"></script>
 <script>
   document.getElementById("legenda").textContent = window.TRIP.legenda.join("  ·  ");
   initBgScene();
   renderIndex();
   renderSearch();
+  renderMappa();
   initTheme();
 </script>
 </body>

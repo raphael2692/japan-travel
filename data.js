@@ -256,7 +256,7 @@ window.TRIP = {
           "tags": "🌟🎫",
           "done": false,
           "note": [
-            "⚠️ **Nuova voce.** Visita solo su **prenotazione obbligatoria** (telefono o web), a orari fissi, in gruppo guidato in giapponese con libretto in inglese.",
+            "⚠️ Visita solo su **prenotazione obbligatoria** (telefono o web), a orari fissi, in gruppo guidato in giapponese con libretto in inglese.",
             "Prenotare in ottobre. Sostituisce Seisonkaku, che il mercoledì è chiusa."
           ]
         },
@@ -558,17 +558,17 @@ window.TRIP = {
     "2026-11-27": [
       {
         "pasto": "Pranzo",
-        "ingresso": "11:45",
-        "locale": "Soba al tè matcha, Uji — 🔍 da scegliere",
-        "prenotazione": "✅ Walk-in",
-        "tabelog": "",
-        "note": ""
+        "ingresso": "10:00",
+        "locale": "**Bread, Espresso & Arashiyama Garden** (cascina restaurata di 200 anni)",
+        "prenotazione": "📞 Consigliata (molto popolare, in pratica spesso si fa coda anche con slot online)",
+        "tabelog": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260403/26032681/)",
+        "note": "Aperto 8:00-18:00"
       },
       {
         "pasto": "Cena",
-        "ingresso": "17:00",
-        "locale": "Ristorante tipico a Kyoto — 🔍 da scegliere",
-        "prenotazione": "📞 Consigliata",
+        "ingresso": "17:30",
+        "locale": "Okonomiyaki o ramen a Kyoto — 🔍 da scegliere",
+        "prenotazione": "✅ Walk-in",
         "tabelog": "",
         "note": ""
       },
@@ -664,17 +664,17 @@ window.TRIP = {
     "2026-12-02": [
       {
         "pasto": "Pranzo",
-        "ingresso": "10:00",
-        "locale": "**Bread, Espresso & Arashiyama Garden** (cascina restaurata di 200 anni)",
-        "prenotazione": "📞 Consigliata (molto popolare, in pratica spesso si fa coda anche con slot online)",
-        "tabelog": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260403/26032681/)",
-        "note": "Aperto 8:00-18:00"
+        "ingresso": "11:45",
+        "locale": "Soba al tè matcha, Uji — 🔍 da scegliere",
+        "prenotazione": "✅ Walk-in",
+        "tabelog": "",
+        "note": ""
       },
       {
         "pasto": "Cena",
-        "ingresso": "17:30",
-        "locale": "Okonomiyaki o ramen a Kyoto — 🔍 da scegliere",
-        "prenotazione": "✅ Walk-in",
+        "ingresso": "17:00",
+        "locale": "Ristorante tipico a Kyoto — 🔍 da scegliere",
+        "prenotazione": "📞 Consigliata",
         "tabelog": "",
         "note": ""
       }
@@ -736,7 +736,7 @@ window.TRIP = {
     "2026-12-06": [
       {
         "pasto": "Pranzo",
-        "ingresso": "11:55",
+        "ingresso": "12:45",
         "locale": "**Tsukiji Outer Market** — banchi consigliati: **Tsukiji Yamacho** (tamagoyaki su stecco), **Tsukiji Shouro** (tamagoyaki sando, dal 1924, meno coda di Yamacho), **Kakigoya** (ostriche al vapore o crude), + un banco di tachigui-zushi (sushi in piedi: scegliete quello con la coda più corta e il banco più fresco)",
         "prenotazione": "✅ Walk-in (mercato)",
         "tabelog": "[Yamacho: Tabelog](https://tabelog.com/en/tokyo/A1313/A131301/13100313/)",
@@ -772,7 +772,7 @@ window.TRIP = {
     "2026-12-08": [
       {
         "pasto": "Pranzo",
-        "ingresso": "11:15",
+        "ingresso": "12:00",
         "locale": "Bistrot ad Aoyama — 🔍 da scegliere",
         "prenotazione": "✅ Walk-in",
         "tabelog": "",
@@ -1077,34 +1077,46 @@ window.TRIP = {
     ],
     "2026-11-27": [
       [
-        "Fushimi Inari Taisha",
-        34.9671,
-        135.7727,
-        "06:30"
+        "Arashiyama Bamboo Grove",
+        35.017,
+        135.6713,
+        "07:15"
       ],
       [
-        "Yotsutsuji Intersection",
-        34.9654,
-        135.7835,
-        "07:30"
+        "Tenryu-ji",
+        35.0156,
+        135.6738,
+        "08:30"
       ],
       [
-        "Tofuku-ji",
-        34.9767,
-        135.774,
-        "09:15"
+        "Bread, Espresso & Arashiyama Garden",
+        35.0136,
+        135.676,
+        "10:00"
       ],
       [
-        "Uji Station",
-        34.8936,
-        135.8005,
-        "11:15"
+        "Kinkaku-ji",
+        35.0394,
+        135.7292,
+        "11:30 (opz. a)"
       ],
       [
-        "Byodo-in",
-        34.8892,
-        135.8078,
-        "13:00"
+        "Ryoan-ji",
+        35.0345,
+        135.7182,
+        "12:30 (opz. a)"
+      ],
+      [
+        "Arashiyama Monkey Park Iwatayama",
+        35.0103,
+        135.677,
+        "14:30"
+      ],
+      [
+        "Togetsukyo Bridge",
+        35.0129,
+        135.6778,
+        "16:00"
       ]
     ],
     "2026-11-28": [
@@ -1237,46 +1249,34 @@ window.TRIP = {
     ],
     "2026-12-02": [
       [
-        "Arashiyama Bamboo Grove",
-        35.017,
-        135.6713,
-        "07:15"
+        "Fushimi Inari Taisha",
+        34.9671,
+        135.7727,
+        "06:30"
       ],
       [
-        "Tenryu-ji",
-        35.0156,
-        135.6738,
-        "08:30"
+        "Yotsutsuji Intersection",
+        34.9654,
+        135.7835,
+        "07:30"
       ],
       [
-        "Bread, Espresso & Arashiyama Garden",
-        35.0136,
-        135.676,
-        "10:00"
+        "Tofuku-ji",
+        34.9767,
+        135.774,
+        "09:15"
       ],
       [
-        "Kinkaku-ji",
-        35.0394,
-        135.7292,
-        "11:30 (opz. a)"
+        "Uji Station",
+        34.8936,
+        135.8005,
+        "11:15"
       ],
       [
-        "Ryoan-ji",
-        35.0345,
-        135.7182,
-        "12:30 (opz. a)"
-      ],
-      [
-        "Arashiyama Monkey Park Iwatayama",
-        35.0103,
-        135.677,
-        "14:30"
-      ],
-      [
-        "Togetsukyo Bridge",
-        35.0129,
-        135.6778,
-        "16:00"
+        "Byodo-in",
+        34.8892,
+        135.8078,
+        "13:00"
       ]
     ],
     "2026-12-03": [
@@ -1365,16 +1365,22 @@ window.TRIP = {
     ],
     "2026-12-06": [
       [
-        "Akihabara",
-        35.6984,
-        139.7731,
+        "Icho Namiki Jingu Gaien",
+        35.6745,
+        139.7182,
         "09:30"
+      ],
+      [
+        "Chidorigafuchi",
+        35.6905,
+        139.747,
+        "11:20"
       ],
       [
         "Tsukiji Outer Market",
         35.6655,
         139.7707,
-        "11:55"
+        "12:45"
       ],
       [
         "Ginza",
@@ -1423,28 +1429,22 @@ window.TRIP = {
     ],
     "2026-12-08": [
       [
-        "Icho Namiki Jingu Gaien",
-        35.6745,
-        139.7182,
+        "Akihabara",
+        35.6984,
+        139.7731,
         "09:30"
-      ],
-      [
-        "Chidorigafuchi",
-        35.6905,
-        139.747,
-        "12:15"
       ],
       [
         "Omotesando",
         35.6654,
         139.71,
-        "13:30"
+        "13:15"
       ],
       [
         "Roppongi Hills Tokyo City View",
         35.6604,
         139.7292,
-        "15:15"
+        "15:00"
       ],
       [
         "Keyakizaka Roppongi",
@@ -1479,7 +1479,6 @@ window.TRIP = {
       "titolo": "Arrivo a Tokyo e primo assaggio",
       "hotel": "Hotel Metropolitan Edmont",
       "note": [
-        "✏️ *Giornata alleggerita rispetto alla versione precedente: il Rikugien serale è stato spostato al 6 dicembre, perché il 19 novembre l'illuminazione non è ancora attiva e il giardino chiude alle 17:00. Con il jet-lag addosso, questa versione è anche più sensata.*",
         "🍽️ ⚠️ **Eccezione pranzo:** il volo atterra a mezzogiorno passato e l'immigrazione richiede tempo, quindi oggi è impossibile pranzare entro le 12:00. È il pranzo più anticipato possibile data la logistica dell'arrivo."
       ],
       "items": [
@@ -1501,7 +1500,6 @@ window.TRIP = {
       "hotel": "Hotel Metropolitan Edmont",
       "emoji": "🌤️",
       "note": [
-        "✏️ **Giornata semplificata su richiesta:** niente bus riservato — si va e si torna col treno diretto **Fuji Excursion** (Shinjuku → Kawaguchiko, un solo treno, ~2h, posto riservato 🎫). Il programma punta su tre tappe con calma — Chureito Pagoda, Oishi Park, Momiji Kairo — con la funivia come extra solo se resta tempo.",
         "🔄 **Alternativa relax:** se il volo vi ha distrutti o le webcam mostrano cielo coperto, sostituite con una mattinata lenta a Tokyo e un solo giardino nel pomeriggio, tipo Shinjuku Gyoen. Il Fuji si rivede comunque dallo Shinkansen del 24/11 e del 05/12, già 🎫 prenotati. ⚠️ Attenzione però: il Fuji Excursion è 🎫 prenotato, quindi verificate la policy di cancellazione prima di dare buca.",
         "⚠️ **Correzione logistica:** la Chureito Pagoda **non è a Kawaguchiko**, ma sopra la stazione di **Shimoyoshida**, una fermata intermedia dello stesso Fuji Excursion (ferma anche lì). Sono circa 400 scalini dalla base. La sequenza sotto evita avanti-indietro inutili.",
         "🍽️ Nessuna cena fissa oggi: il rientro a Tokyo arriva verso le 18:45, quindi la cena serale cade fuori dalla finestra 16:30-18 per via dei tempi di viaggio — gestitela libera in zona hotel."
@@ -1571,7 +1569,6 @@ window.TRIP = {
       "items": [
         "🚨 **Spedizione bagagli, prima tappa:** entro le **07:45** consegnate le valigie grandi alla reception per la spedizione a **KABIN Kyoto**. ⚠️ Verificare in anticipo che il servizio operi nel giorno festivo.",
         "⚠️ **Nota su Shinjuku Gyoen:** normalmente è **chiuso il lunedì**. Poiché il 23/11 è festivo, apre e sposta la chiusura al giorno seguente. È un margine sottile e vale la pena **confermarlo sul sito ufficiale la settimana prima**.",
-        "✏️ **Giornata riordinata rispetto alla versione precedente:** Ebisu Garden Place è a meno di 1,5 km da Daikanyama, quindi ora è raggruppato nello stesso blocco pomeridiano invece di essere una seconda puntata a sud dopo essere già tornati a Shinjuku. Risultato: un solo blocco sud (Nakameguro-Daikanyama-Ebisu) invece di due andirivieni con Shinjuku.",
         "🚇 **Andata dall'hotel:** JR Chuo-Sobu Line da Iidabashi a Shinjuku (~12 min) + 10 min a piedi fino all'ingresso del giardino.",
         "**08:30 – 11:00** 🌟✅ **Shinjuku Gyoen National Garden:** entrate all'apertura per anticipare la folla del giorno festivo. Biglietto in loco.",
         "**11:30 – 13:00** *Pranzo e caffè (ingresso 11:30, già entro la finestra):* *AFURI Nakameguro*, yuzu shio ramen, e caffè allo *Starbucks Reserve Roastery*.",
@@ -1589,9 +1586,6 @@ window.TRIP = {
       "titolo": "Trasferimento a Kanazawa, in modalità leggera",
       "hotel": "Lian Kanazawa",
       "emoji": "🌤️",
-      "note": [
-        "✏️ *Giornata riorganizzata: la Seisonkaku Villa si è spostata qui dal 25, perché il mercoledì è chiusa. Sta dentro il Kenrokuen, quindi si incastra senza costi di spostamento.*"
-      ],
       "items": [
         "🚇 **Andata alla stazione:** JR Chuo-Sobu Line diretta da Iidabashi a Tokyo Station (~15 min).",
         "**07:30 – 10:00** 🎫🌤️ Hokuriku Shinkansen Tokyo → Kanazawa, circa 2h30 col Kagayaki. Posti sul **lato sinistro** per le Alpi Giapponesi. Viaggiate solo con bagaglio a mano. Posto già prenotato, nessuna azione anche se il cielo è coperto.",
@@ -1612,9 +1606,6 @@ window.TRIP = {
       "giorno": "Mercoledì",
       "titolo": "Kanazawa: samurai, ninja e artigianato",
       "hotel": "Lian Kanazawa",
-      "note": [
-        "✏️ *Giornata riscritta. La Seisonkaku è chiusa il mercoledì, quindi è passata a ieri. Al suo posto entra il **Myoryu-ji, il \"Tempio dei Ninja\"**, che è molto più coerente col tema samurai della giornata. Richiede prenotazione obbligatoria.*"
-      ],
       "items": [
         "🚶 **Andata dall'hotel:** a piedi fino a Nagamachi (~15 min), oppure bus turistico Kanazawa Loop (fermata vicina all'hotel).",
         "**09:00 – 10:45** 🌟✅ **Nagamachi:** il quartiere dei samurai, con i muri di terra battuta e i canali, e la **Nomura Family Samurai House** col suo giardino interno. Biglietto in loco.",
@@ -1647,20 +1638,27 @@ window.TRIP = {
     {
       "data": "2026-11-27",
       "giorno": "Venerdì",
-      "titolo": "Picco foliage: Fushimi Inari all'alba, Tofuku-ji e Uji",
+      "titolo": "Arashiyama all'alba: bambù, scimmie, giardini zen e il Padiglione d'Oro",
       "hotel": "KABIN Kyoto",
       "note": [
-        "🔄 **Alternativa relax:** giornata intensa con sveglia alle 06:30, tutte le voci sono ✅ senza prenotazione. Se preferite dormire, spostate Fushimi Inari a un orario più tardo accettando la folla, oppure tenete solo una delle due albe tra oggi e il 30/11. In alternativa saltate Uji, che richiede uno spostamento extra."
+        "🔄 **Alternativa relax:** sveglia presto (~06:30-07:00) ma tutte le voci sono ✅ senza prenotazione. Se la tappa di Kanazawa vi ha lasciati stanchi, il pomeriggio è la parte più sacrificabile: la mattinata bambù e Tenryu-ji resta il cuore imperdibile.",
+        "⚠️ **Correzione orari:** il Tenryu-ji **apre alle 08:30**, quindi non si può fare \"bambù più Tenryu-ji entro le 09:15\". La sequenza sotto è calibrata di conseguenza, e la vecchia pausa \"colazione e relax\" diventa il pranzo vero e proprio, perché cade già entro la finestra.",
+        "💡 Il blocco include anche il **Kinkaku-ji**, il Padiglione d'Oro — a 20-25 minuti di bus o taxi da Arashiyama — in alternativa a **Gio-ji** e **Otagi Nenbutsu-ji**, più intimi e meno turistici."
       ],
       "items": [
-        "🚕 **Andata dall'hotel:** taxi fino a Kyoto Station (~10 min, comodo vista l'ora), poi JR Nara Line fino a Fushimi Inari Station, 2 fermate (~5 min). In alternativa, 20 minuti a piedi fino alla stazione se preferite risparmiare.",
-        "**06:30 – 09:00** 🌟✅ **Fushimi Inari Taisha:** salita tra i torii nel silenzio, prima che arrivino i pullman. Accesso libero 24 ore su 24. 💡 Salite almeno fino al belvedere Yotsutsuji, circa 30-40 minuti: sotto quel punto è solo la parte turistica.",
-        "**09:15 – 11:00** 🌟✅ **Tofuku-ji:** la vista dal ponte **Tsutenkyo** immerso nel picco del rosso. Biglietto in loco. ⚠️ **Due avvertenze:** in alta stagione **è vietato fotografare dal ponte Tsutenkyo**, e negli ultimi anni sono stati introdotti ingressi anticipati a pagamento con orario. Verificate sul sito la settimana prima. La coda a metà mattina di un venerdì di picco sarà già lunga: mettetelo in conto.",
-        "**11:15 – 11:35** Treno per **Uji**, linea JR Nara, circa 20 minuti.",
-        "**11:45 – 12:45** *Pranzo (ingresso 11:45):* soba al tè matcha a Uji.",
-        "**13:00 – 15:15** 🔄✅ **Byodo-in** e degustazione del matcha migliore del Giappone. Sacrificabile se l'alba vi ha stroncati. Alternativa: rientro anticipato a Kyoto per riposare.",
-        "**15:30 – 16:30** Rientro a Kyoto (JR Nara Line fino a Kyoto Station, poi a piedi o autobus fino al KABIN, ~20 min).",
-        "**17:00 – 19:00** *Cena (ingresso 17:00):* ristorante tipico a Kyoto."
+        "🚕 **Andata dall'hotel:** taxi fino a Kyoto Station (~10 min, vista l'ora), poi JR Sagano Line fino a Saga-Arashiyama (~15 min).",
+        "**07:15 – 08:20** 🌟✅ **Arashiyama Bamboo Grove:** la foresta di bambù prima che arrivi chiunque. Accesso libero. Alle 09:00 è già ingestibile.",
+        "**08:30 – 09:45** 🌟✅ **Tenryu-ji:** il giardino zen di Muso Soseki, immutato dal XIV secolo, con lo stagno che riflette le montagne. ⚠️ Apre alle 08:30 in punto, siate lì.",
+        "**10:00 – 11:15** *Pranzo (ingresso 10:00, ben dentro la finestra):* *Bread, Espresso & Arashiyama Garden*, dentro una residenza storica.",
+        "**11:30 – 13:15** 🔄✅ **Scegliete un'opzione:**",
+        "• **(a) 🌟 Kinkaku-ji (Padiglione d'Oro) e Ryoan-ji:** circa 20-25 minuti di bus da Arashiyama (o taxi). Il Kinkaku-ji, rivestito in foglia d'oro e specchiato nello stagno, è forse l'immagine più iconica del Giappone; il Ryoan-ji, a pochi minuti, ha il celebre giardino zen di sole pietre e ghiaia rastrellata. Biglietti in loco. Consigliata se non l'avete ancora vista dal vivo.",
+        "• **(b) Gio-ji** col tappeto di muschio e **Otagi Nenbutsu-ji** con le 1.200 statue di pietra scolpite ognuna con una faccia diversa: più intime e meno turistiche, ma non vicine tra loro (circa 2 km in salita) — sceglietene una delle due se optate per questa alternativa.",
+        "• Sacrificabile in entrambi i casi, decidete al momento in base a energie e voglia.",
+        "**13:30 – 14:00** *Pausa caffè o spuntino leggero* lungo il fiume, se serve.",
+        "**14:30 – 15:45** 🔄✅ **Arashiyama Monkey Park Iwatayama:** venti minuti di salita ripida, poi le scimmie e il panorama su Kyoto. ⚠️ **In inverno chiude presto**, di solito alle 16:00 con ultimo ingresso verso le 15:30. Salite entro le 14:45 o lasciate perdere. 💡 Se avete scelto l'opzione (a) Kinkaku-ji e siete di ritorno tirati con i tempi, questo è il primo punto sacrificabile della giornata.",
+        "**16:00 – 17:15** ✅ Ponte **Togetsukyo** al tramonto e rientro.",
+        "**17:30 – 19:30** 🥢 *Cena (ingresso 17:30):* okonomiyaki o ramen a Kyoto.",
+        "🚆 **Rientro in hotel:** JR Sagano Line da Saga-Arashiyama a Kyoto Station (~15 min), poi a piedi o autobus fino al KABIN (~20 min)."
       ]
     },
     {
@@ -1730,7 +1728,7 @@ window.TRIP = {
       "titolo": "Gita a Nara, col treno panoramico Aoniyoshi al rientro",
       "hotel": "KABIN Kyoto",
       "note": [
-        "⚠️ **Giornata invertita rispetto al piano originale.** L'Aoniyoshi non parte da Kyoto la mattina presto: le corse Kyoto → Nara sono verso le 10:55, 12:55 e 14:55. Andare a Nara con l'Aoniyoshi vi avrebbe fatto arrivare a mezzogiorno, dimezzando la giornata. Così invece avete Nara piena e **l'Aoniyoshi come rientro in luce dorata**, che è anche più bello."
+        "⚠️ **L'Aoniyoshi non parte da Kyoto la mattina presto:** le corse Kyoto → Nara sono verso le 10:55, 12:55 e 14:55. Per questo il piano usa **l'Aoniyoshi come rientro in luce dorata** nel tardo pomeriggio, con Nara piena al mattino — partire con l'Aoniyoshi avrebbe fatto arrivare a mezzogiorno, dimezzando la giornata."
       ],
       "items": [
         "🚶 **Andata alla stazione:** a piedi o breve taxi fino a Kyoto Station (~20 min), partenza presto.",
@@ -1747,27 +1745,20 @@ window.TRIP = {
     {
       "data": "2026-12-02",
       "giorno": "Mercoledì",
-      "titolo": "Arashiyama all'alba: bambù, scimmie, giardini zen e il Padiglione d'Oro",
+      "titolo": "Fushimi Inari all'alba, Tofuku-ji al suo meglio e Uji",
       "hotel": "KABIN Kyoto",
       "note": [
-        "🔄 **Alternativa relax:** ultima alba del viaggio. Se sentite la stanchezza accumulata, il pomeriggio è la parte più sacrificabile: la mattinata bambù e Tenryu-ji resta il cuore imperdibile. Nessuna voce è prenotata, decidete al risveglio.",
-        "⚠️ **Correzione orari:** il Tenryu-ji **apre alle 08:30**, quindi non si può fare \"bambù più Tenryu-ji entro le 09:15\". La sequenza sotto è ricalibrata, e la vecchia pausa \"colazione e relax\" diventa oggi il pranzo vero e proprio, perché cade già entro la finestra.",
-        "✏️ **Aggiunta nuova:** avevate notato la mancanza del **Kinkaku-ji**, il Padiglione d'Oro — una delle icone più fotografate del Giappone. È a nord-ovest di Kyoto, a circa 20-25 minuti di bus o taxi da Arashiyama, quindi si incastra bene proprio in questa giornata al posto del blocco Gio-ji/Otagi Nenbutsu-ji (che restano comunque validi come alternativa se preferite un'atmosfera più raccolta e meno turistica)."
+        "🔄 **Alternativa relax:** giornata intensa con sveglia alle 06:30, tutte le voci sono ✅ senza prenotazione. Se preferite dormire, spostate Fushimi Inari a un orario più tardo accettando la folla, oppure tenete solo una delle due albe tra questo giorno e il 30/11. In alternativa saltate Uji, che richiede uno spostamento extra."
       ],
       "items": [
-        "🚕 **Andata dall'hotel:** taxi fino a Kyoto Station (~10 min, vista l'ora), poi JR Sagano Line fino a Saga-Arashiyama (~15 min).",
-        "**07:15 – 08:20** 🌟✅ **Arashiyama Bamboo Grove:** la foresta di bambù prima che arrivi chiunque. Accesso libero. Alle 09:00 è già ingestibile.",
-        "**08:30 – 09:45** 🌟✅ **Tenryu-ji:** il giardino zen di Muso Soseki, immutato dal XIV secolo, con lo stagno che riflette le montagne. ⚠️ Apre alle 08:30 in punto, siate lì.",
-        "**10:00 – 11:15** *Pranzo (ingresso 10:00, ben dentro la finestra):* *Bread, Espresso & Arashiyama Garden*, dentro una residenza storica.",
-        "**11:30 – 13:15** 🔄✅ **Scegliete un'opzione:**",
-        "• **(a) 🌟 Kinkaku-ji (Padiglione d'Oro) e Ryoan-ji:** circa 20-25 minuti di bus da Arashiyama (o taxi). Il Kinkaku-ji, rivestito in foglia d'oro e specchiato nello stagno, è forse l'immagine più iconica del Giappone; il Ryoan-ji, a pochi minuti, ha il celebre giardino zen di sole pietre e ghiaia rastrellata. Biglietti in loco. Consigliata se non l'avete ancora vista dal vivo.",
-        "• **(b) Gio-ji** col tappeto di muschio e **Otagi Nenbutsu-ji** con le 1.200 statue di pietra scolpite ognuna con una faccia diversa: più intime e meno turistiche, ma non vicine tra loro (circa 2 km in salita) — sceglietene una delle due se optate per questa alternativa.",
-        "• Sacrificabile in entrambi i casi, decidete al momento in base a energie e voglia.",
-        "**13:30 – 14:00** *Pausa caffè o spuntino leggero* lungo il fiume, se serve.",
-        "**14:30 – 15:45** 🔄✅ **Arashiyama Monkey Park Iwatayama:** venti minuti di salita ripida, poi le scimmie e il panorama su Kyoto. ⚠️ **In inverno chiude presto**, di solito alle 16:00 con ultimo ingresso verso le 15:30. Salite entro le 14:45 o lasciate perdere. 💡 Se avete scelto l'opzione (a) Kinkaku-ji e siete di ritorno tirati con i tempi, questo è il primo punto sacrificabile della giornata.",
-        "**16:00 – 17:15** ✅ Ponte **Togetsukyo** al tramonto e rientro.",
-        "**17:30 – 19:30** 🥢 *Cena (ingresso 17:30):* okonomiyaki o ramen a Kyoto.",
-        "🚆 **Rientro in hotel:** JR Sagano Line da Saga-Arashiyama a Kyoto Station (~15 min), poi a piedi o autobus fino al KABIN (~20 min)."
+        "🚕 **Andata dall'hotel:** taxi fino a Kyoto Station (~10 min, comodo vista l'ora), poi JR Nara Line fino a Fushimi Inari Station, 2 fermate (~5 min). In alternativa, 20 minuti a piedi fino alla stazione se preferite risparmiare.",
+        "**06:30 – 09:00** 🌟✅ **Fushimi Inari Taisha:** salita tra i torii nel silenzio, prima che arrivino i pullman. Accesso libero 24 ore su 24. 💡 Salite almeno fino al belvedere Yotsutsuji, circa 30-40 minuti: sotto quel punto è solo la parte turistica.",
+        "**09:15 – 11:00** 🌟✅ **Tofuku-ji:** la vista dal ponte **Tsutenkyo**, qui vicino al suo picco di colore stagionale. Biglietto in loco. ⚠️ **Due avvertenze:** in alta stagione **è vietato fotografare dal ponte Tsutenkyo**, e negli ultimi anni sono stati introdotti ingressi anticipati a pagamento con orario. Verificate sul sito la settimana prima. La coda a metà mattina sarà comunque lunga vicino al picco foliage: mettetelo in conto.",
+        "**11:15 – 11:35** Treno per **Uji**, linea JR Nara, circa 20 minuti.",
+        "**11:45 – 12:45** *Pranzo (ingresso 11:45):* soba al tè matcha a Uji.",
+        "**13:00 – 15:15** 🔄✅ **Byodo-in** e degustazione del matcha migliore del Giappone. Sacrificabile se l'alba vi ha stroncati. Alternativa: rientro anticipato a Kyoto per riposare.",
+        "**15:30 – 16:30** Rientro a Kyoto (JR Nara Line fino a Kyoto Station, poi a piedi o autobus fino al KABIN, ~20 min).",
+        "**17:00 – 19:00** *Cena (ingresso 17:00):* ristorante tipico a Kyoto."
       ]
     },
     {
@@ -1832,22 +1823,20 @@ window.TRIP = {
     {
       "data": "2026-12-06",
       "giorno": "Domenica",
-      "titolo": "Akihabara, Ginza e illuminazione notturna al Rikugien",
+      "titolo": "Ginkgo, Palazzo Imperiale, Ginza e illuminazione al Rikugien",
       "hotel": "Shiba Park Hotel",
-      "note": [
-        "✏️ *Giornata riorganizzata per accogliere l'illuminazione del Rikugien, spostata qui dal 19 novembre dove non sarebbe stata attiva. La cena anticipata si incastra perfettamente perché il Rikugien apre proprio alle 18:00.*"
-      ],
       "items": [
-        "🚆 **Andata dall'hotel:** JR Keihin-Tohoku Line diretta da Hamamatsucho a Akihabara (~15 min, nessun cambio).",
-        "**09:30 – 11:30** 🌟✅ **Akihabara:** elettronica, gadget, retrogaming e cultura pop. 💡 **La domenica Chuo-dori diventa isola pedonale nel pomeriggio**, cosa che non succede in settimana: siete capitati nel giorno giusto.",
-        "**11:30 – 11:55** Trasferimento a Tsukiji, circa 25 minuti (Hibiya Line più un breve tratto a piedi).",
-        "**11:55 – 14:00** 🌟✅ *Pranzo (ingresso 11:55):* **Tsukiji Outer Market**, il vecchio mercato del pesce — oggi tutto street food e bancarelle: tamagoyaki, spiedini, ostriche, sushi da passeggio. Niente prenotazioni, ci si ferma dove si vuole, quindi più tempo del solito pranzo. ⚠️ Molti banchi aprono all'alba e iniziano a chiudere nel primo pomeriggio: con questo orario siete ancora nel pieno, ma non lasciatelo per dopo le 14:00.",
+        "🚇 **Andata dall'hotel:** Toei Oedo Line da Akabanebashi a Aoyama-itchome, diretta (~10 min), poi a piedi fino al viale dei ginkgo.",
+        "**09:30 – 11:00** 🌟✅ **Meiji Jingu Gaien:** il viale dei ginkgo, 146 alberi potati a cono in prospettiva perfetta. 💡 Il picco giallo è di solito a fine novembre: qui, una decina di giorni dopo, aspettatevi comunque un bel colore, con qualche foglia già a terra.",
+        "**11:00 – 11:20** Trasferimento a Chidorigafuchi, circa 20 minuti (Toei Oedo Line + cambio).",
+        "**11:20 – 12:15** 🔄✅ **Chidorigafuchi** e i fossati del Palazzo Imperiale. Sacrificabile.",
+        "**12:15 – 12:45** Trasferimento a Tsukiji, circa 25-30 minuti (un cambio).",
+        "**12:45 – 14:00** 🌟✅ *Pranzo:* **Tsukiji Outer Market**, il vecchio mercato del pesce — oggi tutto street food e bancarelle: tamagoyaki, spiedini, ostriche, sushi da passeggio. Niente prenotazioni, ci si ferma dove si vuole. ⚠️ Molti banchi aprono all'alba e iniziano a chiudere nel primo pomeriggio: non lasciatelo per dopo le 14:00.",
         "**14:00 – 14:15** Trasferimento a Ginza, circa 10 minuti a piedi.",
         "**14:15 – 16:00** 🌟✅ **Ginza** con le grandi boutique addobbate e le luminarie.",
         "**16:00 – 17:30** *Cena (ingresso 16:00, ben dentro la finestra):* izakaya sotto le rotaie a Yurakucho, o qualcosa di semplice vicino a Komagome se preferite mangiare più vicino al Rikugien.",
         "**17:30 – 18:00** Trasferimento a Komagome, circa 25 minuti con la Namboku.",
         "**18:00 – 19:30** 🌟🎫 **Illuminazione notturna del Rikugien:** il giardino Edo del 1695 illuminato, con gli aceri riflessi nello stagno e la proiezione sui muri di terra del magazzino storico. Apre proprio alle 18:00: con la cena anticipata ci arrivate perfettamente in orario. ⚠️ **Biglietto a numero chiuso da comprare online in anticipo.** Il percorso è a senso unico e dura circa un'ora.",
-        "💡 **Regola di scambio:** se il 6 mattina notate che i ginkgo del Gaien sono al picco, scambiate questa mattinata con quella dell'8 dicembre. Vedi la nota del giorno 8.",
         "🚆 **Rientro in hotel:** JR Yamanote Line diretta da Komagome a Hamamatsucho (~25 min), poi a piedi fino all'hotel."
       ]
     },
@@ -1869,19 +1858,15 @@ window.TRIP = {
     {
       "data": "2026-12-08",
       "giorno": "Martedì",
-      "titolo": "Ginkgo, Palazzo Imperiale e Roppongi",
+      "titolo": "Akihabara, Aoyama e Roppongi",
       "hotel": "Shiba Park Hotel",
-      "note": [
-        "⚠️ **Nota stagionale:** il picco dorato dei ginkgo del **Meiji Jingu Gaien** è di solito tra metà novembre e i primissimi giorni di dicembre. L'8 dicembre potreste trovare più \"tappeto d'oro\" a terra che alberi pieni, che è comunque bellissimo ma diverso dalla foto che avete in testa. **Se il 6 mattina passando li vedete al massimo, scambiate le due mattinate**: Akihabara sta bene in qualsiasi giorno, i ginkgo no."
-      ],
       "items": [
-        "🧭 **Se la giornata va stretta, Chidorigafuchi è il primo taglio:** è l'unica voce di tutto il piano che rompe l'asse di marcia lineare verso Roppongi, con una deviazione di 8-10 km andata e ritorno per una sosta breve. Tagliatela prima di qualunque altra voce 🔄 di oggi.",
-        "🚇 **Andata dall'hotel:** Toei Oedo Line da Akabanebashi a Aoyama-itchome, diretta (~10 min), poi a piedi fino al viale dei ginkgo.",
-        "**09:30 – 11:00** 🌟✅ **Meiji Jingu Gaien:** il viale dei ginkgo, 146 alberi potati a cono in prospettiva perfetta.",
-        "**11:15 – 12:00** *Pranzo (ingresso 11:15):* bistrot raffinato ad Aoyama.",
-        "**12:15 – 13:15** 🔄✅ **Chidorigafuchi** e i fossati del Palazzo Imperiale. Sacrificabile — spostato dopo pranzo.",
-        "**13:30 – 15:00** ✅ Passeggiata tra* **Aoyama** e **Omotesando**, con l'architettura contemporanea delle boutique.",
-        "**15:15 – 17:15** 🌟✅ **Roppongi Hi*lls:** osservatorio **Tokyo City View** e mercatini natalizi.",
+        "🚆 **Andata dall'hotel:** JR Keihin-Tohoku Line diretta da Hamamatsucho a Akihabara (~15 min, nessun cambio).",
+        "**09:30 – 11:30** 🌟✅ **Akihabara:** elettronica, gadget, retrogaming e cultura pop.",
+        "**11:30 – 12:00** Trasferimento ad Aoyama, circa 30 minuti (Hibiya Line più un cambio).",
+        "**12:00 – 13:00** *Pranzo (ingresso 12:00):* bistrot raffinato ad Aoyama.",
+        "**13:15 – 14:45** ✅ Passeggiata tra **Aoyama** e **Omotesando**, con l'architettura contemporanea delle boutique.",
+        "**15:00 – 17:00** 🌟✅ **Roppongi Hills:** osservatorio **Tokyo City View** e mercatini natalizi.",
         "**17:30 – 20:00** 🌟🎫 *Cena di fine viaggio (ingresso 17:30, dentro la finestra):* cena romantica a Roppongi con le luci natalizie di **Keyakizaka Street** e la Tokyo Tower illuminata sullo sfondo — a quest'ora è già buio, quindi le luci si vedono comunque perfettamente. **Non sacrificabile, è l'ultima cena del viaggio.** 💡 **Chiedete il turno delle 17:30 in fase di prenotazione** (apre il 1° novembre).",
         "🚇 **Rientro in hotel:** Toei Oedo Line da Roppongi a Akabanebashi, diretta (~8 min).",
         "💡 Stasera fate i conti col bagaglio: se avete comprato troppo, la reception può spedire una valigia direttamente all'aeroporto per domani."

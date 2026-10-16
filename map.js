@@ -69,6 +69,21 @@ function gmapsRoute(points) {
   return "https://www.google.com/maps/dir/" + points.map(p => gq(p[0])).join("/");
 }
 
+// anteposizione/posposizione dell'hotel ai punti di un giorno: partenza dall'hotel
+// della notte precedente (quello di ieri), arrivo all'hotel di stanotte (g.hotel).
+// Nei giorni senza trasferimento sono lo stesso hotel, quindi il percorso torna al punto di partenza.
+function routePoints(t, i) {
+  const g = t.giorni[i];
+  const pts = t.luoghi[g.data] || [];
+  const start = i > 0 ? t.giorni[i - 1].hotel : null;
+  const end = g.hotel;
+  const out = [];
+  if (start) out.push([start]);
+  out.push(...pts);
+  if (end) out.push([end]);
+  return out;
+}
+
 function shortDate(g) {
   return new Date(g.data + "T00:00:00").toLocaleDateString("it-IT", { day: "2-digit", month: "short" });
 }
@@ -131,9 +146,9 @@ function renderMappa() {
     } else {
       const i = t.giorni.findIndex(g => g.data === d);
       addDay(layer, t.giorni[i], i, last, "step");
-      const pts = t.luoghi[d];
-      routeLink.href = gmapsRoute(pts);
-      routeLink.hidden = pts.length < 2;
+      const routePts = routePoints(t, i);
+      routeLink.href = gmapsRoute(routePts);
+      routeLink.hidden = routePts.length < 2;
     }
     if (layer.getLayers().length) map.fitBounds(layer.getBounds(), { padding: [30, 30], maxZoom: 15 });
   }
@@ -190,8 +205,9 @@ function renderMappaGiorno() {
   map.fitBounds(layer.getBounds(), { padding: [30, 30], maxZoom: 15 });
 
   const route = document.getElementById("d-map-route");
-  route.href = gmapsRoute(pts);
-  route.hidden = pts.length < 2;
+  const routePts = routePoints(t, idx);
+  route.href = gmapsRoute(routePts);
+  route.hidden = routePts.length < 2;
 
   // ogni voce della timeline riceve il numero del pin (o dei pin) che le corrisponde:
   // click sul numero → la mappa va al pin; click sul pin → la voce si illumina

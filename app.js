@@ -2,6 +2,17 @@
 
 // Lo sfondo e le illustrazioni pixel-art sono in art.js (initBgScene).
 
+// --- altezza della nav sticky in cima a index.html, esposta come --navh ---
+// senza questo le sezioni ancorate (#mappa, #hotel, ...) finiscono con l'intestazione
+// nascosta sotto la nav quando è alta due righe (viewport stretti, nav con 6 voci che va a capo)
+function syncNavHeight() {
+  const nav = document.querySelector("nav.quicknav");
+  if (!nav) return;
+  const set = () => document.documentElement.style.setProperty("--navh", nav.offsetHeight + "px");
+  set();
+  new ResizeObserver(set).observe(nav);
+}
+
 // --- tema chiaro/scuro ---
 function initTheme() {
   const root = document.documentElement;

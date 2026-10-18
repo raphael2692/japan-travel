@@ -181,10 +181,7 @@ body::after {
 }
 .bg-layer {
   position: absolute; bottom: 0;
-  transform: translate3d(0, calc(var(--py, 0px) * var(--speed, 0)), 0);
-  will-change: transform;
   opacity: var(--bgart-op);
-  --speed: .04;
 }
 .bg-layer svg { width: 100%; height: auto; display: block; }
 .bg-kyoto { left: 0; width: clamp(200px, 21vw, 360px); }
@@ -209,7 +206,6 @@ body::after {
   .bg-kyoto, .bg-tokyo { display: none; }
 }
 @media (prefers-reduced-motion: reduce) {
-  .bg-layer { transform: none !important; }
   .bg-leaf { display: none; }
 }
 
@@ -267,6 +263,13 @@ nav.quicknav {
   position: sticky; top: 0; z-index: 10;
   display: flex; gap: .5rem; justify-content: center; flex-wrap: wrap;
   padding: .7rem 1rem; margin-bottom: .5rem;
+}
+/* fondo della barra largo quanto il contenuto, non tutta la finestra:
+   così non taglia a metà i paesaggi laterali */
+nav.quicknav::before {
+  content: ""; position: absolute; z-index: -1;
+  top: 0; bottom: 0; left: 50%; transform: translateX(-50%);
+  width: min(100%, calc(760px + 2.5rem));
   background: color-mix(in srgb, var(--bg) 88%, transparent);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--border);

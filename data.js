@@ -179,21 +179,27 @@ window.TRIP = {
       "titolo": "Prima di tutto: account, carte e Suica (da fare questa settimana)",
       "items": [
         {
-          "titolo": "Una Suica a testa nel Wallet del telefono",
-          "tags": "🎫",
+          "titolo": "Niente Suica nel telefono: due Welcome Suica fisiche all'arrivo",
+          "tags": "-- i telefoni Android venduti in Europa non hanno il chip FeliCa, quindi la Suica sul telefono non funziona. Anche l'app *Welcome Suica Mobile* esiste solo per iPhone. La soluzione è la **Welcome Suica**, la tessera fisica per turisti.",
           "done": false,
           "note": [
-            "serve a salire sui treni prenotati come e-ticket (Fuji Excursion, Hokuriku, Tokaido) senza ritirare biglietti di carta. Le regole JR East richiedono **una carta IC per persona**.",
-            "**1.** iPhone: Wallet → \"+\" → Carta di transito → Suica. Android: app Suica (solo alcuni modelli). Ricaricatela con la carta di credito.",
-            "**2.** Annotate il **numero ID della Suica** di entrambi (17 caratteri, nei dettagli della carta nel Wallet): lo inserirete in JR-EAST Train Reservation e in smartEX per collegarci i biglietti.",
-            "⚠️ Una carta IC mai usata ai tornelli in Giappone potrebbe non essere accettata subito per gli Shinkansen. I vostri primi treni prenotati sono dal 20/11, e il 19/11 avrete già usato la Suica all'arrivo. Se il collegamento online non va, c'è sempre il ritiro dei biglietti di carta con QR code e passaporto alle biglietterie automatiche JR."
+            "**Dove:** a **Haneda Terminal 3**, appena usciti dagli arrivi: distributori dedicati vicino all'ingresso della Monorail e JR East Travel Service Center. Una tessera **a testa**. Nei periodi pieni c'è coda: mettete in conto 15-20 minuti nella fascia 11:20-13:00 del 19/11.",
+            "**Regole:** vale **28 giorni** (il vostro viaggio ne dura 21), **il saldo residuo non si rimborsa**, quindi negli ultimi giorni ricaricate poco e finite il credito nei konbini. Ai distributori dell'aeroporto si ricarica con la carta; nelle stazioni normali la ricarica è di solito **solo in contanti**.",
+            "**A cosa serve:** metro, treni locali, bus, la tariffa base del Kintetsu, e piccoli pagamenti nei konbini. Funziona anche nel Kansai (Kyoto, Osaka, Nara): le tessere IC giapponesi sono interoperabili.",
+            "**Cosa cambia per i treni prenotati:** niente e-ticket collegati alla Suica prima della partenza. Per JR East e JR West si ritirano **biglietti di carta con il QR code** dell'email; per smartEX si sale mostrando il **QR sul telefono** (vedi le schede dei treni sotto)."
           ]
         },
         {
-          "titolo": "Carta di credito con 3D Secure attivo",
-          "tags": "-- tutti i siti JR richiedono la verifica 3D Secure (codice o notifica della banca). Tenete pronta una seconda carta di un altro circuito (es. Amex se la prima è Visa/Mastercard): la causa più frequente dei rifiuti è il paese di emissione della carta. Avvisate la banca che farete pagamenti in yen di notte.",
+          "titolo": "Quale carta usare per prenotare: prima Revolut, poi ING, poi BancoPosta",
+          "tags": "-- tutti i siti JR chiedono la verifica **3D Secure** (conferma nell'app della banca), e smartEX avverte che **le carte di debito o prepagate possono essere rifiutate**. Le vostre tre carte sono di debito, quindi preparate l'ordine dei tentativi:",
           "done": false,
-          "note": []
+          "note": [
+            "**1. Revolut** (la tua, usa la carta fisica o la virtuale *standard*, **non** quella \"usa e getta\", che molti siti rifiutano). Conferma 3D Secure nell'app Revolut: tenete il telefono sbloccato e con le notifiche attive durante le aperture notturne.",
+            "**2. ING** (di tua moglie): se Revolut viene rifiutata, riprovate subito con questa. Dovrà essere sveglia con il telefono a portata di mano per confermare nell'app ING.",
+            "**3. BancoPosta** (la tua carta digitale sul telefono): ultima spiaggia per gli acquisti online. Conferma con l'app BancoPosta/PosteID.",
+            "**Prova generale adesso:** la prenotazione anticipata smartEX del 5/12 si fa con calma oggi stesso. Se Revolut passa lì, è molto probabile che passi anche su JR East e JR West. Se nessuna carta passa sui siti JR, il piano B è **Klook**, che vende anche i biglietti JR e accetta normalmente le carte europee, pur senza scelta precisa del posto.",
+            "💡 Controllate nelle app che i pagamenti online e all'estero siano abilitati e che i limiti giornalieri bastino (uno Shinkansen per due costa ~29.000 ¥, circa 170-180 €)."
+          ]
         },
         {
           "titolo": "Creare gli account adesso, non la notte dell'apertura",
@@ -220,9 +226,9 @@ window.TRIP = {
             "**Dove:** [smartEX](https://smart-ex.jp/en/), sito o app \"smartEX\". [Come funziona la prenotazione anticipata](https://smart-ex.jp/en/product/plan/service/).",
             "**Quando:** smartEX accetta prenotazioni **da un anno prima**. Treno, orario e posti vengono **confermati alle 08:00 JST di un mese prima**, cioè il **5 novembre alle 00:00 italiane**, con un'email. Niente sveglia alle 2 di notte.",
             "**1.** Prenotate subito: 5 dicembre, Shin-Osaka → Tokyo, **Nozomi intorno alle 08:30**, 2 adulti, posto riservato ordinario (~14.500 ¥ a testa).",
-            "**2.** Collegate la Suica di entrambi (numero ID a 17 caratteri), oppure scegliete il QR code come biglietto.",
+            "**2.** Come biglietto scegliete il **QR-Ticket** (QR da mostrare sul telefono ai tornelli). La registrazione della carta IC è facoltativa: saltatela. Piano B: ritiro del biglietto di carta con il codice di ritiro alle biglietterie automatiche JR.",
             "**3.** La notte del 5 novembre, dopo l'email di conferma, aprite la mappa posti e, se serve, spostatevi sulla **coppia D+E** (E è il finestrino lato Fuji). Cambi gratuiti e illimitati prima della partenza.",
-            "**4.** Il giorno del viaggio: si passa il tornello con la Suica, o si mostra il QR. Nessun biglietto da ritirare.",
+            "**4.** Il giorno del viaggio: QR sul telefono al tornello di Shin-Osaka. ⚠️ Fate uno screenshot del QR e tenete il telefono carico. Se il QR vi dà problemi, ritirate il biglietto di carta alla biglietteria automatica JR prima di passare il tornello.",
             "💡 *Tip sedili:* sul Tokaido D/E stanno sempre sul lato nord, quindi sul lato Fuji in entrambe le direzioni. Andando verso Tokyo il Fuji vi sarà a sinistra. Cancellazione: 320 ¥ di penale prima della partenza."
           ]
         },
@@ -231,12 +237,13 @@ window.TRIP = {
           "tags": "🎫🌤️",
           "done": false,
           "note": [
-            "**Dove:** [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index), che dall'agosto 2025 vende il Fuji Excursion come **e-ticket per l'intero percorso**, compresa la tratta Fujikyu. Il biglietto si collega alla Suica: niente carta da ritirare.",
+            "**Dove:** [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index), che dall'agosto 2025 vende il Fuji Excursion **per l'intero percorso**, compresa la tratta Fujikyu. Senza Suica nel telefono, scegliete il **ritiro del biglietto in stazione**: riceverete un QR code via email da convertire in biglietto di carta.",
             "**Quando:** **20 ottobre alle 10:00 JST = 03:00 italiane**. Limite: 1° novembre. ⚠️ Posti tutti riservati, in stagione foliage si esauriscono: siate collegati 5 minuti prima.",
             "**1.** Andata: 20 novembre, **Shinjuku → Shimoyoshida** (non Kawaguchiko: si scende lì per la Chureito Pagoda), corsa del mattino verso le 07:20-07:30. Il tratto Shimoyoshida → Kawaguchiko si fa poi sul treno locale Fujikyu, pagando con la Suica. Controllate nella ricerca che la corsa fermi a Shimoyoshida.",
             "**2.** Ritorno: stessa sessione, **Kawaguchiko → Shinjuku**, corsa delle ~16:45 (verificate l'orario esatto: le corse pomeridiane sono poche).",
             "**3.** Posti: carrozza 2+2 (A-B | C-D). Andata **A+B** (A è il finestrino a sinistra, lato Fuji). Ritorno **C+D** (D finestrino a destra).",
-            "**4.** Il giorno del viaggio: tornello con la Suica collegata. Piano B se il collegamento non riesce: ritiro dei biglietti di carta con il QR code alle biglietterie automatiche JR East di Shinjuku, con mezz'ora di anticipo. ⚠️ A Kawaguchiko i QR JR non si possono convertire: ritirate andata e ritorno insieme a Shinjuku."
+            "**4.** Ritiro: **la sera del 19/11** alla biglietteria automatica per posti riservati (*Reserved Seat Ticket Vending Machine*, 指定席券売機) di una stazione JR East. La stazione JR di Iidabashi è a 5 minuti dall'hotel; se lì non c'è la macchina adatta, ritirate a Shinjuku la mattina del 20 con mezz'ora di margine. Sulla macchina: \"Receive Internet Reservation\" → JR-EAST Train Reservation → scansione del QR. Può servire la carta usata per pagare: portatela. ⚠️ **Ritirate andata e ritorno insieme**: a Kawaguchiko i QR JR non si possono convertire.",
+            "💡 In alternativa esiste l'e-ticket collegato a una carta IC: si potrebbe collegare la Welcome Suica dopo averla comprata il 19/11 (va fatto almeno 4 minuti prima della partenza). È meno lineare: il biglietto di carta resta la scelta più sicura."
           ]
         },
         {
@@ -244,11 +251,11 @@ window.TRIP = {
           "tags": "🎫🌤️",
           "done": false,
           "note": [
-            "**Dove:** [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index), come Shinkansen e-ticket collegato alla Suica. Se nella ricerca Kanazawa non compare come destinazione, usate [JR-WEST Online](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en), che copre tutta la linea Hokuriku.",
+            "**Dove:** [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index), con **ritiro del biglietto in stazione** (QR via email). Se nella ricerca Kanazawa non compare come destinazione, usate [JR-WEST Online](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en), che copre tutta la linea Hokuriku.",
             "**Quando:** **24 ottobre alle 10:00 JST = 03:00 italiane** (ultimo giorno di ora legale). Limite: 10 novembre.",
             "**1.** 24 novembre, Tokyo → Kanazawa, **Kagayaki intorno alle 07:30** (la Kagayaki ha solo posti riservati), 2 adulti, ordinario.",
             "**2.** Posti: **lato sinistro nel senso di marcia** per le Alpi Giapponesi dopo Itoigawa. Sulla E7 la lettera dipende dalla carrozza: guardate la direzione di marcia nella mappa posti, non la lettera.",
-            "**3.** Il giorno: tornello a Tokyo con la Suica collegata. Piano B: ritiro dei biglietti con il QR alle biglietterie automatiche JR East (anche a Iidabashi, la sera prima)."
+            "**3.** Ritiro: insieme ai biglietti del Fuji Excursion, **la sera del 19/11** alla biglietteria automatica per posti riservati di Iidabashi o Shinjuku. Così il 24 mattina, in ora di punta, andate dritti al tornello."
           ]
         },
         {
@@ -420,13 +427,18 @@ window.TRIP = {
       "titolo": "Trasporti e pass",
       "righe": [
         "**Il JR Pass nazionale non conviene.** Conto approssimativo delle vostre tratte lunghe: Tokyo-Kanazawa circa 14.200 ¥, Kanazawa-Kyoto circa 9.000 ¥, Kyoto-Himeji andata e ritorno circa 10.000 ¥, Kyoto-Osaka circa 600 ¥, Osaka-Tokyo circa 14.000 ¥. Totale intorno ai **48.000 ¥ a testa**, contro gli 80.000 ¥ del pass da 7 giorni. Anche l'Hokuriku Arch Pass, circa 30.000 ¥, non rientra perché le tratte che coprirebbe valgono circa 23.000 ¥. **Comprate biglietti singoli.**",
-        "**IC card.** La soluzione più semplice è **Suica su Apple Wallet**, che si ricarica con carta di credito direttamente dal telefono, senza code. In alternativa la Welcome Suica fisica agli sportelli di Haneda."
+        "**IC card.** I vostri telefoni Android non supportano la Suica (manca il chip FeliCa dei modelli giapponesi), quindi prendete **due Welcome Suica fisiche** a Haneda T3 appena arrivati: una a testa, valide 28 giorni, saldo non rimborsabile. Fuori dall'aeroporto si ricaricano di solito **solo in contanti** alle macchinette delle stazioni. Il Kintetsu e alcuni negozi accettano anche il pagamento contactless con la carta."
       ]
     },
     {
       "titolo": "Soldi e pagamenti",
       "righe": [
-        "Portate **contanti**. Templi, giardini, mercati e molti ristoranti tradizionali sono cash-only, e in questo itinerario ci sono decine di ingressi da 300-800 ¥. Prelevate ai bancomat dei **7-Eleven** o degli uffici postali, che accettano carte estere."
+        "Portate **contanti**. Templi, giardini, mercati e molti ristoranti tradizionali sono cash-only, e in questo itinerario ci sono decine di ingressi da 300-800 ¥. Prelevate ai bancomat dei **7-Eleven** o degli uffici postali, che accettano carte estere.",
+        "**Le vostre carte in viaggio:**",
+        "• **Revolut** (carta fisica): la principale per prelievi e pagamenti. Potete cambiare in anticipo un po' di euro in yen nell'app. Evitate il cambio nel weekend, quando Revolut applica un ricarico, e controllate quanti prelievi gratuiti al mese vi concede il vostro piano.",
+        "• **ING** (carta fisica di tua moglie): la riserva, su un conto diverso, nel caso Revolut venga bloccata o persa. Controllate prima le commissioni per prelievi e pagamenti fuori dall'area euro.",
+        "• **BancoPosta** (solo sul telefono): utile per pagare contactless con Google Pay nei negozi che lo accettano. Senza carta fisica non si possono fare prelievi al bancomat.",
+        "• 💡 Al bancomat e al POS, se vi chiedono se pagare in euro o in yen, scegliete sempre **yen**: la conversione proposta in euro è quasi sempre più cara."
       ]
     },
     {
@@ -1637,7 +1649,7 @@ window.TRIP = {
         "🍽️ ⚠️ **Eccezione pranzo:** il volo atterra a mezzogiorno passato e l'immigrazione richiede tempo, quindi oggi è impossibile pranzare entro le 12:00. È il pranzo più anticipato possibile data la logistica dell'arrivo."
       ],
       "items": [
-        "**11:20 – 13:00** Arrivo a Haneda, immigrazione e dogana, ritiro eSIM o Pocket Wi-Fi, attivazione Suica. 🎫 *(orario fisso, dipende dal volo)*",
+        "**11:20 – 13:00** Arrivo a Haneda, immigrazione e dogana, ritiro eSIM o Pocket Wi-Fi, acquisto di **due Welcome Suica** ai distributori del Terminal 3. 🎫 *(orario fisso, dipende dal volo)*",
         "**13:00 – 13:45** *Pranzo veloce (eccezione):* ramen o gyoza vicino a Haneda o alla stazione, appena finita l'immigrazione.",
         "**13:45 – 14:30** 🚇 **Trasferimento in hotel:** Keikyu Airport Line da Haneda fino a **Daimon** (treni diretti sulla Toei Asakusa Line, ~30 min), poi **Toei Oedo Line da Daimon a Iidabashi**, diretta (~15 min). In alternativa Tokyo Monorail fino a Hamamatsucho, che è collegata a Daimon, e poi la stessa Oedo. Piano B, se le valigie pesano troppo: taxi diretto da Haneda (~35-40 min).",
         "**14:30 – 15:00** Check-in o deposito bagagli all'**Hotel Metropolitan Edmont**, Iidabashi.",

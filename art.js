@@ -316,15 +316,4 @@ function initBgScene() {
     <div class="bg-layer bg-kyoto">${kyotoScene()}</div>
     <div class="bg-layer bg-tokyo">${tokyoScene()}</div>`;
   document.body.prepend(wrap);
-
-  if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-
-  let ticking = false;
-  function update() {
-    wrap.style.setProperty("--py", window.scrollY + "px");
-    ticking = false;
-  }
-  window.addEventListener("scroll", () => {
-    if (!ticking) { requestAnimationFrame(update); ticking = true; }
-  }, { passive: true });
 }

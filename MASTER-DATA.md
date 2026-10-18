@@ -683,13 +683,14 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 ---
 
-## Martedì 08 dicembre -- Akihabara, Aoyama e Roppongi
+## Martedì 08 dicembre -- Akihabara, Aoyama, Akasaka e Roppongi
 
 - 🚆 **Andata dall'hotel:** JR Keihin-Tohoku Line diretta da Hamamatsucho a Akihabara (~15 min, nessun cambio).
 - **09:30 -- 11:30** 🌟✅ **Akihabara:** elettronica, gadget, retrogaming e cultura pop.
 - **11:30 -- 12:00** Trasferimento ad Aoyama, circa 30 minuti (Hibiya Line più un cambio).
 - **12:00 -- 13:00** *Pranzo (ingresso 12:00):* bistrot raffinato ad Aoyama.
-- **13:15 -- 14:45** ✅ Passeggiata tra **Aoyama** e **Omotesando**, con l'architettura contemporanea delle boutique.
+- **13:15 -- 14:00** ✅ Passeggiata tra **Aoyama** e **Omotesando**, con l'architettura contemporanea delle boutique.
+- **14:15 -- 15:00** 🌟✅ **Akasaka a tema Harry Potter:** Tokyo Metro Chiyoda Line diretta da Omotesando ad Akasaka (~5 min). La scalinata che collega la stazione al TBS Akasaka ACT Theater è tappezzata di ritratti di maghi e streghe, con una grande Giratempo, e la piazza di **Akasaka Sacas** è decorata a tema. Vicino c'è anche il negozio ufficiale **Harry Potter Mahou Dokoro**. Ingresso libero, nessuna prenotazione. ⚠️ Le decorazioni sono legate allo spettacolo *Harry Potter e la maledizione dell'erede*, in scena fino al **27 dicembre 2026** (ultima replica): riconfermate a novembre che siano ancora allestite. Poi taxi per Roppongi Hills (~7 min) o a piedi (~20 min).
 - **15:00 -- 17:00** 🌟✅ **Roppongi Hills:** osservatorio **Tokyo City View** e mercatini natalizi.
 - **17:30 -- 20:00** 🌟🎫 *Cena di fine viaggio (ingresso 17:30, dentro la finestra):* cena romantica a Roppongi con le luci natalizie di **Keyakizaka Street** e la Tokyo Tower illuminata sullo sfondo -- a quest'ora è già buio, quindi le luci si vedono comunque perfettamente. **Non sacrificabile, è l'ultima cena del viaggio.** 💡 **Chiedete il turno delle 17:30 in fase di prenotazione** (apre il 1° novembre).
 - 🚇 **Rientro in hotel:** Toei Oedo Line da Roppongi a Akabanebashi, diretta (~8 min).
@@ -826,6 +827,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 | 07/12 | 13:00 | Enoshima | 35.299 | 139.48 |
 | 08/12 | 09:30 | Akihabara | 35.6984 | 139.7731 |
 | 08/12 | 13:15 | Omotesando | 35.6654 | 139.71 |
+| 08/12 | 14:15 | Akasaka Sacas | 35.6727 | 139.7363 |
 | 08/12 | 15:00 | Roppongi Hills Tokyo City View | 35.6604 | 139.7292 |
 | 08/12 | 17:30 | Keyakizaka Roppongi | 35.6593 | 139.729 |
 | 09/12 | 10:15 | Haneda Airport | 35.5494 | 139.7798 |

@@ -2,75 +2,54 @@
 <html lang="it">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Dettaglio giorno — Giappone</title>
-<script>
-(function(){try{var t=localStorage.getItem("theme");if(!t){var h=new Date().getHours();t=(h<6||h>=18)?"dark":"light";}document.documentElement.setAttribute("data-theme",t);}catch(e){}})();
-</script>
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 11 11' shape-rendering='crispEdges'%3E%3Cg fill='%23b8400f'%3E%3Crect x='5' y='0' width='1' height='1'/%3E%3Crect x='2' y='1' width='1' height='1'/%3E%3Crect x='5' y='1' width='1' height='1'/%3E%3Crect x='8' y='1' width='1' height='1'/%3E%3Crect x='2' y='2' width='2' height='1'/%3E%3Crect x='5' y='2' width='1' height='1'/%3E%3Crect x='7' y='2' width='2' height='1'/%3E%3Crect x='2' y='3' width='7' height='1'/%3E%3Crect x='0' y='4' width='1' height='1'/%3E%3Crect x='2' y='4' width='7' height='1'/%3E%3Crect x='10' y='4' width='1' height='1'/%3E%3Crect x='0' y='5' width='11' height='1'/%3E%3Crect x='1' y='6' width='9' height='1'/%3E%3Crect x='2' y='7' width='7' height='1'/%3E%3Crect x='3' y='8' width='5' height='1'/%3E%3Crect x='5' y='9' width='1' height='2'/%3E%3C/g%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com">
+<script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'%3E%3Ccircle cx='5' cy='5' r='4' fill='%23c2410c'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<!-- Foglia di momiji (acero giapponese), disegnata su griglia 11x11 -->
-<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
-  <symbol id="leaf-momiji" viewBox="0 0 11 11">
-    <rect x="5" y="0" width="1" height="1"/>
-    <rect x="2" y="1" width="1" height="1"/><rect x="5" y="1" width="1" height="1"/><rect x="8" y="1" width="1" height="1"/>
-    <rect x="2" y="2" width="2" height="1"/><rect x="5" y="2" width="1" height="1"/><rect x="7" y="2" width="2" height="1"/>
-    <rect x="2" y="3" width="7" height="1"/>
-    <rect x="0" y="4" width="1" height="1"/><rect x="2" y="4" width="7" height="1"/><rect x="10" y="4" width="1" height="1"/>
-    <rect x="0" y="5" width="11" height="1"/>
-    <rect x="1" y="6" width="9" height="1"/>
-    <rect x="2" y="7" width="7" height="1"/>
-    <rect x="3" y="8" width="5" height="1"/>
-    <rect x="5" y="9" width="1" height="2"/>
-  </symbol>
-</svg>
-
-<header class="top">
+<header class="top top-sm">
   <div class="top-bar">
-    <a href="index.html" class="btn back-link">← Panoramica</a>
-    <button id="theme-toggle" class="btn theme-toggle" type="button" aria-label="Cambia tema"></button>
+    <a href="index.html" class="back">← Panoramica</a>
+    <button id="theme-toggle" class="icon-btn" type="button" aria-label="Cambia tema"></button>
   </div>
   <div id="global-search" class="global-search"></div>
 </header>
 
 <main>
   <div class="day-header">
-    <div class="wk" id="d-weekday"></div>
+    <div class="eyebrow" id="d-weekday"></div>
     <h1 id="d-title"></h1>
-    <div class="rule" aria-hidden="true"></div>
-    <span class="day-hotel" id="d-hotel"></span>
+    <span class="pill" id="d-hotel"></span>
   </div>
 
   <div id="d-notes"></div>
 
-  <div id="d-map-box" class="d-map-box">
+  <div id="d-map-box">
     <div id="d-map" class="map-box map-box-sm"></div>
-    <p class="map-hint">I numeri sui pin corrispondono ai numeri accanto agli orari del programma: cliccane uno per vederlo sulla mappa. Zoom: pinch o ctrl+rotella.</p>
-    <a id="d-map-route" class="btn map-route" href="#" target="_blank" rel="noopener" hidden>Percorso del giorno su Google Maps ↗</a>
+    <p class="hint">I numeri sui pin corrispondono a quelli accanto agli orari: toccane uno per vederlo sulla mappa.</p>
+    <a id="d-map-route" class="link-btn" href="#" target="_blank" rel="noopener" hidden>Percorso del giorno su Google Maps ↗</a>
   </div>
 
   <ul class="timeline" id="d-timeline"></ul>
 
-  <div id="d-pasti" class="d-pasti"></div>
+  <div id="d-pasti"></div>
 
   <nav class="day-nav">
-    <a id="nav-prev" class="btn" href="#">← giorno prec.</a>
-    <a id="nav-next" class="btn" href="#">giorno succ. →</a>
+    <a id="nav-prev" href="#">← giorno prec.</a>
+    <a id="nav-next" href="#">giorno succ. →</a>
   </nav>
 </main>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
 <script src="data.js"></script>
-<script src="art.js"></script>
 <script src="app.js"></script>
 <script src="map.js"></script>
-<script>initBgScene(); renderGiorno(); renderSearch(); renderMappaGiorno(); initTheme();</script>
+<script>renderGiorno(); renderSearch(); renderMappaGiorno(); initTheme();</script>
 </body>
 </html>

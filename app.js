@@ -1,7 +1,5 @@
 // Rendering minimale, condiviso da index.html e giorno.html.
 
-// Lo sfondo e le illustrazioni pixel-art sono in art.js (initBgScene).
-
 // --- altezza della nav sticky in cima a index.html, esposta come --navh ---
 // senza questo le sezioni ancorate (#mappa, #hotel, ...) finiscono con l'intestazione
 // nascosta sotto la nav quando è alta due righe (viewport stretti, nav con 6 voci che va a capo)
@@ -24,7 +22,7 @@ function initTheme() {
   function paint() {
     if (!btn) return;
     const c = current();
-    btn.textContent = c === "dark" ? "昼" : "夜";
+    btn.textContent = c === "dark" ? "☀" : "☾";
     const label = c === "dark" ? "Passa al tema chiaro" : "Passa al tema scuro";
     btn.setAttribute("aria-label", label);
     btn.title = label;
@@ -40,7 +38,7 @@ function initTheme() {
   paint();
 }
 
-// --- tinta stagionale: oro (45) all'inizio del viaggio, rosso (8) alla fine ---
+// --- colore dei pin per giorno: oro (45) all'inizio del viaggio, rosso (8) alla fine ---
 function tintHue(ratio) {
   return Math.round(45 - ratio * 37);
 }
@@ -97,14 +95,14 @@ function renderIndex() {
   });
 
   const grid = document.getElementById("days-grid");
-  const last = t.giorni.length - 1;
   t.giorni.forEach((g, i) => {
     const a = document.createElement("a");
-    a.className = "day-tile notched tinted";
+    a.className = "day-row";
     a.href = "giorno.html?d=" + g.data;
-    a.style.setProperty("--h", tintHue(last ? i / last : 0));
-    const dateFmt = new Date(g.data + "T00:00:00").toLocaleDateString("it-IT", { day: "2-digit", month: "short" });
-    a.innerHTML = `<div class="dnum">${String(i + 1).padStart(2, "0")}</div><div class="dn">${g.giorno} ${dateFmt}</div><div class="dt">${g.titolo}</div>${g.hotel ? `<div class="dh">${g.hotel.split(",")[0]}</div>` : ""}`;
+    const dateFmt = new Date(g.data + "T00:00:00").toLocaleDateString("it-IT", { day: "numeric", month: "short" });
+    a.innerHTML = `<span class="dnum">${String(i + 1).padStart(2, "0")}</span>
+      <span class="dbody"><span class="dn">${g.giorno} ${dateFmt}${g.hotel ? " · " + g.hotel.split(",")[0] : ""}</span><span class="dt">${g.titolo}</span></span>
+      <span class="chev" aria-hidden="true">›</span>`;
     grid.appendChild(a);
   });
 
@@ -256,16 +254,11 @@ function renderGiorno() {
   const dateFmt = new Date(g.data + "T00:00:00").toLocaleDateString("it-IT", { day: "2-digit", month: "long", year: "numeric" });
   document.title = g.titolo + " — Giappone";
 
-  // la pagina prende la tinta stagionale della sua posizione nel viaggio
-  const last = t.giorni.length - 1;
-  const pos = idx >= 0 ? idx : 0;
-  document.querySelector("main").style.setProperty("--h", tintHue(last ? pos / last : 0));
-
   document.getElementById("d-weekday").textContent = g.giorno + " " + dateFmt;
   document.getElementById("d-title").textContent = g.titolo + (g.emoji ? " " + g.emoji : "");
   const hotelEl = document.getElementById("d-hotel");
-  if (g.hotel) { hotelEl.textContent = g.hotel; hotelEl.style.display = "inline-block"; }
-  else hotelEl.style.display = "none";
+  hotelEl.textContent = g.hotel || "";
+  hotelEl.hidden = !g.hotel;
 
   const notes = document.getElementById("d-notes");
   (g.note || []).forEach(n => {
@@ -290,7 +283,7 @@ function renderGiorno() {
   if (pastiBox && pasti.length) {
     pastiBox.innerHTML = `<h2 class="sub-h">Pasti</h2>` + pasti.map(p => `
       <div class="card meal">
-        <div class="meal-head"><span class="time">${p.pasto}${p.ingresso ? " · " + p.ingresso : ""}</span>${p.prenotazione ? `<span class="meal-book">${mdInline(p.prenotazione)}</span>` : ""}</div>
+        <div class="meal-head"><span class="meal-time">${p.pasto}${p.ingresso ? " · " + p.ingresso : ""}</span>${p.prenotazione ? `<span class="meal-book">${mdInline(p.prenotazione)}</span>` : ""}</div>
         <div>${mdInline(p.locale)}</div>
         ${p.tabelog ? `<div class="meal-links">${mdInline(p.tabelog)}</div>` : ""}
         ${p.note ? `<div class="meal-note">${mdInline(p.note)}</div>` : ""}

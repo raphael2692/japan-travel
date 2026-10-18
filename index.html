@@ -2,118 +2,90 @@
 <html lang="it">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Viaggio in Giappone</title>
-<script>
-(function(){try{var t=localStorage.getItem("theme");if(!t){var h=new Date().getHours();t=(h<6||h>=18)?"dark":"light";}document.documentElement.setAttribute("data-theme",t);}catch(e){}})();
-</script>
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 11 11' shape-rendering='crispEdges'%3E%3Cg fill='%23b8400f'%3E%3Crect x='5' y='0' width='1' height='1'/%3E%3Crect x='2' y='1' width='1' height='1'/%3E%3Crect x='5' y='1' width='1' height='1'/%3E%3Crect x='8' y='1' width='1' height='1'/%3E%3Crect x='2' y='2' width='2' height='1'/%3E%3Crect x='5' y='2' width='1' height='1'/%3E%3Crect x='7' y='2' width='2' height='1'/%3E%3Crect x='2' y='3' width='7' height='1'/%3E%3Crect x='0' y='4' width='1' height='1'/%3E%3Crect x='2' y='4' width='7' height='1'/%3E%3Crect x='10' y='4' width='1' height='1'/%3E%3Crect x='0' y='5' width='11' height='1'/%3E%3Crect x='1' y='6' width='9' height='1'/%3E%3Crect x='2' y='7' width='7' height='1'/%3E%3Crect x='3' y='8' width='5' height='1'/%3E%3Crect x='5' y='9' width='1' height='2'/%3E%3C/g%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com">
+<script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'%3E%3Ccircle cx='5' cy='5' r='4' fill='%23c2410c'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<!-- Foglia di momiji (acero giapponese), disegnata su griglia 11x11 -->
-<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
-  <symbol id="leaf-momiji" viewBox="0 0 11 11">
-    <rect x="5" y="0" width="1" height="1"/>
-    <rect x="2" y="1" width="1" height="1"/><rect x="5" y="1" width="1" height="1"/><rect x="8" y="1" width="1" height="1"/>
-    <rect x="2" y="2" width="2" height="1"/><rect x="5" y="2" width="1" height="1"/><rect x="7" y="2" width="2" height="1"/>
-    <rect x="2" y="3" width="7" height="1"/>
-    <rect x="0" y="4" width="1" height="1"/><rect x="2" y="4" width="7" height="1"/><rect x="10" y="4" width="1" height="1"/>
-    <rect x="0" y="5" width="11" height="1"/>
-    <rect x="1" y="6" width="9" height="1"/>
-    <rect x="2" y="7" width="7" height="1"/>
-    <rect x="3" y="8" width="5" height="1"/>
-    <rect x="5" y="9" width="1" height="2"/>
-  </symbol>
-</svg>
-
 <header class="top">
   <div class="top-bar">
-    <span class="brand-mark">
-      <svg class="leaf-icon" viewBox="0 0 11 11" aria-hidden="true"><use href="#leaf-momiji"></use></svg>
-      <span class="brand-text">秋の旅</span>
-    </span>
-    <button id="theme-toggle" class="btn theme-toggle" type="button" aria-label="Cambia tema"></button>
+    <span class="brand">Giappone 2026</span>
+    <button id="theme-toggle" class="icon-btn" type="button" aria-label="Cambia tema"></button>
   </div>
-  <div id="hero-art" class="hero-art" aria-hidden="true"></div>
   <h1 id="trip-title"></h1>
   <p class="subtitle" id="trip-subtitle"></p>
   <div id="global-search" class="global-search"></div>
-  <div class="foliage-strip" aria-hidden="true"></div>
 </header>
 
 <nav class="quicknav">
-  <a class="btn" href="#giorni">Giorni</a>
-  <a class="btn" href="#mappa">Mappa</a>
-  <a class="btn" href="#scadenze">Scadenze</a>
-  <a class="btn" href="#hotel">Hotel</a>
-  <a class="btn" href="#voli">Voli</a>
-  <a class="btn" href="#note">Note</a>
+  <a href="#giorni">Giorni</a>
+  <a href="#mappa">Mappa</a>
+  <a href="#scadenze">Scadenze</a>
+  <a href="#hotel">Hotel</a>
+  <a href="#voli">Voli</a>
+  <a href="#note">Note</a>
 </nav>
 
 <main>
-
   <section id="giorni">
-    <h2><svg class="h2-leaf" viewBox="0 0 11 11" aria-hidden="true"><use href="#leaf-momiji"></use></svg>Giorno per giorno</h2>
-    <div id="days-grid" class="days-grid"></div>
+    <h2>Giorno per giorno</h2>
+    <div id="days-grid" class="days"></div>
   </section>
 
   <section id="mappa">
-    <h2><svg class="h2-leaf" viewBox="0 0 11 11" aria-hidden="true"><use href="#leaf-momiji"></use></svg>Mappa</h2>
+    <h2>Mappa</h2>
     <div class="map-controls">
-      <select id="map-day" class="btn map-select" aria-label="Filtra per giorno">
+      <select id="map-day" class="field" aria-label="Filtra per giorno">
         <option value="all">Tutti i giorni</option>
       </select>
-      <div class="map-cities">
-        <button class="btn" type="button" data-city="Tokyo">Tokyo</button>
-        <button class="btn" type="button" data-city="Kanazawa">Kanazawa</button>
-        <button class="btn" type="button" data-city="Kyoto">Kyoto</button>
-        <button class="btn" type="button" data-city="Osaka">Osaka</button>
+      <div class="chips">
+        <button class="chip" type="button" data-city="Tokyo">Tokyo</button>
+        <button class="chip" type="button" data-city="Kanazawa">Kanazawa</button>
+        <button class="chip" type="button" data-city="Kyoto">Kyoto</button>
+        <button class="chip" type="button" data-city="Osaka">Osaka</button>
       </div>
     </div>
     <div id="map" class="map-box"></div>
-    <p class="map-hint">Pin colorati per giorno (oro → rosso), linea tratteggiata = ordine di visita, 宿 = hotel. Click su un pin per aprirlo in Google Maps. Zoom: pinch o ctrl+rotella. Scegliendo un giorno i pin sono numerati come nella pagina del giorno.
-      <a id="map-route" class="btn map-route" href="#" target="_blank" rel="noopener" hidden>Percorso del giorno su Google Maps ↗</a></p>
+    <p class="hint">Un colore per giorno, linea tratteggiata = ordine di visita, 宿 = hotel. Tocca un pin per aprirlo in Google Maps. Scegliendo un giorno i pin sono numerati come nella pagina del giorno.</p>
+    <a id="map-route" class="link-btn" href="#" target="_blank" rel="noopener" hidden>Percorso del giorno su Google Maps ↗</a>
   </section>
 
   <section id="scadenze">
-    <h2><svg class="h2-leaf" viewBox="0 0 11 11" aria-hidden="true"><use href="#leaf-momiji"></use></svg>Scadenze e prenotazioni</h2>
-    <p class="legenda" id="legenda"></p>
+    <h2>Scadenze e prenotazioni</h2>
+    <p class="hint" id="legenda"></p>
     <div id="scadenze-list"></div>
   </section>
 
   <section id="hotel">
-    <h2><svg class="h2-leaf" viewBox="0 0 11 11" aria-hidden="true"><use href="#leaf-momiji"></use></svg>Hotel</h2>
+    <h2>Hotel</h2>
     <div id="hotel-list"></div>
   </section>
 
   <section id="voli">
-    <h2><svg class="h2-leaf" viewBox="0 0 11 11" aria-hidden="true"><use href="#leaf-momiji"></use></svg>Voli</h2>
+    <h2>Voli</h2>
     <div id="flight-list"></div>
   </section>
 
   <section id="note">
-    <h2><svg class="h2-leaf" viewBox="0 0 11 11" aria-hidden="true"><use href="#leaf-momiji"></use></svg>Note pratiche</h2>
+    <h2>Note pratiche</h2>
     <div id="note-rapide"></div>
   </section>
-
 </main>
 
 <footer>Aggiornato tramite Claude — parla con lui per modificare il piano.</footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
 <script src="data.js"></script>
-<script src="art.js"></script>
 <script src="app.js"></script>
 <script src="map.js"></script>
 <script>
   document.getElementById("legenda").textContent = window.TRIP.legenda.join("  ·  ");
-  initBgScene();
   renderIndex();
   renderSearch();
   renderMappa();

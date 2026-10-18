@@ -203,3 +203,25 @@ section > h2 { font-size: 22px; font-weight: 700; letter-spacing: -.015em; margi
 .map-pin.hotel span { background: var(--text); color: var(--bg); font-size: 12px; }
 
 footer { text-align: center; color: var(--muted); font-size: 13px; padding-top: 24px; padding-bottom: max(40px, env(safe-area-inset-bottom)); }
+
+/* ---------- countdown, giorno corrente, meteo ---------- */
+.countdown { margin: 16px 0 0; font-size: 15px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.countdown b { color: var(--text); font-weight: 600; }
+.day-row.today { background: var(--accent-soft); margin: 0 -12px; padding-left: 12px; padding-right: 12px; border-radius: 12px; border-bottom-color: transparent; }
+.day-row.today .dnum { color: var(--accent); }
+.day-row.past { opacity: .5; }
+.today-tag { display: inline-block; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .05em; color: #fff; background: var(--accent); border-radius: 999px; padding: 1px 8px; margin-right: 8px; vertical-align: 2px; }
+.wx { font-size: 14px; font-weight: 600; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.wx small, .wx-t small { font-weight: 400; color: var(--muted); margin-left: 4px; }
+
+.meteo { border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; margin: 20px 0 12px; background: var(--surface); }
+.wx-main { display: flex; align-items: center; gap: 14px; }
+.wx-icon { font-size: 34px; line-height: 1; }
+.wx-t { font-size: 26px; font-weight: 700; letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+.wx-rain { margin-left: auto; text-align: right; font-size: 14px; line-height: 1.35; }
+.wx-rain small { color: var(--muted); }
+.wx-hours:not(:empty) { display: grid; grid-template-columns: repeat(6, 1fr); gap: 4px; margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--line); text-align: center; }
+.wx-hours div { display: flex; flex-direction: column; font-size: 15px; line-height: 1.5; }
+.wx-hours small { font-size: 12px; color: var(--muted); }
+.wx-hours b { font-weight: 600; font-size: 14px; }
+.wx-src { margin-top: 12px; font-size: 12px; color: var(--muted); }

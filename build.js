@@ -175,6 +175,14 @@ function parseVoli(lines) {
   return out;
 }
 
+// orario di decollo di un volo, con il fuso dell'aeroporto di partenza (per il countdown)
+const FUSO = { FCO: "+01:00", HND: "+09:00", NRT: "+09:00" };
+function decollo(volo) {
+  const m = (volo || "").match(/(\d{1,2}) (\w+), (\d{1,2}:\d{2}).*?\((\w{3})\)/);
+  if (!m || !MESI[m[2].toLowerCase()] || !FUSO[m[4]]) { warn(`Orario/aeroporto del volo non riconosciuto: "${volo}"`); return null; }
+  return `${iso(+m[1], MESI[m[2].toLowerCase()])}T${m[3].padStart(5, "0")}:00${FUSO[m[4]]}`;
+}
+
 function parsePasti(section) {
   const pasti = {};
   const add = (d, p) => (pasti[d] = pasti[d] || []).push(p);
@@ -288,10 +296,11 @@ function build() {
     });
   });
 
+  const voli = parseVoli(find(top, "Voli").lines);
   const trip = {
     title: TITLE, subtitle: SUBTITLE,
     legenda: parseLegenda(check.lines),
-    voli: parseVoli(find(top, "Voli").lines),
+    voli, partenza: decollo(voli[0]), ritorno: decollo(voli[voli.length - 1]),
     hotel, hotelNota,
     scadenzeTabella, scadenze, note,
     pasti: parsePasti(find(top, "Pasti")),

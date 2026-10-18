@@ -20,6 +20,7 @@
   </div>
   <h1 id="trip-title"></h1>
   <p class="subtitle" id="trip-subtitle"></p>
+  <p class="countdown" id="countdown"></p>
   <div id="global-search" class="global-search"></div>
 </header>
 
@@ -84,9 +85,12 @@
 <script src="data.js"></script>
 <script src="app.js"></script>
 <script src="map.js"></script>
+<script src="meteo.js"></script>
 <script>
   document.getElementById("legenda").textContent = window.TRIP.legenda.join("  ·  ");
   renderIndex();
+  renderCountdown();
+  renderMeteoIndex();
   renderSearch();
   renderMappa();
   initTheme();

@@ -38,6 +38,32 @@ function initTheme() {
   paint();
 }
 
+// --- data di oggi (fuso del telefono: in Giappone si aggiorna da solo) ---
+const todayIso = () => new Date().toLocaleDateString("sv-SE");
+
+// --- countdown: alla partenza prima del viaggio, al ritorno durante ---
+function renderCountdown() {
+  const el = document.getElementById("countdown");
+  const t = window.TRIP;
+  if (!el || !t.partenza) return;
+  const dep = new Date(t.partenza), ret = new Date(t.ritorno);
+  const fmt = ms => {
+    const s = Math.floor(ms / 1000), d = Math.floor(s / 86400);
+    const hms = [s / 3600 % 24, s / 60 % 60, s % 60].map(n => String(Math.floor(n)).padStart(2, "0")).join(":");
+    return (d ? d + " g " : "") + hms;
+  };
+  function tick() {
+    const now = new Date();
+    const i = t.giorni.findIndex(g => g.data === todayIso());
+    if (now < dep) el.innerHTML = `Partenza tra <b>${fmt(dep - now)}</b>`;
+    else if (now < ret) el.innerHTML = `${i >= 0 ? `Giorno ${i + 1} di ${t.giorni.length} · ` : ""}Rientro tra <b>${fmt(ret - now)}</b>` +
+      (i >= 0 ? ` · <a href="giorno.html?d=${t.giorni[i].data}">Oggi →</a>` : "");
+    else { el.hidden = true; return; }
+    setTimeout(tick, 1000 - now % 1000);
+  }
+  tick();
+}
+
 // --- colore dei pin per giorno: oro (45) all'inizio del viaggio, rosso (8) alla fine ---
 function tintHue(ratio) {
   return Math.round(45 - ratio * 37);
@@ -94,14 +120,17 @@ function renderIndex() {
     grp.items.slice().sort((a, b) => a.done - b.done).forEach(d => scad.appendChild(renderDeadline(d)));
   });
 
+  const last = t.giorni.length - 1;
   const grid = document.getElementById("days-grid");
+  const today = todayIso();
   t.giorni.forEach((g, i) => {
     const a = document.createElement("a");
-    a.className = "day-row";
+    a.className = "day-row" + (g.data === today ? " today" : g.data < today && today <= t.giorni[last].data ? " past" : "");
     a.href = "giorno.html?d=" + g.data;
     const dateFmt = new Date(g.data + "T00:00:00").toLocaleDateString("it-IT", { day: "numeric", month: "short" });
     a.innerHTML = `<span class="dnum">${String(i + 1).padStart(2, "0")}</span>
-      <span class="dbody"><span class="dn">${g.giorno} ${dateFmt}${g.hotel ? " · " + g.hotel.split(",")[0] : ""}</span><span class="dt">${g.titolo}</span></span>
+      <span class="dbody"><span class="dn">${g.giorno} ${dateFmt}${g.hotel ? " · " + g.hotel.split(",")[0] : ""}</span><span class="dt">${g.data === today ? '<span class="today-tag">Oggi</span>' : ""}${g.titolo}</span></span>
+      <span class="wx" data-wx="${g.data}"></span>
       <span class="chev" aria-hidden="true">›</span>`;
     grid.appendChild(a);
   });
@@ -254,11 +283,13 @@ function renderGiorno() {
   const dateFmt = new Date(g.data + "T00:00:00").toLocaleDateString("it-IT", { day: "2-digit", month: "long", year: "numeric" });
   document.title = g.titolo + " — Giappone";
 
-  document.getElementById("d-weekday").textContent = g.giorno + " " + dateFmt;
+  document.getElementById("d-weekday").textContent = (g.data === todayIso() ? "Oggi · " : "") + g.giorno + " " + dateFmt;
   document.getElementById("d-title").textContent = g.titolo + (g.emoji ? " " + g.emoji : "");
   const hotelEl = document.getElementById("d-hotel");
   hotelEl.textContent = g.hotel || "";
   hotelEl.hidden = !g.hotel;
+
+  if (window.renderMeteoGiorno) renderMeteoGiorno(g);
 
   const notes = document.getElementById("d-notes");
   (g.note || []).forEach(n => {

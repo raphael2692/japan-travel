@@ -96,7 +96,10 @@ subtitle: 18 Novembre - 9 Dicembre
   - Prenotare in ottobre. Sostituisce Seisonkaku, che il mercoledì è chiusa.
 
 - [ ] **Osaka Castle, 04/12** ✅
-  - ⚠️ **Scambiato con il Kaiyukan** (vedi review): il castello è un must-see di un primo viaggio ed era assente dal piano, mentre l'acquario era già segnato come sacrificabile. Nessuna prenotazione necessaria, biglietto in loco per la torre.
+  - Spostato al mattino (09:50) nel riordino del 18 ottobre. Nessuna prenotazione necessaria, biglietto in loco per la torre.
+
+- [ ] **Kaiyukan (Osaka Aquarium), 04/12** 🔄✅
+  - Facoltativo, nel pomeriggio tra Shinsekai e teamLab. E-ticket sul sito ufficiale kaiyukan.com, in vendita ~30 giorni prima (verso il 4 novembre), ~2.700 ¥ di venerdì. Nessuna fretta: si può decidere anche il giorno stesso. Riverificate a novembre che non sia uno dei giorni di chiusura irregolare.
 
 - [ ] **Visit Japan Web** 🎫
   - ⚠️ **Correzione:** non c'è una data di apertura, si compila **quando volete**. Fatelo con calma a inizio novembre e **generate i codici QR prima di salire sull'aereo**. Limite operativo: 16 novembre.
@@ -297,7 +300,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 | Data | Pasto | Ingresso | Locale proposto | Prenotazione | Tabelog | Note |
 |---|---|---|---|---|---|---|
-| 04/12 ven | Pranzo | 11:45 | 💡 **Valutate di spostare il pranzo al Kuromon Ichiba Market** (già sulla strada la mattina), invece di camminare fino a Shinsekai: stile "a spizzico" coerente con gli altri pasti-mercato del viaggio, e a inizio dicembre è piena stagione del granchio reale. Consigliati: **Yashima** (zampe di granchio reale alla griglia), **Niku Hoshi** (spiedini di wagyu A5 scottati al momento), un banco di granchio delle nevi, un banco di uni/ikura. Se preferite restare sul kushikatsu seduti a Shinsekai: **Yaekatsu** (dal 1949, la scelta dei locali, meno coda) invece di Kushikatsu Daruma (più iconico ma turistico, fino a un'ora d'attesa) | ✅ Walk-in | [Daruma: Tabelog](https://tabelog.com/en/osaka/A2701/A270206/27004260/) — Yaekatsu cercabile su Tabelog ("Yaekatsu Shinsekai") | Se scegliete Kuromon: arrivate verso le 10 per banchi pieni e griglie calde. Non si intinge due volte nella salsa comune, vale in entrambi i casi |
+| 04/12 ven | Pranzo | 11:45 | **Kuromon Ichiba Market** (adottato nel riordino del 18 ottobre: castello al mattino, poi Kuromon): pranzo a spizzico, coerente con gli altri pasti-mercato del viaggio, e a inizio dicembre è piena stagione del granchio reale. Consigliati: **Yashima** (zampe di granchio reale alla griglia), **Niku Hoshi** (spiedini di wagyu A5 scottati al momento), un banco di granchio delle nevi, un banco di uni/ikura. Se preferite restare sul kushikatsu seduti a Shinsekai: **Yaekatsu** (dal 1949, la scelta dei locali, meno coda) invece di Kushikatsu Daruma (più iconico ma turistico, fino a un'ora d'attesa) | ✅ Walk-in | [Daruma: Tabelog](https://tabelog.com/en/osaka/A2701/A270206/27004260/) — Yaekatsu cercabile su Tabelog ("Yaekatsu Shinsekai") | Alle 11:45 c'è più folla che alle 10: partite dai banchi con la coda più corta. Kushikatsu eventualmente come assaggio a Shinsekai subito dopo (non si intinge due volte nella salsa comune) |
 | 04/12 ven | Cena | 19:30 | **Takoyaki Doraku Wanaka** (Bib Gourmand Michelin, 8 pezzi ~¥700) o **Takohachi** (set takoyaki+okonomiyaki in un unico locale); per okonomiyaki seduti: **Chibo Okonomiyaki** | ✅ Walk-in | [Wanaka: Tabelog](https://tabelog.com/en/osaka/A2701/A270202/27104548/) | Eccezione orario: dopo teamLab Botanical Garden. 💡 Evitate i banchi proprio sotto l'insegna Glico/il granchio: i più cari e scadenti, buoni solo per la foto — spostatevi di una o due strade verso Soemoncho per opzioni meno turistiche |
 
 ## Tokyo, seconda tappa (5-9 dicembre, inclusa gita a Kamakura)
@@ -427,7 +430,8 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 - 🚃 *Trasferimento:* JR Yamanote Line da Ebisu a Shinjuku (~8 min).
 - **16:15 -- 17:15** 🌟✅ **Tokyo Metropolitan Government Office**, Nishi-Shinjuku: osservatorio gratuito, nessuna prenotazione. Il tramonto è verso le 16:30 e nei giorni tersi si vede anche il Fuji.
 - **17:30 -- 19:30** *Cena (ingresso 17:30, dentro la finestra; è festivo, prenotate):* yakiniku o izakaya a Omoide Yokocho, Shinjuku.
-- 🚆 **Rientro in hotel:** JR Chuo-Sobu Line da Shinjuku a Iidabashi (~12 min).
+- **19:45 -- 20:45** ✅ **Disney FLAGSHIP TOKYO:** il Disney Store più grande del Giappone, 3 piani (B1-2F) su Shinjuku-dori, con Disney, Pixar, Star Wars, Marvel e merchandise dei parchi. A piedi da Omoide Yokocho (~10 min), accanto all'uscita B6 di Shinjuku-sanchome. Ingresso libero. ⚠️ Chiude alle 21:00 (orario da riconfermare sul sito Disney Japan) e nel giorno festivo sarà affollato.
+- 🚆 **Rientro in hotel:** JR Chuo-Sobu Line da Shinjuku a Iidabashi (~12 min), oppure Toei Shinjuku Line da Shinjuku-sanchome a Ichigaya + 1 fermata di Chuo-Sobu (~15 min).
 - 🏨 **Hotel Metropolitan Edmont**
 
 ---
@@ -621,17 +625,22 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 ## Venerdì 04 dicembre -- Trasferimento a Osaka, in modalità leggera
 
-> ⚠️ **Correzione di tempi:** per arrivare a Nagai (teamLab) dal centro di Osaka mettete in conto **40-50 minuti** di metro con almeno un cambio. Ricalibrato sotto.
+> 🧭 **Ordine riorganizzato (18 ottobre) per evitare avanti-indietro:** castello al mattino (nord), pranzo a Kuromon e Shinsekai (sud), Kaiyukan in baia (ovest), teamLab a Nagai (sud). Il piano precedente faceva sud -> nord -> sud e lasciava quasi due ore morte prima di teamLab: ora quel buco è occupato dal Kaiyukan, facoltativo.
 
 > 🍽️ ⚠️ **Eccezione cena:** teamLab Botanical Garden è un'esperienza notturna che richiede il buio, apre alle 17:30 e non ha versione diurna. Oggi la cena a Dotonbori cade quindi necessariamente dopo le 19:15, fuori dalla finestra 16:30-18.
 
-- **08:30 -- 09:30** ✅ JR Special Rapid Kyoto -> Osaka, circa 30 minuti. Deposito bagagli all'**Aloft Osaka Dojima** (a piedi dalla stazione, ~12 min).
-- 🚇 *Andata dal deposito bagagli:* Osaka Metro dal Dojima (Higobashi) fino a Namba/Nippombashi (~20 min, un cambio).
-- **10:15 -- 11:45** 🌟✅ **Kuromon Market** e il quartiere retrò di **Shinsekai** con la **Tsutenkaku Tower**, che è la Osaka anni Cinquanta rimasta ferma.
-- **11:45 -- 12:45** *Pranzo (ingresso 11:45):* kushikatsu, spiedini fritti, a Shinsekai. 💡 Regola sacra: **non si intinge due volte** nella salsa comune.
-- **13:00 -- 14:30** ✅🏯 **Osaka Castle:** ⚠️ **Sostituisce il Kaiyukan** (vedi review): un must-see di un primo viaggio che mancava dal piano, mentre l'acquario era già segnato come sacrificabile. Il parco e l'esterno si godono anche senza salire in cima, se i tempi stringono. Biglietto in loco per la torre.
-- **14:45 -- 15:45** Trasferimento a **Nagai**: Osaka Metro Tanimachi Line da Tanimachi 4-chome (vicino al castello) con cambio verso la Midosuji Line, oppure JR Osaka Loop Line + cambio. Mettete in conto **40-50 minuti**: verificate il percorso esatto con Google Maps il giorno stesso, dato che dipende dal cambio più comodo al momento.
-- **17:30 -- 19:15** 🌟🎫 **teamLab Botanical Garden:** museo notturno all'aperto nel parco botanico di Nagai, 240.000 metri quadri di installazioni luminose interattive. **Non sacrificabile.** ⚠️ È un'esperienza **all'aperto e al freddo**: vestitevi di conseguenza.
+- 🚕 **Partenza dal KABIN: 08:10**, taxi fino a Kyoto Station (~10 min, col trolley è meglio dell'autobus).
+- **08:30 -- 09:00** ✅ JR Special Rapid Kyoto -> Osaka, ~29 min, una corsa ogni 15 minuti circa, nessuna prenotazione: prendete la prima utile tra le 08:25 e le 08:40.
+- **09:00 -- 09:30** Deposito trolley all'**Aloft Osaka Dojima**: ~15 min a piedi da Osaka Station (uscita sud), o taxi ~5 min. Il check-in vero è dalle 15:00, per ora lasciate solo i bagagli.
+- 🚕 **09:30 -- 09:50** *Trasferimento al castello:* taxi (~10-15 min, la soluzione più semplice da Dojima). In metro: Yotsubashi Line da Higobashi + cambio, ~25 min.
+- **09:50 -- 11:15** 🌟✅🏯 **Osaka Castle:** torre e parco al mattino, prima dei gruppi. Apre alle 09:00, biglietto in loco. ⚠️ **Al posto del Kaiyukan** nel piano originale, perché è un must-see di un primo viaggio; ora c'è spazio per entrambi. Se i tempi stringono, il parco e l'esterno valgono anche senza salire sulla torre.
+- 🚇 **11:15 -- 11:45** *Trasferimento a Kuromon:* a piedi fino a Tanimachi 4-chome (~10 min), Tanimachi Line fino a Tanimachi 9-chome, cambio Sennichimae Line fino a Nippombashi (~15 min in totale).
+- **11:45 -- 13:00** 🌟 *Pranzo (ingresso 11:45):* **Kuromon Market** a spizzico, nella piena stagione del granchio: vedi la tabella pasti per i banchi consigliati.
+- **13:00 -- 13:45** ✅ **Shinsekai** e **Tsutenkaku Tower**, la Osaka anni Cinquanta rimasta ferma. A piedi da Kuromon (~15 min), oppure Sakaisuji Line da Nippombashi a Ebisucho (2 fermate). 💡 Se vi è rimasta fame: un paio di kushikatsu, e **non si intinge due volte** nella salsa comune.
+- 🚇 **13:45 -- 14:30** *Trasferimento in baia:* Midosuji Line da Dobutsuen-mae a Hommachi (~8 min), cambio Chuo Line fino a Osakako (~10 min), poi ~7 min a piedi. Circa 40 minuti porta a porta.
+- **14:30 -- 16:15** 🔄✅ **Kaiyukan (Osaka Aquarium):** percorso a spirale su 8 piani attorno alla vasca centrale dello squalo balena, ~1h30. Aperto di solito 10:00-20:00, ~2.700 ¥ di venerdì (prezzi più alti nel weekend). E-ticket sul sito ufficiale, in vendita ~30 giorni prima: non serve prenotarlo in anticipo, va benissimo anche il giorno stesso. **Primo punto da saltare** se siete stanchi: in quel caso dopo Shinsekai fate check-in all'Aloft e riposatevi (Midosuji Dobutsuen-mae -> Umeda ~15 min), poi Midosuji Umeda -> Nagai (~25 min) partendo alle 16:45. ⚠️ Chiude in giorni irregolari: riverificate a novembre che il 4/12 sia aperto.
+- 🚇 **16:15 -- 17:15** *Trasferimento a Nagai:* ~7 min a piedi fino a Osakako, Chuo Line fino a Hommachi (~10 min), cambio Midosuji Line fino a Nagai (~17 min), poi ~10 min a piedi fino al giardino botanico. **~50 minuti porta a porta, partite dal Kaiyukan entro le 16:20.** Verificate il percorso su Google Maps il giorno stesso.
+- **17:30 -- 19:15** 🌟🎫 **teamLab Botanical Garden:** 💡 prendete lo **slot delle 17:30-18:00**: con l'uscita dal Kaiyukan alle 16:15 arrivate verso le 17:10, con un margine di 20 minuti. Museo notturno all'aperto nel parco botanico di Nagai, 240.000 metri quadri di installazioni luminose interattive. **Non sacrificabile.** ⚠️ È un'esperienza **all'aperto e al freddo**: vestitevi di conseguenza.
 - **19:30 -- 22:00** *Dotonbori e cena (eccezione, ingresso dopo le 19:15 per via di teamLab):* insegne al neon, il Glico Man, takoyaki e okonomiyaki. Da Nagai sono venti minuti di Midosuji fino a Namba.
 - 🚇 **Rientro in hotel:** Osaka Metro Yotsubashi Line da Namba a Higobashi (~10 min).
 - 🏨 **Aloft by Marriott Osaka Dojima**
@@ -640,7 +649,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 
 ## Sabato 05 dicembre -- Ritorno a Tokyo e riunione bagagli 🌤️
 
-- 🚇 **Andata alla stazione:** Osaka Metro Yotsubashi Line da Higobashi a Nishi-Umeda, cambio Midosuji Line fino a Shin-Osaka (~15-20 min).
+- 🚇 **Partenza dall'Aloft: 07:45.** Osaka Metro Yotsubashi Line da Higobashi a Nishi-Umeda, cambio a piedi (~5-10 min nei corridoi di Umeda) sulla Midosuji Line fino a Shin-Osaka (~6 min). ~25-30 minuti porta a porta, per essere in banchina un quarto d'ora prima. In alternativa taxi diretto (~15 min), comodo col trolley. ⚠️ Al momento della prenotazione (5 novembre) l'orario esatto del Nozomi potrà spostarsi di qualche minuto rispetto alle 08:30: ricalcolate la partenza di conseguenza.
 - **08:30 -- 11:00** 🎫🌤️ Shinkansen Tokaido Shin-Osaka -> Tokyo, circa 2h30 col Nozomi. **Posti D o E** per il Fuji, che vi sarà sulla sinistra andando verso est. Posto già prenotato, nessuna azione se è coperto. 💡 Il Fuji si vede circa 40 minuti dopo Nagoya, tenete d'occhio il finestrino.
 - **11:00 -- 11:40** Arrivo allo **Shiba Park Hotel**, Minato City, e **ritiro delle valigie grandi**. 🚶 JR Yamanote/Keihin-Tohoku Line da Tokyo a Hamamatsucho (~7 min) + 10 min a piedi, oppure Toei Mita Line fino a Onarimon (fermata più vicina all'hotel). ⚠️ Il check-in vero è di solito dalle 15:00: probabilmente potrete solo depositare e cambiarvi. Chiedete un early check-in in anticipo.
 - **11:45 -- 12:45** *Pranzo (ingresso 11:45):* Tokyo Ramen Street sotto la stazione, oppure sushi a Ginza.
@@ -751,6 +760,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 | 23/11 | 15:00 | Ebisu Garden Place | 35.6421 | 139.7137 |
 | 23/11 | 16:15 | Tokyo Metropolitan Government Building | 35.6896 | 139.6921 |
 | 23/11 | 17:30 | Omoide Yokocho | 35.6929 | 139.6995 |
+| 23/11 | 19:45 | Disney FLAGSHIP TOKYO | 35.6909 | 139.7042 |
 | 24/11 | 10:00 | Kanazawa Station | 36.5781 | 136.6478 |
 | 24/11 | 11:00 | Omicho Market | 36.5716 | 136.6567 |
 | 24/11 | 13:00 | Kanazawa Castle Park | 36.5651 | 136.6595 |
@@ -805,9 +815,10 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**. Vuol dire che il b
 | 03/12 | 09:45 | Himeji Castle | 34.8394 | 134.6939 |
 | 03/12 | 13:00 | Koko-en Garden | 34.838 | 134.6905 |
 | 03/12 | 17:45 | Mishima-tei Kyoto | 35.0055 | 135.768 |
-| 04/12 | 10:15 | Kuromon Market | 34.6654 | 135.5066 |
-| 04/12 | 11:00 | Tsutenkaku | 34.6525 | 135.5063 |
-| 04/12 | 13:00 | Osaka Castle | 34.6873 | 135.5262 |
+| 04/12 | 09:50 | Osaka Castle | 34.6873 | 135.5262 |
+| 04/12 | 11:45 | Kuromon Market | 34.6654 | 135.5066 |
+| 04/12 | 13:00 | Tsutenkaku | 34.6525 | 135.5063 |
+| 04/12 | 14:30 | Osaka Aquarium Kaiyukan | 34.6545 | 135.4289 |
 | 04/12 | 17:30 | teamLab Botanical Garden Osaka | 34.6116 | 135.518 |
 | 04/12 | 19:30 | Dotonbori Glico Sign | 34.6687 | 135.5013 |
 | 05/12 | 11:00 | Tokyo Station | 35.6812 | 139.7671 |

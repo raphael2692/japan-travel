@@ -79,106 +79,176 @@ window.TRIP = {
       "cosa": "THE KAISEKI (cena 26/11)",
       "apre": "26 set",
       "oraIt": "",
-      "entro": "15 ott",
-      "dove": "sito / Tablecheck"
+      "entro": "⚠️ scaduta il 15 ott: tentate comunque",
+      "dove": "[sito](https://the-higashiyama-club.com/) · [Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26044552/)"
     },
     {
       "cosa": "Mishima-tei (cena 03/12)",
       "apre": "03 ott",
       "oraIt": "",
-      "entro": "10 ott",
-      "dove": "sito ufficiale"
+      "entro": "⚠️ scaduta il 10 ott: telefonate",
+      "dove": "tel. +81 75-221-0003 · [sito](https://www.mishima-tei.co.jp/)"
     },
     {
-      "cosa": "Treno Fuji Excursion (20/11)",
-      "apre": "20 ott",
-      "oraIt": "03:00",
-      "entro": "01 nov",
-      "dove": "JR / Ekinet"
+      "cosa": "**Shinkansen Tokaido (05/12)**",
+      "apre": "**già aperta** (prenotazione anticipata)",
+      "oraIt": "",
+      "entro": "**subito**: posti confermati il 5 nov alle 00:00",
+      "dove": "[smartEX](https://smart-ex.jp/en/)"
+    },
+    {
+      "cosa": "teamLab Botanical Garden (04/12)",
+      "apre": "probabilmente già aperta",
+      "oraIt": "",
+      "entro": "subito, al più tardi 20 nov",
+      "dove": "[teamLab](https://www.teamlab.art/e/botanicalgarden/)"
     },
     {
       "cosa": "Ninja-dera Myoryu-ji (25/11)",
       "apre": "subito",
       "oraIt": "",
       "entro": "31 ott",
-      "dove": "telefono / web"
+      "dove": "**solo telefono** +81 76-241-0888"
+    },
+    {
+      "cosa": "Treno Fuji Excursion (20/11)",
+      "apre": "20 ott",
+      "oraIt": "03:00",
+      "entro": "01 nov",
+      "dove": "[JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index)"
     },
     {
       "cosa": "Shinkansen Hokuriku (24/11)",
       "apre": "24 ott",
       "oraIt": "03:00",
       "entro": "10 nov",
-      "dove": "Ekinet"
+      "dove": "[JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index)"
     },
     {
       "cosa": "**Kanazawa → Kyoto, Hokuriku + Thunderbird (26/11)**",
       "apre": "**26 ott**",
       "oraIt": "**02:00**",
       "entro": "10 nov",
-      "dove": "JR West online (e5489)"
+      "dove": "[JR-WEST Online](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en)"
     },
     {
-      "cosa": "Ristoranti Roppongi / Odaiba",
-      "apre": "01 nov",
+      "cosa": "Illuminazione Rikugien (06/12)",
+      "apre": "fine ott, da annunciare",
       "oraIt": "",
-      "entro": "15 nov",
-      "dove": "sito / concierge"
+      "entro": "25 nov",
+      "dove": "[sito](https://www.tokyo-park.or.jp/teien/en/rikugien/)"
     },
     {
       "cosa": "Aoniyoshi (01/12)",
       "apre": "01 nov",
       "oraIt": "02:30",
       "entro": "subito, si esaurisce",
-      "dove": "Kintetsu online"
+      "dove": "[Kintetsu e-ticket](https://www.kintetsu.co.jp/gyoumu/ticket/e-ticket/vs/en/)"
     },
     {
-      "cosa": "Shinkansen Tokaido (05/12)",
-      "apre": "05 nov",
-      "oraIt": "02:00",
-      "entro": "20 nov",
-      "dove": "smartEX"
-    },
-    {
-      "cosa": "teamLab Botanical Garden (04/12)",
-      "apre": "appena disponibile",
+      "cosa": "Ristoranti Roppongi / Odaiba",
+      "apre": "01 nov",
       "oraIt": "",
-      "entro": "20 nov",
-      "dove": "solo online"
+      "entro": "15 nov",
+      "dove": "TableCheck / sito, vedi sotto"
     },
     {
-      "cosa": "Illuminazione Rikugien (06/12)",
-      "apre": "fine ott",
+      "cosa": "Kaiyukan (04/12, facoltativo)",
+      "apre": "~4 nov",
       "oraIt": "",
-      "entro": "25 nov",
-      "dove": "sito ufficiale"
+      "entro": "anche il giorno stesso",
+      "dove": "[kaiyukan.com](https://www.kaiyukan.com/)"
     },
     {
       "cosa": "**Shibuya Sky (22/11)**",
       "apre": "**08 nov, 00:00 JST**",
       "oraIt": "**07 nov ore 16:00**",
       "entro": "**stesso istante**",
-      "dove": "Klook consigliato"
+      "dove": "[sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/) · Klook"
     },
     {
       "cosa": "Visit Japan Web",
       "apre": "quando volete",
       "oraIt": "",
       "entro": "16 nov",
-      "dove": "visitjapan web"
+      "dove": "[Visit Japan Web](https://services.digital.go.jp/en/visit-japan-web/)"
     }
   ],
   "scadenze": [
     {
+      "titolo": "Prima di tutto: account, carte e Suica (da fare questa settimana)",
+      "items": [
+        {
+          "titolo": "Una Suica a testa nel Wallet del telefono",
+          "tags": "🎫",
+          "done": false,
+          "note": [
+            "serve a salire sui treni prenotati come e-ticket (Fuji Excursion, Hokuriku, Tokaido) senza ritirare biglietti di carta. Le regole JR East richiedono **una carta IC per persona**.",
+            "**1.** iPhone: Wallet → \"+\" → Carta di transito → Suica. Android: app Suica (solo alcuni modelli). Ricaricatela con la carta di credito.",
+            "**2.** Annotate il **numero ID della Suica** di entrambi (17 caratteri, nei dettagli della carta nel Wallet): lo inserirete in JR-EAST Train Reservation e in smartEX per collegarci i biglietti.",
+            "⚠️ Una carta IC mai usata ai tornelli in Giappone potrebbe non essere accettata subito per gli Shinkansen. I vostri primi treni prenotati sono dal 20/11, e il 19/11 avrete già usato la Suica all'arrivo. Se il collegamento online non va, c'è sempre il ritiro dei biglietti di carta con QR code e passaporto alle biglietterie automatiche JR."
+          ]
+        },
+        {
+          "titolo": "Carta di credito con 3D Secure attivo",
+          "tags": "-- tutti i siti JR richiedono la verifica 3D Secure (codice o notifica della banca). Tenete pronta una seconda carta di un altro circuito (es. Amex se la prima è Visa/Mastercard): la causa più frequente dei rifiuti è il paese di emissione della carta. Avvisate la banca che farete pagamenti in yen di notte.",
+          "done": false,
+          "note": []
+        },
+        {
+          "titolo": "Creare gli account adesso, non la notte dell'apertura",
+          "tags": "-- registratevi con calma su tutti questi siti e salvate la carta dove possibile:",
+          "done": false,
+          "note": [
+            "[JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index): Fuji Excursion (20/11) e Shinkansen Hokuriku (24/11). ⚠️ Non usate **Eki-net** (il sito giapponese): JR East lo riserva ai residenti in Giappone.",
+            "[JR-WEST Online Train Reservation](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en): Kanazawa → Kyoto (26/11). [Guida ufficiale](https://www.westjr.co.jp/global/en/howto/train-reservation/).",
+            "[smartEX](https://smart-ex.jp/en/): Shinkansen Tokaido (05/12).",
+            "[Kintetsu e-ticket](https://www.kintetsu.co.jp/gyoumu/ticket/e-ticket/vs/en/): Aoniyoshi (01/12).",
+            "Klook (app): piano B per Shibuya Sky."
+          ]
+        }
+      ]
+    },
+    {
       "titolo": "Treni, spostamenti e posti panoramici",
       "items": [
+        {
+          "titolo": "Shinkansen Tokaido, Osaka → Tokyo, 05/12 — prenotabile già adesso",
+          "tags": "🎫🌤️",
+          "done": false,
+          "note": [
+            "**Dove:** [smartEX](https://smart-ex.jp/en/), sito o app \"smartEX\". [Come funziona la prenotazione anticipata](https://smart-ex.jp/en/product/plan/service/).",
+            "**Quando:** smartEX accetta prenotazioni **da un anno prima**. Treno, orario e posti vengono **confermati alle 08:00 JST di un mese prima**, cioè il **5 novembre alle 00:00 italiane**, con un'email. Niente sveglia alle 2 di notte.",
+            "**1.** Prenotate subito: 5 dicembre, Shin-Osaka → Tokyo, **Nozomi intorno alle 08:30**, 2 adulti, posto riservato ordinario (~14.500 ¥ a testa).",
+            "**2.** Collegate la Suica di entrambi (numero ID a 17 caratteri), oppure scegliete il QR code come biglietto.",
+            "**3.** La notte del 5 novembre, dopo l'email di conferma, aprite la mappa posti e, se serve, spostatevi sulla **coppia D+E** (E è il finestrino lato Fuji). Cambi gratuiti e illimitati prima della partenza.",
+            "**4.** Il giorno del viaggio: si passa il tornello con la Suica, o si mostra il QR. Nessun biglietto da ritirare.",
+            "💡 *Tip sedili:* sul Tokaido D/E stanno sempre sul lato nord, quindi sul lato Fuji in entrambe le direzioni. Andando verso Tokyo il Fuji vi sarà a sinistra. Cancellazione: 320 ¥ di penale prima della partenza."
+          ]
+        },
+        {
+          "titolo": "Treno Fuji Excursion, Shinjuku → Shimoyoshida e Kawaguchiko → Shinjuku, 20/11",
+          "tags": "🎫🌤️",
+          "done": false,
+          "note": [
+            "**Dove:** [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index), che dall'agosto 2025 vende il Fuji Excursion come **e-ticket per l'intero percorso**, compresa la tratta Fujikyu. Il biglietto si collega alla Suica: niente carta da ritirare.",
+            "**Quando:** **20 ottobre alle 10:00 JST = 03:00 italiane**. Limite: 1° novembre. ⚠️ Posti tutti riservati, in stagione foliage si esauriscono: siate collegati 5 minuti prima.",
+            "**1.** Andata: 20 novembre, **Shinjuku → Shimoyoshida** (non Kawaguchiko: si scende lì per la Chureito Pagoda), corsa del mattino verso le 07:20-07:30. Il tratto Shimoyoshida → Kawaguchiko si fa poi sul treno locale Fujikyu, pagando con la Suica. Controllate nella ricerca che la corsa fermi a Shimoyoshida.",
+            "**2.** Ritorno: stessa sessione, **Kawaguchiko → Shinjuku**, corsa delle ~16:45 (verificate l'orario esatto: le corse pomeridiane sono poche).",
+            "**3.** Posti: carrozza 2+2 (A-B | C-D). Andata **A+B** (A è il finestrino a sinistra, lato Fuji). Ritorno **C+D** (D finestrino a destra).",
+            "**4.** Il giorno del viaggio: tornello con la Suica collegata. Piano B se il collegamento non riesce: ritiro dei biglietti di carta con il QR code alle biglietterie automatiche JR East di Shinjuku, con mezz'ora di anticipo. ⚠️ A Kawaguchiko i QR JR non si possono convertire: ritirate andata e ritorno insieme a Shinjuku."
+          ]
+        },
         {
           "titolo": "Shinkansen Hokuriku, Tokyo → Kanazawa, 24/11",
           "tags": "🎫🌤️",
           "done": false,
           "note": [
-            "Apertura: **24 ottobre 2026, ore 10:00 JST** (03:00 italiane, siamo ancora su ora legale). Limite: 10 novembre.",
-            "💡 *Tip sedili:* **lato sinistro nel senso di marcia** per le Alpi Giapponesi dopo Itoigawa. Sulla E7 la lettera cambia a seconda della carrozza: chiedete esplicitamente \"left side, mountain view\" allo sportello o guardate la mappa posti su Ekinet, non fidatevi della lettera del sedile.",
-            "💡 Su Ekinet esiste anche una preregistrazione che apre qualche giorno prima della vendita vera: vale la pena attivarla."
+            "**Dove:** [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index), come Shinkansen e-ticket collegato alla Suica. Se nella ricerca Kanazawa non compare come destinazione, usate [JR-WEST Online](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en), che copre tutta la linea Hokuriku.",
+            "**Quando:** **24 ottobre alle 10:00 JST = 03:00 italiane** (ultimo giorno di ora legale). Limite: 10 novembre.",
+            "**1.** 24 novembre, Tokyo → Kanazawa, **Kagayaki intorno alle 07:30** (la Kagayaki ha solo posti riservati), 2 adulti, ordinario.",
+            "**2.** Posti: **lato sinistro nel senso di marcia** per le Alpi Giapponesi dopo Itoigawa. Sulla E7 la lettera dipende dalla carrozza: guardate la direzione di marcia nella mappa posti, non la lettera.",
+            "**3.** Il giorno: tornello a Tokyo con la Suica collegata. Piano B: ritiro dei biglietti con il QR alle biglietterie automatiche JR East (anche a Iidabashi, la sera prima)."
           ]
         },
         {
@@ -186,20 +256,11 @@ window.TRIP = {
           "tags": "🎫",
           "done": false,
           "note": [
-            "⚠️ **Va prenotato:** sia la Kagayaki sia il Thunderbird sono **tutti a posti riservati**, senza carrozze libere, e a fine novembre si riempiono. Solo la Hakutaka ha qualche carrozza non riservata. Biglietto unico Kanazawa → Tsuruga → Kyoto su JR West online (e5489).",
-            "Apertura: **26 ottobre 2026, ore 10:00 JST** = **02:00 italiane** (il 25 ottobre l'Italia torna all'ora solare). Limite: 10 novembre.",
-            "💡 *Tip sedili Thunderbird:* **lato sinistro nel senso di marcia** (verso Kyoto) per il Lago Biwa, che il treno costeggia sulla sponda ovest. Come per lo Shinkansen, chiedete \"lake side\" invece di fidarvi della lettera.",
-            "⚠️ A Tsuruga il cambio **non è sulla stessa banchina**: lo Shinkansen arriva al 3° piano, il Thunderbird parte dal piano terra. Servono ~8-10 minuti, scegliete una coincidenza con almeno quel margine."
-          ]
-        },
-        {
-          "titolo": "Shinkansen Tokaido, Osaka → Tokyo, 05/12",
-          "tags": "🎫🌤️",
-          "done": false,
-          "note": [
-            "Apertura: **5 novembre 2026, ore 10:00 JST** (02:00 italiane). Limite: 20 novembre.",
-            "💡 *Tip sedili:* **la coppia D+E**. Sul Tokaido D/E stanno sempre sul lato nord, quindi sul lato Fuji in entrambe le direzioni. ⚠️ **E è il finestrino, D il corridoio**: chi siede in E vede il Fuji. Andando verso Tokyo il Fuji vi sarà a sinistra.",
-            "💡 Usate l'app **smartEX**: prenotazione, modifica e cambio treno gratuiti fino alla partenza."
+            "**Dove:** [JR-WEST Online Train Reservation](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en) ([guida ufficiale](https://www.westjr.co.jp/global/en/howto/train-reservation/)). Sia la Kagayaki sia il Thunderbird sono **tutti a posti riservati** e a fine novembre si riempiono.",
+            "**Quando:** **26 ottobre alle 10:00 JST = 02:00 italiane** (il 25 ottobre l'Italia torna all'ora solare). Limite: 10 novembre.",
+            "**1.** Cercate per stazioni: 26 novembre, **Kanazawa → Kyoto**, partenza dalle 10:55 in poi, 2 adulti. Il sito propone la combinazione Shinkansen fino a Tsuruga + Thunderbird: verificate che il cambio a Tsuruga abbia **almeno 8-10 minuti** (lo Shinkansen arriva al 3° piano, il Thunderbird parte dal piano terra).",
+            "**2.** Posti Thunderbird: **lato sinistro verso Kyoto** per il Lago Biwa (vista a tratti sulla sponda ovest).",
+            "**3.** Ritiro: i biglietti si ritirano alle biglietterie automatiche con il simbolo **e5489** nelle stazioni JR West, seguendo le istruzioni dell'email di conferma. Ritirateli **il 24/11 appena arrivati alla stazione di Kanazawa**, così il 26 mattina non avete pensieri."
           ]
         },
         {
@@ -207,21 +268,11 @@ window.TRIP = {
           "tags": "🌟🎫",
           "done": false,
           "note": [
-            "⚠️ **Correzione importante:** Kintetsu apre le prenotazioni **1 mese prima alle 10:30 JST**, non 2 mesi. Quindi **1° novembre 2026 alle 10:30 JST = 02:30 ora italiana**.",
-            "⚠️ **Seconda correzione:** l'Aoniyoshi non parte da Kyoto la mattina presto. Orari indicativi: Kyoto → Nara 10:55 / 12:55 / 14:55, Nara → Kyoto 11:55 / 13:55 / 15:55. Per questo il piano del 1° dicembre usa l'**Aoniyoshi come rientro delle 15:55**.",
-            "⚠️ L'Aoniyoshi normalmente **non circola di giovedì**. Il 1° dicembre è martedì, quindi siete a posto.",
-            "💡 *Tip sedili:* carrozze **1 o 4**, sedili singoli o doppi inclinati verso le vetrate panoramiche. Si esaurisce in pochi minuti: siate sul sito alle 02:25 con account già creato e carta salvata."
-          ]
-        },
-        {
-          "titolo": "Treno Fuji Excursion, Shinjuku → Kawaguchiko, 20/11",
-          "tags": "🎫🌤️",
-          "done": false,
-          "note": [
-            "⚠️ **Semplificato su richiesta: niente bus riservato.** Si va in treno diretto, limited express **Fuji Excursion** (JR/Fujikyu, materiale E353), Shinjuku → Kawaguchiko in circa 2 ore, un solo treno senza cambi.",
-            "Apertura: circa **1 mese prima**, quindi 20 ottobre 2026 (03:00 ora italiana). Limite: 1° novembre. Prenotabile su Ekinet o agli sportelli JR. ⚠️ **Posti riservati, si esauriscono** in stagione foliage: prenotate appena si apre la finestra.",
-            "💡 *Tip sedili andata (Shinjuku → Kawaguchiko):* **posto A, lato sinistro, finestrino** — è il lato da cui si vede il Fuji avvicinandosi.",
-            "💡 *Tip sedili ritorno (Kawaguchiko → Shinjuku):* il lato si inverte, **posto D, lato destro, finestrino**."
+            "**Dove:** [Kintetsu e-ticket](https://www.kintetsu.co.jp/gyoumu/ticket/e-ticket/vs/en/): solo il biglietto del limited express, con **scelta del posto** e fino a 3 cambi gratuiti. La tariffa base si paga a parte, con la Suica ai tornelli. Piano B: [Kintetsu ARS](https://ars-kintetsutk.triplabo.com/home?lang=en), che include la tariffa base ma senza scelta del posto. [Pagina del treno](https://www.kintetsu.co.jp/foreign/english/aoniyoshi/).",
+            "**Quando:** **1° novembre alle 10:30 JST = 02:30 italiane**. Si esaurisce in pochi minuti: siate sul sito alle 02:25, già loggati.",
+            "**1.** 1° dicembre, **Kintetsu-Nara → Kyoto, corsa delle 15:55**, 2 adulti. Nara → Kyoto costa **1.490 ¥ a testa** con i posti twin per due.",
+            "**2.** 💡 *Tip sedili:* carrozze **1 o 4**, sedili twin inclinati verso le vetrate panoramiche.",
+            "⚠️ Orari indicativi: Kyoto → Nara 10:55 / 12:55 / 14:55, Nara → Kyoto 11:55 / 13:55 / 15:55. L'Aoniyoshi normalmente **non circola di giovedì**; il 1° dicembre è martedì."
           ]
         },
         {
@@ -238,15 +289,14 @@ window.TRIP = {
       "titolo": "Biglietti per attrazioni e osservatori",
       "items": [
         {
-          "titolo": "Shibuya Sky, Tokyo, 22/11",
+          "titolo": "Myoryu-ji \"Ninja-dera\", Kanazawa, 25/11 ore 13:30",
           "tags": "🌟🎫",
           "done": false,
           "note": [
-            "⚠️ **Correzione importante:** dal 2025 i biglietti escono **2 settimane prima alle 00:00 JST**, non 4 settimane. Per il 22 novembre significa **8 novembre alle 00:00 JST, cioè 7 novembre alle 16:00 ora italiana**.",
-            "Gli slot tramonto spariscono in un paio di minuti. Siate connessi con dieci minuti di anticipo.",
-            "💡 *Slot da puntare:* ingresso **15:40 o 16:00**. Il tramonto a Tokyo il 22/11 è verso le 16:30 e non c'è limite di permanenza: entrate prima, prendete posizione, restate per il blu della sera.",
-            "⚠️ Il sito ufficiale **rifiuta molte carte estere** dal luglio 2024. Piano B: Klook, che accetta carte europee e ha cancellazione gratuita fino a 24 ore prima.",
-            "🍽️ ⚠️ **Eccezione alla regola cena:** questo slot fa uscire dall'osservatorio verso le 18:30, quindi in questa giornata non è possibile entrare a cena entro le 18. Vedi nota nel piano del 22/11."
+            "**Dove:** **solo per telefono**, niente prenotazione online: **+81 76-241-0888**. Le linee rispondono più o meno dalle 9:00 alle 16:00 giapponesi: **fino al 24 ottobre chiamate tra le 07:30 e le 08:30 italiane**, dal 26 ottobre tra le 07:00 e le 08:00. Limite: 31 ottobre (in autunno si riempie).",
+            "**Cosa dire** (in giapponese semplice): *\"Jūichi-gatsu nijūgo-nichi, suiyōbi, gogo ichi-ji han, futari de yoyaku shitai desu\"* = \"Vorrei prenotare per due persone, mercoledì 25 novembre, alle 13:30\". Lasciate nome e numero di telefono. Ingresso 1.200 ¥ a testa, si paga sul posto.",
+            "**Piano B:** scrivete al **Lian Kanazawa** chiedendo di prenotare per voi. Gli hotel giapponesi lo fanno volentieri.",
+            "Visita guidata in giapponese con libretto in inglese. Sostituisce Seisonkaku, che il mercoledì è chiusa."
           ]
         },
         {
@@ -254,9 +304,10 @@ window.TRIP = {
           "tags": "🌟🎫",
           "done": false,
           "note": [
-            "Biglietti **solo online**, a fascia oraria. Comprate appena il calendario si apre, indicativamente 1-2 mesi prima. Limite: 20 novembre.",
-            "È un museo **notturno all'aperto**: a dicembre apre verso le 17:30 con ultimo ingresso circa alle 20:30. Chiuso il 2° e 4° lunedì del mese: il 4 dicembre è venerdì, quindi aperto.",
-            "🍽️ ⚠️ **Eccezione alla regola cena:** è un'esperienza che richiede il buio, quindi in questa giornata la cena a Dotonbori cade necessariamente dopo le 19:15."
+            "**Dove:** [sito ufficiale teamLab](https://www.teamlab.art/e/botanicalgarden/) → pulsante dei biglietti. Solo online, a fascia oraria (~1.800 ¥). Evitate i rivenditori: di solito non permettono cambi né rimborsi.",
+            "**Quando:** il calendario è probabilmente già aperto. **Controllate oggi** e prendete la fascia **17:30-18:00** del 4 dicembre. Limite: 20 novembre.",
+            "È un museo **notturno all'aperto**. Il 4 dicembre è venerdì, quindi niente chiusure del lunedì. Riverificate gli orari invernali sul sito.",
+            "🍽️ ⚠️ **Eccezione alla regola cena:** è un'esperienza che richiede il buio, quindi la cena a Dotonbori cade necessariamente dopo le 19:15."
           ]
         },
         {
@@ -264,18 +315,22 @@ window.TRIP = {
           "tags": "🌟🎫",
           "done": false,
           "note": [
-            "⚠️ **Date ufficiali 2026 confermate (16 ottobre): 25 novembre — 6 dicembre**, dalle 18:00 alle 20:30 (ultimo ingresso 19:30). Fuori da quella finestra il giardino chiude alle 17:00. La vostra visita del 6 dicembre è **l'ultima sera dell'evento**: zero margine se le date dovessero slittare, riconfermate a novembre.",
-            "Biglietti **a numero chiuso**, in vendita online da fine ottobre a circa 1.000 ¥ (1.200 ¥ in loco). Comprare entro il 25 novembre, idealmente appena disponibili vista la scarsa flessibilità di calendario.",
-            "💡 Apre proprio alle 18:00: si incastra perfettamente **dopo** una cena anticipata, vedi piano del 06/12."
+            "**Dove:** le modalità d'acquisto 2026 saranno annunciate sul [sito ufficiale del Rikugien](https://www.tokyo-park.or.jp/teien/en/rikugien/). Biglietto anticipato 1.000 ¥ **solo online**, a numero chiuso per giornata. In loco 1.200 ¥, solo contanti, ma con il rischio di trovarlo esaurito. Ufficio del giardino: +81 3-3941-2222.",
+            "**Quando:** vendita attesa da fine ottobre. Controllate il sito ogni pochi giorni dal 25 ottobre e comprate appena esce. Limite: 25 novembre.",
+            "Date 2026 **25 novembre — 6 dicembre**, dalle 18:00 alle 20:30 (ultimo ingresso 19:30). La vostra è **l'ultima sera dell'evento**: riconfermate le date a novembre.",
+            "💡 Apre alle 18:00: si incastra **dopo** una cena anticipata, vedi piano del 06/12."
           ]
         },
         {
-          "titolo": "Myoryu-ji \"Ninja-dera\", Kanazawa, 25/11",
+          "titolo": "Shibuya Sky, Tokyo, 22/11, slot 15:40 o 16:00",
           "tags": "🌟🎫",
           "done": false,
           "note": [
-            "⚠️ Visita solo su **prenotazione obbligatoria** (telefono o web), a orari fissi, in gruppo guidato in giapponese con libretto in inglese.",
-            "Prenotare in ottobre. Sostituisce Seisonkaku, che il mercoledì è chiusa."
+            "**Dove:** [sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/). Dal luglio 2024 il sito **rifiuta molte carte estere**, quindi tenete pronto **Klook** (app), che vende gli stessi slot pochi minuti dopo, accetta carte europee e permette di cancellare gratis fino a 24 ore prima.",
+            "**Quando:** i biglietti escono **2 settimane prima alle 00:00 JST**: **8 novembre alle 00:00 JST = 7 novembre alle 16:00 italiane**. ⚠️ Alcune guide parlano ancora di 4 settimane. Verificate ora la regola sul sito ufficiale: se fosse ancora così, la vendita aprirebbe il **24 ottobre alle 17:00 italiane**.",
+            "**1.** Alle 15:50 italiane del 7 novembre siate loggati sia sul sito ufficiale sia su Klook. Alle 16:00 provate il sito ufficiale. Se la carta viene rifiutata, passate subito a Klook (apre 3-6 minuti dopo).",
+            "**2.** 2 biglietti \"Web ticket\", 22 novembre, ingresso **15:40 o 16:00**. Il tramonto è verso le 16:30 e non c'è limite di permanenza.",
+            "🍽️ ⚠️ **Eccezione alla regola cena:** si esce dall'osservatorio verso le 18:30, quindi oggi non si entra a cena entro le 18. Vedi piano del 22/11."
           ]
         },
         {
@@ -291,7 +346,7 @@ window.TRIP = {
           "tags": "🔄✅",
           "done": false,
           "note": [
-            "Facoltativo, nel pomeriggio tra Shinsekai e teamLab. E-ticket sul sito ufficiale kaiyukan.com, in vendita ~30 giorni prima (verso il 4 novembre), ~2.700 ¥ di venerdì. Nessuna fretta: si può decidere anche il giorno stesso. Riverificate a novembre che non sia uno dei giorni di chiusura irregolare."
+            "Facoltativo, nel pomeriggio tra Shinsekai e teamLab. E-ticket sul [sito ufficiale](https://www.kaiyukan.com/), in vendita ~30 giorni prima (verso il 4 novembre), ~2.700 ¥ di venerdì. Nessuna fretta: si può decidere anche il giorno stesso. Riverificate a novembre che il 4/12 non sia un giorno di chiusura irregolare."
           ]
         },
         {
@@ -299,7 +354,11 @@ window.TRIP = {
           "tags": "🎫",
           "done": false,
           "note": [
-            "⚠️ **Correzione:** non c'è una data di apertura, si compila **quando volete**. Fatelo con calma a inizio novembre e **generate i codici QR prima di salire sull'aereo**. Limite operativo: 16 novembre."
+            "**Dove:** [Visit Japan Web](https://services.digital.go.jp/en/visit-japan-web/), servizio ufficiale dell'Agenzia digitale giapponese. Si usa dal browser, non serve un'app.",
+            "**Quando:** quando volete, idealmente a inizio novembre. Limite operativo: 16 novembre.",
+            "**1.** Create un account e registrate entrambi i passaporti (si possono aggiungere i familiari allo stesso account).",
+            "**2.** Inserite il viaggio: arrivo **19 novembre a Haneda**, volo **AZ 792**, primo indirizzo **Hotel Metropolitan Edmont, 3-10-8 Iidabashi, Chiyoda-ku, Tokyo**.",
+            "**3.** Compilate immigrazione e dogana, poi **generate il QR code** (uno unico per immigrazione e dogana) prima di salire sull'aereo. Il QR si apre anche offline, purché abbiate fatto il login prima."
           ]
         }
       ]
@@ -312,7 +371,7 @@ window.TRIP = {
           "tags": "🌟🎫",
           "done": false,
           "note": [
-            "apertura 26 settembre, limite 15 ottobre. 💡 **Al momento della prenotazione chiedete il turno delle 17:30-18:00** invece del turno serale standard, per rientrare nella finestra cena."
+            "solo prenotazione online dal [sito ufficiale THE HIGASHIYAMA CLUB](https://the-higashiyama-club.com/) ([Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26044552/)). Il limite del 15 ottobre è passato: controllate comunque i turni rimasti. 💡 Chiedete il turno delle **17:30-18:00**. Chiuso il mercoledì."
           ]
         },
         {
@@ -320,30 +379,38 @@ window.TRIP = {
           "tags": "🌟🎫",
           "done": false,
           "note": [
-            "apertura 3 ottobre, limite 10 ottobre. Verificate la finestra reale sul loro sito o su Tablecheck: alcune case storiche aprono a 3 mesi. 💡 Chiedete il primo turno disponibile, idealmente 17:45."
+            "[sito ufficiale](https://www.mishima-tei.co.jp/) o telefono **+81 75-221-0003** (dall'Italia: chiamate tra le 03:00 e le 08:00 italiane, quando in Giappone è giorno lavorativo). Il limite del 10 ottobre è passato: telefonate comunque. 💡 Chiedete il primo turno, idealmente **17:45**. Frase utile: *\"Jūni-gatsu mikka, gogo roku-ji mae, futari, onegai shimasu\"* = \"3 dicembre, prima delle 18, due persone\"."
           ]
         },
         {
-          "titolo": "Ristorante panoramico Odaiba, 05/12",
+          "titolo": "Ristorante panoramico Odaiba, 05/12, turno 17:30",
           "tags": "🌟🎫",
           "done": false,
           "note": [
-            "apertura 1° novembre, limite 15 novembre. 💡 Chiedete il turno delle 17:30: si vede comunque il Rainbow Bridge illuminato."
+            "prima scegliete tra i due candidati della tabella pasti. **(A) YORIMICHI Odaiba**: prenotazione dalla scheda [Tabelog](https://tabelog.com/en/tokyo/A1313/A131306/13275005/). **(B) Teppanyaki Icho**, Grand Nikko: [TableCheck](https://tablecheck.com/en/tokyo-grand-nikko-icho), in inglese, chiedete il lato Rainbow Bridge nelle note. Apertura indicativa 1° novembre, limite 15 novembre."
           ]
         },
         {
-          "titolo": "Cena finale Roppongi, 08/12",
+          "titolo": "Cena finale Roppongi, 08/12, turno 17:30",
           "tags": "🌟🎫",
           "done": false,
           "note": [
-            "apertura 1° novembre, limite 15 novembre. 💡 Chiedete il turno delle 17:30."
+            "**(A) THE MOON**: [TableCheck](https://tablecheck.com/en/themoon). **(B) BALCON TOKYO**, \"Anniversary Course\": dalla scheda [Tabelog](https://tabelog.com/en/tokyo/A1307/A130701/13241321/). ⚠️ Per BALCON penale del 100% se si cancella entro 3 giorni. Scrivete nelle note che è il **viaggio di nozze**. Apertura indicativa 1° novembre, limite 15 novembre."
           ]
         },
         {
-          "titolo": "Cena del 23/11",
-          "tags": "-- è **festa nazionale**, i locali si riempiono. Prenotate qualcosa anche solo il giorno prima.",
+          "titolo": "Cena del 23/11 (festa nazionale)",
+          "tags": "-- **Gyutan Iroha** a Omoide Yokocho accetta prenotazioni online 24 ore su 24 con conferma immediata, dalla scheda [Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13228233/). Prenotate entro il giorno prima.",
           "done": false,
           "note": []
+        },
+        {
+          "titolo": "Pranzo del 21/11, Komagata Maekawa (Asakusa)",
+          "tags": "📞",
+          "done": false,
+          "note": [
+            "prenotabile online o al tel. +81 50-5589-9710, scheda [Tabelog](https://tabelog.com/en/tokyo/A1311/A131102/13003666/). È il primo giorno del ponte di tre giorni: meglio prenotare."
+          ]
         }
       ]
     }

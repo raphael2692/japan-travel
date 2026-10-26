@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Quiz di ascolto — Giapponese</title>
+<script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'%3E%3Ccircle cx='5' cy='5' r='4' fill='%23c2410c'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top top-sm">
+  <div class="top-bar">
+    <a href="lingua.html" class="back">← Lingua</a>
+    <button id="theme-toggle" class="icon-btn" type="button" aria-label="Cambia tema"></button>
+  </div>
+  <div id="global-search" class="global-search"></div>
+</header>
+<main>
+  <div class="day-header">
+    <div class="eyebrow">Guida linguistica</div>
+    <h1>🎧 Quiz di ascolto</h1>
+    <p class="lg-intro">Ascoltate una frase che vi dirà il personale e scegliete cosa significa. Le frasi sbagliate tornano più spesso.</p>
+  </div>
+
+  <div id="q-voice" class="callout" hidden></div>
+  <select id="q-filter" class="field lg-q-filter" aria-label="Situazione"></select>
+
+  <div class="card lg-quiz">
+    <div class="lg-q-meta"><span id="q-sit"></span><span id="q-score"></span></div>
+    <div class="lg-q-play">
+      <button type="button" id="q-play" class="lg-q-big" aria-label="Ascolta">▶</button>
+      <button type="button" id="q-slow" class="link-btn">🐢 Piano</button>
+      <button type="button" id="q-text" class="link-btn">Mostra il testo</button>
+    </div>
+    <div id="q-shown" class="lg-q-shown" hidden></div>
+    <div id="q-opts" class="lg-q-opts"></div>
+    <div id="q-fb" class="lg-q-fb" hidden></div>
+    <button type="button" id="q-next" class="link-btn lg-q-next" hidden>Avanti →</button>
+  </div>
+</main>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+<script src="lingua-data.js"></script>
+<script src="lingua.js"></script>
+<script>lgInit(); renderQuiz(); renderSearch(); initTheme();</script>
+</body>
+</html>

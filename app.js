@@ -210,6 +210,11 @@ function buildSearchIndex() {
     (t.pasti[g.data] || []).forEach(p => idx.push({ section: label, text: stripMd(`${p.pasto}: ${p.locale}`), link }));
   });
 
+  // guida linguistica (solo se la pagina carica lingua-data.js)
+  (window.LINGUA ? window.LINGUA.situazioni : []).forEach(s => s.sezioni.forEach(sec => (sec.frasi || []).forEach(f => {
+    idx.push({ section: "LINGUA — " + s.titolo.toUpperCase(), text: stripMd(`${f[2]} · ${f[1]}`), link: "frasi.html?s=" + s.id });
+  })));
+
   return idx;
 }
 
@@ -308,6 +313,13 @@ function renderGiorno() {
     if (m && /^\d{1,2}:\d{2}/.test(m[1])) li.dataset.range = m[1];
     list.appendChild(li);
   });
+
+  const lingua = window.LINGUA ? (window.LINGUA.giorni[g.data] || []).map(id => window.LINGUA.situazioni.find(s => s.id === id)).filter(Boolean) : [];
+  const linguaBox = document.getElementById("d-lingua");
+  if (linguaBox && lingua.length) {
+    linguaBox.innerHTML = `<h2 class="sub-h">Giapponese per oggi</h2><div class="chips">` +
+      lingua.map(s => `<a class="chip" href="frasi.html?s=${s.id}">${s.emoji} ${s.titolo}</a>`).join("") + `</div>`;
+  }
 
   const pasti = t.pasti[g.data] || [];
   const pastiBox = document.getElementById("d-pasti");

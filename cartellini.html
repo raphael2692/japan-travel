@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Cartellini — Giapponese</title>
+<script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'%3E%3Ccircle cx='5' cy='5' r='4' fill='%23c2410c'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top top-sm">
+  <div class="top-bar">
+    <a href="lingua.html" class="back">← Lingua</a>
+    <button id="theme-toggle" class="icon-btn" type="button" aria-label="Cambia tema"></button>
+  </div>
+  <div id="global-search" class="global-search"></div>
+</header>
+<main>
+  <div class="day-header">
+    <div class="eyebrow">Guida linguistica</div>
+    <h1>🪧 Cartellini da mostrare</h1>
+    <p class="lg-intro">Toccate un cartellino per aprirlo a tutto schermo e girate il telefono verso chi vi sta davanti. Con 🔊 potete anche farglielo ascoltare.</p>
+  </div>
+  <div id="lg-cardlist" class="lg-cardlinks"></div>
+</main>
+
+<div id="lg-overlay" class="lg-overlay" hidden>
+  <div id="lg-ov-body" class="lg-ov-body"></div>
+  <div class="lg-ov-bar">
+    <button type="button" id="lg-ov-say" class="link-btn" data-say="">🔊 Fai ascoltare</button>
+    <button type="button" id="lg-ov-close" class="link-btn">✕ Chiudi</button>
+  </div>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+<script src="lingua-data.js"></script>
+<script src="lingua.js"></script>
+<script>lgInit(); renderCartellini(); renderSearch(); initTheme();</script>
+</body>
+</html>

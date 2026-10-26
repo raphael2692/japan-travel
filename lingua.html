@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Giapponese di sopravvivenza</title>
+<script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'%3E%3Ccircle cx='5' cy='5' r='4' fill='%23c2410c'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top top-sm">
+  <div class="top-bar">
+    <a href="index.html" class="back">← Panoramica</a>
+    <button id="theme-toggle" class="icon-btn" type="button" aria-label="Cambia tema"></button>
+  </div>
+  <div id="global-search" class="global-search"></div>
+</header>
+<main>
+  <div class="day-header">
+    <div class="eyebrow">Guida linguistica</div>
+    <h1>Giapponese di sopravvivenza</h1>
+    <p class="subtitle">Prima per capire, poi per rispondere. Ogni situazione ha le frasi che vi diranno, in ordine, con l'audio.</p>
+  </div>
+
+  <div id="lg-voice" class="callout" hidden></div>
+  <div id="lg-oggi"></div>
+  <div class="callout" id="lg-prio"></div>
+
+  <div class="lg-tools">
+    <a class="card lg-tool" href="quiz.html"><span class="lg-sit-e">🎧</span><span class="lg-sit-b"><b>Quiz di ascolto</b><span>Sentite una frase del personale e scegliete cosa vuol dire.</span></span></a>
+    <a class="card lg-tool" href="cartellini.html"><span class="lg-sit-e">🪧</span><span class="lg-sit-b"><b>Cartellini da mostrare</b><span>Indirizzi per il taxi, valigie, «rispondete indicando».</span></span></a>
+  </div>
+
+  <div id="lg-groups"></div>
+</main>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+<script src="lingua-data.js"></script>
+<script src="lingua.js"></script>
+<script>lgInit(); renderLinguaIndex(); renderSearch(); initTheme();</script>
+</body>
+</html>

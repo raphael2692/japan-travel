@@ -11,8 +11,8 @@ window.TRIP = {
     "✅ Nessuna prenotazione richiesta"
   ],
   "voli": [
-    "**Andata:** mercoledì 18 novembre, 15:05 – 11:20 (+1) · Roma Fiumicino (FCO) → Tokyo Haneda (HND) · ITA Airways AZ 792 — codice prenotazione ZE3QEF",
-    "**Ritorno:** mercoledì 9 dicembre, 13:20 – 20:25 · Tokyo Haneda (HND) → Roma Fiumicino (FCO) · ITA Airways AZ 793 — codice prenotazione ZE3QEF"
+    "**Andata:** mercoledì 18 novembre, 15:05 – 11:20 (+1) · Roma Fiumicino (FCO) → Tokyo Haneda (HND) · ITA Airways AZ 792 — codice prenotazione in PRIVATO.md",
+    "**Ritorno:** mercoledì 9 dicembre, 13:20 – 20:25 · Tokyo Haneda (HND) → Roma Fiumicino (FCO) · ITA Airways AZ 793 — codice prenotazione in PRIVATO.md"
   ],
   "partenza": "2026-11-18T15:05:00+01:00",
   "ritorno": "2026-12-09T13:20:00+09:00",
@@ -78,17 +78,24 @@ window.TRIP = {
   ],
   "scadenzeTabella": [
     {
+      "cosa": "**Ninja-dera Myoryu-ji (25/11)**",
+      "apre": "già aperta",
+      "oraIt": "**07:00-08:00**",
+      "entro": "**domani, lun 2 nov** (limite consigliato del 31 ott superato)",
+      "dove": "**solo telefono** +81 76-241-0888"
+    },
+    {
       "cosa": "**Shinkansen Hokuriku (24/11)**",
-      "apre": "**già aperta (24 ott)**",
+      "apre": "già aperta (24 ott)",
       "oraIt": "",
-      "entro": "**oggi**",
+      "entro": "**subito**, limite 10 nov",
       "dove": "[JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index)"
     },
     {
       "cosa": "**Kanazawa → Kyoto, Hokuriku + Thunderbird (26/11)**",
-      "apre": "**26 ott, 10:00 JST**",
-      "oraIt": "**stanotte alle 02:00**",
-      "entro": "all'apertura, al più tardi 10 nov",
+      "apre": "già aperta (26 ott)",
+      "oraIt": "",
+      "entro": "**subito**, limite 10 nov",
       "dove": "[JR-WEST Online](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en)"
     },
     {
@@ -106,39 +113,32 @@ window.TRIP = {
       "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26000646/) (prenotazione online) · tel. +81 75-221-0003"
     },
     {
-      "cosa": "Sushiya Shota (cena 08/12, ore 20:00)",
-      "apre": "--",
-      "oraIt": "",
-      "entro": "✅ **prenotato**, codice Q33WCLGFDD. Cancellazione gratuita fino al 6 dic alle 21:59 italiane",
-      "dove": "[Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/)"
-    },
-    {
-      "cosa": "**Ninja-dera Myoryu-ji (25/11)**",
+      "cosa": "**Shigetsu (pranzo 27/11)**",
       "apre": "già aperta",
-      "oraIt": "**07:00-08:00**",
-      "entro": "**31 ott**",
-      "dove": "**solo telefono** +81 76-241-0888"
-    },
-    {
-      "cosa": "Monte Fuji (20/11) — **solo se scegliete il treno prenotato (A)**",
-      "apre": "già aperta (20 ott)",
       "oraIt": "",
-      "entro": "decidete entro **31 ott**, limite 1 nov",
-      "dove": "[JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index)"
-    },
-    {
-      "cosa": "**Aoniyoshi (01/12)**",
-      "apre": "**1 nov, 10:30 JST**",
-      "oraIt": "**02:30**",
-      "entro": "**all'apertura**, si esaurisce",
-      "dove": "[Kintetsu e-ticket](https://www.kintetsu.co.jp/gyoumu/ticket/e-ticket/vs/en/)"
+      "entro": "**subito**, al più tardi 3 giorni prima",
+      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260403/26000923/) · omakaseje.com · tel. +81 75-882-9725"
     },
     {
       "cosa": "**Shinkansen Tokaido (05/12)**",
       "apre": "già aperta (prenotazione anticipata)",
       "oraIt": "",
-      "entro": "**entro il 4 nov**: posti assegnati il 5 nov alle 00:00",
+      "entro": "**entro mer 4 nov**: posti assegnati il 5 nov alle 00:00",
       "dove": "[smartEX](https://smart-ex.jp/en/)"
+    },
+    {
+      "cosa": "Monte Fuji (20/11) — **solo se scegliete il treno prenotato (A)**",
+      "apre": "già aperta (20 ott)",
+      "oraIt": "",
+      "entro": "decisione rinviata al **5 nov** (previsioni meteo). Limite consigliato del 1° nov superato: posti a rischio",
+      "dove": "[JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index)"
+    },
+    {
+      "cosa": "**Shibuya Sky (22/11)**",
+      "apre": "**8 nov, 00:00 JST**",
+      "oraIt": "**sab 7 nov alle 16:00**",
+      "entro": "**all'apertura**",
+      "dove": "[sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/) · Klook"
     },
     {
       "cosa": "Maguro Mart (cena 20/11, facoltativa)",
@@ -146,20 +146,6 @@ window.TRIP = {
       "oraIt": "",
       "entro": "appena decidete, si esaurisce",
       "dove": "[Tabelog](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) · tel. 050-5597-6557"
-    },
-    {
-      "cosa": "**Shibuya Sky (22/11)**",
-      "apre": "**8 nov, 00:00 JST**",
-      "oraIt": "**7 nov alle 16:00**",
-      "entro": "**all'apertura**",
-      "dove": "[sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/) · Klook"
-    },
-    {
-      "cosa": "**Shigetsu (pranzo 27/11)**",
-      "apre": "già aperta",
-      "oraIt": "",
-      "entro": "**subito**, al più tardi 3 giorni prima",
-      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260403/26000923/) · omakaseje.com · tel. +81 75-882-9725"
     },
     {
       "cosa": "Choshoku Kishin (colazione 28/11, facoltativa)",
@@ -209,6 +195,20 @@ window.TRIP = {
       "oraIt": "",
       "entro": "anche il giorno stesso",
       "dove": "[kaiyukan.com](https://www.kaiyukan.com/)"
+    },
+    {
+      "cosa": "Sushiya Shota (cena 08/12, ore 20:00)",
+      "apre": "--",
+      "oraIt": "",
+      "entro": "✅ **prenotato** (codice in PRIVATO.md). Cancellazione gratuita fino al 6 dic alle 21:59 italiane",
+      "dove": "[Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/)"
+    },
+    {
+      "cosa": "Treni Kyoto < → Nara (01/12)",
+      "apre": "--",
+      "oraIt": "",
+      "entro": "✅ **prenotati**: andata Vistacar 07:50, carrozza 2, 5C-5D; ritorno Aoniyoshi 15:55, carrozza 1, Twin 2C-2D",
+      "dove": "[Kintetsu e-ticket](https://www.kintetsu.co.jp/gyoumu/ticket/e-ticket/vs/en/)"
     }
   ],
   "scadenze": [
@@ -234,7 +234,7 @@ window.TRIP = {
             "**1. Revolut** (carta fisica o virtuale *standard*, **non** quella usa e getta). Telefono sbloccato e notifiche attive durante le aperture notturne.",
             "**2. ING** (di tua moglie): se Revolut viene rifiutata. Dovrà essere sveglia per confermare nell'app.",
             "**3. BancoPosta** (carta digitale): ultima spiaggia.",
-            "**Prova generale:** fate subito la prenotazione anticipata smartEX del 5/12. Se nessuna carta passa sui siti JR, piano B **Klook** (senza scelta del posto).",
+            "**Prova generale:** fate subito la prenotazione anticipata smartEX del 5/12 (entro il 4 novembre). Se nessuna carta passa sui siti JR, piano B **Klook** (senza scelta del posto).",
             "💡 Verificate che pagamenti online/estero siano abilitati e che i limiti giornalieri bastino (uno Shinkansen per due ~29.000 ¥, 170-180 €)."
           ]
         },
@@ -274,11 +274,11 @@ window.TRIP = {
           "tags": "🌤️",
           "done": false,
           "note": [
-            "🔀 **Decidete entro il 31 ottobre.** La (A) garantisce posto, corsa diretta e finestrino lato Fuji, ma si paga adesso. La (B) non costa nulla in anticipo e si decide la sera prima guardando meteo e webcam; ci mette un po' di più e il posto a sedere non è garantito.",
+            "🔀 **Decisione rinviata al 5 novembre**, dopo aver visto le prime previsioni (a 15 giorni sono ancora indicative). Il limite consigliato del 1° novembre è passato: ogni giorno di attesa i posti della (A) diminuiscono, mentre la (B) resta sempre disponibile. La (A) garantisce posto, corsa diretta e finestrino lato Fuji, ma si paga adesso. La (B) non costa nulla in anticipo e si decide la sera prima guardando meteo e webcam; ci mette un po' di più e il posto a sedere non è garantito.",
             "💡 Anche la (A) è meno rigida di quanto sembri: sui treni JR annullare costa di solito 340 ¥ a biglietto fino a due giorni prima, poi il 30% del supplemento. Verificate le condizioni prima di pagare.",
             "**(A) Fuji Excursion prenotato** 🎫, Shinjuku → Shimoyoshida e Kawaguchiko → Shinjuku.",
             "**Dove:** [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index), che vende l'intero percorso compresa la tratta Fujikyu. Scegliete il **ritiro del biglietto in stazione**.",
-            "**Quando:** aperta dal 20 ottobre. Limite: 1° novembre. In stagione si esaurisce.",
+            "**Quando:** aperta dal 20 ottobre. Limite consigliato (1° novembre) superato: se il 5/11 scegliete la (A), prenotate subito e controllate che restino posti lato Fuji; se non ci sono, passate alla (B). In stagione si esaurisce.",
             "**1.** Andata: **Shinjuku → Shimoyoshida**, corsa delle 07:20-07:30. Verificate che la corsa fermi a Shimoyoshida. Il tratto fino a Kawaguchiko si fa poi col locale Fujikyu e la Suica.",
             "**2.** Ritorno, stessa sessione: **Kawaguchiko → Shinjuku**, corsa delle ~16:45 (le corse pomeridiane sono poche).",
             "**3.** Posti: andata **A+B** (A finestrino sinistro, lato Fuji), ritorno **C+D** (D finestrino destro).",
@@ -296,7 +296,7 @@ window.TRIP = {
           "done": false,
           "note": [
             "**Dove:** [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index), ritiro in stazione. Se Kanazawa non compare, usate [JR-WEST Online](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en).",
-            "**Quando:** aperta dal 24 ottobre: **prenotate oggi**. Limite: 10 novembre.",
+            "**Quando:** aperta dal 24 ottobre: **prenotate subito**. Limite: 10 novembre.",
             "**1.** Tokyo → Kanazawa, **Kagayaki intorno alle 07:30**, 2 adulti, ordinario.",
             "**2.** Posti **sul lato sinistro nel senso di marcia** per le Alpi: guardate la direzione nella mappa posti, non la lettera.",
             "**3.** Ritiro la sera del 19/11, insieme ai biglietti del Fuji Excursion se scegliete l'opzione (A)."
@@ -308,7 +308,7 @@ window.TRIP = {
           "done": false,
           "note": [
             "**Dove:** [JR-WEST Online Train Reservation](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en). Entrambi i treni sono tutti a posti riservati.",
-            "**Quando:** **26 ottobre alle 02:00 italiane**. Limite: 10 novembre.",
+            "**Quando:** aperta dal 26 ottobre: **prenotate subito**. Limite: 10 novembre.",
             "**1.** Kanazawa → Kyoto, partenza dalle 10:55 in poi, 2 adulti. Cambio a Tsuruga di **almeno 8-10 minuti** (Shinkansen al 3° piano, Thunderbird al piano terra).",
             "**2.** Posti Thunderbird **lato sinistro** per il Lago Biwa.",
             "**3.** Ritiro alle macchinette **e5489** delle stazioni JR West, **il 24/11 appena arrivati a Kanazawa**."
@@ -317,12 +317,14 @@ window.TRIP = {
         {
           "titolo": "Treno turistico Kintetsu AONIYOSHI, Nara → Kyoto, 01/12",
           "tags": "🌟🎫",
-          "done": false,
+          "done": true,
           "note": [
-            "**Dove:** [Kintetsu e-ticket](https://www.kintetsu.co.jp/gyoumu/ticket/e-ticket/vs/en/): solo il limited express, con scelta del posto; la tariffa base si paga con la Suica. Piano B: [Kintetsu ARS](https://ars-kintetsutk.triplabo.com/home?lang=en), senza scelta del posto. [Pagina del treno](https://www.kintetsu.co.jp/foreign/english/aoniyoshi/).",
-            "**Quando:** **1° novembre alle 02:30 italiane**. Si esaurisce in pochi minuti: loggati alle 02:25.",
-            "**1.** **Kintetsu-Nara → Kyoto, corsa delle 15:55**, 2 adulti, posti twin (1.490 ¥ a testa).",
-            "**2.** 💡 Carrozze **1 o 4**, sedili twin inclinati verso le vetrate."
+            "✅ **Prenotato il 1° novembre**",
+            "Servizio ticketless Kintetsu, codici in PRIVATO.md. **Martedì 1 dicembre, 15:55 Kintetsu-Nara → 16:31 Kyoto**, treno n. 9506, 2 adulti, **carrozza 1, Twin 2C-2D** (poltrone verso il finestrino, lato destro nel senso di marcia: guardano a est, col sole alle spalle; il To-ji resta dall'altro lato).",
+            "**Pagato 1.460 ¥ in due** (supplemento limited express 1.040 ¥ + carrozza deluxe 420 ¥). La tariffa base Nara → Kyoto si paga a parte con la Suica ai tornelli.",
+            "**Biglietto elettronico:** il link è nell'email di conferma (non lo pubblichiamo qui). A bordo, se ve lo chiedono, mostrate quella pagina; salvate anche uno screenshot.",
+            "✅ **Andata prenotata:** **Ltd.Exp. Vistacar n. 707, Kyoto 07:50 → Kintetsu-Nara 08:25**, binario 1 a Kyoto, **carrozza 2, piano di sopra, posti 5C-5D**. Tariffa base con la Suica.",
+            "**Modifiche o cancellazione:** dal sito [Kintetsu e-ticket](https://www.kintetsu.co.jp/gyoumu/ticket/e-ticket/vs/en/) col numero di prenotazione. [Pagina del treno](https://www.kintetsu.co.jp/foreign/english/aoniyoshi/)."
           ]
         }
       ]
@@ -335,7 +337,7 @@ window.TRIP = {
           "tags": "🌟🎫",
           "done": false,
           "note": [
-            "**Dove:** **solo per telefono**, **+81 76-241-0888**. Chiamate tra le 07:00 e le 08:00 italiane. Limite: 31 ottobre.",
+            "**Dove:** **solo per telefono**, **+81 76-241-0888**. Chiamate tra le 07:00 e le 08:00 italiane, **domani, lunedì 2 novembre**: il limite consigliato del 31 ottobre è passato.",
             "**Cosa dire:** *\"Jūichi-gatsu nijūgo-nichi, suiyōbi, gogo ichi-ji han, futari de yoyaku shitai desu\"* = \"Vorrei prenotare per due persone, mercoledì 25 novembre, alle 13:30\". Lasciate nome e telefono. 1.200 ¥ a testa, sul posto.",
             "**Piano B:** chiedete al **Lian Kanazawa** di prenotare per voi."
           ]
@@ -346,7 +348,7 @@ window.TRIP = {
           "done": false,
           "note": [
             "**Dove:** [sito ufficiale teamLab](https://www.teamlab.art/e/botanicalgarden/), solo online, a fascia oraria (~1.800 ¥). Evitate i rivenditori.",
-            "**Quando:** controllate oggi e prendete la fascia **17:30-18:00**. Limite: 20 novembre. Riverificate gli orari invernali."
+            "**Quando:** controllate subito e prendete la fascia **17:30-18:00**. Limite: 20 novembre. Riverificate gli orari invernali."
           ]
         },
         {
@@ -355,7 +357,7 @@ window.TRIP = {
           "done": false,
           "note": [
             "**Dove:** [sito ufficiale del Rikugien](https://www.tokyo-park.or.jp/teien/en/rikugien/). Biglietto anticipato 1.000 ¥ **solo online**, a numero chiuso. In loco 1.200 ¥ in contanti, se non esaurito. Tel. +81 3-3941-2222.",
-            "**Quando:** vendita attesa da fine ottobre: controllate ogni pochi giorni dal 25 ottobre. Limite: 25 novembre.",
+            "**Quando:** vendita attesa da fine ottobre: controllate ogni pochi giorni. Limite: 25 novembre.",
             "Evento 2026 **25 novembre — 6 dicembre**, 18:00-20:30 (ultimo ingresso 19:30). Il 6 dicembre è **l'ultima sera**: zero margine."
           ]
         },
@@ -415,7 +417,7 @@ window.TRIP = {
           "tags": "🌟🎫💶",
           "done": true,
           "note": [
-            "✅ **Prenotato su Tabelog, codice Q33WCLGFDD**, 2 persone, Omakase Course da 20 portate. Azabu-Juban, [Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/) (3.72), nella guida Michelin, oggi senza stella, 7 posti al banco. **Si paga al ristorante: 17.600 ¥ a testa + 1.100 ¥ di servizio, 37.400 ¥ in due senza bevande**, fuori tetto per scelta. Controllate i metodi di pagamento accettati, o portate contanti. Già pagati 880 ¥ di costo del servizio Tabelog, non rimborsabili. **Cancellazione gratuita fino al 7/12 alle 05:59 JST (6/12 alle 21:59 italiane)**; il giorno prima 50%, il giorno stesso o senza presentarsi 100%. Modifiche dal link nell'email di conferma."
+            "✅ **Prenotato su Tabelog** (codice in PRIVATO.md), 2 persone, Omakase Course da 20 portate. Azabu-Juban, [Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/) (3.72), nella guida Michelin, oggi senza stella, 7 posti al banco. **Si paga al ristorante: 17.600 ¥ a testa + 1.100 ¥ di servizio, 37.400 ¥ in due senza bevande**, fuori tetto per scelta. Controllate i metodi di pagamento accettati, o portate contanti. Già pagati 880 ¥ di costo del servizio Tabelog, non rimborsabili. **Cancellazione gratuita fino al 7/12 alle 05:59 JST (6/12 alle 21:59 italiane)**; il giorno prima 50%, il giorno stesso o senza presentarsi 100%. Modifiche dal link nell'email di conferma."
           ]
         },
         {
@@ -927,7 +929,7 @@ window.TRIP = {
         "pasto": "Cena",
         "ingresso": "20:00",
         "locale": "Cena di fine viaggio: sushi omakase da **Sushiya Shota** 🎫🌟, Azabu-Juban",
-        "prenotazione": "✅ Prenotato, codice Q33WCLGFDD",
+        "prenotazione": "✅ Prenotato",
         "tabelog": "[Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/)",
         "note": "Tabelog 3.72, nella guida Michelin, oggi senza stella. **17.600 ¥ a testa + 1.100 ¥ di servizio, da pagare al ristorante: fuori tetto per scelta.** Eccezione orario: turno delle 20:00"
       }
@@ -1419,7 +1421,7 @@ window.TRIP = {
         "Kintetsu Nara Station",
         34.6844,
         135.827,
-        "08:30"
+        "08:00"
       ],
       [
         "Todai-ji",
@@ -2019,12 +2021,12 @@ window.TRIP = {
       "hotel": "KABIN Kyoto",
       "items": [
         "🚶 **Andata alla stazione:** a piedi o taxi fino a Kyoto Station (~20 min).",
-        "**07:50 – 08:35** ✅ Kintetsu ordinario o JR, Kyoto → Nara (35-45 min).",
+        "**07:50 – 08:25** 🎫 **Ltd.Exp. Vistacar n. 707, Kyoto → Kintetsu-Nara**, binario Kintetsu 1. ✅ Prenotato, **carrozza 2, piano di sopra, posti 5C-5D**. Tariffa base con la Suica. Da Kintetsu-Nara al Todai-ji ~15 min a piedi.",
         "**09:00 – 11:45** 🌟✅ **Nara Park** coi cervi, **Todai-ji** col Grande Buddha e **Kasuga Taisha** con le lanterne di pietra. Ingressi in loco.",
         "**11:45 – 12:45** *Pranzo:* kaki-no-ha sushi oppure udon a Naramachi.",
         "**13:00 – 14:30** 🔄✅ **Naramachi:** il quartiere delle case mercantili.",
         "**14:45 – 15:45** Tempo libero prima dell'Aoniyoshi.",
-        "**15:55 – 16:30** 🌟🎫 **AONIYOSHI**, Kintetsu Nara → Kyoto. Carrozze 1 o 4.",
+        "**15:55 – 16:31** 🌟🎫 **AONIYOSHI**, Kintetsu-Nara → Kyoto. ✅ Prenotato, **carrozza 1, Twin 2C-2D**. Siate in banchina 10 minuti prima. Tariffa base con la Suica.",
         "**17:00 – 19:00** *Cena:* kinshi-don da **Kyogoku Kaneyo**, Bib Gourmand, vicino a Shinkyogoku: dalla stazione metro Karasuma fino a Karasuma Oike, poi Tozai fino a Kyoto Shiyakusho-mae (~15 min), o taxi.",
         "🚶 **Rientro in hotel:** a piedi lungo Kawaramachi (~20 min), o taxi."
       ]
@@ -2169,7 +2171,7 @@ window.TRIP = {
         "**16:45 – 17:45** 🚆 *Trasferimento a Roppongi:* Chuo Rapid fino a Shinjuku (~15 min), Toei Oedo Line fino a Roppongi (~10 min). Piano B: taxi.",
         "**17:45 – 19:30** 🌟✅ **Roppongi Hills:** osservatorio **Tokyo City View** con Tokyo già illuminata, mercatini natalizi e le luci di **Keyakizaka Street**.",
         "**19:30 – 19:50** 🚶 A piedi fino ad Azabu-Juban (~15 min). Arrivate puntuali: sono 7 posti al banco.",
-        "**20:00 – 22:00** 🌟🎫💶 *Cena di fine viaggio:* sushi omakase da **Sushiya Shota**, Azabu-Juban. Prenotato, codice Tabelog **Q33WCLGFDD**. Si paga al ristorante.",
+        "**20:00 – 22:00** 🌟🎫💶 *Cena di fine viaggio:* sushi omakase da **Sushiya Shota**, Azabu-Juban. Prenotato su Tabelog. Si paga al ristorante.",
         "🚇 **Rientro in hotel:** Toei Oedo Line da Azabu-Juban ad Akabanebashi, una fermata, poi a piedi. Piano B: taxi (~10 min).",
         "💡 Se avete comprato troppo, la reception può spedire una valigia direttamente all'aeroporto."
       ]

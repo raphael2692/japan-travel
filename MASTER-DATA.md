@@ -227,13 +227,13 @@ ITA Airways AZ 793 -- codice prenotazione in PRIVATO.md
 
 ## Prima spedizione, Tokyo -> Kyoto
 
-- **Quando:** lunedì 23 novembre **entro le 07:45**, reception dell'Hotel Metropolitan Edmont.
+- **Quando:** **domenica 22 novembre, la sera al rientro**: valigie chiuse alla reception dell'Hotel Metropolitan Edmont, che le affida al corriere il giorno dopo. Niente sveglia per la spedizione. 💴 Chiedete la spedizione **prepagata** (*motobarai*, 元払い): pagate voi alla partenza, non l'hotel di arrivo alla consegna (*chakubarai*, 着払い).
 - **Destinazione:** KABIN Kyoto, consegna 24 o 25 novembre. Kanazawa solo con zaino e trolley piccolo.
-- ⚠️ **Da verificare:** che il takkyubin operi il 23/11 (**festa nazionale**) e che **KABIN Kyoto custodisca i bagagli due giorni prima** del check-in. Scrivete una mail adesso.
+- ⚠️ **Da verificare:** che la reception accetti le valigie la sera prima e a che ora passa il corriere, che il takkyubin operi il 23/11 (**festa nazionale**) e che **KABIN Kyoto custodisca i bagagli due giorni prima** del check-in. Scrivete una mail adesso.
 
 ## Seconda spedizione, Kyoto -> Tokyo seconda tappa
 
-- **Quando:** giovedì 3 dicembre **entro le 08:00**, reception del KABIN Kyoto. Preparate le valigie la sera prima.
+- **Quando:** **mercoledì 2 dicembre, la sera al rientro**: valigie chiuse alla reception del KABIN Kyoto, che le affida al corriere il giorno dopo. Chiedete anche al KABIN se le accetta la sera prima. 💴 Chiedete la spedizione **prepagata** (*motobarai*, 元払い): pagate voi alla partenza, non l'hotel di arrivo alla consegna (*chakubarai*, 着払い).
 - **Destinazione:** Shiba Park Hotel, consegna 4 o 5 dicembre. Osaka solo con trolley piccolo e zaino.
 - ⚠️ Stessa verifica di custodia con lo Shiba Park Hotel.
 
@@ -242,6 +242,8 @@ ITA Airways AZ 793 -- codice prenotazione in PRIVATO.md
 # Note pratiche
 
 ## Trasporti e pass
+
+**Ore di punta:** nei giorni feriali circa **07:30-09:30** e **17:30-19:30**, soprattutto sui treni diretti verso il centro; il sabato, la domenica e i festivi non c'è. Le linee peggiori sono Chuo Rapid, Sobu Rapid, Tozai, Ginza e Chiyoda. Regola del piano: ai treni prenotati arrivate **20-30 minuti prima**, e con il trolley preferite metro con ascensori o taxi ai bus. Le valigie grandi viaggiano col takkyubin.
 
 **Il JR Pass nazionale non conviene:** le vostre tratte lunghe valgono circa **48.000 ¥ a testa** contro gli 80.000 ¥ del pass da 7 giorni (anche l'Hokuriku Arch Pass non rientra). **Comprate biglietti singoli.** Per i trasporti locali usate le Welcome Suica (vedi check-list).
 
@@ -386,7 +388,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 
 > ⚠️ La Chureito Pagoda è sopra la stazione di **Shimoyoshida**, prima di Kawaguchiko. Se la vostra corsa non ci ferma, scendete a **Fujisan** e tornate indietro di due fermate col locale Fujikyu (~5 min). Circa 400 scalini dalla base.
 
-- 🚆 **Andata alla stazione:** JR Chuo-Sobu Line da Iidabashi a Shinjuku (~12 min).
+- 🚆 **Andata alla stazione (uscite alle 06:35):** JR Chuo-Sobu Line da Iidabashi a Shinjuku (~12 min), arrivo verso le 06:55, prima del picco del venerdì. Shinjuku è enorme: contate 10 minuti per trovare il binario (chiedete al personale). Con l'opzione (B) servono altri minuti per comprare i posti alla macchinetta. Piano B: taxi (~15-20 min).
 - **07:20 -- 09:10** 🚆 **Treno per Shimoyoshida.** (A) 🎫 **Fuji Excursion** diretto, **posto A, lato sinistro** per il Fuji. (B) ✅ Kaiji o Azusa fino a Otsuki e locale Fujikyu fino a Shimoyoshida, arrivo ~09:15-09:45.
 - **09:15 -- 10:45** 🌟🌤️✅ **Chureito Pagoda:** il Fuji incorniciato dalla pagoda. Ingresso libero, 400 gradini. Il mattino è il momento migliore per la vetta.
 - **10:50 -- 11:05** ✅ Fujikyu Railway, Shimoyoshida -> **Kawaguchiko Station**.
@@ -394,8 +396,8 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 - **13:00 -- 13:25** ✅ Bus di linea (Kawaguchiko Line, rossa, pagamento a bordo) fino a **Oishi Park**.
 - **13:25 -- 14:15** 🌟✅ **Oishi Park:** sponda nord del lago, vista aperta sul Fuji, caffè con vista lago. Ingresso libero.
 - **14:15 -- 15:30** 🌟✅ **Momiji Kairo, il corridoio degli aceri del Lago Kawaguchi**, a pochi minuti a piedi lungo il lago. Ingresso libero. Festival **7-29 novembre**: al 20/11 probabilmente più foglie a terra che sui rami.
-- **15:30 -- 16:15** 🔄🌤️✅ *Se resta tempo:* **Mt. Fuji Panoramic Ropeway**, pochi minuti di bus. Primo punto da saltare. Biglietto in loco.
-- **16:15 -- 16:40** Bus di ritorno a **Kawaguchiko Station**.
+- **15:30 -- 16:00** 🔄🌤️✅ *Se resta tempo:* **Mt. Fuji Panoramic Ropeway**, pochi minuti di bus. Primo punto da saltare. Biglietto in loco.
+- **16:00 -- 16:25** A piedi lungo il lago fino a **Kawaguchiko Station** (15-20 min), o bus. ⚠️ Col Fuji Excursion (A) il treno delle 16:45 non aspetta: siate in stazione entro le 16:25.
 - **16:45 -- 18:45** 🚆 **Rientro a Shinjuku.** (A) 🎫 **Fuji Excursion**, **posto D, lato destro** per il Fuji. (B) ✅ Fujikyu fino a Otsuki e Kaiji fino a Shinjuku, arrivo verso le 19:00.
 - **19:15 -- 21:00** 🔄🎫 *Cena facoltativa:* **Maguro Mart**, Nakano, izakaya tutto tonno consigliato da Camilla. JR Chuo Rapid da Shinjuku a Nakano (~5 min) + ~8 min a piedi. Prenotazione obbligatoria. Se siete cotti, cena libera in zona hotel.
 - 🚆 **Rientro in hotel:** Tozai Line diretta da Nakano a Iidabashi (~13 min, la più rapida) o JR Chuo-Sobu Line (~20 min); porta a porta ~30-35 min. Piano B: taxi (~20-25 min, ~3.000-3.500 ¥). Senza Maguro Mart: JR Chuo-Sobu Line da Shinjuku a Iidabashi (~12 min).
@@ -434,13 +436,13 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 - **18:30 -- 19:15** ✅ Shibuya Crossing e statua di Hachiko.
 - **19:15 -- 21:15** *Cena:* yakiniku o tonkatsu a Shibuya.
 - 🚇 **Rientro in hotel:** JR Yamanote Line da Shibuya a Shinjuku, cambio Toei Oedo Line fino a Iidabashi (~20-25 min).
+- 🧳 **Spedizione bagagli, prima tappa:** al rientro valigie grandi alla reception, destinazione **KABIN Kyoto**. Tenete fuori zaino e trolley piccolo per Kanazawa. 💴 Chiedete la spedizione **prepagata** (*motobarai*, 元払い): pagate voi alla partenza, non l'hotel di arrivo alla consegna (*chakubarai*, 着払い).
 - 🏨 **Hotel Metropolitan Edmont**
 
 ---
 
 ## Lunedì 23 novembre -- Festa nazionale: Shinjuku Gyoen e Nakameguro
 
-- 🚨 **Spedizione bagagli, prima tappa:** entro le **07:45** valigie grandi alla reception, destinazione **KABIN Kyoto**.
 - ⚠️ **Shinjuku Gyoen** è normalmente chiuso il lunedì, ma il 23/11 è festivo e apre: confermatelo sul sito la settimana prima.
 - 🚇 **Andata dall'hotel:** JR Chuo-Sobu Line da Iidabashi a Shinjuku (~12 min) + 10 min a piedi.
 - **08:30 -- 11:00** 🌟✅ **Shinjuku Gyoen National Garden:** entrate all'apertura. Biglietto in loco.
@@ -458,7 +460,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 
 ## Martedì 24 novembre -- Trasferimento a Kanazawa, in modalità leggera 🌤️
 
-- 🚇 **Andata alla stazione (uscite alle 06:40):** JR Chuo-Sobu Line da Iidabashi a **Ochanomizu**, cambio sulla stessa banchina sulla Chuo Rapid fino a Tokyo Station (~15 min). Ora di punta. Piano B: taxi (~15 min).
+- 🚇 **Andata alla stazione (check-out al banco alle 06:05, uscite alle 06:30):** JR Chuo-Sobu Line da Iidabashi a **Ochanomizu**, cambio sulla stessa banchina sulla Chuo Rapid fino a Tokyo Station (~15 min). A Tokyo verso le 06:50: restano 30 minuti per arrivare ai binari dello Shinkansen (~10 min a piedi dalla Chuo Rapid) e comprare la colazione. Martedì: alle 06:30 il picco non è ancora iniziato, ma la Chuo Rapid è una delle linee più affollate; col trolley state vicino alle porte. Piano B, comodo col bagaglio: taxi (~15 min).
 - **07:20 -- 09:44** 🎫🌤️ Hokuriku Shinkansen Tokyo -> Kanazawa, **Kagayaki 503**. Posti sul **lato sinistro** per le Alpi.
 - **09:45 -- 10:45** Ritiro dei biglietti per Kyoto (macchinette verdi "5489", con la Revolut fisica) e deposito bagagli al **Lian Kanazawa**, a due passi dal mercato.
 - **11:00 -- 12:45** 🌟 *Pranzo:* **Omicho Market**, kaisen-don e **nodoguro**.
@@ -492,9 +494,9 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 
 ## Giovedì 26 novembre -- Treno all'alba per Kyoto, giornata intera a Gion e Higashiyama
 
-- **07:10 -- 07:40** Check-out al **Lian Kanazawa** e a piedi alla stazione (~10 min): **ekiben** per la colazione in treno e foto al portale **Tsuzumi-mon**.
-- **07:48 -- 09:34** 🎫 **Tsurugi 7** fino a **Tsuruga** (08:29), poi **Thunderbird 8** (08:37) per Kyoto. ⚠️ Cambio di 8 minuti tra piani diversi: scendete e seguite subito i cartelli per il Thunderbird. 💡 Sul Thunderbird a **sinistra** per il **Lago Biwa** (vista a tratti).
-- **09:35 -- 10:30** 🚌 Bus 4, 17 o 205 fino a Kawaramachi-Gojo (~12-15 min), poi a piedi al **KABIN Kyoto**: deposito del trolley e **ritiro delle valigie grandi** (check-in più tardi). Piano B: taxi (~15 min).
+- **06:45 -- 07:40** Check-out al **Lian Kanazawa** (al banco alle 06:45, uscite alle 07:10) e a piedi alla stazione (~10 min): **ekiben** per la colazione in treno e foto al portale **Tsuzumi-mon**. In stazione verso le 07:25, 20 minuti di margine. ⚠️ Gli orari dei banchi di ekiben non sono verificati (Ekiben-Dokoro KANAZAWA, uscita ovest, apre presto secondo le recensioni): se è chiuso, konbini in stazione.
+- **07:48 -- 09:34** 🎫 **Tsurugi 7** fino a **Tsuruga** (08:29), poi **Thunderbird 8** (08:37) per Kyoto. ⚠️ Cambio di 8 minuti tra piani diversi: scendete e seguite subito i cartelli per il Thunderbird. Se lo Shinkansen arriva in ritardo e perdete la coincidenza, andate allo sportello JR: di norma vi spostano sul Thunderbird successivo. 💡 Sul Thunderbird a **sinistra** per il **Lago Biwa** (vista a tratti).
+- **09:35 -- 10:30** 🚇 Karasuma Line da Kyoto a **Gojo**, una fermata (ascensori), poi ~10 min a piedi al **KABIN Kyoto**. I bus 4, 17 e 205 dalla stazione sono spesso pieni: col trolley meglio metro o taxi. deposito del trolley e **ritiro delle valigie grandi** (check-in più tardi). Piano B: taxi (~15 min).
 - **10:45 -- 11:45** 🌟✅ **Kennin-ji**, il più antico tempio zen di Kyoto, coi due draghi dipinti sul soffitto e il giardino di muschio e sabbia. A due passi da Hanamikoji: Keihan da Kiyomizu-Gojo a Gion-Shijo. Biglietto in loco; verificate l'orario.
 - **12:00 -- 13:00** *Pranzo* a Gion.
 - **13:15 -- 14:15** 🔄✅ **Chion-in**, col portale Sanmon, uno dei più grandi del Giappone, accanto al Maruyama Park. Verificate l'orario (chiude presto, verso le 16:00).
@@ -592,7 +594,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 
 ## Martedì 01 dicembre -- Gita a Nara, col treno panoramico Aoniyoshi al rientro
 
-- 🚶 **Andata alla stazione:** a piedi o taxi fino a Kyoto Station (~20 min).
+- 🚶 **Andata alla stazione (uscite alle 07:10):** a piedi fino a Gojo e Karasuma Line una fermata (~15 min), oppure a piedi (~20 min). I binari Kintetsu sono sul lato sud (Hachijo) della stazione: altri 5 minuti. È martedì in ora di punta, ma a Kyoto è più leggera che a Tokyo e viaggiate senza bagagli. In banchina entro le 07:40. Piano B: taxi.
 - **07:50 -- 08:25** 🎫 **Ltd.Exp. Vistacar n. 707, Kyoto -> Kintetsu-Nara**, binario Kintetsu 1. ✅ Prenotato, **carrozza 2, piano di sopra, posti 5C-5D**. Tariffa base con la Suica. Da Kintetsu-Nara al Todai-ji ~15 min a piedi.
 - **09:00 -- 11:45** 🌟✅ **Nara Park** coi cervi, **Todai-ji** col Grande Buddha e **Kasuga Taisha** con le lanterne di pietra. Ingressi in loco.
 - **11:45 -- 12:45** *Pranzo:* kaki-no-ha sushi oppure udon a Naramachi.
@@ -617,14 +619,14 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 - **13:00 -- 15:15** 🔄✅ **Byodo-in** e degustazione di matcha.
 - **15:30 -- 16:30** Rientro: Keihan Uji Line fino a Chushojima, cambio Keihan Main Line fino a **Kiyomizu-Gojo** (~35 min).
 - **17:00 -- 19:00** *Cena:* saba-zushi da **Izuu**, Gion, Bib Gourmand: Keihan da Kiyomizu-Gojo a Gion-Shijo, una fermata.
+- 🧳 **Spedizione bagagli, seconda tappa:** al rientro valigie grandi alla reception del KABIN, destinazione **Shiba Park Hotel**. Tenete fuori il trolley piccolo per Osaka. 💴 Chiedete la spedizione **prepagata** (*motobarai*, 元払い): pagate voi alla partenza, non l'hotel di arrivo alla consegna (*chakubarai*, 着払い).
 - 🏨 **KABIN Kyoto**
 
 ---
 
-## Giovedì 03 dicembre -- Himeji, wagyu A5 e spedizione bagagli per Tokyo
+## Giovedì 03 dicembre -- Himeji, wagyu A5 e mercato di Nishiki
 
-- 🚨 **Spedizione bagagli, seconda tappa:** **entro le 08:00** valigie grandi alla reception del KABIN, destinazione **Shiba Park Hotel**. Tenete fuori il trolley piccolo per Osaka.
-- 🚶 **Andata alla stazione:** a piedi o bus fino a Kyoto Station (~20 min).
+- 🚶 **Andata alla stazione (uscite alle 08:05):** a piedi o metro da Gojo fino a Kyoto Station (~15-20 min). Il treno non è prenotato: se perdete quello delle 08:30, prendete il primo Shinkansen successivo che ferma a Himeji (guardate il tabellone).
 - **08:30 -- 09:30** ✅ Shinkansen Kyoto -> Himeji (~50 min, Hikari).
 - **09:45 -- 11:45** 🌟✅ **Castello di Himeji**, il Castello dell'Airone Bianco. Biglietto in loco. 💡 Scale ripidissime e si entra scalzi: scarpe comode.
 - **11:45 -- 12:45** *Pranzo:* anago o soba a Himeji.
@@ -641,8 +643,8 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 
 > 🍽️ ⚠️ **Eccezione cena:** teamLab è un'esperienza notturna, la cena a Dotonbori è dopo le 19:15.
 
-- 🚌 **Partenza dal KABIN: 08:05.** Bus 4, 17 o 205 fino a Kyoto Station (~12-15 min), oppure Karasuma Line da Gojo (ascensori, comodo col trolley). Piano B: taxi.
-- **08:30 -- 09:00** ✅ JR Special Rapid Kyoto -> Osaka (~29 min, ogni 15 minuti circa). ⚠️ Ora di punta: col trolley cercate una corsa con carrozza **A-Seat** (840 ¥, 600 ¥ ticketless su e5489). In alternativa Shinkansen fino a Shin-Osaka + Midosuji.
+- 🚇 **Check-out al banco alle 07:40, partenza dal KABIN alle 08:05.** Karasuma Line da Gojo a Kyoto, una fermata (ascensori, comodo col trolley), oppure taxi (~10-15 min). Evitate i bus 4, 17 e 205: il venerdì mattina sono pieni.
+- **08:30 -- 09:00** ✅ JR Special Rapid Kyoto -> Osaka (~29 min, ogni 15 minuti circa). ⚠️ Ora di punta: col trolley cercate una corsa con carrozza **A-Seat** (840 ¥, 600 ¥ ticketless su e5489). Il treno non è prenotato: se arriva troppo pieno, lasciatelo passare e prendete il successivo. In alternativa Shinkansen fino a Shin-Osaka (posti non riservati, più caro) + Midosuji.
 - **09:00 -- 09:30** Deposito trolley all'**Aloft Osaka Dojima** (~15 min a piedi da Osaka Station, uscita sud). Check-in dalle 15:00.
 - 🚃 **09:30 -- 09:50** *Trasferimento al castello:* Keihan Nakanoshima Line da Watanabebashi a **Temmabashi** (~5 min), poi a piedi nel parco (~15-20 min, porta Otemon). Piano B: taxi.
 - **09:50 -- 11:15** 🌟✅🏯 **Osaka Castle:** torre e parco prima dei gruppi. Biglietto in loco. Se i tempi stringono, basta l'esterno.
@@ -662,12 +664,12 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 
 ## Sabato 05 dicembre -- Mattina a Osaka, Shinkansen del pomeriggio e serata a Tokyo 🌤️
 
-- **08:30 -- 09:15** 🔄✅ **Passeggiata a Nakanoshima**, a due passi dall'Aloft: ponte sul fiume Dojima, **Osaka City Central Public Hall** (1918) e **Biblioteca di Nakanoshima** (1904). Poi check-out, trolley in custodia alla reception.
+- **08:30 -- 09:15** 🔄✅ Check-out al banco alle 08:30, trolley in custodia alla reception, poi **passeggiata a Nakanoshima**, a due passi dall'Aloft: ponte sul fiume Dojima, **Osaka City Central Public Hall** (1918) e **Biblioteca di Nakanoshima** (1904).
 - 🚇 **09:15 -- 09:45** *Trasferimento in baia:* Yotsubashi Line da Higobashi a Hommachi, cambio Chuo Line fino a Osakako, ~7 min a piedi (~30 min).
 - **10:00 -- 12:00** 🌟🎫 **Kaiyukan (Osaka Aquarium):** spirale su 8 piani attorno alla vasca dello squalo balena, ~2.700-3.200 ¥ secondo la data. Biglietto online con **fascia oraria** (in vendita 30 giorni prima): prendete l'ingresso delle 10:00, all'apertura. Il giorno stesso i biglietti sono limitati. Riverificate l'orario sul calendario ufficiale.
 - **12:00 -- 12:45** *Pranzo* al **Tempozan Marketplace**, accanto all'acquario.
-- 🚇 **12:45 -- 13:45** *Rientro e stazione:* Chuo Line fino a Hommachi, Yotsubashi Line fino a Higobashi, ritiro del trolley all'Aloft, poi taxi fino a Shin-Osaka (~15 min).
-- **14:00 -- 16:30** 🎫🌤️ Shinkansen Tokaido Shin-Osaka -> Tokyo, Nozomi (orario esatto confermato da smartEX il 5/11: ricalcolate la giornata). **Coppia D+E**, E finestrino: il Fuji sarà a sinistra **circa 1h40 dopo la partenza (~15:40)**, tra Shizuoka e Shin-Fuji, prima del tramonto delle 16:30. Di pomeriggio è più spesso tra le nuvole.
+- 🚇 **12:45 -- 13:45** *Rientro e stazione:* Chuo Line fino a Hommachi, Yotsubashi Line fino a Higobashi, ritiro del trolley all'Aloft, poi taxi fino a Shin-Osaka (~15 min). Taxi **entro le 13:20**: a Shin-Osaka verso le 13:40. Se il Kaiyukan vi trattiene, saltate il pranzo seduti, non il margine.
+- **14:00 -- 16:30** 🎫🌤️ Shinkansen Tokaido Shin-Osaka -> Tokyo, Nozomi. Su smartEX scegliete una corsa **tra le 14:00 e le 14:20, non prima**: è sabato, niente ora di punta, e 20 minuti in stazione bastano. L'orario esatto arriva il 5/11: ricalcolate la giornata. **Coppia D+E**, E finestrino: il Fuji sarà a sinistra **circa 1h40 dopo la partenza (~15:40)**, tra Shizuoka e Shin-Fuji, prima del tramonto delle 16:30. Di pomeriggio è più spesso tra le nuvole.
 - **16:30 -- 17:30** **Shiba Park Hotel**, check-in e **ritiro delle valigie grandi**. 🚶 JR Yamanote/Keihin-Tohoku Line fino a Hamamatsucho (~7 min) + 10 min a piedi.
 - 🚇 **17:30 -- 18:00** *Trasferimento a Tsukishima:* Toei Oedo Line da Akabanebashi a Tsukishima (~12 min).
 - **18:00 -- 19:45** 🌟 *Cena:* monjayaki da **Monja Kondo Honten**, lungo la Nishinaka-dori, la via della monja.

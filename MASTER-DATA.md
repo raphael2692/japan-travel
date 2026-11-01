@@ -229,11 +229,11 @@ ITA Airways AZ 793 -- codice prenotazione in PRIVATO.md
 
 - **Quando:** **domenica 22 novembre, la sera al rientro**: valigie chiuse alla reception dell'Hotel Metropolitan Edmont, che le affida al corriere il giorno dopo. Niente sveglia per la spedizione. 💴 Chiedete la spedizione **prepagata** (*motobarai*, 元払い): pagate voi alla partenza, non l'hotel di arrivo alla consegna (*chakubarai*, 着払い).
 - **Destinazione:** KABIN Kyoto, consegna 24 o 25 novembre. Kanazawa solo con zaino e trolley piccolo.
-- ⚠️ **Da verificare:** che la reception accetti le valigie la sera prima e a che ora passa il corriere, che il takkyubin operi il 23/11 (**festa nazionale**) e che **KABIN Kyoto custodisca i bagagli due giorni prima** del check-in. Scrivete una mail adesso.
+- ⚠️ **Da verificare:** che la reception accetti le valigie la sera prima e a che ora passa il corriere, e che il takkyubin operi il 23/11 (**festa nazionale**): domande inviate all'Edmont. ✅ **KABIN Kyoto ha confermato** che riceve le valigie in anticipo e le custodisce fino al vostro arrivo.
 
 ## Seconda spedizione, Kyoto -> Tokyo seconda tappa
 
-- **Quando:** **mercoledì 2 dicembre, la sera al rientro**: valigie chiuse alla reception del KABIN Kyoto, che le affida al corriere il giorno dopo. Chiedete anche al KABIN se le accetta la sera prima. 💴 Chiedete la spedizione **prepagata** (*motobarai*, 元払い): pagate voi alla partenza, non l'hotel di arrivo alla consegna (*chakubarai*, 着払い).
+- **Quando:** **mercoledì 2 dicembre, la sera al rientro**: valigie chiuse alla reception del KABIN Kyoto, che le affida al corriere il giorno dopo. ✅ **Confermato dal KABIN:** potete portarle alla reception il 2/12 e il personale vi guida in prenotazione e pagamento. Corrieri convenzionati: **Tebura-kun** (consegna entro le 11:00 del 3/12) o **K-RISE** (entro le 15:00 del 3/12). Rispettando questi orari, arrivano allo Shiba Park il 4/12. Prezzi e metodi di pagamento dipendono dal corriere: chiedeteli alla reception. 💴 Chiedete la spedizione **prepagata** (*motobarai*, 元払い): pagate voi alla partenza, non l'hotel di arrivo alla consegna (*chakubarai*, 着払い).
 - **Destinazione:** Shiba Park Hotel, consegna 4 o 5 dicembre. Osaka solo con trolley piccolo e zaino.
 - ⚠️ Stessa verifica di custodia con lo Shiba Park Hotel.
 
@@ -496,7 +496,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 
 - **06:45 -- 07:40** Check-out al **Lian Kanazawa** (al banco alle 06:45, uscite alle 07:10) e a piedi alla stazione (~10 min): **ekiben** per la colazione in treno e foto al portale **Tsuzumi-mon**. In stazione verso le 07:25, 20 minuti di margine. ⚠️ Gli orari dei banchi di ekiben non sono verificati (Ekiben-Dokoro KANAZAWA, uscita ovest, apre presto secondo le recensioni): se è chiuso, konbini in stazione.
 - **07:48 -- 09:34** 🎫 **Tsurugi 7** fino a **Tsuruga** (08:29), poi **Thunderbird 8** (08:37) per Kyoto. ⚠️ Cambio di 8 minuti tra piani diversi: scendete e seguite subito i cartelli per il Thunderbird. Se lo Shinkansen arriva in ritardo e perdete la coincidenza, andate allo sportello JR: di norma vi spostano sul Thunderbird successivo. 💡 Sul Thunderbird a **sinistra** per il **Lago Biwa** (vista a tratti).
-- **09:35 -- 10:30** 🚇 Karasuma Line da Kyoto a **Gojo**, una fermata (ascensori), poi ~10 min a piedi al **KABIN Kyoto**. I bus 4, 17 e 205 dalla stazione sono spesso pieni: col trolley meglio metro o taxi. deposito del trolley e **ritiro delle valigie grandi** (check-in più tardi). Piano B: taxi (~15 min).
+- **09:35 -- 10:30** 🚇 Karasuma Line da Kyoto a **Gojo**, una fermata (ascensori), poi ~10 min a piedi al **KABIN Kyoto**. I bus 4, 17 e 205 dalla stazione sono spesso pieni: col trolley meglio metro o taxi (~15 min). Lasciate il trolley (confermato dal KABIN) e fate subito il **pre-check-in**: dalle 15:00 entrate direttamente in camera. Le valigie grandi le ricevete al check-in.
 - **10:45 -- 11:45** 🌟✅ **Kennin-ji**, il più antico tempio zen di Kyoto, coi due draghi dipinti sul soffitto e il giardino di muschio e sabbia. A due passi da Hanamikoji: Keihan da Kiyomizu-Gojo a Gion-Shijo. Biglietto in loco; verificate l'orario.
 - **12:00 -- 13:00** *Pranzo* a Gion.
 - **13:15 -- 14:15** 🔄✅ **Chion-in**, col portale Sanmon, uno dei più grandi del Giappone, accanto al Maruyama Park. Verificate l'orario (chiude presto, verso le 16:00).
@@ -619,7 +619,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 - **13:00 -- 15:15** 🔄✅ **Byodo-in** e degustazione di matcha.
 - **15:30 -- 16:30** Rientro: Keihan Uji Line fino a Chushojima, cambio Keihan Main Line fino a **Kiyomizu-Gojo** (~35 min).
 - **17:00 -- 19:00** *Cena:* saba-zushi da **Izuu**, Gion, Bib Gourmand: Keihan da Kiyomizu-Gojo a Gion-Shijo, una fermata.
-- 🧳 **Spedizione bagagli, seconda tappa:** al rientro valigie grandi alla reception del KABIN, destinazione **Shiba Park Hotel**. Tenete fuori il trolley piccolo per Osaka. 💴 Chiedete la spedizione **prepagata** (*motobarai*, 元払い): pagate voi alla partenza, non l'hotel di arrivo alla consegna (*chakubarai*, 着払い).
+- 🧳 **Spedizione bagagli, seconda tappa:** al rientro valigie grandi alla reception del KABIN (aperta 24 ore), destinazione **Shiba Park Hotel**, con **Tebura-kun** o **K-RISE**: il personale vi guida. Tenete fuori il trolley piccolo per Osaka. 💴 Chiedete la spedizione **prepagata** (*motobarai*, 元払い): pagate voi alla partenza, non l'hotel di arrivo alla consegna (*chakubarai*, 着払い).
 - 🏨 **KABIN Kyoto**
 
 ---
@@ -643,7 +643,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 
 > 🍽️ ⚠️ **Eccezione cena:** teamLab è un'esperienza notturna, la cena a Dotonbori è dopo le 19:15.
 
-- 🚇 **Check-out al banco alle 07:40, partenza dal KABIN alle 08:05.** Karasuma Line da Gojo a Kyoto, una fermata (ascensori, comodo col trolley), oppure taxi (~10-15 min). Evitate i bus 4, 17 e 205: il venerdì mattina sono pieni.
+- 🚇 **Check-out al banco alle 07:40 (reception aperta 24 ore, confermato), partenza dal KABIN alle 08:05.** Karasuma Line da Gojo a Kyoto, una fermata (ascensori, comodo col trolley), oppure taxi (~10-15 min). Evitate i bus 4, 17 e 205: il venerdì mattina sono pieni.
 - **08:30 -- 09:00** ✅ JR Special Rapid Kyoto -> Osaka (~29 min, ogni 15 minuti circa). ⚠️ Ora di punta: col trolley cercate una corsa con carrozza **A-Seat** (840 ¥, 600 ¥ ticketless su e5489). Il treno non è prenotato: se arriva troppo pieno, lasciatelo passare e prendete il successivo. In alternativa Shinkansen fino a Shin-Osaka (posti non riservati, più caro) + Midosuji.
 - **09:00 -- 09:30** Deposito trolley all'**Aloft Osaka Dojima** (~15 min a piedi da Osaka Station, uscita sud). Check-in dalle 15:00.
 - 🚃 **09:30 -- 09:50** *Trasferimento al castello:* Keihan Nakanoshima Line da Watanabebashi a **Temmabashi** (~5 min), poi a piedi nel parco (~15-20 min, porta Otemon). Piano B: taxi.

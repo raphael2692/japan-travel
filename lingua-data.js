@@ -883,7 +883,7 @@ window.LINGUA = {
     "2026-12-02": ["treni", "biglietti", "ristorante"],
     "2026-12-03": ["takkyubin", "shinkansen", "mercati", "ramen"],
     "2026-12-04": ["treni", "hotel", "mercati", "biglietti"],
-    "2026-12-05": ["shinkansen", "hotel", "ramen", "prenotato"],
+    "2026-12-05": ["biglietti", "shinkansen", "hotel", "prenotato"],
     "2026-12-06": ["mercati", "negozi", "biglietti", "izakaya"],
     "2026-12-07": ["treni", "biglietti", "izakaya"],
     "2026-12-08": ["treni", "negozi", "prenotato"],

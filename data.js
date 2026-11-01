@@ -155,7 +155,7 @@ window.TRIP = {
       "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26028888/) · TableCheck · tel. +81 75-525-8500"
     },
     {
-      "cosa": "Monja Kondo Honten (cena 05/12)",
+      "cosa": "Monja Kondo Honten (cena 05/12, ore 18:00)",
       "apre": "probabilmente già aperta",
       "oraIt": "",
       "entro": "15 nov",
@@ -190,10 +190,10 @@ window.TRIP = {
       "dove": "[sito](https://www.tokyo-park.or.jp/teien/en/rikugien/)"
     },
     {
-      "cosa": "Kaiyukan (04/12, facoltativo)",
-      "apre": "~4 nov",
+      "cosa": "Kaiyukan (05/12, ingresso 10:00)",
+      "apre": "~5 nov (30 giorni prima)",
       "oraIt": "",
-      "entro": "anche il giorno stesso",
+      "entro": "20 nov: fascia oraria, il giorno stesso pochi biglietti",
       "dove": "[kaiyukan.com](https://www.kaiyukan.com/)"
     },
     {
@@ -231,7 +231,7 @@ window.TRIP = {
           "tags": "-- i siti JR chiedono il **3D Secure** e smartEX avverte che **le carte di debito o prepagate possono essere rifiutate**.",
           "done": false,
           "note": [
-            "**1. Revolut** (carta fisica o virtuale *standard*, **non** quella usa e getta). Telefono sbloccato e notifiche attive durante le aperture notturne.",
+            "**1. Revolut** (**carta fisica** per i siti JR: alle macchinette di JR West la carta va inserita e quelle virtuali non sono accettate; per gli altri siti va bene anche la virtuale *standard*, **non** quella usa e getta). Telefono sbloccato e notifiche attive durante le aperture notturne.",
             "**2. ING** (di tua moglie): se Revolut viene rifiutata. Dovrà essere sveglia per confermare nell'app.",
             "**3. BancoPosta** (carta digitale): ultima spiaggia.",
             "**Prova generale:** fate subito la prenotazione anticipata smartEX del 5/12 (entro il 4 novembre). Se nessuna carta passa sui siti JR, piano B **Klook** (senza scelta del posto).",
@@ -262,7 +262,7 @@ window.TRIP = {
           "note": [
             "**Dove:** [smartEX](https://smart-ex.jp/en/), sito o app. [Come funziona la prenotazione anticipata](https://smart-ex.jp/en/product/plan/service/).",
             "**Quando:** si prenota da un anno prima; treno e posti vengono **confermati il 5 novembre alle 00:00 italiane** con un'email.",
-            "**1.** 5 dicembre, Shin-Osaka → Tokyo, **Nozomi intorno alle 08:30**, 2 adulti, posto riservato ordinario (~14.500 ¥ a testa).",
+            "**1.** 5 dicembre, Shin-Osaka → Tokyo, **Nozomi intorno alle 14:00**, 2 adulti, posto riservato ordinario (~14.500 ¥ a testa).",
             "**2.** Biglietto **QR-Ticket** (QR sul telefono ai tornelli). Registrazione della carta IC: saltatela. Piano B: biglietto di carta alle biglietterie automatiche JR.",
             "**3.** Dopo l'email di conferma, spostatevi se serve sulla **coppia D+E** (E finestrino, lato Fuji). Cambi gratuiti prima della partenza.",
             "**4.** Il giorno del viaggio: screenshot del QR e telefono carico.",
@@ -297,21 +297,22 @@ window.TRIP = {
           "note": [
             "**Dove:** [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index), ritiro in stazione. Se Kanazawa non compare, usate [JR-WEST Online](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en).",
             "**Quando:** aperta dal 24 ottobre: **prenotate subito**. Limite: 10 novembre.",
-            "**1.** Tokyo → Kanazawa, **Kagayaki intorno alle 07:30**, 2 adulti, ordinario.",
+            "**1.** Tokyo → Kanazawa, **Kagayaki 503, Tokyo 07:20 → Kanazawa 09:44** (corsa giornaliera, verificata sull'orario JR East di novembre 2026), 2 adulti, ordinario. Se è pieno: Kagayaki 523 delle 07:28 (arrivo 10:09, non circola tutti i giorni).",
             "**2.** Posti **sul lato sinistro nel senso di marcia** per le Alpi: guardate la direzione nella mappa posti, non la lettera.",
             "**3.** Ritiro la sera del 19/11, insieme ai biglietti del Fuji Excursion se scegliete l'opzione (A)."
           ]
         },
         {
-          "titolo": "Hokuriku Shinkansen + Thunderbird, Kanazawa → Kyoto, 26/11, partenza ~11:00",
+          "titolo": "Hokuriku Shinkansen + Thunderbird, Kanazawa → Kyoto, 26/11, partenza 07:48",
           "tags": "🎫",
           "done": false,
           "note": [
-            "**Dove:** [JR-WEST Online Train Reservation](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en). Entrambi i treni sono tutti a posti riservati.",
+            "**Dove:** [JR-WEST Online Train Reservation](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en). Il Thunderbird è **tutto a posti riservati** (dal 2024): non si sale senza prenotazione.",
             "**Quando:** aperta dal 26 ottobre: **prenotate subito**. Limite: 10 novembre.",
-            "**1.** Kanazawa → Kyoto, partenza dalle 10:55 in poi, 2 adulti. Cambio a Tsuruga di **almeno 8-10 minuti** (Shinkansen al 3° piano, Thunderbird al piano terra).",
+            "**1.** **Tsurugi 7, Kanazawa 07:48 → Tsuruga 08:29**, poi **Thunderbird 8, Tsuruga 08:37 → Kyoto 09:34** (orario JR West di ottobre 2026), 2 adulti. Cambio a Tsuruga di 8 minuti, la coincidenza prevista (Shinkansen al 3° piano, Thunderbird al piano terra): sul sito si prenotano insieme. Alternativa più presto: Tsurugi 5 delle 07:02 + Thunderbird 6, arrivo 09:02.",
             "**2.** Posti Thunderbird **lato sinistro** per il Lago Biwa.",
-            "**3.** Ritiro alle macchinette **e5489** delle stazioni JR West, **il 24/11 appena arrivati a Kanazawa**."
+            "**3.** **Biglietti di carta:** non sono digitali. Si ritirano alle macchinette verdi della stazione di Kanazawa (simbolo \"5489\", menu \"JR-WEST ONLINE TRAIN RESERVATION\") con **la carta fisica usata per pagare** (⚠️ sul sito inserite **il numero della Revolut fisica**, quella di plastica, non di una carta virtuale: alla macchinetta la carta va infilata e deve essere la stessa), il numero di prenotazione e il numero identificativo dell'email. Se la macchina fa storie, sportello JR (Midori-no-madoguchi) accanto.",
+            "**4.** Ritiro **il 24/11 appena arrivati a Kanazawa**: siete già in stazione, 5 minuti, e da lì in poi la carta non serve più. Tenete i biglietti coi passaporti."
           ]
         },
         {
@@ -405,7 +406,7 @@ window.TRIP = {
           ]
         },
         {
-          "titolo": "Monjayaki a Tsukishima, 05/12, turno 17:45",
+          "titolo": "Monjayaki a Tsukishima, 05/12, turno 18:00",
           "tags": "📞",
           "done": false,
           "note": [
@@ -661,7 +662,7 @@ window.TRIP = {
       },
       {
         "pasto": "Cena",
-        "ingresso": "17:00",
+        "ingresso": "18:00",
         "locale": "Centro Kanazawa — 🔍 da scegliere tra **Oden Izakaya Miyuki** (3.63, oden di Kanazawa) e **Tokkuriya** (3.64)",
         "prenotazione": "📞 Consigliata",
         "tabelog": "[Miyuki](https://tabelog.com/en/ishikawa/A1701/A170101/17002725/) · [Tokkuriya](https://tabelog.com/en/ishikawa/A1701/A170101/17000666/)",
@@ -671,11 +672,11 @@ window.TRIP = {
     "2026-11-26": [
       {
         "pasto": "Pranzo",
-        "ingresso": "11:30 (in treno)",
-        "locale": "**Ekiben** comprato alla stazione di Kanazawa (granchio, nodoguro, cucina Kaga) — 🔍 da scegliere sul momento",
+        "ingresso": "12:00",
+        "locale": "Gion — 🔍 da scegliere",
         "prenotazione": "✅ Walk-in",
         "tabelog": "",
-        "note": ""
+        "note": "Colazione in treno: **ekiben** comprato alla stazione di Kanazawa (granchio, nodoguro, cucina Kaga)"
       },
       {
         "pasto": "Cena",
@@ -865,19 +866,19 @@ window.TRIP = {
     "2026-12-05": [
       {
         "pasto": "Pranzo",
-        "ingresso": "11:00",
-        "locale": "Tokyo Ramen Street (Tokyo Station, B1 lato Yaesu) — **Rokurinsha** (tsukemen, 3.77) o **Ikaruga** (3.64)",
+        "ingresso": "12:00",
+        "locale": "Tempozan Marketplace, accanto al Kaiyukan — 🔍 da scegliere",
         "prenotazione": "✅ Walk-in",
-        "tabelog": "[Rokurinsha](https://tabelog.com/tokyo/A1302/A130201/13093047/)",
-        "note": "Alle 11:00 le code sono le più corte"
+        "tabelog": "",
+        "note": "Pranzo veloce: alle 12:45 si riparte per la stazione"
       },
       {
         "pasto": "Cena",
-        "ingresso": "17:45",
+        "ingresso": "18:00",
         "locale": "Monjayaki da **Monja Kondo Honten**, Tsukishima (la più antica del quartiere, dal 1950)",
         "prenotazione": "📞 Consigliata, è sabato",
         "tabelog": "[Tabelog](https://tabelog.com/en/tokyo/A1313/A131302/13012771/)",
-        "note": "Tabelog 3.49, ~3.000 ¥. Il piatto tipico di Tokyo, cotto da voi sulla piastra del tavolo. Il tramonto sulla baia lo vedete prima, da Odaiba"
+        "note": "Tabelog 3.49, ~3.000 ¥. Il piatto tipico di Tokyo, cotto da voi sulla piastra del tavolo. Il tramonto lo vedete dallo Shinkansen"
       }
     ],
     "2026-12-06": [
@@ -1125,13 +1126,13 @@ window.TRIP = {
         "Tokyo Station",
         35.6812,
         139.7671,
-        "07:30"
+        "07:20"
       ],
       [
         "Kanazawa Station",
         36.5781,
         136.6478,
-        "10:00"
+        "09:45"
       ],
       [
         "Omicho Market",
@@ -1156,12 +1157,6 @@ window.TRIP = {
         36.5621,
         136.6627,
         "15:00"
-      ],
-      [
-        "21st Century Museum of Contemporary Art Kanazawa",
-        36.5609,
-        136.6582,
-        "16:15"
       ],
       [
         "Higashi Chaya District",
@@ -1202,35 +1197,41 @@ window.TRIP = {
         "14:45"
       ],
       [
-        "Kutani Kosen Kiln",
-        36.5546,
-        136.6467,
-        "15:45"
-      ]
-    ],
-    "2026-11-26": [
-      [
-        "Kenrokuen",
-        36.5621,
-        136.6627,
-        "06:30"
+        "21st Century Museum of Contemporary Art Kanazawa",
+        36.5609,
+        136.6582,
+        "15:30"
       ],
       [
         "Higashi Chaya District",
         36.5724,
         136.6667,
-        "08:45"
-      ],
+        "16:40"
+      ]
+    ],
+    "2026-11-26": [
       [
         "Kanazawa Station",
         36.5781,
         136.6478,
-        "10:30"
+        "07:10"
       ],
       [
         "Kyoto Station",
         34.9858,
         135.7588,
+        "09:35"
+      ],
+      [
+        "Kennin-ji",
+        35.0007,
+        135.7735,
+        "10:45"
+      ],
+      [
+        "Chion-in",
+        35.0055,
+        135.7832,
         "13:15"
       ],
       [
@@ -1550,12 +1551,6 @@ window.TRIP = {
         "13:00"
       ],
       [
-        "Osaka Aquarium Kaiyukan",
-        34.6545,
-        135.4289,
-        "14:30"
-      ],
-      [
         "teamLab Botanical Garden Osaka",
         34.6116,
         135.518,
@@ -1579,43 +1574,37 @@ window.TRIP = {
         "Osaka City Central Public Hall",
         34.6925,
         135.504,
-        "07:00"
+        "08:30"
+      ],
+      [
+        "Osaka Aquarium Kaiyukan",
+        34.6545,
+        135.4289,
+        "10:00"
       ],
       [
         "Tokyo Station",
         35.6812,
         139.7671,
-        "11:00"
-      ],
-      [
-        "Tokyo Tower",
-        35.6586,
-        139.7454,
-        "13:00"
-      ],
-      [
-        "Zojo-ji",
-        35.6575,
-        139.7484,
-        "14:00"
-      ],
-      [
-        "Rainbow Bridge Promenade",
-        35.6403,
-        139.7593,
-        "15:15"
-      ],
-      [
-        "Statue of Liberty Odaiba",
-        35.6276,
-        139.7718,
         "16:30"
       ],
       [
         "Monja Kondo Honten Tsukishima",
         35.664,
         139.783,
-        "17:45"
+        "18:00"
+      ],
+      [
+        "Tokyo Tower",
+        35.6586,
+        139.7454,
+        "20:15"
+      ],
+      [
+        "Zojo-ji",
+        35.6575,
+        139.7484,
+        "21:00"
       ]
     ],
     "2026-12-06": [
@@ -1876,16 +1865,15 @@ window.TRIP = {
       "hotel": "Lian Kanazawa",
       "emoji": "🌤️",
       "items": [
-        "🚇 **Andata alla stazione (uscite alle 06:55):** JR Chuo-Sobu Line da Iidabashi a **Ochanomizu**, cambio sulla stessa banchina sulla Chuo Rapid fino a Tokyo Station (~15 min). Ora di punta. Piano B: taxi (~15 min).",
-        "**07:30 – 10:00** 🎫🌤️ Hokuriku Shinkansen Tokyo → Kanazawa, Kagayaki. Posti sul **lato sinistro** per le Alpi.",
-        "**10:00 – 10:45** Ritiro dei biglietti per Kyoto (e5489) in stazione e deposito bagagli al **Lian Kanazawa**, a due passi dal mercato.",
+        "🚇 **Andata alla stazione (uscite alle 06:40):** JR Chuo-Sobu Line da Iidabashi a **Ochanomizu**, cambio sulla stessa banchina sulla Chuo Rapid fino a Tokyo Station (~15 min). Ora di punta. Piano B: taxi (~15 min).",
+        "**07:20 – 09:44** 🎫🌤️ Hokuriku Shinkansen Tokyo → Kanazawa, **Kagayaki 503**. Posti sul **lato sinistro** per le Alpi.",
+        "**09:45 – 10:45** Ritiro dei biglietti per Kyoto (macchinette verdi \"5489\", con la Revolut fisica) e deposito bagagli al **Lian Kanazawa**, a due passi dal mercato.",
         "**11:00 – 12:45** 🌟 *Pranzo:* **Omicho Market**, kaisen-don e **nodoguro**.",
         "**13:00 – 14:00** ✅ **Castello di Kanazawa** e il parco.",
         "**14:00 – 15:00** 🌟✅ **Seisonkaku Villa:** residenza Edo del 1863 per la madre del signore Maeda, interni tra i meglio conservati del Giappone. ⚠️ Ultimo ingresso 16:30, chiusa il mercoledì. Vietato fotografare all'interno.",
-        "**15:00 – 16:15** 🌟✅ **Kenrokuen Garden**, uno dei tre giardini più belli del Giappone, con gli *yukitsuri* sui pini.",
-        "**16:15 – 17:15** 🌟✅ **21st Century Museum of Contemporary Art**, di fronte al Kenrokuen: la \"Swimming Pool\" di Leandro Erlich e l'ala esterna gratuita. Verificate l'orario di chiusura.",
+        "**15:00 – 16:45** 🌟✅ **Kenrokuen Garden**, uno dei tre giardini più belli del Giappone, con gli *yukitsuri* sui pini. Con calma: lanterna **Kotoji** sullo stagno Kasumigaike, collinetta **Sazae-yama**, stagno **Hisagoike**, isola **Sekirei-jima**. 🍵 Pausa matcha con dolcetto alla casa da tè **Shigure-tei** (~800-1.000 ¥, ultimo ingresso 16:00). Il giardino chiude alle 17:00.",
         "**17:30 – 19:30** 🥢 *Cena:* cucina *Kaga Ryori*.",
-        "**19:45 – 21:00** ✅ **Higashi Chaya** e **Kazuemachi**, i quartieri delle geisha con le lanterne accese.",
+        "**19:45 – 21:00** ✅ **Higashi Chaya** e **Kazuemachi**, i quartieri delle geisha con le lanterne accese, e il ponte **Naka-bashi** sul fiume Asano. Di giorno ci tornate il 25.",
         "🚶 **Rientro in hotel:** a piedi da Kazuemachi lungo il fiume Asano (~12-15 min).",
         "💡 Verificate se è attiva l'**illuminazione serale gratuita del Kenrokuen**."
       ]
@@ -1901,28 +1889,27 @@ window.TRIP = {
         "**10:45 – 11:15** 🔄✅ **Oyama Shrine:** santuario col portale a vetrate colorate. Ingresso libero.",
         "**11:30 – 12:30** *Pranzo:* Kanazawa curry oppure soba locale.",
         "**13:30 – 14:45** 🌟🎫 **Myoryu-ji, Ninja-dera:** tempio-fortezza con porte nascoste, scale segrete e trabocchetti. Visita guidata a orario fisso, **solo su prenotazione**.",
-        "**14:45 – 15:30** ✅ **Teramachi** e **Nishi Chaya**, il quartiere dei templi e il più piccolo distretto delle geisha.",
-        "**15:45 – 16:45** 🔄✅ **Kutani-yaki Kosen Kiln** oppure **Kaga Yuzen Traditional Industry Center**. ⚠️ Verificate i giorni di chiusura.",
-        "**17:00 – 19:00** *Cena:* ristorante nel centro di Kanazawa.",
-        "**19:15 – 20:45** 🔄✅ **Onsen o sento locale**, oppure riposo in hotel.",
+        "**14:45 – 15:15** ✅ **Teramachi** e **Nishi Chaya**, il quartiere dei templi e il più piccolo distretto delle geisha. Il **Nishi Chaya Shiryokan**, ex casa da tè, è gratuito.",
+        "**15:30 – 16:20** 🌟✅ **21st Century Museum of Contemporary Art**, di fronte al Kenrokuen (~15-20 min a piedi o bus da Nishi Chaya): la \"Swimming Pool\" di Leandro Erlich e l'ala esterna gratuita. Zona mostre 10:00-18:00, chiuso il lunedì. Biglietto in loco.",
+        "**16:40 – 17:45** 🌟✅ **Higashi Chaya di giorno**, al tramonto (~20 min a piedi dal museo, o bus): prima l'**Ochaya Shima** (casa delle geisha del 1820, 500 ¥, chiude verso le 17:30: andateci subito), poi le botteghe della foglia d'oro (**Hakuichi**, col gelato alla foglia d'oro). Gli orari di chiusura dei negozi non sono verificati: se volete il laboratorio di foglia d'oro da **Sakuda** (ultimo inizio 15:00, su prenotazione), va al posto del museo.",
+        "**18:00 – 20:00** *Cena:* ristorante nel centro di Kanazawa.",
+        "**20:15 – 21:30** 🔄✅ **Onsen o sento locale**, oppure riposo in hotel.",
         "🚶 **Rientro in hotel:** a piedi (~10 min)."
       ]
     },
     {
       "data": "2026-11-26",
       "giorno": "Giovedì",
-      "titolo": "Mattina a Kanazawa, trasferimento a Kyoto e riunione bagagli",
+      "titolo": "Treno all'alba per Kyoto, giornata intera a Gion e Higashiyama",
       "hotel": "KABIN Kyoto",
       "items": [
-        "**06:30 – 07:30** 🔄✅ *Per chi si sveglia:* **Kenrokuen con l'ingresso anticipato gratuito** (nov-feb dalle 6:00 alle 7:45, solo dalle porte **Renchimon** o **Zuishinzaka**), yukitsuri nella luce radente. ~20 min a piedi.",
-        "**07:45 – 08:30** Colazione e check-out al **Lian Kanazawa**, trolley in custodia alla reception.",
-        "🚌 *Trasferimento:* bus Hokutetsu da Musashigatsuji a Hashiba-cho (~7 min), oppure a piedi (~15-20 min).",
-        "**08:45 – 10:00** 🌟✅ **Higashi Chaya di giorno:** **Ochaya Shima** (casa delle geisha del 1820, apre alle 9:30, 500 ¥), le botteghe della foglia d'oro (**Hakuichi** dalle 9:00, col gelato alla foglia d'oro; **Hakuza** dalle 9:30) e un matcha con wagashi. In alternativa: **D.T. Suzuki Museum** (dalle 9:30).",
-        "**10:00 – 10:20** 🚌 Bus di ritorno a Musashigatsuji e ritiro del trolley.",
-        "**10:30 – 10:55** 🚶 A piedi alla stazione di Kanazawa (~10 min): **ekiben** per il pranzo e portale **Tsuzumi-mon**.",
-        "**11:00 – 13:15** 🎫 Hokuriku Shinkansen fino a **Tsuruga**, poi **Thunderbird** per Kyoto (~2h15). ⚠️ Cambio tra piani diversi, servono ~8-10 minuti. *Pranzo in treno:* l'ekiben. 💡 Sul Thunderbird a **sinistra** per il **Lago Biwa** (vista a tratti).",
-        "**13:15 – 14:15** 🚌 Bus 4, 17 o 205 fino a Kawaramachi-Gojo (~12-15 min), poi a piedi al **KABIN Kyoto**: check-in o **ritiro delle valigie grandi**. Piano B: taxi (~15 min).",
-        "**14:30 – 15:45** 🌟✅ **Yasaka Shrine** e **Maruyama Park**. Ingresso libero. Keihan da Kiyomizu-Gojo a Gion-Shijo + 5 min a piedi, oppure ~20 min a piedi.",
+        "**07:10 – 07:40** Check-out al **Lian Kanazawa** e a piedi alla stazione (~10 min): **ekiben** per la colazione in treno e foto al portale **Tsuzumi-mon**.",
+        "**07:48 – 09:34** 🎫 **Tsurugi 7** fino a **Tsuruga** (08:29), poi **Thunderbird 8** (08:37) per Kyoto. ⚠️ Cambio di 8 minuti tra piani diversi: scendete e seguite subito i cartelli per il Thunderbird. 💡 Sul Thunderbird a **sinistra** per il **Lago Biwa** (vista a tratti).",
+        "**09:35 – 10:30** 🚌 Bus 4, 17 o 205 fino a Kawaramachi-Gojo (~12-15 min), poi a piedi al **KABIN Kyoto**: deposito del trolley e **ritiro delle valigie grandi** (check-in più tardi). Piano B: taxi (~15 min).",
+        "**10:45 – 11:45** 🌟✅ **Kennin-ji**, il più antico tempio zen di Kyoto, coi due draghi dipinti sul soffitto e il giardino di muschio e sabbia. A due passi da Hanamikoji: Keihan da Kiyomizu-Gojo a Gion-Shijo. Biglietto in loco; verificate l'orario.",
+        "**12:00 – 13:00** *Pranzo* a Gion.",
+        "**13:15 – 14:15** 🔄✅ **Chion-in**, col portale Sanmon, uno dei più grandi del Giappone, accanto al Maruyama Park. Verificate l'orario (chiude presto, verso le 16:00).",
+        "**14:30 – 15:45** 🌟✅ **Yasaka Shrine** e **Maruyama Park**. Ingresso libero. Pausa in hotel per il check-in, se siete stanchi dalla sveglia presto.",
         "**16:00 – 17:45** 🌟✅ **Gion** e **Hanamikoji Street** al tramonto. ⚠️ Nelle stradine private di Gion **è vietato fotografare**, con multe.",
         "**18:00 – 20:15** 🌟🎫 *Cena:* cucina giapponese di stagione da **Tan**, a Higashiyama (~10 min a piedi da Gion).",
         "🚶 **Rientro in hotel:** a piedi (~13-15 min)."
@@ -2085,9 +2072,9 @@ window.TRIP = {
         "🚇 **11:15 – 11:45** *Trasferimento a Kuromon:* a piedi fino a Tanimachi 4-chome, Tanimachi Line fino a Tanimachi 9-chome, cambio Sennichimae Line fino a Nippombashi (~15 min).",
         "**11:45 – 13:00** 🌟 *Pranzo:* **Kuromon Market** a spizzico, vedi tabella pasti.",
         "**13:00 – 13:45** ✅ **Shinsekai** e **Tsutenkaku Tower**, la Osaka anni Cinquanta. A piedi da Kuromon (~15 min). 💡 Kushikatsu: **non si intinge due volte** nella salsa comune.",
-        "🚇 **13:45 – 14:30** *Trasferimento in baia:* Midosuji Line da Dobutsuen-mae a Hommachi, cambio Chuo Line fino a Osakako, ~7 min a piedi (~40 min).",
-        "**14:30 – 16:15** 🔄✅ **Kaiyukan (Osaka Aquarium):** spirale su 8 piani attorno alla vasca dello squalo balena, ~2.700 ¥. Biglietto anche il giorno stesso. **Primo punto da saltare:** in quel caso check-in all'Aloft e riposo, poi Midosuji Umeda → Nagai alle 16:45. ⚠️ Riverificate che il 4/12 sia aperto.",
-        "🚇 **16:15 – 17:15** *Trasferimento a Nagai:* Chuo Line da Osakako a Hommachi, cambio Midosuji Line fino a Nagai, ~10 min a piedi (~50 min). **Partite entro le 16:20.**",
+        "🚇 **13:45 – 14:15** *Rientro in hotel:* Midosuji Line da Dobutsuen-mae a Umeda, poi a piedi all'Aloft (~30 min).",
+        "**14:15 – 16:30** 🔄 Check-in all'**Aloft** (dalle 15:00) e riposo: la serata è lunga e all'aperto. Il Kaiyukan è passato al 5/12 mattina.",
+        "🚇 **16:30 – 17:15** *Trasferimento a Nagai:* Midosuji Line da Umeda a Nagai, ~10 min a piedi (~35 min).",
         "**17:30 – 19:15** 🌟🎫 **teamLab Botanical Garden:** slot 17:30-18:00. Installazioni luminose nel parco botanico di Nagai. ⚠️ **All'aperto e al freddo**.",
         "**19:30 – 21:15** *Dotonbori e cena:* insegne al neon, Glico Man, takoyaki e okonomiyaki. Midosuji da Nagai a Namba (~20 min). 💡 Se arrivate in tempo, **Tombori River Cruise** (~20 min) dal molo della ruota Don Quijote, ultima corsa ~21:00.",
         "**21:15 – 22:00** 🌟✅ **Hozen-ji Yokocho:** vicolo di lanterne a due minuti da Dotonbori, col **Mizukake Fudo** ricoperto di muschio da bagnare con un mestolo d'acqua esprimendo un desiderio.",
@@ -2097,21 +2084,21 @@ window.TRIP = {
     {
       "data": "2026-12-05",
       "giorno": "Sabato",
-      "titolo": "Ritorno a Tokyo e riunione bagagli",
+      "titolo": "Mattina a Osaka, Shinkansen del pomeriggio e serata a Tokyo",
       "hotel": "Shiba Park Hotel",
       "emoji": "🌤️",
       "items": [
-        "**07:00 – 07:35** 🔄✅ **Passeggiata all'alba a Nakanoshima** (check-out già fatto): ponte sul fiume Dojima, **Osaka City Central Public Hall** (1918) e **Biblioteca di Nakanoshima** (1904) con la prima luce sull'acqua.",
-        "🚇 **Partenza dall'Aloft: 07:45.** Yotsubashi Line da Higobashi a Nishi-Umeda, cambio a piedi sulla Midosuji Line fino a Shin-Osaka (~25-30 min). Piano B: taxi (~15 min). Ricalcolate se l'orario del Nozomi confermato il 5/11 è diverso.",
-        "**08:30 – 11:00** 🎫🌤️ Shinkansen Tokaido Shin-Osaka → Tokyo, Nozomi. **Coppia D+E**, E finestrino: il Fuji sarà a sinistra **intorno alle 10:10**, tra Shizuoka e Shin-Fuji. Finestra breve, state pronti.",
-        "**11:00 – 11:45** *Pranzo:* **Tokyo Ramen Street**, interrato della stazione lato Yaesu.",
-        "**12:00 – 12:45** **Shiba Park Hotel** e **ritiro delle valigie grandi**. 🚶 JR Yamanote/Keihin-Tohoku Line fino a Hamamatsucho (~7 min) + 10 min a piedi. Check-in di solito dalle 15:00: chiedete un early check-in.",
-        "**13:00 – 15:00** 🔄✅ **Tokyo Tower** e tempio **Zojo-ji**, dietro l'hotel.",
-        "**15:15 – 16:00** 🌟✅ **Rainbow Bridge a piedi**, lungo la passerella pedonale (lato nord, vista sui grattacieli e sulla Tokyo Tower): dalla sponda di Shibaura fino a Odaiba, ~1,7 km. Ci arrivate in taxi da Zojo-ji (~10 min) o con la Yurikamome fino a Shibaura-futo. ⚠️ Passerella aperta d'inverno 10:00-18:00 (ultimo ingresso 17:30): verificate.",
-        "**16:00 – 17:15** 🌟✅ **Odaiba:** Odaiba Seaside Park, Statua della Libertà e tramonto (16:30) sulla baia. ⚠️ L'Unicorn Gundam a grandezza naturale di DiverCity è stato smontato il 31 agosto 2026.",
-        "**17:15 – 17:45** 🚝 *Trasferimento a Tsukishima:* Yurikamome da Odaiba-kaihinkoen a Toyosu, cambio Yurakucho Line fino a Tsukishima, una fermata (~30 min).",
-        "**17:45 – 19:30** 🌟 *Cena:* monjayaki da **Monja Kondo Honten**, lungo la Nishinaka-dori, la via della monja.",
-        "🚇 **Rientro in hotel:** Toei Oedo Line diretta da Tsukishima ad Akabanebashi (~12 min), poi a piedi. Piano B: taxi."
+        "**08:30 – 09:15** 🔄✅ **Passeggiata a Nakanoshima**, a due passi dall'Aloft: ponte sul fiume Dojima, **Osaka City Central Public Hall** (1918) e **Biblioteca di Nakanoshima** (1904). Poi check-out, trolley in custodia alla reception.",
+        "🚇 **09:15 – 09:45** *Trasferimento in baia:* Yotsubashi Line da Higobashi a Hommachi, cambio Chuo Line fino a Osakako, ~7 min a piedi (~30 min).",
+        "**10:00 – 12:00** 🌟🎫 **Kaiyukan (Osaka Aquarium):** spirale su 8 piani attorno alla vasca dello squalo balena, ~2.700-3.200 ¥ secondo la data. Biglietto online con **fascia oraria** (in vendita 30 giorni prima): prendete l'ingresso delle 10:00, all'apertura. Il giorno stesso i biglietti sono limitati. Riverificate l'orario sul calendario ufficiale.",
+        "**12:00 – 12:45** *Pranzo* al **Tempozan Marketplace**, accanto all'acquario.",
+        "🚇 **12:45 – 13:45** *Rientro e stazione:* Chuo Line fino a Hommachi, Yotsubashi Line fino a Higobashi, ritiro del trolley all'Aloft, poi taxi fino a Shin-Osaka (~15 min).",
+        "**14:00 – 16:30** 🎫🌤️ Shinkansen Tokaido Shin-Osaka → Tokyo, Nozomi (orario esatto confermato da smartEX il 5/11: ricalcolate la giornata). **Coppia D+E**, E finestrino: il Fuji sarà a sinistra **circa 1h40 dopo la partenza (~15:40)**, tra Shizuoka e Shin-Fuji, prima del tramonto delle 16:30. Di pomeriggio è più spesso tra le nuvole.",
+        "**16:30 – 17:30** **Shiba Park Hotel**, check-in e **ritiro delle valigie grandi**. 🚶 JR Yamanote/Keihin-Tohoku Line fino a Hamamatsucho (~7 min) + 10 min a piedi.",
+        "🚇 **17:30 – 18:00** *Trasferimento a Tsukishima:* Toei Oedo Line da Akabanebashi a Tsukishima (~12 min).",
+        "**18:00 – 19:45** 🌟 *Cena:* monjayaki da **Monja Kondo Honten**, lungo la Nishinaka-dori, la via della monja.",
+        "🚇 *Rientro:* Toei Oedo Line da Tsukishima ad Akabanebashi (~12 min).",
+        "**20:15 – 21:30** 🔄✅ **Tokyo Tower illuminata** e il tempio **Zojo-ji** con la torre alle spalle, dietro l'hotel. Salita all'osservatorio facoltativa: verificate l'orario serale."
       ]
     },
     {

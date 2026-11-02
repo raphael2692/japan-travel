@@ -806,7 +806,7 @@ window.LINGUA = {
     {
       id: "telefono", emoji: "📞", titolo: "Prenotare al telefono",
       desc: "La chiamata al Ninja-dera e ai ristoranti.",
-      intro: "Al telefono non c'è il display che vi aiuta: per questo conviene allenarsi su questa pagina prima della chiamata al **Myoryu-ji (+81 76-241-0888, entro il 31/10, tra le 07:00 e le 08:00 italiane)**. Le domande sono sempre le stesse: giorno, ora, persone, nome, telefono.",
+      intro: "Al telefono non c'è il display che vi aiuta: per questo conviene allenarsi su questa pagina prima della chiamata al **Myoryu-ji (+81 76-241-0888, lunedì 2/11, tra le 07:00 e le 08:00 italiane)**. Le domande sono sempre le stesse: giorno, ora, persone, nome, telefono.",
       sezioni: [
         { tipo: "sentirai", frasi: [
           ["はい、妙立寺でございます", "hai, **Myōryūji** de gozaimasu", "Pronto, qui Myoryu-ji"],
@@ -876,17 +876,17 @@ window.LINGUA = {
     "2026-11-25": ["biglietti", "onsen", "ristorante"],
     "2026-11-26": ["shinkansen", "bus-taxi", "hotel", "prenotato"],
     "2026-11-27": ["treni", "prenotato", "biglietti"],
-    "2026-11-28": ["biglietti", "bus-taxi", "izakaya"],
+    "2026-11-28": ["biglietti", "bus-taxi", "prenotato"],
     "2026-11-29": ["treni", "ristorante", "chiacchiere"],
     "2026-11-30": ["prenotato", "onsen", "biglietti"],
     "2026-12-01": ["treni", "shinkansen", "mercati"],
     "2026-12-02": ["treni", "biglietti", "ristorante", "takkyubin"],
-    "2026-12-03": ["shinkansen", "mercati", "ramen"],
-    "2026-12-04": ["treni", "hotel", "mercati", "biglietti"],
+    "2026-12-03": ["shinkansen", "mercati", "prenotato"],
+    "2026-12-04": ["treni", "hotel", "mercati", "biglietti", "ramen"],
     "2026-12-05": ["biglietti", "shinkansen", "hotel", "prenotato"],
-    "2026-12-06": ["mercati", "negozi", "biglietti", "izakaya"],
+    "2026-12-06": ["ristorante", "negozi", "biglietti", "izakaya"],
     "2026-12-07": ["treni", "biglietti", "izakaya"],
-    "2026-12-08": ["treni", "negozi", "prenotato"],
+    "2026-12-08": ["mercati", "treni", "negozi", "prenotato"],
     "2026-12-09": ["hotel", "negozi"]
   }
 };

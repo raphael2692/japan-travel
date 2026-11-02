@@ -115,7 +115,7 @@ window.TRIP = {
       "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26000646/) (prenotazione online) · tel. +81 75-221-0003"
     },
     {
-      "cosa": "**Shigetsu (pranzo 27/11)**",
+      "cosa": "**Shigetsu (pranzo 27/11, ore 11:30)**",
       "apre": "già aperta",
       "oraIt": "",
       "entro": "**subito**, al più tardi 3 giorni prima",
@@ -496,7 +496,7 @@ window.TRIP = {
           ]
         },
         {
-          "titolo": "Shigetsu, pranzo del 27/11 alle 11:00",
+          "titolo": "Shigetsu, pranzo del 27/11 alle 11:30",
           "tags": "🌟🎫",
           "done": false,
           "note": [
@@ -717,7 +717,7 @@ window.TRIP = {
     "2026-11-22": [
       {
         "pasto": "Pranzo",
-        "ingresso": "11:00",
+        "ingresso": "11:30",
         "locale": "**Harajuku Gyoza Ro** (3.49, gyoza al vapore e alla piastra, ~1.500 ¥) — alt. **Pretty Pork Factory** (3.74, tonkatsu di maiale pregiato, ~3-4.000 ¥). La crêpe da **Marion Crepes** come spuntino. A Shibuya (~15 min a piedi): 📸 **Sushi Hicho** (pranzo omakase da 7.590 ¥, 11:30-15:00) o 📸 **Espresso D'Works yellow** (omurice con hamburger e formaggio, 2.288 ¥, Tabelog ~3.2)",
         "prenotazione": "✅ Walk-in",
         "tabelog": "[Gyoza Ro](https://tabelog.com/en/tokyo/A1306/A130601/13001284/) · [Pretty Pork](https://tabelog.com/en/tokyo/A1306/A130601/13295369/) · [Marion](https://tabelog.com/en/tokyo/A1306/A130601/13088711/)",
@@ -807,7 +807,7 @@ window.TRIP = {
     "2026-11-27": [
       {
         "pasto": "Pranzo",
-        "ingresso": "11:00",
+        "ingresso": "11:30",
         "locale": "**Shigetsu**, cucina buddista *shojin ryori* dentro il giardino del Tenryu-ji: tofu al sesamo, verdure, niente carne né pesce",
         "prenotazione": "🎫 Fissa",
         "tabelog": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260403/26000923/)",
@@ -882,6 +882,14 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in, si fa la fila",
         "tabelog": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26000254/)",
         "note": "Cena leggera dopo il sukiyaki. Apre alle 17:30, 14 posti, solo contanti. Il locale dove mangiano geiko e maiko, a pochi minuti dal Kodai-ji"
+      },
+      {
+        "pasto": "Spuntino",
+        "ingresso": "",
+        "locale": "**Nishiki Market, 30/11, 13:15-14:30:** **Nishiki Hirano** ([Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26007725/), spiedone di gambero tempura), **Konna Monja** ([Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26000440/), 3.44, donut al latte di soia). Arrivando da Mishima-tei entrate dal lato Teramachi e scendete verso Takakura. Per lo più cash.",
+        "prenotazione": "",
+        "tabelog": "",
+        "note": ""
       }
     ],
     "2026-12-01": [
@@ -951,15 +959,7 @@ window.TRIP = {
         "locale": "📸💶 **Manzo di Kobe al teppanyaki** da **Kobe Beef Kisshokichi Kyoto Honten**, Kiyamachi, all'8° piano con vista sul Kamo — alt. **ramen** al dashi da **Menya Inoichi** (3.71, ~1-2.000 ¥, a 5 minuti da Nishiki)",
         "prenotazione": "📞 Consigliata",
         "tabelog": "[ikyu](https://restaurant.ikyu.com/123087/highlights) · [Inoichi](https://tabelog.com/en/kyoto/A2601/A260201/26032368/)",
-        "note": "Corsi da 13.750 ¥: **fuori tetto per scelta**. Tutti i giorni 11:00-22:00, ultima ordinazione 21:30. ~10 minuti a piedi da Nishiki. La tempura di Bansan è passata al pranzo del 26/11"
-      },
-      {
-        "pasto": "Spuntino",
-        "ingresso": "",
-        "locale": "**Nishiki Market, 03/12, 16:00-17:30:** **Nishiki Hirano** ([Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26007725/), spiedone di gambero tempura), **Konna Monja** ([Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26000440/), 3.44, donut al latte di soia). Molti banchi chiudono tra le 17 e le 18: partite dal lato Takakura e risalite verso Teramachi. Per lo più cash.",
-        "prenotazione": "",
-        "tabelog": "",
-        "note": ""
+        "note": "Corsi da 13.750 ¥: **fuori tetto per scelta**. Tutti i giorni 11:00-22:00, ultima ordinazione 21:30. ~20 minuti a piedi dal KABIN. La tempura di Bansan è passata al pranzo del 26/11"
       }
     ],
     "2026-12-04": [
@@ -1009,7 +1009,7 @@ window.TRIP = {
       },
       {
         "pasto": "Cena",
-        "ingresso": "16:00",
+        "ingresso": "16:30",
         "locale": "📸 **Tonkatsu** da **Nihonbashi Tonkatsu Hajime HANARE**, Nihonbashi-Muromachi 1-11-15, UNO Bldg (costata di maiale spessa)",
         "prenotazione": "✅ Walk-in (non prende prenotazioni)",
         "tabelog": "",
@@ -1184,22 +1184,22 @@ window.TRIP = {
         "08:00"
       ],
       [
-        "Takeshita Street",
-        35.6716,
-        139.7031,
-        "09:45"
-      ],
-      [
         "Omotesando",
         35.6654,
         139.71,
-        "12:00"
+        "09:45"
+      ],
+      [
+        "Takeshita Street",
+        35.6716,
+        139.7031,
+        "10:45"
       ],
       [
         "Shimokitazawa",
         35.6618,
         139.668,
-        "13:30"
+        "13:00"
       ],
       [
         "Shibuya Sky",
@@ -1449,25 +1449,25 @@ window.TRIP = {
         "Shigetsu Tenryu-ji",
         35.0158,
         135.6745,
-        "11:00"
+        "11:30"
       ],
       [
         "Ryoan-ji",
         35.0345,
         135.7182,
-        "12:45"
+        "13:15"
       ],
       [
         "Kinkaku-ji",
         35.0394,
         135.7292,
-        "14:00"
+        "14:30"
       ],
       [
         "Kitano Tenmangu",
         35.0313,
         135.7351,
-        "15:30"
+        "16:00"
       ],
       [
         "Pontocho Yakiniku Kiraku",
@@ -1584,6 +1584,12 @@ window.TRIP = {
         "11:30"
       ],
       [
+        "Nishiki Market",
+        35.005,
+        135.7649,
+        "13:15"
+      ],
+      [
         "Gion Yorozuya",
         35.0005,
         135.7755,
@@ -1690,12 +1696,6 @@ window.TRIP = {
         34.838,
         134.6905,
         "13:00"
-      ],
-      [
-        "Nishiki Market",
-        35.005,
-        135.7649,
-        "16:00"
       ],
       [
         "Kobe Beef Kisshokichi Kyoto Honten",
@@ -1827,7 +1827,7 @@ window.TRIP = {
         "Nihonbashi Tonkatsu Hajime HANARE",
         35.6866,
         139.7738,
-        "16:00"
+        "16:30"
       ],
       [
         "Rikugien",
@@ -1912,16 +1912,10 @@ window.TRIP = {
         "12:30"
       ],
       [
-        "Koenji",
-        35.7053,
-        139.6497,
-        "13:45"
-      ],
-      [
         "Inokashira Park",
         35.7,
         139.5733,
-        "15:00"
+        "14:00"
       ],
       [
         "Roppongi Hills Tokyo City View",
@@ -2031,11 +2025,11 @@ window.TRIP = {
       "items": [
         "🚇 **Andata dall'hotel:** Toei Oedo Line da Iidabashi a Shinjuku, cambio JR Yamanote Line fino a Harajuku (~20 min).",
         "**08:00 – 09:30** 🌟✅ **Meiji Jingu:** santuario shintoista nel bosco. Ingresso libero. La domenica mattina presto è tranquillo, e potreste vedere un matrimonio shintoista.",
-        "**09:45 – 11:00** ✅ **Harajuku** e Takeshita Street.",
-        "**11:00 – 11:45** *Pranzo:* gyoza da **Harajuku Gyoza Ro**, oppure tonkatsu da **Pretty Pork Factory**. Oppure a Shibuya: 📸 **Sushi Hicho** o l'omurice di 📸 **Espresso D'Works**.",
-        "**12:00 – 13:15** ✅ Passeggiata tra **Omotesando** e **Aoyama**, l'architettura delle boutique (Tod's di Toyo Ito, Prada di Herzog & de Meuron). Alternativa: **Nezu Museum**, giardino e arte.",
-        "🚇 *Trasferimento:* Ginza Line da Omotesando a Shibuya, cambio Keio Inokashira Line fino a Shimokitazawa (~15 min).",
-        "**13:30 – 15:15** 🔄✅ **Shimokitazawa**, il primo assaggio di Tokyo Ovest: vintage, dischi e boutique indie. Poi Keio Inokashira Line fino a Shibuya (~5 min).",
+        "**09:45 – 10:45** ✅ Passeggiata tra **Omotesando** e **Aoyama**, l'architettura delle boutique (Tod's di Toyo Ito, Prada di Herzog & de Meuron): si guarda da fuori, i negozi aprono verso le 11:00. Alternativa: **Nezu Museum**, giardino e arte (apre alle 10:00).",
+        "**10:45 – 11:30** ✅ **Harajuku** e Takeshita Street, coi negozi ormai aperti (tra le 10:00 e le 11:00).",
+        "**11:30 – 12:30** *Pranzo:* gyoza da **Harajuku Gyoza Ro**, oppure tonkatsu da **Pretty Pork Factory**. Oppure a Shibuya: 📸 **Sushi Hicho** o l'omurice di 📸 **Espresso D'Works**.",
+        "🚇 *Trasferimento:* JR Yamanote Line da Harajuku a Shibuya, cambio Keio Inokashira Line fino a Shimokitazawa (~20 min).",
+        "**13:00 – 15:15** 🔄✅ **Shimokitazawa**, il primo assaggio di Tokyo Ovest: vintage, dischi e boutique indie. Poi Keio Inokashira Line fino a Shibuya (~5 min).",
         "**15:40 – 18:30** 🌟🎫 **Shibuya Sky:** ingresso **15:40 o 16:00**, tramonto alle 16:30, nessun limite di permanenza. Prendete posizione sull'angolo sud-ovest e restate fino al buio.",
         "**18:30 – 19:15** ✅ Shibuya Crossing e statua di Hachiko.",
         "**19:15 – 21:15** *Cena:* pizza da 📸 **SHOGUN PIZZA**, a Spain-zaka (~6 min a piedi dallo Scramble Crossing). Se piove, 📸 ristoranti al 13° piano dello **Shibuya Scramble Square**.",
@@ -2132,12 +2126,12 @@ window.TRIP = {
         "🚇 **Andata dall'hotel (uscite alle 06:35):** a piedi fino a Gojo (Karasuma Line, ~10 min), una fermata fino a Kyoto Station, poi JR Sagano Line fino a Saga-Arashiyama (~15 min). Piano B: taxi fino a Kyoto Station.",
         "**07:15 – 08:20** 🌟✅ **Arashiyama Bamboo Grove** prima che arrivi chiunque. Alle 09:00 è già ingestibile.",
         "**08:30 – 09:30** 🌟✅ **Tenryu-ji:** il giardino zen di Muso Soseki, XIV secolo. ⚠️ Apre alle 08:30 in punto.",
-        "**09:40 – 10:40** 🔄✅ **Ponte Togetsukyo** e **Arashiyama Monkey Park Iwatayama**, subito oltre il ponte: venti minuti di salita, scimmie e panorama su Kyoto. Apre alle 09:00, la mattina è anche più tranquillo. Primo punto da saltare se siete tirati: al suo posto, caffè da *Bread, Espresso & Arashiyama Garden*.",
-        "**11:00 – 12:00** 🎫 *Pranzo:* cucina buddista *shojin* da **Shigetsu**, dentro il giardino del Tenryu-ji, Bib Gourmand: si torna al tempio della mattina, a pochi minuti dal ponte. Serve il biglietto del giardino.",
-        "**12:15 – 12:45** 🚃 *Trasferimento:* tram **Randen** da Arashiyama, cambio a Katabiranotsuji, fino a **Ryoanji** (~25 min + 7 min a piedi). Piano B: taxi (~15 min).",
-        "**12:45 – 13:45** 🌟✅ **Ryoan-ji:** il giardino zen delle quindici pietre. Biglietto in loco.",
-        "**14:00 – 15:15** 🌟🌤️✅ **Kinkaku-ji, il Padiglione d'Oro**, a ~20 min a piedi dal Ryoan-ji: il padiglione specchiato nello stagno, col sole del primo pomeriggio sulla facciata. Biglietto in loco, chiude alle 17:00. Per Camilla, tra le cose più belle del viaggio: col cielo sereno rende il doppio.",
-        "**15:30 – 16:45** 🔄✅ **Kitano Tenmangu, giardino Momiji-en** (~10 min di bus): aceri lungo il fiumiciattolo Kamiya. ⚠️ Apertura autunnale con biglietto separato: verificate date e orari. In alternativa, rientro e riposo.",
+        "**09:40 – 11:10** 🔄✅ **Ponte Togetsukyo** e **Arashiyama Monkey Park Iwatayama**, subito oltre il ponte: venti minuti di salita, scimmie e panorama su Kyoto. Apre alle 09:00, la mattina è anche più tranquillo. Primo punto da saltare se siete tirati: al suo posto, caffè da *Bread, Espresso & Arashiyama Garden*.",
+        "**11:30 – 12:30** 🎫 *Pranzo:* cucina buddista *shojin* da **Shigetsu**, dentro il giardino del Tenryu-ji, Bib Gourmand: si torna al tempio della mattina, a pochi minuti dal ponte. Serve il biglietto del giardino.",
+        "**12:45 – 13:15** 🚃 *Trasferimento:* tram **Randen** da Arashiyama, cambio a Katabiranotsuji, fino a **Ryoanji** (~25 min + 7 min a piedi). Piano B: taxi (~15 min).",
+        "**13:15 – 14:15** 🌟✅ **Ryoan-ji:** il giardino zen delle quindici pietre. Biglietto in loco.",
+        "**14:30 – 15:45** 🌟🌤️✅ **Kinkaku-ji, il Padiglione d'Oro**, a ~20 min a piedi dal Ryoan-ji, ~5 in taxi o col bus 59: il padiglione specchiato nello stagno, col sole del primo pomeriggio sulla facciata. Biglietto in loco, chiude alle 17:00. Per Camilla, tra le cose più belle del viaggio: col cielo sereno rende il doppio.",
+        "**16:00 – 16:45** 🔄✅ **Kitano Tenmangu, giardino Momiji-en** (~10 min di bus): aceri lungo il fiumiciattolo Kamiya. ⚠️ Apertura autunnale con biglietto separato: verificate date e orari. In alternativa, rientro e riposo.",
         "🚌 *Trasferimento:* bus da Kitano Tenmangu a Shijo-Kawaramachi (~30 min). Il venerdì sera i bus sono pieni: se non salite, taxi (~20 min).",
         "**17:30 – 19:30** 🥢 *Cena:* *hitsumabushi* di manzo da 📸 **Pontocho Yakiniku Kiraku**, oppure 📸 **Kiyamachi Muni** o 📸 **Gyoza no Ohsho**.",
         "🚶 **Rientro in hotel:** a piedi (~15 min)."
@@ -2191,7 +2185,7 @@ window.TRIP = {
     {
       "data": "2026-11-30",
       "giorno": "Lunedì",
-      "titolo": "Higashiyama all'alba e illuminazioni a Kodai-ji",
+      "titolo": "Higashiyama all'alba, Nishiki Market e illuminazioni a Kodai-ji",
       "hotel": "KABIN Kyoto",
       "items": [
         "🚶 **Andata dall'hotel:** a piedi fino a Kiyomizu-dera (~20 min).",
@@ -2200,7 +2194,8 @@ window.TRIP = {
         "**10:30 – 11:00** 🔄✅ **Hokan-ji**, la Pagoda di Yasaka.",
         "🚕 *Trasferimento:* taxi fino a Sanjo-Teramachi (~10 min), oppure a piedi (~25 min).",
         "**11:30 – 13:00** 🌟🎫 *Pranzo:* sukiyaki di **wagyu** da **Mishima-tei**, casa di legno del 1873, col Lunch Course.",
-        "**13:15 – 16:45** 🔄✅ Riposo in hotel, oppure **onsen o sento tradizionale**.",
+        "**13:15 – 14:30** ✅ **Nishiki Market**, a 5 minuti a piedi da Mishima-tei: a quest'ora i banchi sono tutti aperti. Dopo il sukiyaki, più da guardare che da mangiare: vedi Spuntini.",
+        "**14:45 – 16:45** 🔄✅ Riposo in hotel (~15 min a piedi), oppure **onsen o sento tradizionale**.",
         "**17:15 – 18:15** *Cena leggera:* udon col cipollotto di Kujo da **Gion Yorozuya**, Bib Gourmand, in un vicolo vicino a Hanamikoji (~20 min a piedi dall'hotel). Apre alle 17:30: mettetevi in fila un quarto d'ora prima. Solo contanti.",
         "**18:30 – 20:00** 🌟✅ **Kodai-ji Illuminations:** bambù e aceri riflessi nello stagno (fino al 13 dicembre, ultimo ingresso ~21:30). Biglietto in loco.",
         "🚶 **Rientro in hotel:** a piedi (~15 min)."
@@ -2246,7 +2241,7 @@ window.TRIP = {
     {
       "data": "2026-12-03",
       "giorno": "Giovedì",
-      "titolo": "Himeji, wagyu A5 e mercato di Nishiki",
+      "titolo": "Himeji e manzo di Kobe",
       "hotel": "KABIN Kyoto",
       "items": [
         "🚶 **Andata alla stazione (uscite alle 08:05):** a piedi o metro da Gojo fino a Kyoto Station (~15-20 min). Il treno non è prenotato: se perdete quello delle 08:30, prendete il primo Shinkansen successivo che ferma a Himeji (guardate il tabellone).",
@@ -2255,8 +2250,8 @@ window.TRIP = {
         "**11:45 – 12:45** *Pranzo:* anago o soba a Himeji.",
         "**13:00 – 14:00** 🌟✅ Giardini **Koko-en**, accanto al castello.",
         "**14:15 – 15:45** Rientro in Shinkansen a Kyoto.",
-        "**16:00 – 17:30** ✅ **Nishiki Market:** Karasuma Line da Kyoto Station a Shijo (~5 min). Solo assaggi leggeri, vedi Spuntini.",
-        "**17:45 – 19:30** 💶 *Cena:* manzo di Kobe al teppanyaki da 📸 **Kobe Beef Kisshokichi**, all'8° piano sul fiume Kamo, a Kiyamachi (~10 min a piedi da Nishiki). Alternativa economica: ramen da **Menya Inoichi**.",
+        "**16:00 – 17:15** 🔄 Riposo in hotel: Karasuma Line da Kyoto a Gojo, una fermata. Il Nishiki Market è passato al 30/11, quando i banchi sono tutti aperti.",
+        "**17:45 – 19:30** 💶 *Cena:* manzo di Kobe al teppanyaki da 📸 **Kobe Beef Kisshokichi**, all'8° piano sul fiume Kamo, a Kiyamachi (~20 min a piedi dall'hotel, o taxi). Alternativa economica: ramen da **Menya Inoichi**.",
         "🚶 **Rientro in hotel:** a piedi (~20 min), o taxi."
       ]
     },
@@ -2318,10 +2313,10 @@ window.TRIP = {
         "**11:20 – 12:15** 🌟✅ **Akasaka a tema Harry Potter:** scalinata coi ritratti di maghi, Giratempo, piazza di **Akasaka Sacas** e negozio **Harry Potter Mahou Dokoro**. Ingresso libero. ⚠️ Legato allo spettacolo in scena fino al 27 dicembre 2026: riconfermate a novembre, e verificate che il negozio sia già aperto a quell'ora.",
         "**12:15 – 12:45** Trasferimento a Ginza: Ginza Line da Akasaka-mitsuke a Ginza (~10 min).",
         "**12:45 – 14:00** *Pranzo:* **ramen** al brodo di pollo (*tori paitan*) da **Ginza Kagari Honten**, oppure **Mugi to Olive**. La domenica a pranzo si fa la fila. Il Tsukiji Outer Market è passato alla mattina dell'8/12: **la domenica molti banchi sono chiusi**.",
-        "**14:00 – 16:00** 🌟✅ **Ginza** con le boutique addobbate e le luminarie. La domenica pomeriggio Chuo-dori è chiusa alle auto (*hokoten*). In fondo verso Shimbashi, **Don Quijote Ginza** (Ginza Nine, 8-chome): souvenir, snack, cosmetici, tax-free col passaporto. Aperto fino a notte.",
-        "**16:00 – 17:30** *Cena:* 📸 **tonkatsu** da **Nihonbashi Tonkatsu Hajime HANARE**, a Nihonbashi-Muromachi: Ginza Line da Ginza a Mitsukoshimae (~5 min), poi ~3 min a piedi. Niente prenotazioni: alle 16:00 di domenica la fila è più corta.",
-        "**17:30 – 18:00** Trasferimento a Komagome: a piedi fino a Kanda (~8 min), JR Yamanote Line fino a Komagome (~15 min), poi ~7 min a piedi all'ingresso principale.",
-        "**18:00 – 19:30** 🌟🎫 **Illuminazione notturna del Rikugien:** giardino Edo del 1695, aceri riflessi nello stagno e proiezioni sul magazzino storico. Percorso a senso unico, circa un'ora.",
+        "**14:00 – 16:15** 🌟✅ **Ginza** con le boutique addobbate e le luminarie. La domenica pomeriggio Chuo-dori è chiusa alle auto (*hokoten*). In fondo verso Shimbashi, **Don Quijote Ginza** (Ginza Nine, 8-chome): souvenir, snack, cosmetici, tax-free col passaporto. Aperto fino a notte.",
+        "**16:30 – 17:20** *Cena:* 📸 **tonkatsu** da **Nihonbashi Tonkatsu Hajime HANARE**, a Nihonbashi-Muromachi: Ginza Line da Ginza a Mitsukoshimae (~5 min), poi ~3 min a piedi. Niente prenotazioni: presto, di domenica, la fila è più corta. Sono quasi quattro ore dopo il ramen: a pranzo restate leggeri.",
+        "**17:20 – 18:00** Trasferimento a Komagome: a piedi fino a Kanda (~8 min), JR Yamanote Line fino a Komagome (~15 min), poi ~7 min a piedi all'ingresso principale.",
+        "**18:00 – 19:30** 🌟🎫 **Illuminazione notturna del Rikugien:** giardino Edo del 1695, aceri riflessi nello stagno e proiezioni sul magazzino storico. Percorso a senso unico, circa un'ora. Ultimo ingresso alle 19:30: qualche minuto di ritardo non è un problema.",
         "🚆 **Rientro in hotel:** JR Yamanote Line da Komagome a Hamamatsucho (~25 min), poi a piedi."
       ]
     },
@@ -2349,7 +2344,7 @@ window.TRIP = {
       "titolo": "Tsukiji, Akihabara, Tokyo Ovest e Roppongi di notte",
       "hotel": "Shiba Park Hotel",
       "note": [
-        "🔁 Aoyama e Omotesando sono passati al 22/11, Akasaka a tema Harry Potter al 06/12. Akihabara, Nakano, Koenji e Kichijoji stanno tutti sulla linea JR Chuo."
+        "🔁 Aoyama e Omotesando sono passati al 22/11, Akasaka a tema Harry Potter al 06/12. Akihabara, Nakano e Kichijoji stanno tutti sulla linea JR Chuo. Koenji è stato tolto per dare più tempo a Kichijoji."
       ],
       "items": [
         "🚇 **Andata dall'hotel (uscite alle 07:45):** Toei Oedo Line da Daimon a Tsukijishijo (~15 min porta a porta).",
@@ -2358,9 +2353,8 @@ window.TRIP = {
         "**10:00 – 11:00** 🌟✅ **Akihabara:** elettronica, retrogaming e cultura pop. I negozi aprono tra le 10:00 e le 11:00.",
         "**11:00 – 11:30** 🚆 *Trasferimento:* JR Chuo-Sobu Line da Akihabara a Ochanomizu, cambio Chuo Rapid fino a **Nakano** (~25 min).",
         "**11:30 – 12:30** *Pranzo:* **ramen** da **Menya Hashimoto**, ~9 min a piedi dall'uscita nord di Nakano. Solo contanti. In alternativa, prima di lasciare Akihabara: 📸 chicken nanban da **Himuka Shokudo** (apre alle 11:00).",
-        "**12:30 – 13:30** 🌟✅ **Nakano Broadway:** galleria anni Sessanta di manga, figure, giocattoli e orologi vintage (Mandarake). Quasi tutti i negozi aprono verso mezzogiorno.",
-        "**13:45 – 14:45** ✅ **Koenji**, una fermata più in là: vintage, izakaya minuscoli e la galleria Junjo Shotengai.",
-        "**15:00 – 16:45** 🌟✅ **Kichijoji:** **Inokashira Park**, aceri sullo stagno nella luce del tramonto, e i vicoli di **Harmonica Yokocho**. Uno spiedino o una birra come spuntino: la cena è tardi.",
+        "**12:30 – 13:45** 🌟✅ **Nakano Broadway:** galleria anni Sessanta di manga, figure, giocattoli e orologi vintage (Mandarake). Quasi tutti i negozi aprono verso mezzogiorno.",
+        "**14:00 – 16:45** 🌟✅ **Kichijoji**, Chuo Rapid da Nakano (~10 min): **Inokashira Park**, aceri sullo stagno nella luce del tramonto, e i vicoli di **Harmonica Yokocho**. Uno spiedino o una birra come spuntino: la cena è tardi.",
         "**16:45 – 17:45** 🚆 *Trasferimento a Roppongi:* Chuo Rapid fino a Shinjuku (~15 min), Toei Oedo Line fino a Roppongi (~10 min). Piano B: taxi.",
         "**17:45 – 19:30** 🌟✅ **Roppongi Hills:** osservatorio **Tokyo City View** con Tokyo già illuminata, mercatini natalizi e le luci di **Keyakizaka Street**.",
         "**19:30 – 19:50** 🚶 A piedi fino ad Azabu-Juban (~15 min). Arrivate puntuali: sono 7 posti al banco.",

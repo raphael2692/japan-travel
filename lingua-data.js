@@ -325,7 +325,7 @@ window.LINGUA = {
     // ------------------------------------------------------------------ PRENOTATO
     {
       id: "prenotato", emoji: "🍣", titolo: "Ristorante prenotato e omakase",
-      desc: "Tan, Mishima-tei, Unagiya Hirokawa, Sushiya Shota.",
+      desc: "Tendan, Mishima-tei, Unagiya Hirokawa, Sushiya Shota.",
       intro: "Nei locali prenotati il copione è più formale: verifica della prenotazione, domanda sulle allergie, lo chef che presenta ogni piatto. Arrivate puntuali: negli omakase tutti iniziano insieme.",
       sezioni: [
         { tipo: "sentirai", frasi: [

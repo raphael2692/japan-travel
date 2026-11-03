@@ -94,11 +94,11 @@ window.TRIP = {
       "dove": "[JR-WEST Online](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en)"
     },
     {
-      "cosa": "**Tan (cena 26/11)** — sostituisce THE KAISEKI, che chiude il 30 set 2026",
+      "cosa": "**Yakiniku Tendan Gion Honten (cena 26/11, ore 18:00)**",
       "apre": "già aperta",
       "oraIt": "",
       "entro": "**subito**",
-      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26027731/) (prenotazione online)"
+      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26001422/) (prenotazione online) · tel. 075-551-4129"
     },
     {
       "cosa": "**Mishima-tei (pranzo 30/11)**",
@@ -456,11 +456,11 @@ window.TRIP = {
       "titolo": "Ristoranti ed esperienze gastronomiche",
       "items": [
         {
-          "titolo": "Tan, Kyoto, cena del 26/11",
+          "titolo": "Yakiniku Tendan Gion Honten, Kyoto, cena del 26/11 alle 18:00",
           "tags": "🌟🎫",
           "done": false,
           "note": [
-            "online su [Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26027731/) e [Bib Gourmand Michelin](https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/tan) (3.65, ~6-8.000 ¥). Cucina giapponese di stagione a Higashiyama, 5 minuti dalla stazione Higashiyama, ~10 minuti a piedi da Gion. Cena dalle **18:00**, chiuso il lunedì. ⚠️ Sostituisce **THE KAISEKI**, che secondo Tabelog chiude dopo il 30 settembre 2026. Alternativa: **Gion Uokeya U**, unagi a Gion, [Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26001387/) (3.61, ~4-5.000 ¥, 17:00-20:00)."
+            "online su [Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26001422/) (3.44, ~6-8.000 ¥), tel. 075-551-4129. Lo yakiniku nato a Kyoto (dal 1965): wagyu nero alla griglia al tavolo, intinto nella famosa salsa-brodo di ossa di manzo della casa, poi lingua al sale e chige udon o ramen per chiudere. **Set da 7.500-8.000 ¥ a testa**, dentro il tetto; turni di 2 ore. A 2 minuti da Gion-Shijo, all'imbocco di Miyagawacho, ~12 minuti a piedi dal KABIN. Feriali dalle 17:00; aperto tutto l'anno (una fonte indica chiusura la vigilia dei festivi: il 26/11 non lo è). Sostituisce **Tan** (cucina di stagione, più raffinata che abbondante), che a sua volta sostituiva THE KAISEKI, chiuso dal 30/9. Alternativa: **Miyagawa Tonemon**, tonkatsu nella lista Tabelog 100 2026, ~3-4.000 ¥, a 5 minuti da Kiyomizu-Gojo, [TableCheck](https://www.tablecheck.com/miyagawatonemon)."
           ]
         },
         {
@@ -798,10 +798,10 @@ window.TRIP = {
       {
         "pasto": "Cena",
         "ingresso": "18:00",
-        "locale": "**Tan**, Higashiyama 🎫🌟 (cucina giapponese di stagione, vicino al canale Shirakawa) — alt. **Gion Uokeya U** (unagi, a Gion, 3.61, ~4-5.000 ¥)",
+        "locale": "**Yakiniku** da **Tendan Gion Honten** 🎫🌟: wagyu alla griglia nella salsa-brodo della casa, dal 1965 — alt. **tonkatsu** da **Miyagawa Tonemon** (Tabelog 100 2026, ~3-4.000 ¥)",
         "prenotazione": "🎫 Fissa",
-        "tabelog": "[Tan](https://tabelog.com/en/kyoto/A2601/A260301/26027731/) · [Uokeya U](https://tabelog.com/en/kyoto/A2601/A260301/26001387/)",
-        "note": "Tabelog 3.65, Bib Gourmand Michelin, ~6-8.000 ¥, cena dalle 18:00, prenotazione online. Sostituisce THE KAISEKI, chiuso dal 30/9"
+        "tabelog": "[Tendan](https://tabelog.com/en/kyoto/A2601/A260301/26001422/) · [Tonemon](https://www.tablecheck.com/miyagawatonemon)",
+        "note": "Tabelog 3.44, set da 7.500-8.000 ¥, turni di 2 ore. Prenotazione online, tel. 075-551-4129. A 2 minuti da Gion-Shijo. Sostituisce Tan (e prima THE KAISEKI, chiuso dal 30/9)"
       }
     ],
     "2026-11-27": [
@@ -1414,9 +1414,9 @@ window.TRIP = {
         "16:00"
       ],
       [
-        "Tan Kyoto Higashiyama",
-        35.0089,
-        135.7768,
+        "Yakiniku Tendan Gion Honten",
+        35.0036,
+        135.7719,
         "18:00"
       ]
     ],
@@ -2109,7 +2109,7 @@ window.TRIP = {
         "**13:15 – 14:15** 🔄✅ **Chion-in**, col portale Sanmon, uno dei più grandi del Giappone, accanto al Maruyama Park. Verificate l'orario (chiude presto, verso le 16:00).",
         "**14:30 – 15:45** 🌟✅ **Yasaka Shrine** e **Maruyama Park**. Ingresso libero. Pausa in hotel per il check-in, se siete stanchi dalla sveglia presto.",
         "**16:00 – 17:45** 🌟✅ **Gion** e **Hanamikoji Street** al tramonto. ⚠️ Nelle stradine private di Gion **è vietato fotografare**, con multe.",
-        "**18:00 – 20:15** 🌟🎫 *Cena:* cucina giapponese di stagione da **Tan**, a Higashiyama (~10 min a piedi da Gion).",
+        "**18:00 – 20:00** 🌟🎫 *Cena:* **yakiniku** di wagyu da **Tendan Gion Honten**, lo yakiniku storico di Kyoto, a due passi da Hanamikoji (~5 min a piedi).",
         "🚶 **Rientro in hotel:** a piedi (~13-15 min)."
       ]
     },

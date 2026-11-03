@@ -80,18 +80,11 @@ window.TRIP = {
   ],
   "scadenzeTabella": [
     {
-      "cosa": "**Ninja-dera Myoryu-ji (25/11)**",
+      "cosa": "Ninja-dera Myoryu-ji (25/11)",
       "apre": "già aperta",
-      "oraIt": "**07:00-08:00**",
-      "entro": "**oggi, lun 2 nov**; se la finestra è passata, **domani mar 3 nov** (limite consigliato del 31 ott superato)",
-      "dove": "**solo telefono** +81 76-241-0888"
-    },
-    {
-      "cosa": "**Shinkansen Hokuriku (24/11)**",
-      "apre": "già aperta (24 ott)",
       "oraIt": "",
-      "entro": "**subito**, limite 10 nov",
-      "dove": "[JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index)"
+      "entro": "**24 nov, all'arrivo**: telefona per voi lo staff del Lian Kanazawa (scelta fatta il 3 nov)",
+      "dove": "solo telefono +81 76-241-0888, tramite l'hotel"
     },
     {
       "cosa": "**Kanazawa → Kyoto, Hokuriku + Thunderbird (26/11)**",
@@ -269,6 +262,13 @@ window.TRIP = {
       "dove": "[Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/)"
     },
     {
+      "cosa": "Shinkansen Hokuriku, Tokyo → Kanazawa (24/11)",
+      "apre": "--",
+      "oraIt": "",
+      "entro": "✅ **prenotato** il 3 nov: Kagayaki 503, 07:20 → 09:44, 2 adulti, **carrozza 2, posti 11D-11E**, biglietto di carta (codici in PRIVATO.md). Ritiro la sera del 19/11 a Iidabashi",
+      "dove": "[JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index)"
+    },
+    {
       "cosa": "Treni Kyoto < → Nara (01/12)",
       "apre": "--",
       "oraIt": "",
@@ -358,13 +358,13 @@ window.TRIP = {
         {
           "titolo": "Shinkansen Hokuriku, Tokyo → Kanazawa, 24/11",
           "tags": "🎫🌤️",
-          "done": false,
+          "done": true,
           "note": [
-            "**Dove:** [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index), ritiro in stazione. Se Kanazawa non compare, usate [JR-WEST Online](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en).",
-            "**Quando:** aperta dal 24 ottobre: **prenotate subito**. Limite: 10 novembre.",
-            "**1.** Tokyo → Kanazawa, **Kagayaki 503, Tokyo 07:20 → Kanazawa 09:44** (corsa giornaliera, verificata sull'orario JR East di novembre 2026), 2 adulti, ordinario. Se è pieno: Kagayaki 523 delle 07:28 (arrivo 10:09, non circola tutti i giorni).",
-            "**2.** Posti **sul lato sinistro nel senso di marcia** per le Alpi: guardate la direzione nella mappa posti, non la lettera.",
-            "**3.** Ritiro la sera del 19/11, insieme ai biglietti del Fuji Excursion se scegliete l'opzione (A)."
+            "✅ **Prenotato il 3 novembre**",
+            "[JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index), **Kagayaki 503, Tokyo 07:20 → Kanazawa 09:44**, 2 adulti, posto riservato ordinario, **28.800 ¥ in due** (tariffa base e supplemento inclusi: la Suica non serve). Numero di prenotazione e codice di ritiro in PRIVATO.md.",
+            "**Posti:** **carrozza 2, 11D-11E** (11E finestrino), lato sinistro nel senso di marcia, verso le Alpi. A metà carrozza, lontani da porte e bagni.",
+            "**Biglietto di carta:** ritiro **la sera del 19/11** alla biglietteria automatica per posti riservati (指定席券売機) di Iidabashi: \"Receive Internet Reservation\" → JR-EAST Train Reservation → QR dell'email o codice di ritiro. Portate la carta usata per pagare. Insieme ai biglietti del Fuji Excursion, se scegliete l'opzione (A).",
+            "**Il giorno:** a Tokyo entrate dal varco di cambio per lo Shinkansen (新幹線乗換口) inserendo il biglietto; lo Hokuriku Shinkansen parte dai binari 20-23."
           ]
         },
         {
@@ -403,9 +403,9 @@ window.TRIP = {
           "tags": "🌟🎫",
           "done": false,
           "note": [
-            "**Dove:** **solo per telefono**, **+81 76-241-0888**. Chiamate tra le 07:00 e le 08:00 italiane (15:00-16:00 in Giappone) **il primo giorno utile: oggi 2 novembre, altrimenti martedì 3**: il limite consigliato del 31 ottobre è passato.",
+            "**Come:** **solo per telefono**, **+81 76-241-0888**. ✅ **Deciso il 3 novembre:** prenota per voi lo staff del **Lian Kanazawa** (ha confermato che telefona al tempio), il **24/11 appena arrivati**, verso le 10:00. Chiedete il turno delle **13:30** del 25/11, per due.",
             "**Cosa dire:** *\"Jūichi-gatsu nijūgo-nichi, suiyōbi, gogo ichi-ji han, futari de yoyaku shitai desu\"* = \"Vorrei prenotare per due persone, mercoledì 25 novembre, alle 13:30\". Lasciate nome e telefono. 1.200 ¥ a testa, sul posto.",
-            "**Piano B:** il **Lian Kanazawa** ha confermato che telefona al tempio per voi: ricordatelo allo staff all'arrivo, il 24/11. Ma è il giorno prima, coi posti a rischio: provate comunque la chiamata diretta. Il tempio può voler parlare con voi al telefono per confermare.",
+            "⚠️ Il giorno prima i posti sono a rischio: se le 13:30 sono piene, accettate un altro turno del 25/11 e riorganizzate il pomeriggio (Teramachi e Nishi Chaya sono accanto al tempio). Il tempio può voler parlare con voi al telefono per confermare.",
             "**Visita solo in giapponese**, con al massimo una breve introduzione in inglese (e un foglio in inglese)."
           ]
         },
@@ -1290,22 +1290,28 @@ window.TRIP = {
         "11:00"
       ],
       [
-        "Kanazawa Castle Park",
-        36.5651,
-        136.6595,
+        "Kenrokuen",
+        36.5621,
+        136.6627,
         "13:00"
       ],
       [
         "Seisonkaku",
         36.56,
         136.664,
-        "14:00"
+        "14:45"
       ],
       [
-        "Kenrokuen",
-        36.5621,
-        136.6627,
-        "15:00"
+        "Kanazawa Castle Park",
+        36.5651,
+        136.6595,
+        "15:30"
+      ],
+      [
+        "Oyama Shrine",
+        36.566,
+        136.6543,
+        "16:50"
       ],
       [
         "Higashi Chaya District",
@@ -1326,12 +1332,6 @@ window.TRIP = {
         36.5627,
         136.6497,
         "09:00"
-      ],
-      [
-        "Oyama Shrine",
-        36.566,
-        136.6543,
-        "10:45"
       ],
       [
         "Turban Curry Honten",
@@ -2064,12 +2064,13 @@ window.TRIP = {
       "emoji": "🌤️",
       "items": [
         "🚇 **Andata alla stazione (check-out al banco alle 06:05, uscite alle 06:30):** JR Chuo-Sobu Line da Iidabashi a **Ochanomizu**, cambio sulla stessa banchina sulla Chuo Rapid fino a Tokyo Station (~15 min). A Tokyo verso le 06:50: restano 30 minuti per arrivare ai binari dello Shinkansen (~10 min a piedi dalla Chuo Rapid) e comprare la colazione. Martedì: alle 06:30 il picco non è ancora iniziato, ma la Chuo Rapid è una delle linee più affollate; col trolley state vicino alle porte. Piano B, comodo col bagaglio: taxi (~15 min).",
-        "**07:20 – 09:44** 🎫🌤️ Hokuriku Shinkansen Tokyo → Kanazawa, **Kagayaki 503**. Posti sul **lato sinistro** per le Alpi.",
-        "**09:45 – 10:45** Ritiro dei biglietti per Kyoto (macchinette verdi \"5489\", con la Revolut fisica) e deposito bagagli al **Lian Kanazawa**, a due passi dal mercato: lo staff vi aspetta **dalle 10:00** (confermato). Se il Ninja-dera non è ancora prenotato, ricordatelo subito allo staff: chiamano il tempio per voi.",
+        "**07:20 – 09:44** 🎫🌤️ Hokuriku Shinkansen Tokyo → Kanazawa, **Kagayaki 503**, ✅ prenotato, **carrozza 2, posti 11D-11E** (E finestrino), lato sinistro, per le Alpi. Dal varco di cambio per lo Shinkansen, binari 20-23.",
+        "**09:45 – 10:45** Ritiro dei biglietti per Kyoto (macchinette verdi \"5489\", con la Revolut fisica) e deposito bagagli al **Lian Kanazawa**, a due passi dal mercato: lo staff vi aspetta **dalle 10:00** (confermato). Chiedete subito allo staff di prenotare il **Ninja-dera** per il 25/11 alle 13:30: chiamano il tempio per voi.",
         "**11:00 – 12:45** 🌟 *Pranzo:* **sushi** a **Omicho Market** da **Yama San Sushi**, col **nodoguro**. Visa e Mastercard non accettate: contanti.",
-        "**13:00 – 14:00** ✅ **Castello di Kanazawa** e il parco.",
-        "**14:00 – 15:00** 🌟✅ **Seisonkaku Villa:** residenza Edo del 1863 per la madre del signore Maeda, interni tra i meglio conservati del Giappone. ⚠️ Ultimo ingresso 16:30, chiusa il mercoledì. Vietato fotografare all'interno.",
-        "**15:00 – 16:45** 🌟✅ **Kenrokuen Garden**, uno dei tre giardini più belli del Giappone, con gli *yukitsuri* sui pini. Con calma: lanterna **Kotoji** sullo stagno Kasumigaike, collinetta **Sazae-yama**, stagno **Hisagoike**, isola **Sekirei-jima**. 🍵 Pausa matcha con dolcetto alla casa da tè **Shigure-tei** (~800-1.000 ¥, ultimo ingresso 16:00). Il giardino chiude alle 17:00.",
+        "**13:00 – 14:45** 🌟✅ **Kenrokuen Garden**, uno dei tre giardini più belli del Giappone, con gli *yukitsuri* sui pini, nella luce migliore del pomeriggio. Con calma: lanterna **Kotoji** sullo stagno Kasumigaike, collinetta **Sazae-yama**, stagno **Hisagoike**, isola **Sekirei-jima**. 🍵 Pausa matcha con dolcetto alla casa da tè **Shigure-tei** (~800-1.000 ¥, ultimo ingresso 16:00). Biglietto in loco.",
+        "**14:45 – 15:30** 🌟✅ **Seisonkaku Villa**, all'angolo sud-est del Kenrokuen: residenza Edo del 1863 per la madre del signore Maeda, interni tra i meglio conservati del Giappone. Ultimo ingresso 16:30, chiusa il mercoledì. Vietato fotografare all'interno.",
+        "**15:30 – 16:45** 🌟✅ **Castello di Kanazawa** e il parco, dal Kenrokuen attraverso il ponte e la porta **Ishikawa** (~10 min a piedi). Prima l'interno del **Gojukken Nagaya** e delle torrette Hishi-yagura (biglietto in loco, ultimo ingresso 16:30), poi il giardino **Gyokusen-inmaru** nella luce del tardo pomeriggio. ⚠️ Il parco chiude alle 17:00 (confermato). Tramonto verso le 16:45.",
+        "**16:50 – 17:15** ✅ **Oyama Shrine** al crepuscolo: uscite dal parco dalla porta **Nezumitamon** (~5 min). Il portale a vetrate colorate si illumina col buio. Ingresso libero, sempre aperto. Da qui ~10 min a piedi verso Korinbo e Katamachi per la cena.",
         "**17:30 – 19:30** 🥢 *Cena:* cucina *Kaga Ryori*.",
         "**19:45 – 21:00** ✅ **Higashi Chaya** e **Kazuemachi**, i quartieri delle geisha con le lanterne accese, e il ponte **Naka-bashi** sul fiume Asano. Di giorno ci tornate il 25.",
         "🚶 **Rientro in hotel:** a piedi da Kazuemachi lungo il fiume Asano (~12-15 min).",
@@ -2083,9 +2084,8 @@ window.TRIP = {
       "hotel": "Lian Kanazawa",
       "items": [
         "🚶 **Andata dall'hotel:** a piedi fino a Nagamachi (~15 min), oppure bus Kanazawa Loop.",
-        "**09:00 – 10:45** 🌟✅ **Nagamachi:** il quartiere dei samurai, coi muri di terra battuta e i canali, e la **Nomura Family Samurai House**. Biglietto in loco.",
-        "**10:45 – 11:15** 🔄✅ **Oyama Shrine:** santuario col portale a vetrate colorate. Ingresso libero.",
-        "**11:30 – 12:30** *Pranzo:* **Kanazawa curry** da **Turban Curry Honten**, a Korinbo (~10 min a piedi dall'Oyama Shrine). Solo contanti. Alt. 📸 **Kanazawa Curry Lab** a Omicho.",
+        "**09:00 – 11:15** 🌟✅ **Nagamachi**, con calma: il quartiere dei samurai, coi muri di terra battuta e i canali, e la **Nomura Family Samurai House**. Biglietto in loco. L'Oyama Shrine è passato alla sera del 24/11, illuminato.",
+        "**11:30 – 12:30** *Pranzo:* **Kanazawa curry** da **Turban Curry Honten**, a Korinbo (~10 min a piedi da Nagamachi). Solo contanti. Alt. 📸 **Kanazawa Curry Lab** a Omicho.",
         "**13:30 – 14:45** 🌟🎫 **Myoryu-ji, Ninja-dera:** tempio-fortezza con porte nascoste, scale segrete e trabocchetti. Visita guidata a orario fisso, **solo su prenotazione**.",
         "**14:45 – 15:15** ✅ **Teramachi** e **Nishi Chaya**, il quartiere dei templi e il più piccolo distretto delle geisha. Il **Nishi Chaya Shiryokan**, ex casa da tè, è gratuito.",
         "**15:30 – 16:20** 🌟✅ **21st Century Museum of Contemporary Art**, di fronte al Kenrokuen (~15-20 min a piedi o bus da Nishi Chaya): la \"Swimming Pool\" di Leandro Erlich e l'ala esterna gratuita. Zona mostre 10:00-18:00, chiuso il lunedì. Biglietto in loco.",

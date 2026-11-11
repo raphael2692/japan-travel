@@ -19,7 +19,7 @@ subtitle: 18 Novembre - 9 Dicembre
 
 ## Scadenze in tabella
 
-> 📅 **Aggiornata al 3 novembre.** Già prenotati Sushiya Shota, i treni Kyoto <-> Nara e lo Shinkansen Tokyo -> Kanazawa. In ordine di urgenza: prima le cose di questa settimana, poi quelle entro il 15 e il 20 novembre.
+> 📅 **Aggiornata all'11 novembre.** Già prenotati Sushiya Shota, i treni Kyoto <-> Nara, lo Shinkansen Tokyo -> Kanazawa e i treni per il Monte Fuji. In ordine di urgenza: prima le cose di questa settimana, poi quelle entro il 15 e il 20 novembre.
 
 | Cosa | Apre | Ora italiana | Fare entro | Dove |
 |---|---|---|---|---|
@@ -30,9 +30,8 @@ subtitle: 18 Novembre - 9 Dicembre
 | **Shigetsu (pranzo 27/11, ore 11:30)** | già aperta | -- | **subito**, al più tardi 3 giorni prima | [Tabelog](https://tabelog.com/en/kyoto/A2601/A260403/26000923/) · omakaseje.com · tel. +81 75-882-9725 |
 | **Shinkansen Tokaido (05/12)** | già aperta (prenotazione anticipata) | -- | **entro mer 4 nov**: posti assegnati il 5 nov alle 00:00 | [smartEX](https://smart-ex.jp/en/) |
 | **eSIM o Pocket Wi-Fi (ritiro il 19/11 a Haneda)** | già aperta | -- | **10 nov**: il Pocket Wi-Fi da ritirare in aeroporto va ordinato qualche giorno prima; l'eSIM si installa in Italia | sito del fornitore scelto |
-| Monte Fuji (20/11) -- **solo se scegliete il treno prenotato (A)** | già aperta (20 ott) | -- | decisione rinviata al **5 nov** (previsioni meteo). Limite consigliato del 1° nov superato: posti a rischio | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) |
 | **Shibuya Sky (22/11, ore 10:40)** | già aperta (8 nov) | -- | **subito**: il 22/11 restano solo slot del mattino (10:20-12:40). Prendete le 10:40 | [sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/) · Klook |
-| Maguro Mart (cena 20/11, facoltativa) | già aperta (30 giorni prima, 12:00 JST) | -- | appena decidete, si esaurisce | [Tabelog](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) · tel. 050-5597-6557 |
+| Maguro Mart (cena 20/11, facoltativa) | già aperta (30 giorni prima, 12:00 JST) | -- | appena decidete, si esaurisce. **Turno delle 20:15 o più tardi**: il Kaiji arriva a Shinjuku alle 19:48 | [Tabelog](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) · tel. 050-5597-6557 |
 | Choshoku Kishin (colazione 28/11, facoltativa) | già aperta | -- | 15 nov | [Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26028888/) · TableCheck · tel. +81 75-525-8500 |
 | Monja Kondo Honten (cena 05/12, ore 18:00) | probabilmente già aperta | -- | 15 nov | [Tabelog](https://tabelog.com/en/tokyo/A1313/A131302/13012771/) · tel. 03-3533-4555 |
 | Komagata Maekawa (pranzo 21/11), Ponta Honke (cena 21/11), Tempura Funabashiya (cena 23/11) | già aperta (online) | -- | 15 nov | [Maekawa](https://tabelog.com/en/tokyo/A1311/A131102/13003666/) · [Ponta Honke](https://tabelog.com/en/tokyo/A1311/A131101/13003587/) · [Funabashiya](https://tabelog.com/en/tokyo/A1304/A130401/13012090/) |
@@ -52,6 +51,7 @@ subtitle: 18 Novembre - 9 Dicembre
 | Kaiyukan (05/12, ingresso 10:00) | ~5 nov (30 giorni prima) | -- | 20 nov: fascia oraria, il giorno stesso pochi biglietti | [kaiyukan.com](https://www.kaiyukan.com/) |
 | Sushiya Shota (cena 08/12, ore 20:00) | -- | -- | ✅ **prenotato** (codice in PRIVATO.md). Cancellazione gratuita fino al 6 dic alle 21:59 italiane | [Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/) |
 | Shinkansen Hokuriku, Tokyo -> Kanazawa (24/11) | -- | -- | ✅ **prenotato** il 3 nov: Kagayaki 503, 07:20 -> 09:44, 2 adulti, **carrozza 2, posti 11D-11E**, biglietto di carta (codici in PRIVATO.md). Ritiro la sera del 19/11 a Iidabashi | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) |
+| Treni per il Monte Fuji (20/11) | -- | -- | ✅ **prenotati** l'11 nov: andata **Azusa 3**, Shinjuku 07:30 -> Otsuki 08:30, carrozza 11, posti 8B e 9B; ritorno **Kaiji 48**, Otsuki 18:43 -> Shinjuku 19:48, carrozza 5, posti 8C-8D. Biglietti di carta con tariffa base (codici in PRIVATO.md), ritiro la sera del 19/11 a Iidabashi. Cancellazione gratuita fino alle 21:00 JST del 19/11 (13:00 italiane). Fuji Excursion esaurito | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) |
 | Treni Kyoto <-> Nara (01/12) | -- | -- | ✅ **prenotati**: andata Vistacar 07:50, carrozza 2, 5C-5D; ritorno Aoniyoshi 15:55, carrozza 1, Twin 2C-2D | [Kintetsu e-ticket](https://www.kintetsu.co.jp/gyoumu/ticket/e-ticket/vs/en/) |
 
 > 🕐 **Ora italiana:** dal 25 ottobre il Giappone è avanti di 8 ore. Le aperture alle 00:00 JST sono alle 16:00 italiane del giorno prima, quelle alle 10:00 JST alle 02:00 italiane.
@@ -72,7 +72,7 @@ subtitle: 18 Novembre - 9 Dicembre
   - 💡 Verificate che pagamenti online/estero siano abilitati e che i limiti giornalieri bastino (uno Shinkansen per due ~29.000 ¥, 170-180 €).
 
 - [ ] **Creare gli account adesso, non la notte dell'apertura**, salvando la carta dove possibile:
-  - [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index): Fuji Excursion (20/11) e Shinkansen Hokuriku (24/11). ⚠️ Non usate **Eki-net**, riservato ai residenti.
+  - [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index): Azusa e Kaiji per il Fuji (20/11, prenotati) e Shinkansen Hokuriku (24/11, prenotato). ⚠️ Non usate **Eki-net**, riservato ai residenti.
   - [JR-WEST Online Train Reservation](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en): Kanazawa -> Kyoto (26/11). [Guida ufficiale](https://www.westjr.co.jp/global/en/howto/train-reservation/).
   - [smartEX](https://smart-ex.jp/en/): Shinkansen Tokaido (05/12).
   - [Kintetsu e-ticket](https://www.kintetsu.co.jp/gyoumu/ticket/e-ticket/vs/en/): Aoniyoshi (01/12).
@@ -89,26 +89,19 @@ subtitle: 18 Novembre - 9 Dicembre
   - **4.** Il giorno del viaggio: screenshot del QR e telefono carico.
   - 💡 Cancellazione: 320 ¥ di penale prima della partenza.
 
-- [ ] **Monte Fuji, 20/11: treno prenotato (A) o flessibile (B)** 🌤️
-  - 🔀 **Decisione rinviata al 5 novembre**, dopo aver visto le prime previsioni (a 15 giorni sono ancora indicative). Il limite consigliato del 1° novembre è passato: ogni giorno di attesa i posti della (A) diminuiscono, mentre la (B) resta sempre disponibile. La (A) garantisce posto, corsa diretta e finestrino lato Fuji, ma si paga adesso. La (B) non costa nulla in anticipo e si decide la sera prima guardando meteo e webcam; ci mette un po' di più e il posto a sedere non è garantito.
-  - 💡 Anche la (A) è meno rigida di quanto sembri: sui treni JR annullare costa di solito 340 ¥ a biglietto fino a due giorni prima, poi il 30% del supplemento. Verificate le condizioni prima di pagare.
-  - **(A) Fuji Excursion prenotato** 🎫, Shinjuku -> Shimoyoshida e Kawaguchiko -> Shinjuku.
-  - **Dove:** [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index), che vende l'intero percorso compresa la tratta Fujikyu. Scegliete il **ritiro del biglietto in stazione**.
-  - **Quando:** aperta dal 20 ottobre. Limite consigliato (1° novembre) superato: se il 5/11 scegliete la (A), prenotate subito e controllate che restino posti lato Fuji; se non ci sono, passate alla (B). In stagione si esaurisce.
-  - **1.** Andata: **Shinjuku -> Shimoyoshida**, corsa delle 07:20-07:30. Verificate che la corsa fermi a Shimoyoshida. Il tratto fino a Kawaguchiko si fa poi col locale Fujikyu e la Suica.
-  - **2.** Ritorno, stessa sessione: **Kawaguchiko -> Shinjuku**, corsa delle ~16:45 (le corse pomeridiane sono poche).
-  - **3.** Posti: andata **A+B** (A finestrino sinistro, lato Fuji), ritorno **C+D** (D finestrino destro).
-  - **4.** Ritiro **la sera del 19/11** alla biglietteria automatica per posti riservati (指定席券売機) di Iidabashi, o a Shinjuku la mattina del 20 con mezz'ora di margine: "Receive Internet Reservation" -> JR-EAST Train Reservation -> QR. Portate la carta usata per pagare. ⚠️ **Ritirate andata e ritorno insieme**: a Kawaguchiko non si può.
-  - **(B) Senza prenotazione** ✅, nulla da comprare prima.
-  - **Andata:** limited express **Kaiji** o **Azusa** da Shinjuku a **Otsuki** (~1 ora), una corsa tra le 07:00 e le 07:30 che fermi a Otsuki. Decidete la sera prima e comprate due **posti riservati vicini** alla biglietteria automatica per posti riservati (指定席券売機) di Iidabashi o su JR-EAST Train Reservation: stesso prezzo, e un venerdì mattina in uscita da Tokyo di solito si trovano. Ripiego: biglietto **"posto non assegnato"** (座席未指定券, *zaseki mishitei-ken*), con cui vi sedete dove la luce sopra il sedile è **rossa** (posto non venduto); gialla vuol dire che il posto è venduto da una fermata vicina, verde che è già venduto. Non garantisce due posti vicini. Poi treno locale **Fujikyu** da Otsuki a **Shimoyoshida** (~50 min), con la Suica. Arrivo verso le 09:15-09:45.
-  - **Ritorno:** Fujikyu locale da Kawaguchiko a Otsuki (~55 min), poi Kaiji fino a Shinjuku (~1 ora), sempre senza posto assegnato.
-  - **Costo:** simile al Fuji Excursion, pagato sul momento.
-  - ⚠️ Finestrino lato Fuji non garantito. Se il 20 piove e spostate al 21/11, sabato del ponte, i treni saranno pieni e potreste viaggiare in piedi.
+- [x] **Monte Fuji, 20/11: Azusa + Fujikyu, andata e ritorno** 🎫🌤️ -- ✅ **Prenotato l'11 novembre**
+  - Il Fuji Excursion era esaurito in entrambe le direzioni, e anche gran parte dei bus da Shinjuku. Soluzione: limited express JR fino a **Otsuki**, poi treno locale **Fujikyu** (senza prenotazione, con la Suica). Prenotati su [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index), **4.860 ¥ in due per tratta**, tariffa base JR compresa. Codici in PRIVATO.md.
+  - **Andata: Azusa 3, Shinjuku 07:30 -> Otsuki 08:30**, carrozza 11, **posti 8B e 9B** (uno dietro l'altro: se volete stare vicini, sul sito potete cancellare e riprenotare finché è gratis). È lo stesso treno agganciato al Fuji Excursion 3: a Otsuki voi scendete, le carrozze del Fuji Excursion proseguono.
+  - **Ritorno: Kaiji 48, Otsuki 18:43 -> Shinjuku 19:48**, carrozza 5, **posti 8C-8D**. Scelto al posto dell'Azusa 44 delle 17:45 per non correre via dal lago al tramonto.
+  - **Fujikyu, tratta non prenotabile:** a Otsuki si passa dai tornelli JR (biglietto di carta) a quelli Fujikyu (Suica), seguendo i cartelli "Fujikyu Line". Locale fino a Shimoyoshida ~50 min; al ritorno da Kawaguchiko a Otsuki ~55 min. Non si resta mai a terra: sui locali al massimo si sta in piedi. Gli orari esatti vanno controllati su Google Maps o sul sito Fujikyu qualche giorno prima.
+  - **Biglietti di carta:** ritiro **la sera del 19/11** alla biglietteria automatica per posti riservati (指定席券売機) di Iidabashi, insieme al Kagayaki del 24/11: "Receive Internet Reservation" -> JR-EAST Train Reservation -> QR o codice di ritiro. Portate la carta usata per pagare (quella che finisce in 1411). Non usate le macchinette arancioni di JR Central a Tokyo e Shinagawa.
+  - **Cancellazione:** gratuita fino alle **21:00 JST del 19/11** (13:00 italiane), poi con penale; rimborsi fino alla partenza del treno. Se le previsioni del 19 danno coperto, vedi Piano B meteo.
+  - ⚠️ Finestrino lato Fuji non garantito sui treni JR fino a Otsuki: la vista è dal Fujikyu e al lago.
 
 - [x] **Shinkansen Hokuriku, Tokyo -> Kanazawa, 24/11** 🎫🌤️ -- ✅ **Prenotato il 3 novembre**
   - [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index), **Kagayaki 503, Tokyo 07:20 -> Kanazawa 09:44**, 2 adulti, posto riservato ordinario, **28.800 ¥ in due** (tariffa base e supplemento inclusi: la Suica non serve). Numero di prenotazione e codice di ritiro in PRIVATO.md.
   - **Posti:** **carrozza 2, 11D-11E** (11E finestrino), lato sinistro nel senso di marcia, verso le Alpi. A metà carrozza, lontani da porte e bagni.
-  - **Biglietto di carta:** ritiro **la sera del 19/11** alla biglietteria automatica per posti riservati (指定席券売機) di Iidabashi: "Receive Internet Reservation" -> JR-EAST Train Reservation -> QR dell'email o codice di ritiro. Portate la carta usata per pagare. Insieme ai biglietti del Fuji Excursion, se scegliete l'opzione (A).
+  - **Biglietto di carta:** ritiro **la sera del 19/11** alla biglietteria automatica per posti riservati (指定席券売機) di Iidabashi: "Receive Internet Reservation" -> JR-EAST Train Reservation -> QR dell'email o codice di ritiro. Portate la carta usata per pagare. Insieme ai biglietti di Azusa 3 e Kaiji 48 del 20/11.
   - **Il giorno:** a Tokyo entrate dal varco di cambio per lo Shinkansen (新幹線乗換口) inserendo il biglietto; lo Hokuriku Shinkansen parte dai binari 20-23.
 
 - [ ] **Hokuriku Shinkansen + Thunderbird, Kanazawa -> Kyoto, 26/11, partenza 07:48** 🎫
@@ -180,7 +173,7 @@ subtitle: 18 Novembre - 9 Dicembre
 > Il Fuji in questo periodo è visibile circa il 40-50% dei giorni, più spesso al mattino presto.
 
 - Controllate le **webcam del Fuji** la sera del 19/11.
-- **Se il 20/11 è coperto:** scambiate con il 21/11 (Tokyo Est), e senza treni prenotati lo scambio non costa nulla. Oppure fate una giornata lenta a Kawaguchiko: onsen con vista lago e Museo Kubota Itchiku.
+- **Se il 20/11 è coperto:** scambiate con il 21/11 (Tokyo Est). Decidete **entro le 21:00 JST del 19/11** (13:00 italiane): fino ad allora Azusa 3 e Kaiji 48 si cancellano gratis. Per il 21, sabato del ponte, ricomprate i posti sul sito o alla macchinetta: saranno pochi. Oppure fate una giornata lenta a Kawaguchiko: onsen con vista lago e Museo Kubota Itchiku.
 - **Shinkansen del 24/11 e del 05/12:** nessuna azione, il Fuji è un bonus in corsa.
 
 ## Previsioni foliage 2026
@@ -317,7 +310,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 | 19/11 gio | Pranzo | 14:15 | **Katsu curry** da **Tonkatsu Aoki no Curry Ya Ippekoppe**, Iidabashi: il curry della catena di tonkatsu Aoki, con cotoletta di lonza o filetto | ✅ Walk-in | [Tabelog](https://tabelog.com/en/tokyo/A1309/A130905/13239562/) | Tabelog 3.58, ~1.000-2.000 ¥, a 4 minuti dall'uscita est di Iidabashi. Giovedì 11:00-15:00, ultima ordinazione 14:45. **Solo contanti**, niente prenotazioni. Eccezione orario: dritti in città senza mangiare a Haneda | **Matsuya Iidabashi Ekimae** (Iidabashi 4-9-10, 24 ore), ~5 min dalla stazione · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6993,139.7478,16z) |
 | 19/11 gio | Cena | 17:30 | **Kyorakutei**, soba macinato a pietra e tempura con un sakè (Tabelog 3.75, Bib Gourmand Michelin, si fa la fila prima delle 17:00), oppure un izakaya a Kagurazaka — 🔍 da scegliere tra **Toritama Kagurazaka** (3.59, yakitori), **Sake to Kotobuki** (3.58), **Shuan Kinsuke** (3.56, pesce) | 📞 Consigliata | [Kyorakutei](https://tabelog.com/en/tokyo/A1309/A130905/13000479/) · [Kinsuke](https://tabelog.com/en/tokyo/A1309/A130905/13063842/) · [Toritama](https://tabelog.com/en/tokyo/A1309/A130905/13059154/) · [Kotobuki](https://tabelog.com/en/tokyo/A1309/A130905/13178957/) | | **Matsuya Iidabashi Higashiguchi** (Shimomiyabicho 1-1), all'uscita est, ai piedi di Kagurazaka · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.702,139.7405,16z) |
 | 20/11 ven | Pranzo | 11:45 | **Houtou Fudo Higashi Koiji**, Kawaguchiko (houtou in tegame di ghisa, nell'edificio a forma di nuvola) | ✅ Walk-in | [Tabelog](https://tabelog.com/en/yamanashi/A1903/A190303/19004418/) | Tabelog 3.48, ~1.500 ¥. Solo contanti. ⚠️ Chiude quando finisce l'impasto: arrivate presto | Nessuna catena a piedi da Kawaguchiko: la più vicina è **MOS Burger Forest Mall Fujikawaguchiko**, ~3 km dalla stazione (7:00-23:00) · [MOS Burger sulla mappa](https://www.google.com/maps/search/%E3%83%A2%E3%82%B9%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC/@35.4985,138.769,16z) |
-| 20/11 ven | Cena | 19:15 | Facoltativa: **Maguro Mart**, Nakano (izakaya tutto tonno, 3.63, ~4-5.000 ¥), a 5 minuti di treno da Shinjuku. Altrimenti, appena scesi a Shinjuku: 📸 **Kakekomi Gyoza**, Kabukicho (gyoza e birra, aperto 24 ore, ~3.300-5.000 ¥) o 📸 **Pasta Mama** (pasta alla giapponese, orari da verificare) | 🎫 se Maguro Mart | [Maguro Mart](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) | Fuori finestra per i tempi di rientro. Consiglio di Camilla, si prenota con difficoltà | 🔍 Filiale non verificata (attorno alla stazione di Nakano ce ne sono diverse): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7066,139.6658,16z) |
+| 20/11 ven | Cena | 20:15 | Facoltativa: **Maguro Mart**, Nakano (izakaya tutto tonno, 3.63, ~4-5.000 ¥), a 5 minuti di treno da Shinjuku. Altrimenti, appena scesi a Shinjuku: 📸 **Kakekomi Gyoza**, Kabukicho (gyoza e birra, aperto 24 ore, ~3.300-5.000 ¥) o 📸 **Pasta Mama** (pasta alla giapponese, orari da verificare) | 🎫 se Maguro Mart | [Maguro Mart](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) | Fuori finestra per i tempi di rientro. Consiglio di Camilla, si prenota con difficoltà | 🔍 Filiale non verificata (attorno alla stazione di Nakano ce ne sono diverse): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7066,139.6658,16z) |
 | 21/11 sab | Pranzo | 11:30 | **Komagata Maekawa**, Asakusa (unagi, vista sul Sumida) — alt. più leggera: **Onigiri Asakusa Yadoroku** (3.49, Bib Gourmand Michelin, la più antica onigiri di Tokyo, dal 1954, ~1.000 ¥, solo contanti, niente prenotazioni) — alt. sushi: 📸 **Tsune Zushi** (sushi di quartiere, ~1.500 ¥, a 5 minuti dalla stazione di Asakusa; orari da verificare) | 📞 Consigliata | [Tabelog](https://tabelog.com/en/tokyo/A1311/A131102/13003666/) · [Yadoroku](https://tabelog.com/en/tokyo/A1311/A131102/13024859/) | Tabelog 3.46. Prenotazione online. Prendete l'unaju (~6-8.000 ¥), non il kaiseki da 12.000 ¥ | **Tenya Asakusa**, tra Kaminarimon e Tawaramachi, tel. 03-5828-5918 (sab 10:00-23:00; si è spostato nell'edificio accanto) · [Tenya sulla mappa](https://www.google.com/maps/search/%E5%A4%A9%E4%B8%BC%E3%81%A6%E3%82%93%E3%82%84/@35.7105,139.7945,16z) |
 | 21/11 sab | Cena | 17:45 | **Tonkatsu** da **Ponta Honke**, Ueno (dal 1905, cotoletta fritta a bassa temperatura) — alt. a Nezu: **Nezu Kamachiku** (3.66, udon e sakè in un magazzino in mattoni del 1910) | 📞 Consigliata | [Ponta Honke](https://tabelog.com/en/tokyo/A1311/A131101/13003587/) · [Kamachiku](https://tabelog.com/en/tokyo/A1311/A131106/13020252/) | Tabelog 3.77, Tabelog 100 tonkatsu e yoshoku, ~4-5.000 ¥. Ultima ordinazione 19:45. Prenotazione online, carte accettate | 🔍 Filiale non verificata (Ueno-Okachimachi ne è pieno): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7076,139.7727,16z) |
 | 22/11 dom | Pranzo | 11:45 | A Shibuya, appena scesi da Shibuya Sky: 📸 **Sushi Hicho** (pranzo omakase da 7.590 ¥, 11:30-15:00) o 📸 **Espresso D'Works yellow** (omurice con hamburger e formaggio, 2.288 ¥, Tabelog ~3.2), oppure 📸 **FOODIES SCRAMBLE** al 13° dello Scramble Square. Se preferite pranzare a Harajuku (~15 min a piedi): **Harajuku Gyoza Ro** (3.49, ~1.500 ¥) o **Pretty Pork Factory** (3.74, tonkatsu, ~3-4.000 ¥) | 📞 Consigliata se Sushi Hicho | [Gyoza Ro](https://tabelog.com/en/tokyo/A1306/A130601/13001284/) · [Pretty Pork](https://tabelog.com/en/tokyo/A1306/A130601/13295369/) · [Marion](https://tabelog.com/en/tokyo/A1306/A130601/13088711/) | Sushi Hicho è a 2 minuti dalla stazione di Shibuya: meglio prenotare per le 11:45 | 🔍 Filiale non verificata (Shibuya ne è pieno): [Fujisoba sulla mappa](https://www.google.com/maps/search/%E5%AF%8C%E5%A3%AB%E3%81%9D%E3%81%B0/@35.6585,139.7015,16z) |
@@ -416,22 +409,24 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 
 ## Venerdì 20 novembre -- Monte Fuji e Lago Kawaguchiko 🌤️
 
-> 🔄 **Alternativa relax:** se siete distrutti o le webcam mostrano cielo coperto, vedi Piano B meteo. Con i treni senza prenotazione (opzione B della check-list) spostare non costa nulla; col Fuji Excursion prenotato (A) verificate la policy di cancellazione.
+> 🔄 **Alternativa relax:** se siete distrutti o le webcam mostrano cielo coperto, vedi Piano B meteo. I treni Azusa e Kaiji si cancellano gratis fino alle 21:00 JST del 19/11.
 
-> ⚠️ La Chureito Pagoda è sopra la stazione di **Shimoyoshida**, prima di Kawaguchiko. Se la vostra corsa non ci ferma, scendete a **Fujisan** e tornate indietro di due fermate col locale Fujikyu (~5 min). Circa 400 scalini dalla base.
+> ⚠️ La Chureito Pagoda è sopra la stazione di **Shimoyoshida**, prima di Kawaguchiko. Circa 400 scalini dalla base.
 
-- 🚆 **Andata alla stazione (uscite alle 06:35):** JR Chuo-Sobu Line da Iidabashi a Shinjuku (~12 min), arrivo verso le 06:55, prima del picco del venerdì. Shinjuku è enorme: contate 10 minuti per trovare il binario (chiedete al personale). Con l'opzione (B) servono altri minuti per comprare i posti alla macchinetta. Piano B: taxi (~15-20 min).
-- **07:20 -- 09:10** 🚆 **Treno per Shimoyoshida.** (A) 🎫 **Fuji Excursion** diretto, **posto A, lato sinistro** per il Fuji. (B) ✅ Kaiji o Azusa fino a Otsuki e locale Fujikyu fino a Shimoyoshida, arrivo ~09:15-09:45.
-- **09:15 -- 10:45** 🌟🌤️✅ **Chureito Pagoda:** il Fuji incorniciato dalla pagoda. Ingresso libero, 400 gradini. Il mattino è il momento migliore per la vetta.
-- **10:50 -- 11:05** ✅ Fujikyu Railway, Shimoyoshida -> **Kawaguchiko Station**.
+- 🚆 **Andata alla stazione (uscite alle 06:50):** JR Chuo-Sobu Line da Iidabashi a Shinjuku (~12 min), arrivo verso le 07:05. Shinjuku è enorme: tenete 25 minuti per trovare il binario dell'Azusa (chiedete al personale). Piano B: taxi (~15-20 min). Biglietti di carta già ritirati la sera prima a Iidabashi.
+- **07:30 -- 08:30** 🎫 **Azusa 3**, Shinjuku -> **Otsuki**, ✅ prenotato, **carrozza 11, posti 8B e 9B**. È agganciato al Fuji Excursion 3: a Otsuki scendete voi, le carrozze del Fuji Excursion proseguono.
+- **08:30 -- 09:40** ✅ Cambio a Otsuki: dai tornelli JR a quelli **Fujikyu** seguendo i cartelli "Fujikyu Line", poi treno locale fino a **Shimoyoshida** (~50 min, con la Suica). Prendete il primo che parte: se è pieno, al massimo state in piedi.
+- **09:45 -- 11:00** 🌟🌤️✅ **Chureito Pagoda:** il Fuji incorniciato dalla pagoda. Ingresso libero, 400 gradini. Il mattino è il momento migliore per la vetta.
+- **11:05 -- 11:20** ✅ Fujikyu Railway, Shimoyoshida -> **Kawaguchiko Station**.
 - **11:45 -- 12:45** *Pranzo:* **Houtou Fudo**, noodles spessi in brodo di miso nei tegami di ghisa.
 - **13:00 -- 13:25** ✅ Bus di linea (Kawaguchiko Line, rossa, pagamento a bordo) fino a **Oishi Park**.
 - **13:25 -- 14:15** 🌟✅ **Oishi Park:** sponda nord del lago, vista aperta sul Fuji, caffè con vista lago. Ingresso libero.
-- **14:15 -- 15:30** 🌟✅ **Momiji Kairo, il corridoio degli aceri del Lago Kawaguchi**, a pochi minuti a piedi lungo il lago. Ingresso libero. Festival **7-29 novembre**: al 20/11 probabilmente più foglie a terra che sui rami.
-- **15:30 -- 16:00** 🔄🌤️✅ *Se resta tempo:* **Mt. Fuji Panoramic Ropeway**, pochi minuti di bus. Primo punto da saltare. Biglietto in loco.
-- **16:00 -- 16:25** A piedi lungo il lago fino a **Kawaguchiko Station** (15-20 min), o bus. ⚠️ Col Fuji Excursion (A) il treno delle 16:45 non aspetta: siate in stazione entro le 16:25.
-- **16:45 -- 18:45** 🚆 **Rientro a Shinjuku.** (A) 🎫 **Fuji Excursion**, **posto D, lato destro** per il Fuji. (B) ✅ Fujikyu fino a Otsuki e Kaiji fino a Shinjuku, arrivo verso le 19:00.
-- **19:15 -- 21:00** 🔄🎫 *Cena facoltativa:* **Maguro Mart**, Nakano, izakaya tutto tonno consigliato da Camilla. JR Chuo Rapid da Shinjuku a Nakano (~5 min) + ~8 min a piedi. Prenotazione obbligatoria. Se siete cotti, a Shinjuku: 📸 **Kakekomi Gyoza** (Kabukicho, aperto 24 ore) o 📸 **Pasta Mama**.
+- **14:15 -- 15:15** 🌟✅ **Momiji Kairo, il corridoio degli aceri del Lago Kawaguchi**, a pochi minuti a piedi lungo il lago. Ingresso libero. Festival **7-29 novembre**: al 20/11 probabilmente più foglie a terra che sui rami.
+- **15:30 -- 16:45** 🌟🌤️✅ **Mt. Fuji Panoramic Ropeway**, pochi minuti di bus: il **tramonto delle 16:30** sul Fuji e sul lago dall'alto. Biglietto in loco. ⚠️ Verificate l'ultima salita invernale, di solito verso le 16:00-16:30: se è prima, salite subito e godetevi il tramonto dal lungolago.
+- **16:45 -- 17:15** A piedi lungo il lago fino a **Kawaguchiko Station** (15-20 min), o bus. Dopo il tramonto fa molto freddo: uno strato in più per l'attesa.
+- **17:20 -- 18:20** ✅ Locale **Fujikyu** da Kawaguchiko a **Otsuki** (~55 min, con la Suica). Prendete una corsa che arrivi entro le 18:30: controllate gli orari su Google Maps la mattina stessa.
+- **18:43 -- 19:48** 🎫 **Kaiji 48**, Otsuki -> Shinjuku, ✅ prenotato, **carrozza 5, posti 8C-8D**.
+- **20:15 -- 22:00** 🔄🎫 *Cena facoltativa:* **Maguro Mart**, Nakano, izakaya tutto tonno consigliato da Camilla. JR Chuo Rapid da Shinjuku a Nakano (~5 min) + ~8 min a piedi. Prenotazione obbligatoria, **turno delle 20:15 o più tardi**. Se siete cotti, a Shinjuku: 📸 **Kakekomi Gyoza** (Kabukicho, aperto 24 ore) o 📸 **Pasta Mama**.
 - 🚆 **Rientro in hotel:** Tozai Line diretta da Nakano a Iidabashi (~13 min, la più rapida) o JR Chuo-Sobu Line (~20 min); porta a porta ~30-35 min. Piano B: taxi (~20-25 min, ~3.000-3.500 ¥). Senza Maguro Mart: JR Chuo-Sobu Line da Shinjuku a Iidabashi (~12 min).
 - 🏨 **Hotel Metropolitan Edmont**
 
@@ -801,13 +796,15 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 | 19/11 | 14:15 | Tonkatsu Aoki no Curry Ya Ippekoppe Iidabashi | 35.6993 | 139.7478 |
 | 19/11 | 15:15 | Koishikawa Korakuen | 35.7056 | 139.7497 |
 | 19/11 | 17:30 | Kagurazaka | 35.702 | 139.7405 |
-| 20/11 | 07:20 | Shinjuku Station | 35.6896 | 139.7006 |
-| 20/11 | 09:15 | Chureito Pagoda | 35.5012 | 138.8013 |
+| 20/11 | 07:30 | Shinjuku Station | 35.6896 | 139.7006 |
+| 20/11 | 08:30 | Otsuki Station | 35.6107 | 138.9406 |
+| 20/11 | 09:45 | Chureito Pagoda | 35.5012 | 138.8013 |
 | 20/11 | 11:45 | Houtou Fudo Higashi Koiji | 35.4985 | 138.769 |
 | 20/11 | 13:25 | Oishi Park | 35.5322 | 138.7604 |
 | 20/11 | 14:15 | Momiji Kairo Kawaguchiko | 35.5203 | 138.7486 |
 | 20/11 | 15:30 | Mt. Fuji Panoramic Ropeway | 35.5034 | 138.7676 |
-| 20/11 | 19:15 | Maguro Mart Nakano | 35.7105 | 139.6668 |
+| 20/11 | 18:43 | Otsuki Station | 35.6107 | 138.9406 |
+| 20/11 | 20:15 | Maguro Mart Nakano | 35.7105 | 139.6668 |
 | 21/11 | 08:30 | Senso-ji | 35.7148 | 139.7967 |
 | 21/11 | 10:15 | Kappabashi Kitchen Town | 35.7123 | 139.788 |
 | 21/11 | 11:30 | Komagata Maekawa | 35.7083 | 139.7952 |

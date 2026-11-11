@@ -330,6 +330,7 @@ function renderGiorno() {
         <div>${mdInline(p.locale)}</div>
         ${p.tabelog ? `<div class="meal-links">${mdInline(p.tabelog)}</div>` : ""}
         ${p.note ? `<div class="meal-note">${mdInline(p.note)}</div>` : ""}
+        ${p.catena ? `<div class="meal-note">🍚 <b>Catena vicina:</b> ${mdInline(p.catena)}</div>` : ""}
       </div>`).join("");
   }
 

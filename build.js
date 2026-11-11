@@ -192,7 +192,7 @@ function parsePasti(section) {
       if (!d) continue;
       const cell = s => (s && s !== "—" && s !== "-") ? clean(s.replace(/<br\s*\/?>/g, "\n")) : "";
       add(d, { pasto: r["Pasto"], ingresso: cell(r["Ingresso"]), locale: cell(r["Locale proposto"]),
-        prenotazione: cell(r["Prenotazione"]), tabelog: cell(r["Tabelog"]), note: cell(r["Note"]) });
+        prenotazione: cell(r["Prenotazione"]), tabelog: cell(r["Tabelog"]), note: cell(r["Note"]), catena: cell(r["Catena vicina"]) });
     }
     // spuntini: ogni punto elenco che cita una data viene agganciato a quel giorno
     if (sub.title.startsWith("Spuntini")) {

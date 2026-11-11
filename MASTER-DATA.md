@@ -15,7 +15,7 @@ subtitle: 18 Novembre - 9 Dicembre
 > - ✅ **Nessuna prenotazione richiesta** -- decidibile il giorno stesso, zero penali
 > - 📸 **Dalla tua lista Instagram** -- posti che avevi salvato tu
 
-> 🍽️ **Regola pasti:** pranzo entro le 12:00, cena nella finestra 16:30-18:00. Le eccezioni (Shibuya Sky, teamLab, Eikando, giorno di arrivo, gite lunghe) sono segnalate nel giorno.
+> 🍽️ **Regola pasti:** pranzo entro le 12:00, cena nella finestra 16:30-18:00. Le eccezioni (teamLab, Eikando, giorno di arrivo, gite lunghe) sono segnalate nel giorno.
 
 ## Scadenze in tabella
 
@@ -31,7 +31,7 @@ subtitle: 18 Novembre - 9 Dicembre
 | **Shinkansen Tokaido (05/12)** | già aperta (prenotazione anticipata) | -- | **entro mer 4 nov**: posti assegnati il 5 nov alle 00:00 | [smartEX](https://smart-ex.jp/en/) |
 | **eSIM o Pocket Wi-Fi (ritiro il 19/11 a Haneda)** | già aperta | -- | **10 nov**: il Pocket Wi-Fi da ritirare in aeroporto va ordinato qualche giorno prima; l'eSIM si installa in Italia | sito del fornitore scelto |
 | Monte Fuji (20/11) -- **solo se scegliete il treno prenotato (A)** | già aperta (20 ott) | -- | decisione rinviata al **5 nov** (previsioni meteo). Limite consigliato del 1° nov superato: posti a rischio | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) |
-| **Shibuya Sky (22/11)** | **8 nov, 00:00 JST** | **sab 7 nov alle 16:00** | **all'apertura** | [sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/) · Klook |
+| **Shibuya Sky (22/11, ore 10:40)** | già aperta (8 nov) | -- | **subito**: il 22/11 restano solo slot del mattino (10:20-12:40). Prendete le 10:40 | [sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/) · Klook |
 | Maguro Mart (cena 20/11, facoltativa) | già aperta (30 giorni prima, 12:00 JST) | -- | appena decidete, si esaurisce | [Tabelog](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) · tel. 050-5597-6557 |
 | Choshoku Kishin (colazione 28/11, facoltativa) | già aperta | -- | 15 nov | [Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26028888/) · TableCheck · tel. +81 75-525-8500 |
 | Monja Kondo Honten (cena 05/12, ore 18:00) | probabilmente già aperta | -- | 15 nov | [Tabelog](https://tabelog.com/en/tokyo/A1313/A131302/13012771/) · tel. 03-3533-4555 |
@@ -43,10 +43,12 @@ subtitle: 18 Novembre - 9 Dicembre
 | 📸 **Gion Sushi FARO (cena 28/11, ore 19:00)** | già aperta (online) | -- | 15 nov: è sabato | [TableCheck](https://www.tablecheck.com/en/gion-sushi-faro) · Tabelog |
 | 📸 Kobe Beef Kisshokichi Kyoto (cena 03/12) | già aperta | -- | 20 nov | [ikyu](https://restaurant.ikyu.com/123087/highlights) |
 | Yama San Sushi (pranzo 24/11), Kaiten Sushi Ginza Onodera (cena 29/11) | già aperta (online, pochi posti) | -- | 20 nov, facoltativa | [Yama San](https://tabelog.com/en/ishikawa/A1701/A170101/17000196/) · [Onodera](https://tabelog.com/en/kyoto/A2601/A260201/26039528/) |
+| Nezu Museum (22/11, ore 13:30) | già aperta (online, a fascia oraria) | -- | **appena decidete**: domenica del ponte, ultimo weekend della mostra | [sito ufficiale](https://www.nezu-muse.or.jp/en/) |
 | Avvisare l'Aloft Osaka del viaggio di nozze | quando volete | -- | 20 nov | email all'hotel |
 | Visit Japan Web | quando volete | -- | 16 nov | [Visit Japan Web](https://services.digital.go.jp/en/visit-japan-web/) |
 | teamLab Botanical Garden (04/12) | probabilmente già aperta | -- | 20 nov | [teamLab](https://www.teamlab.art/e/botanicalgarden/) |
 | Illuminazione Rikugien (06/12) | fine ott, da annunciare | -- | controllate ogni pochi giorni, al più tardi 25 nov | [sito](https://www.tokyo-park.or.jp/teien/en/rikugien/) |
+| Shibuya Sky di notte (08/12, ~17:00), facoltativa | **24 nov, 00:00 JST** (mezzanotte a Tokyo) | 23 nov alle 16:00 | all'apertura, se dopo il 22/11 vi va di tornarci: al posto di Roppongi Hills | [sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/) · Klook |
 | Kaiyukan (05/12, ingresso 10:00) | ~5 nov (30 giorni prima) | -- | 20 nov: fascia oraria, il giorno stesso pochi biglietti | [kaiyukan.com](https://www.kaiyukan.com/) |
 | Sushiya Shota (cena 08/12, ore 20:00) | -- | -- | ✅ **prenotato** (codice in PRIVATO.md). Cancellazione gratuita fino al 6 dic alle 21:59 italiane | [Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/) |
 | Shinkansen Hokuriku, Tokyo -> Kanazawa (24/11) | -- | -- | ✅ **prenotato** il 3 nov: Kagayaki 503, 07:20 -> 09:44, 2 adulti, **carrozza 2, posti 11D-11E**, biglietto di carta (codici in PRIVATO.md). Ritiro la sera del 19/11 a Iidabashi | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) |
@@ -141,11 +143,12 @@ subtitle: 18 Novembre - 9 Dicembre
   - **Quando:** vendita attesa da fine ottobre: controllate ogni pochi giorni. Limite: 25 novembre.
   - Evento 2026 **25 novembre -- 6 dicembre**, 18:00-20:30 (ultimo ingresso 19:30). Il 6 dicembre è **l'ultima sera**: zero margine.
 
-- [ ] **Shibuya Sky, Tokyo, 22/11, slot 15:40 o 16:00** 🌟🎫
+- [ ] **Shibuya Sky, Tokyo, 22/11, slot 10:40** 🌟🎫
   - **Dove:** [sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/), che **rifiuta molte carte estere**: tenete pronto **Klook**, che vende gli stessi slot pochi minuti dopo e cancella gratis fino a 24 ore prima.
-  - **Quando:** **7 novembre alle 16:00 italiane** (2 settimane prima, 00:00 JST: regola ufficiale dal 2 aprile 2025). Sul sito ufficiale la cancellazione è gratuita fino al giorno prima.
-  - **1.** Alle 15:50 loggati su sito e Klook. Se la carta viene rifiutata, passate subito a Klook.
-  - **2.** 2 "Web ticket", 22 novembre, ingresso **15:40 o 16:00**. Nessun limite di permanenza.
+  - **Quando:** in vendita dall'8 novembre. **Al 11 novembre il 22/11 ha solo slot del mattino, dalle 10:20 alle 12:40**: tramonto e sera esauriti. Prenotate subito, prima che finiscano anche questi. Sul sito ufficiale la cancellazione è gratuita fino al giorno prima.
+  - **1.** Se la carta viene rifiutata sul sito ufficiale, passate subito a Klook.
+  - **2.** 2 "Web ticket", 22 novembre, ingresso **10:40**. Nessun limite di permanenza. Il giorno è stato riordinato attorno a questo orario.
+  - **3.** 🌤️ **Meteo:** non aspettate a comprare: prenotate adesso e decidete dopo. Sul sito ufficiale si cancella gratis fino al giorno prima, su Klook fino a 24 ore prima. **Il 20 o il 21/11** guardate le previsioni e, se danno pioggia, cancellate. Con pioggia o vento forte la terrazza all'aperto (Sky Stage) chiude e restano solo le sale interne: verificate sul sito le regole di rimborso in quel caso.
 
 - [ ] **Visit Japan Web** 🎫
   - **Dove:** [Visit Japan Web](https://services.digital.go.jp/en/visit-japan-web/), da browser. Limite operativo: 16 novembre.
@@ -315,8 +318,8 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 | 20/11 ven | Cena | 19:15 | Facoltativa: **Maguro Mart**, Nakano (izakaya tutto tonno, 3.63, ~4-5.000 ¥), a 5 minuti di treno da Shinjuku. Altrimenti, appena scesi a Shinjuku: 📸 **Kakekomi Gyoza**, Kabukicho (gyoza e birra, aperto 24 ore, ~3.300-5.000 ¥) o 📸 **Pasta Mama** (pasta alla giapponese, orari da verificare) | 🎫 se Maguro Mart | [Maguro Mart](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) | Fuori finestra per i tempi di rientro. Consiglio di Camilla, si prenota con difficoltà |
 | 21/11 sab | Pranzo | 11:30 | **Komagata Maekawa**, Asakusa (unagi, vista sul Sumida) — alt. più leggera: **Onigiri Asakusa Yadoroku** (3.49, Bib Gourmand Michelin, la più antica onigiri di Tokyo, dal 1954, ~1.000 ¥, solo contanti, niente prenotazioni) — alt. sushi: 📸 **Tsune Zushi** (sushi di quartiere, ~1.500 ¥, a 5 minuti dalla stazione di Asakusa; orari da verificare) | 📞 Consigliata | [Tabelog](https://tabelog.com/en/tokyo/A1311/A131102/13003666/) · [Yadoroku](https://tabelog.com/en/tokyo/A1311/A131102/13024859/) | Tabelog 3.46. Prenotazione online. Prendete l'unaju (~6-8.000 ¥), non il kaiseki da 12.000 ¥ |
 | 21/11 sab | Cena | 17:45 | **Tonkatsu** da **Ponta Honke**, Ueno (dal 1905, cotoletta fritta a bassa temperatura) — alt. a Nezu: **Nezu Kamachiku** (3.66, udon e sakè in un magazzino in mattoni del 1910) | 📞 Consigliata | [Ponta Honke](https://tabelog.com/en/tokyo/A1311/A131101/13003587/) · [Kamachiku](https://tabelog.com/en/tokyo/A1311/A131106/13020252/) | Tabelog 3.77, Tabelog 100 tonkatsu e yoshoku, ~4-5.000 ¥. Ultima ordinazione 19:45. Prenotazione online, carte accettate |
-| 22/11 dom | Pranzo | 11:30 | **Harajuku Gyoza Ro** (3.49, gyoza al vapore e alla piastra, ~1.500 ¥) — alt. **Pretty Pork Factory** (3.74, tonkatsu di maiale pregiato, ~3-4.000 ¥). La crêpe da **Marion Crepes** come spuntino. A Shibuya (~15 min a piedi): 📸 **Sushi Hicho** (pranzo omakase da 7.590 ¥, 11:30-15:00) o 📸 **Espresso D'Works yellow** (omurice con hamburger e formaggio, 2.288 ¥, Tabelog ~3.2) | ✅ Walk-in | [Gyoza Ro](https://tabelog.com/en/tokyo/A1306/A130601/13001284/) · [Pretty Pork](https://tabelog.com/en/tokyo/A1306/A130601/13295369/) · [Marion](https://tabelog.com/en/tokyo/A1306/A130601/13088711/) | Una crêpe (3.10) non è un pranzo. Sushi Hicho è a 2 minuti dalla stazione di Shibuya: meglio prenotare |
-| 22/11 dom | Cena | 19:15 | **Pizza** da 📸 **SHOGUN PIZZA**, Spain-zaka (Udagawacho 13-4, piano terra, 25 posti) — se piove: 📸 piani ristoranti **FOODIES SCRAMBLE** al 13° dello **Shibuya Scramble Square** (sushi, okonomiyaki, soba), lo stesso edificio di Shibuya Sky. Altre alternative: **Yakiniku Horumon Arai Ya** (3.67, ~6-8.000 ¥), **Tonkatsu Nagi** (3.63, ~5-6.000 ¥) | ✅ Walk-in | [Shogun Pizza](https://haveagood-holiday.com/en/articles/shogun-pizza-shibuya-opening) · [Arai Ya](https://tabelog.com/en/tokyo/A1303/A130301/13237382/) · [Nagi](https://tabelog.com/en/tokyo/A1303/A130301/13319750/) | ~1.000-2.000 ¥. 11:00-22:00 o 23:00 (le fonti non concordano), tel. 03-6416-1553. 6 minuti a piedi dalla stazione. Eccezione orario: dopo Shibuya Sky |
+| 22/11 dom | Pranzo | 11:45 | A Shibuya, appena scesi da Shibuya Sky: 📸 **Sushi Hicho** (pranzo omakase da 7.590 ¥, 11:30-15:00) o 📸 **Espresso D'Works yellow** (omurice con hamburger e formaggio, 2.288 ¥, Tabelog ~3.2), oppure 📸 **FOODIES SCRAMBLE** al 13° dello Scramble Square. Se preferite pranzare a Harajuku (~15 min a piedi): **Harajuku Gyoza Ro** (3.49, ~1.500 ¥) o **Pretty Pork Factory** (3.74, tonkatsu, ~3-4.000 ¥) | 📞 Consigliata se Sushi Hicho | [Gyoza Ro](https://tabelog.com/en/tokyo/A1306/A130601/13001284/) · [Pretty Pork](https://tabelog.com/en/tokyo/A1306/A130601/13295369/) · [Marion](https://tabelog.com/en/tokyo/A1306/A130601/13088711/) | Sushi Hicho è a 2 minuti dalla stazione di Shibuya: meglio prenotare per le 11:45 |
+| 22/11 dom | Cena | 18:00 | **Pizza** da 📸 **SHOGUN PIZZA**, Spain-zaka (Udagawacho 13-4, piano terra, 25 posti) — se piove: 📸 piani ristoranti **FOODIES SCRAMBLE** al 13° dello **Shibuya Scramble Square** (sushi, okonomiyaki, soba), lo stesso edificio di Shibuya Sky. Altre alternative: **Yakiniku Horumon Arai Ya** (3.67, ~6-8.000 ¥), **Tonkatsu Nagi** (3.63, ~5-6.000 ¥) | ✅ Walk-in | [Shogun Pizza](https://haveagood-holiday.com/en/articles/shogun-pizza-shibuya-opening) · [Arai Ya](https://tabelog.com/en/tokyo/A1303/A130301/13237382/) · [Nagi](https://tabelog.com/en/tokyo/A1303/A130301/13319750/) | ~1.000-2.000 ¥. 11:00-22:00 o 23:00 (le fonti non concordano), tel. 03-6416-1553. 6 minuti a piedi dalla stazione. Dopo Shimokitazawa e lo Scramble Crossing |
 | 23/11 lun | Pranzo | 11:30 | **AFURI Nakameguro** (yuzu shio ramen) + Starbucks Reserve Roastery — alt. 📸 **Blocks de Gamin**, bistrot francese a Nakameguro (pranzo dalle 12:00, da 3.960 ¥; chiuso mar e mer, il 23/11 è aperto) o 📸 **Ko Sushi**, Nishi-Shinjuku 7-7-22, a conduzione familiare (set di 10 pezzi 1.700 ¥, uscendo da Shinjuku Gyoen; apertura nel festivo da verificare) | ✅ Walk-in (si fa la fila) | [AFURI](https://tabelog.com/en/tokyo/A1317/A131701/13129706/) · [Roastery](https://tabelog.com/en/tokyo/A1317/A131701/13231942/) | ⚠️ Solo pagamento cashless |
 | 23/11 lun | Cena | 17:30 | **Tempura** da **Funabashiya Shinjuku Honten** (dal 1886, fritta nell'olio di sesamo) — alt. oden da **Itteki Hassenya** (3.62, ~4-5.000 ¥) | 📞 Consigliata, è festivo | [Funabashiya](https://tabelog.com/en/tokyo/A1304/A130401/13012090/) · [Itteki Hassenya](https://tabelog.com/en/tokyo/A1304/A130401/13000760/) | Tabelog 3.49, Tabelog 100 tempura 2022, ~4-5.000 ¥. Aperto tutti i giorni 11:30-21:00, a 1 minuto da Shinjuku-sanchome. Scartato Gyutan Iroha: 3.24, e su Tabelog risulta locale per fumatori. Omoide Yokocho resta una passeggiata per le foto |
 
@@ -451,18 +454,19 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 
 ## Domenica 22 novembre -- Harajuku, Shimokitazawa e Shibuya
 
-> 🍽️ ⚠️ **Eccezione cena:** Shibuya Sky tiene fino alle 18:30, si cena subito dopo.
+> 🌅 Il 22/11 Shibuya Sky ha posti solo la mattina (10:20-12:40): la visita passa alle 10:40, con l'aria più tersa e più probabilità di vedere il Fuji. Il tramonto dall'alto resta il 23/11 al Tokyo Metropolitan Government, la Tokyo illuminata l'8/12 a Roppongi Hills.
 
 - 🚇 **Andata dall'hotel:** Toei Oedo Line da Iidabashi a Shinjuku, cambio JR Yamanote Line fino a Harajuku (~20 min).
-- **08:00 -- 09:30** 🌟✅ **Meiji Jingu:** santuario shintoista nel bosco. Ingresso libero. La domenica mattina presto è tranquillo, e potreste vedere un matrimonio shintoista.
-- **09:45 -- 10:45** ✅ Passeggiata tra **Omotesando** e **Aoyama**, l'architettura delle boutique (Tod's di Toyo Ito, Prada di Herzog & de Meuron): si guarda da fuori, i negozi aprono verso le 11:00. Alternativa: **Nezu Museum**, giardino e arte (apre alle 10:00).
-- **10:45 -- 11:30** ✅ **Harajuku** e Takeshita Street, coi negozi ormai aperti (tra le 10:00 e le 11:00).
-- **11:30 -- 12:30** *Pranzo:* gyoza da **Harajuku Gyoza Ro**, oppure tonkatsu da **Pretty Pork Factory**. Oppure a Shibuya: 📸 **Sushi Hicho** o l'omurice di 📸 **Espresso D'Works**.
-- 🚇 *Trasferimento:* JR Yamanote Line da Harajuku a Shibuya, cambio Keio Inokashira Line fino a Shimokitazawa (~20 min).
-- **13:00 -- 15:15** 🔄✅ **Shimokitazawa**, il primo assaggio di Tokyo Ovest: vintage, dischi e boutique indie. Poi Keio Inokashira Line fino a Shibuya (~5 min).
-- **15:40 -- 18:30** 🌟🎫 **Shibuya Sky:** ingresso **15:40 o 16:00**, tramonto alle 16:30, nessun limite di permanenza. Prendete posizione sull'angolo sud-ovest e restate fino al buio.
-- **18:30 -- 19:15** ✅ Shibuya Crossing e statua di Hachiko.
-- **19:15 -- 21:15** *Cena:* pizza da 📸 **SHOGUN PIZZA**, a Spain-zaka (~6 min a piedi dallo Scramble Crossing). Se piove, 📸 ristoranti al 13° piano dello **Shibuya Scramble Square**.
+- **08:00 -- 09:45** 🌟✅ **Meiji Jingu:** santuario shintoista nel bosco. Ingresso libero. La domenica mattina presto è tranquillo, e potreste vedere un matrimonio shintoista.
+- 🚃 *Trasferimento:* JR Yamanote Line da Harajuku a Shibuya, una fermata, poi l'ingresso di Shibuya Sky al 14° piano dello **Shibuya Scramble Square** (~20 min in tutto). Lì entro le 10:25.
+- **10:40 -- 11:45** 🌟🎫 **Shibuya Sky:** ingresso **10:40**, nessun limite di permanenza. Di mattina il Fuji si vede più spesso: guardate a sud-ovest. Borse grandi negli armadietti, sulla terrazza non si porta niente in mano.
+- **11:45 -- 12:45** *Pranzo a Shibuya:* 📸 **Sushi Hicho** (pranzo omakase, a 2 minuti dalla stazione, meglio prenotare) o l'omurice di 📸 **Espresso D'Works**. Senza uscire dall'edificio: 📸 **FOODIES SCRAMBLE**, 13° piano dello Scramble Square.
+- **13:00 -- 13:30** ✅ A piedi verso nord lungo **Cat Street** (~15 min) fino a **Omotesando**, poi lungo il viale verso **Aoyama**, con l'architettura delle boutique (Tod's di Toyo Ito, Prada di Herzog & de Meuron).
+- **13:30 -- 14:45** 🌟🎫 **Nezu Museum**, in fondo a Omotesando: il giardino col laghetto, le case da tè e gli aceri al loro meglio, il caffè con la vetrata sul giardino, l'edificio di Kengo Kuma. Mostra *Bugaku Costumes*, i costumi della danza di corte, fino al 23/11. ~1.600 ¥ online, **prenotazione a fascia oraria** (13:30): la domenica del ponte, senza prenotazione si rischia di restare fuori. Il giardino si visita solo col biglietto del museo. Takeshita Street è stata tolta per fargli spazio.
+- 🚇 *Trasferimento:* a piedi alla stazione di Omotesando (~8 min), Ginza o Hanzomon Line fino a Shibuya, cambio Keio Inokashira Line fino a Shimokitazawa (~25 min).
+- **15:15 -- 17:15** 🔄✅ **Shimokitazawa**, il primo assaggio di Tokyo Ovest: vintage, dischi e boutique indie, con le luci che si accendono dopo il tramonto delle 16:30. Poi Keio Inokashira Line fino a Shibuya (~5 min).
+- **17:30 -- 18:00** ✅ Shibuya Crossing e statua di Hachiko, già col buio e le insegne accese.
+- **18:00 -- 20:00** *Cena:* pizza da 📸 **SHOGUN PIZZA**, a Spain-zaka (~6 min a piedi dallo Scramble Crossing). Se piove, 📸 ristoranti al 13° piano dello **Shibuya Scramble Square**.
 - 🚇 **Rientro in hotel:** JR Yamanote Line da Shibuya a Shinjuku, cambio Toei Oedo Line fino a Iidabashi (~20-25 min).
 - 🧳 **Spedizione bagagli, prima tappa:** al rientro valigie grandi alla reception (aperta 24 ore, confermato), destinazione **KABIN Kyoto**. Tenete fuori zaino e trolley piccolo per Kanazawa. 💴 All'Edmont **si paga solo in contanti**. Chiedete la spedizione **prepagata** (*motobarai*, 元払い): pagate voi alla partenza, non l'hotel di arrivo alla consegna (*chakubarai*, 着払い).
 - 🏨 **Hotel Metropolitan Edmont**
@@ -756,6 +760,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 - **14:00 -- 16:45** 🌟✅ **Kichijoji**, Chuo Rapid da Nakano (~10 min): **Inokashira Park**, aceri sullo stagno nella luce del tramonto, e i vicoli di **Harmonica Yokocho**. Uno spiedino o una birra come spuntino: la cena è tardi.
 - **16:45 -- 17:45** 🚆 *Trasferimento a Roppongi:* Chuo Rapid fino a Shinjuku (~15 min), Toei Oedo Line fino a Roppongi (~10 min). Piano B: taxi.
 - **17:45 -- 19:30** 🌟✅ **Roppongi Hills:** osservatorio **Tokyo City View** con Tokyo già illuminata, mercatini natalizi e le luci di **Keyakizaka Street**.
+- 🔄🎫 **In alternativa, Shibuya Sky di notte** (decidete in loco, dopo la visita del mattino del 22/11): da Kichijoji **Keio Inokashira Line diretta fino a Shibuya** (~25 min), slot delle **17:00-17:20**, restate fino alle 19:15 col buio, poi **taxi fino ad Azabu-Juban** (~15 min) per le 20:00. Al posto di Roppongi Hills. Biglietti in vendita il **24/11 alle 00:00 JST**, cioè a mezzanotte a Tokyo, la notte prima dello Shinkansen per Kanazawa: se non ci sono più posti, resta Roppongi.
 - **19:30 -- 19:50** 🚶 A piedi fino ad Azabu-Juban (~15 min). Arrivate puntuali: sono 7 posti al banco.
 - **20:00 -- 22:00** 🌟🎫💶 *Cena di fine viaggio:* sushi omakase da **Sushiya Shota**, Azabu-Juban. Prenotato su Tabelog. Si paga al ristorante.
 - 🚇 **Rientro in hotel:** Toei Oedo Line da Azabu-Juban ad Akabanebashi, una fermata, poi a piedi. Piano B: taxi (~10 min).
@@ -809,12 +814,13 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 | 21/11 | 14:30 | Yanaka Ginza | 35.7276 | 139.766 |
 | 21/11 | 17:45 | Ponta Honke Ueno | 35.7076 | 139.7727 |
 | 22/11 | 08:00 | Meiji Jingu | 35.6764 | 139.6993 |
-| 22/11 | 09:45 | Omotesando | 35.6654 | 139.71 |
-| 22/11 | 10:45 | Takeshita Street | 35.6716 | 139.7031 |
-| 22/11 | 13:00 | Shimokitazawa | 35.6618 | 139.668 |
-| 22/11 | 15:40 | Shibuya Sky | 35.6584 | 139.7022 |
-| 22/11 | 18:30 | Shibuya Crossing | 35.6595 | 139.7005 |
-| 22/11 | 19:15 | SHOGUN PIZZA Shibuya | 35.6614 | 139.6989 |
+| 22/11 | 10:40 | Shibuya Sky | 35.6584 | 139.7022 |
+| 22/11 | 11:45 | Sushi Hicho Shibuya | 35.6585 | 139.7015 |
+| 22/11 | 13:00 | Omotesando | 35.6654 | 139.71 |
+| 22/11 | 13:30 | Nezu Museum | 35.6623 | 139.7178 |
+| 22/11 | 15:15 | Shimokitazawa | 35.6618 | 139.668 |
+| 22/11 | 17:30 | Shibuya Crossing | 35.6595 | 139.7005 |
+| 22/11 | 18:00 | SHOGUN PIZZA Shibuya | 35.6614 | 139.6989 |
 | 23/11 | 09:00 | Shinjuku Gyoen | 35.6852 | 139.7101 |
 | 23/11 | 11:30 | AFURI Nakameguro | 35.644 | 139.699 |
 | 23/11 | 12:30 | Starbucks Reserve Roastery Tokyo | 35.6492 | 139.6936 |

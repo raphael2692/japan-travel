@@ -87,10 +87,10 @@ window.TRIP = {
       "dove": "solo telefono +81 76-241-0888, tramite l'hotel"
     },
     {
-      "cosa": "**Kanazawa → Kyoto, Hokuriku + Thunderbird (26/11)**",
-      "apre": "già aperta (26 ott)",
+      "cosa": "Kanazawa → Kyoto, Tsurugi 11 + Thunderbird 12 (26/11)",
+      "apre": "--",
       "oraIt": "",
-      "entro": "**subito**, limite 10 nov",
+      "entro": "✅ **prenotati** l'11 nov: Kanazawa 08:40 → Tsuruga 09:25, carrozza 3, 15A-15B; Tsuruga 09:39 → Kyoto 10:35, carrozza 2, 8C-8D. Biglietti di carta da ritirare a Kanazawa il 24/11 (codici in PRIVATO.md)",
       "dove": "[JR-WEST Online](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en)"
     },
     {
@@ -376,13 +376,14 @@ window.TRIP = {
           ]
         },
         {
-          "titolo": "Hokuriku Shinkansen + Thunderbird, Kanazawa → Kyoto, 26/11, partenza 07:48",
+          "titolo": "Hokuriku Shinkansen + Thunderbird, Kanazawa → Kyoto, 26/11, partenza 08:40",
           "tags": "🎫",
-          "done": false,
+          "done": true,
           "note": [
+            "✅ **Prenotato l'11 novembre**",
             "**Dove:** [JR-WEST Online Train Reservation](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en). Il Thunderbird è **tutto a posti riservati** (dal 2024): non si sale senza prenotazione.",
             "**Quando:** aperta dal 26 ottobre: **prenotate subito**. Limite: 10 novembre.",
-            "**1.** **Tsurugi 7, Kanazawa 07:48 → Tsuruga 08:29**, poi **Thunderbird 8, Tsuruga 08:37 → Kyoto 09:34** (orario JR West di ottobre 2026), 2 adulti. Cambio a Tsuruga di 8 minuti, la coincidenza prevista (Shinkansen al 3° piano, Thunderbird al piano terra): sul sito si prenotano insieme. Alternativa più presto: Tsurugi 5 delle 07:02 + Thunderbird 6, arrivo 09:02.",
+            "**1.** ✅ **Tsurugi 11, Kanazawa 08:40 → Tsuruga 09:25**, carrozza 3, **posti 15A-15B** (10.560 ¥ in due, tariffa base compresa), poi **Thunderbird 12, Tsuruga 09:39 → Kyoto 10:35**, carrozza 2, **posti 8C-8D** (6.440 ¥ in due, tariffa base compresa), 2 adulti. Due prenotazioni separate, codici in PRIVATO.md. Cambio a Tsuruga di 14 minuti (Shinkansen al 3° piano, Thunderbird al piano terra).",
             "**2.** Posti Thunderbird **lato sinistro** per il Lago Biwa.",
             "**3.** **Biglietti di carta:** non sono digitali. Si ritirano alle macchinette verdi della stazione di Kanazawa (simbolo \"5489\", menu \"JR-WEST ONLINE TRAIN RESERVATION\") con **la carta fisica usata per pagare** (⚠️ sul sito inserite **il numero della Revolut fisica**, quella di plastica, non di una carta virtuale: alla macchinetta la carta va infilata e deve essere la stessa), il numero di prenotazione e il numero identificativo dell'email. Se la macchina fa storie, sportello JR (Midori-no-madoguchi) accanto.",
             "**4.** Ritiro **il 24/11 appena arrivati a Kanazawa**: siete già in stazione, 5 minuti, e da lì in poi la carta non serve più. Tenete i biglietti coi passaporti."
@@ -1436,19 +1437,13 @@ window.TRIP = {
         "Kanazawa Station",
         36.5781,
         136.6478,
-        "07:10"
+        "07:45"
       ],
       [
         "Kyoto Station",
         34.9858,
         135.7588,
-        "09:35"
-      ],
-      [
-        "Kennin-ji",
-        35.0007,
-        135.7735,
-        "10:45"
+        "10:35"
       ],
       [
         "Gion Tempura Bansan",
@@ -1457,22 +1452,28 @@ window.TRIP = {
         "12:00"
       ],
       [
+        "Kennin-ji",
+        35.0007,
+        135.7735,
+        "13:15"
+      ],
+      [
         "Chion-in",
         35.0055,
         135.7832,
-        "13:15"
+        "14:15"
       ],
       [
         "Yasaka Shrine",
         35.0037,
         135.7786,
-        "14:30"
+        "15:00"
       ],
       [
         "Maruyama Park",
         35.0034,
         135.781,
-        "15:00"
+        "15:30"
       ],
       [
         "Hanamikoji Street",
@@ -2171,13 +2172,13 @@ window.TRIP = {
       "titolo": "Treno all'alba per Kyoto, giornata intera a Gion e Higashiyama",
       "hotel": "KABIN Kyoto",
       "items": [
-        "**06:45 – 07:40** Partenza dal **Lian Kanazawa** alle 07:10: **nessun check-out formale** (confermato), basta controllare di aver preso tutto; la chiave non va riconsegnata di persona. A piedi alla stazione (~10 min): **ekiben** per la colazione in treno e foto al portale **Tsuzumi-mon**. In stazione verso le 07:25, 20 minuti di margine. ⚠️ Gli orari dei banchi di ekiben non sono verificati (Ekiben-Dokoro KANAZAWA, uscita ovest, apre presto secondo le recensioni): se è chiuso, konbini in stazione.",
-        "**07:48 – 09:34** 🎫 **Tsurugi 7** fino a **Tsuruga** (08:29), poi **Thunderbird 8** (08:37) per Kyoto. ⚠️ Cambio di 8 minuti tra piani diversi: scendete e seguite subito i cartelli per il Thunderbird. Se lo Shinkansen arriva in ritardo e perdete la coincidenza, andate allo sportello JR: di norma vi spostano sul Thunderbird successivo. 💡 Sul Thunderbird a **sinistra** per il **Lago Biwa** (vista a tratti).",
-        "**09:35 – 10:30** 🚇 Karasuma Line da Kyoto a **Gojo**, una fermata (ascensori), poi ~10 min a piedi al **KABIN Kyoto**. I bus 4, 17 e 205 dalla stazione sono spesso pieni: col trolley meglio metro o taxi (~15 min). Lasciate il trolley (confermato dal KABIN) e fate subito il **pre-check-in**: dalle 15:00 entrate direttamente in camera. Le valigie grandi le ricevete al check-in.",
-        "**10:45 – 11:45** 🌟✅ **Kennin-ji**, il più antico tempio zen di Kyoto, coi due draghi dipinti sul soffitto e il giardino di muschio e sabbia. A due passi da Hanamikoji: Keihan da Kiyomizu-Gojo a Gion-Shijo. Biglietto in loco; verificate l'orario.",
-        "**12:00 – 13:00** 🎫 *Pranzo:* **tempura** da **Gion Tempura Bansan**, pranzo feriale a 3.300 ¥, prenotato.",
-        "**13:15 – 14:15** 🔄✅ **Chion-in**, col portale Sanmon, uno dei più grandi del Giappone, accanto al Maruyama Park. Verificate l'orario (chiude presto, verso le 16:00).",
-        "**14:30 – 15:45** 🌟✅ **Yasaka Shrine** e **Maruyama Park**. Ingresso libero. Pausa in hotel per il check-in, se siete stanchi dalla sveglia presto.",
+        "**07:15 – 08:15** Partenza dal **Lian Kanazawa** alle 07:45: **nessun check-out formale** (confermato), basta controllare di aver preso tutto; la chiave non va riconsegnata di persona. A piedi alla stazione (~10 min): **ekiben** per la colazione in treno e foto al portale **Tsuzumi-mon**. In stazione verso le 08:00, 40 minuti di margine. ⚠️ Gli orari dei banchi di ekiben non sono verificati (Ekiben-Dokoro KANAZAWA, uscita ovest, apre presto secondo le recensioni): se è chiuso, konbini in stazione.",
+        "**08:40 – 10:35** 🎫 ✅ **Tsurugi 11**, Kanazawa 08:40 → Tsuruga 09:25 (carrozza 3, 15A-15B), poi **Thunderbird 12**, Tsuruga 09:39 → Kyoto 10:35 (carrozza 2, 8C-8D). ⚠️ Cambio di 14 minuti tra piani diversi: scendete e seguite subito i cartelli per il Thunderbird. Se lo Shinkansen arriva in ritardo e perdete la coincidenza, andate allo sportello JR: di norma vi spostano sul Thunderbird successivo. 💡 Sul Thunderbird a **sinistra** per il **Lago Biwa** (vista a tratti).",
+        "**10:35 – 11:45** 🚇 Karasuma Line da Kyoto a **Gojo**, una fermata (ascensori), poi ~10 min a piedi al **KABIN Kyoto**. I bus 4, 17 e 205 dalla stazione sono spesso pieni: col trolley meglio metro o taxi (~15 min). Lasciate il trolley (confermato dal KABIN) e fate subito il **pre-check-in**: dalle 15:00 entrate direttamente in camera. Le valigie grandi le ricevete al check-in.",
+        "**12:00 – 13:00** 🎫 *Pranzo:* **tempura** da **Gion Tempura Bansan**, pranzo feriale a 3.300 ¥, prenotato. Dal KABIN a Gion a piedi (~10 min): partite entro le 11:45.",
+        "**13:15 – 14:00** 🌟✅ **Kennin-ji**, il più antico tempio zen di Kyoto, coi due draghi dipinti sul soffitto e il giardino di muschio e sabbia. A due passi da Hanamikoji. Biglietto in loco; verificate l'orario. Spostato dopo pranzo dall'arrivo del Thunderbird alle 10:35.",
+        "**14:15 – 15:00** 🔄✅ **Chion-in**, col portale Sanmon, uno dei più grandi del Giappone, accanto al Maruyama Park. Verificate l'orario (chiude presto, verso le 16:00): primo punto da saltare se siete stanchi.",
+        "**15:00 – 16:00** 🌟✅ **Yasaka Shrine** e **Maruyama Park**. Ingresso libero. Pausa in hotel per il check-in, se siete stanchi dalla sveglia presto.",
         "**16:00 – 17:45** 🌟✅ **Gion** e **Hanamikoji Street** al tramonto. ⚠️ Nelle stradine private di Gion **è vietato fotografare**, con multe.",
         "**18:00 – 20:00** 🌟🎫 *Cena:* **yakiniku** di wagyu da **Tendan Gion Honten**, lo yakiniku storico di Kyoto, a due passi da Hanamikoji (~5 min a piedi).",
         "🚶 **Rientro in hotel:** a piedi (~13-15 min)."

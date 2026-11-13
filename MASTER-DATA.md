@@ -33,7 +33,6 @@ subtitle: 18 Novembre - 9 Dicembre
 | **Shibuya Sky (22/11, ore 10:40)** | già aperta (8 nov) | -- | **subito**: il 22/11 restano solo slot del mattino (10:20-12:40). Prendete le 10:40 | [sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/) · Klook |
 | Maguro Mart (cena 20/11, facoltativa) | già aperta (30 giorni prima, 12:00 JST) | -- | appena decidete, si esaurisce. **Turno delle 20:15 o più tardi**: il Kaiji arriva a Shinjuku alle 19:48 | [Tabelog](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) · tel. 050-5597-6557 |
 | Choshoku Kishin (colazione 28/11, facoltativa) | già aperta | -- | 15 nov | [Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26028888/) · TableCheck · tel. +81 75-525-8500 |
-| Monja Kondo Honten (cena 05/12, ore 18:00) | probabilmente già aperta | -- | 15 nov | [Tabelog](https://tabelog.com/en/tokyo/A1313/A131302/13012771/) · tel. 03-3533-4555 |
 | Komagata Maekawa (pranzo 21/11), Ponta Honke (cena 21/11), Tempura Funabashiya (cena 23/11) | già aperta (online) | -- | 15 nov | [Maekawa](https://tabelog.com/en/tokyo/A1311/A131102/13003666/) · [Ponta Honke](https://tabelog.com/en/tokyo/A1311/A131101/13003587/) · [Funabashiya](https://tabelog.com/en/tokyo/A1304/A130401/13012090/) |
 | Cene a Kanazawa (24/11 e 25/11): sceglietene una per sera | già aperta (Tabelog o telefono) | -- | 15 nov: stagione del granchio, i locali piccoli si riempiono | [Kabuna](https://tabelog.com/en/ishikawa/A1701/A170101/17000085/) · [Daigo](https://tabelog.com/en/ishikawa/A1701/A170101/17009374/) · [Itaru](https://tabelog.com/en/ishikawa/A1701/A170101/17000009/) · [Miyuki](https://tabelog.com/en/ishikawa/A1701/A170101/17002725/) · [Tokkuriya](https://tabelog.com/en/ishikawa/A1701/A170101/17000666/) |
 | Kibune Beniya (pranzo 29/11) | già aperta | -- | 15 nov: domenica in pieno foliage | [Tabelog](https://tabelog.com/en/kyoto/A2601/A260502/26013329/) |
@@ -42,13 +41,13 @@ subtitle: 18 Novembre - 9 Dicembre
 | 📸 **Gion Sushi FARO (cena 28/11, ore 19:00)** | già aperta (online) | -- | 15 nov: è sabato | [TableCheck](https://www.tablecheck.com/en/gion-sushi-faro) · Tabelog |
 | 📸 Kobe Beef Kisshokichi Kyoto (cena 03/12) | già aperta | -- | 20 nov | [ikyu](https://restaurant.ikyu.com/123087/highlights) |
 | Yama San Sushi (pranzo 24/11), Kaiten Sushi Ginza Onodera (cena 29/11) | già aperta (online, pochi posti) | -- | 20 nov, facoltativa | [Yama San](https://tabelog.com/en/ishikawa/A1701/A170101/17000196/) · [Onodera](https://tabelog.com/en/kyoto/A2601/A260201/26039528/) |
-| Nezu Museum (22/11, ore 13:30) | già aperta (online, a fascia oraria) | -- | **appena decidete**: domenica del ponte, ultimo weekend della mostra | [sito ufficiale](https://www.nezu-muse.or.jp/en/) |
+| Nezu Museum (22/11, ore 14:00) | già aperta (online, a fascia oraria) | -- | **appena decidete**: domenica del ponte, ultimo weekend della mostra | [sito ufficiale](https://www.nezu-muse.or.jp/en/) |
 | Avvisare l'Aloft Osaka del viaggio di nozze | quando volete | -- | 20 nov | email all'hotel |
 | Visit Japan Web | quando volete | -- | 16 nov | [Visit Japan Web](https://services.digital.go.jp/en/visit-japan-web/) |
-| teamLab Botanical Garden (04/12) | probabilmente già aperta | -- | 20 nov | [teamLab](https://www.teamlab.art/e/botanicalgarden/) |
+| teamLab Botanical Garden (04/12) | -- | -- | ✅ **prenotato** il 13 nov: ingresso 18:00, 2 adulti, 4.000 ¥ (codici in PRIVATO.md). QR visibile 24 ore prima | [teamLab](https://www.teamlab.art/e/botanicalgarden/) |
 | Illuminazione Rikugien (06/12) | fine ott, da annunciare | -- | controllate ogni pochi giorni, al più tardi 25 nov | [sito](https://www.tokyo-park.or.jp/teien/en/rikugien/) |
 | Shibuya Sky di notte (08/12, ~17:00), facoltativa | **24 nov, 00:00 JST** (mezzanotte a Tokyo) | 23 nov alle 16:00 | all'apertura, se dopo il 22/11 vi va di tornarci: al posto di Roppongi Hills | [sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/) · Klook |
-| Kaiyukan (05/12, ingresso 10:00) | ~5 nov (30 giorni prima) | -- | 20 nov: fascia oraria, il giorno stesso pochi biglietti | [kaiyukan.com](https://www.kaiyukan.com/) |
+| Kaiyukan (05/12, ingresso 10:45-11:00) | -- | -- | ✅ **prenotato** il 13 nov sul sito ufficiale (Webket), 2 adulti, 5.600 ¥ (numero d'acquisto in PRIVATO.md). QR in Webket (My Page) e nell'email; orario modificabile altre 2 volte, solo il 5/12 | [Webket Kaiyukan](https://www.kaiyukan.com/) |
 | Sushiya Shota (cena 08/12, ore 20:00) | -- | -- | ✅ **prenotato** (codice in PRIVATO.md). Cancellazione gratuita fino al 6 dic alle 21:59 italiane | [Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/) |
 | Shinkansen Hokuriku, Tokyo -> Kanazawa (24/11) | -- | -- | ✅ **prenotato** il 3 nov: Kagayaki 503, 07:20 -> 09:44, 2 adulti, **carrozza 2, posti 11D-11E**, biglietto di carta (codici in PRIVATO.md). Ritiro la sera del 19/11 a Iidabashi | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) |
 | Treni per il Monte Fuji (20/11) | -- | -- | ✅ **prenotati** l'11 nov: andata **Azusa 3**, Shinjuku 07:30 -> Otsuki 08:30, carrozza 11, posti 8B e 9B; ritorno **Kaiji 48**, Otsuki 18:43 -> Shinjuku 19:48, carrozza 5, posti 8C-8D. Biglietti di carta con tariffa base (codici in PRIVATO.md), ritiro la sera del 19/11 a Iidabashi. Cancellazione gratuita fino alle 21:00 JST del 19/11 (13:00 italiane). Fuji Excursion esaurito | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) |
@@ -83,9 +82,9 @@ subtitle: 18 Novembre - 9 Dicembre
 - [ ] **Shinkansen Tokaido, Osaka -> Tokyo, 05/12 — prenotabile già adesso** 🎫🌤️
   - **Dove:** [smartEX](https://smart-ex.jp/en/), sito o app. [Come funziona la prenotazione anticipata](https://smart-ex.jp/en/product/plan/service/).
   - **Quando:** si prenota da un anno prima; treno e posti vengono **confermati il 5 novembre alle 00:00 italiane** con un'email.
-  - **1.** 5 dicembre, Shin-Osaka -> Tokyo, **Nozomi intorno alle 14:00**, 2 adulti, posto riservato ordinario (~14.500 ¥ a testa).
+  - **1.** 5 dicembre, Shin-Osaka -> Tokyo, **Nozomi verso le 19:30** (cena ekiben in treno), 2 adulti, posto riservato ordinario (~14.500 ¥ a testa).
   - **2.** Biglietto **QR-Ticket** (QR sul telefono ai tornelli). Registrazione della carta IC: saltatela. Piano B: biglietto di carta alle biglietterie automatiche JR.
-  - **3.** Dopo l'email di conferma, spostatevi se serve sulla **coppia D+E** (E finestrino, lato Fuji). Cambi gratuiti prima della partenza.
+  - **3.** Dopo l'email di conferma, spostatevi se serve sulla **coppia D+E** (E finestrino). Cambi gratuiti prima della partenza: se la conferma del 5/11 era un treno del pomeriggio, spostatelo sulle 19:30.
   - **4.** Il giorno del viaggio: screenshot del QR e telefono carico.
   - 💡 Cancellazione: 320 ¥ di penale prima della partenza.
 
@@ -127,9 +126,9 @@ subtitle: 18 Novembre - 9 Dicembre
   - ⚠️ Il giorno prima i posti sono a rischio: se le 13:30 sono piene, accettate un altro turno del 25/11 e riorganizzate il pomeriggio (Teramachi e Nishi Chaya sono accanto al tempio). Il tempio può voler parlare con voi al telefono per confermare.
   - **Visita solo in giapponese**, con al massimo una breve introduzione in inglese (e un foglio in inglese).
 
-- [ ] **teamLab Botanical Garden, Osaka, 04/12** 🌟🎫
-  - **Dove:** [sito ufficiale teamLab](https://www.teamlab.art/e/botanicalgarden/), solo online, a fascia oraria (~1.800 ¥). Evitate i rivenditori.
-  - **Quando:** controllate subito e prendete la fascia **17:30-18:00**. Limite: 20 novembre. Riverificate gli orari invernali.
+- [x] **teamLab Botanical Garden, Osaka, 04/12** 🌟🎫 -- ✅ **Prenotato il 13 novembre**
+  - [Sito ufficiale teamLab](https://www.teamlab.art/e/botanicalgarden/), 2 adulti, **ingresso 18:00** (era l'unica fascia disponibile), **4.000 ¥ in due** (2.000 ¥ a testa). Si resta fino alla chiusura delle 20:30, niente rientro. Codici e link in PRIVATO.md.
+  - Il QR code compare **24 ore prima** dell'ingresso: fate uno screenshot. Il biglietto si può modificare o cancellare dalla pagina della prenotazione.
 
 - [ ] **Illuminazione notturna Rikugien, Tokyo, 06/12** 🌟🎫
   - **Dove:** [sito ufficiale del Rikugien](https://www.tokyo-park.or.jp/teien/en/rikugien/). Biglietto anticipato 1.000 ¥ **solo online**, a numero chiuso. In loco 1.200 ¥ in contanti, se non esaurito. Tel. +81 3-3941-2222.
@@ -153,9 +152,9 @@ subtitle: 18 Novembre - 9 Dicembre
 
 > 💶 **Tetto di spesa: 9.000 ¥ a testa per pasto.** Le opzioni sopra il tetto sono state scartate. Eccezioni volute: il sushi omakase dell'ultima sera (08/12) e due posti della lista Instagram, 📸 Gion Sushi FARO (28/11) e 📸 Kobe Beef Kisshokichi (03/12).
 
+- [x] 📸 **Pretty Pork Factory & Katsu Puripo, Harajuku, pranzo del 22/11 alle 12:30** 🎫 -- ✅ **Prenotato su Tabelog** (codice in PRIVATO.md), 2 persone, Brand Pork Tonkatsu Seat da 4.500 ¥ a testa (si sceglie il tonkatsu tra 4.500 e 8.000 ¥) + 10% di servizio, da pagare al ristorante. 5° piano di Tokyu Plaza Harakado, tel. 03-6805-0290. **Tempo al tavolo 1 ora.** Già pagati 880 ¥ di costo del servizio Tabelog, non rimborsabili. Penale solo per assenza senza avviso (100%). [Tabelog](https://tabelog.com/en/tokyo/A1306/A130601/13295369/)
 - [ ] **Yakiniku Tendan Gion Honten, Kyoto, cena del 26/11 alle 18:00** 🌟🎫 -- online su [Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26001422/) (3.44, ~6-8.000 ¥), tel. 075-551-4129. Lo yakiniku nato a Kyoto (dal 1965): wagyu nero alla griglia al tavolo, intinto nella famosa salsa-brodo di ossa di manzo della casa, poi lingua al sale e chige udon o ramen per chiudere. **Set da 7.500-8.000 ¥ a testa**, dentro il tetto; turni di 2 ore. A 2 minuti da Gion-Shijo, all'imbocco di Miyagawacho, ~12 minuti a piedi dal KABIN. Feriali dalle 17:00; aperto tutto l'anno (una fonte indica chiusura la vigilia dei festivi: il 26/11 non lo è). Sostituisce **Tan** (cucina di stagione, più raffinata che abbondante), che a sua volta sostituiva THE KAISEKI, chiuso dal 30/9. Alternativa: **Miyagawa Tonemon**, tonkatsu nella lista Tabelog 100 2026, ~3-4.000 ¥, a 5 minuti da Kiyomizu-Gojo, [TableCheck](https://www.tablecheck.com/miyagawatonemon).
 - [ ] **Mishima-tei, Kyoto, sukiyaki di wagyu, pranzo del 30/11** 🌟🎫 -- online su [Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26000646/) (3.64, 878 recensioni; nella guida Michelin, senza stelle). **Lunch Course 8.591 ¥** con tasse e servizio: la cena (17.545 ¥) supera il tetto, per questo è passato a pranzo. Turno delle **11:30**. Se online non c'è posto, telefono **+81 75-221-0003** (tra le 03:00 e le 08:00 italiane): *"Jūichi-gatsu sanjū-nichi, gozen jūichi-ji han, futari, onegai shimasu"* = "30 novembre, alle 11:30, due persone".
-- [ ] **Monjayaki a Tsukishima, 05/12, turno 18:00** 📞 -- **Monja Kondo Honten**, [Tabelog](https://tabelog.com/en/tokyo/A1313/A131302/13012771/) (3.49, la più antica di Tsukishima, dal 1950, ~3.000 ¥). È sabato: prenotate, tel. 03-3533-4555. Limite 15 novembre.
 - [x] **Sushi omakase di fine viaggio, Sushiya Shota, 08/12 alle 20:00** 🌟🎫💶 -- ✅ **Prenotato su Tabelog** (codice in PRIVATO.md), 2 persone, Omakase Course da 20 portate. Azabu-Juban, [Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/) (3.72), nella guida Michelin, oggi senza stella, 7 posti al banco. **Si paga al ristorante: 17.600 ¥ a testa + 1.100 ¥ di servizio, 37.400 ¥ in due senza bevande**, fuori tetto per scelta. Controllate i metodi di pagamento accettati, o portate contanti. Già pagati 880 ¥ di costo del servizio Tabelog, non rimborsabili. **Cancellazione gratuita fino al 7/12 alle 05:59 JST (6/12 alle 21:59 italiane)**; il giorno prima 50%, il giorno stesso o senza presentarsi 100%. Modifiche dal link nell'email di conferma.
 - [ ] **Maguro Mart, Nakano, cena del 20/11 (facoltativa)** 📞 -- [Tabelog](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) (3.63, ~4-5.000 ¥), izakaya tutto tonno consigliato da Camilla: "bisogna prenotare, è tostissima". Prenotazioni 30 giorni prima, a mezzogiorno ora giapponese (04:00 italiane): per il 20/11 sono già aperte. Tel. 050-5597-6557. Se col piano B meteo il Fuji passa al 21/11, spostate o cancellate.
 - [ ] **Shigetsu, pranzo del 27/11 alle 11:30** 🌟🎫 -- [Tabelog](https://tabelog.com/en/kyoto/A2601/A260403/26000923/) (3.58, Bib Gourmand Michelin). Cucina buddista *shojin ryori* dentro il giardino del Tenryu-ji, ~3-4.000 ¥ più 500 ¥ di ingresso al giardino. Tre menu (Yuki, Tsuki, Hana): il Tsuki va prenotato entro il giorno prima. Prenotazione su omakaseje.com o al +81 75-882-9725, almeno 3 giorni prima. Chiuso il giovedì; il 27/11 è venerdì.
@@ -174,7 +173,7 @@ subtitle: 18 Novembre - 9 Dicembre
 
 - Controllate le **webcam del Fuji** la sera del 19/11.
 - **Se il 20/11 è coperto:** scambiate con il 21/11 (Tokyo Est). Decidete **entro le 21:00 JST del 19/11** (13:00 italiane): fino ad allora Azusa 3 e Kaiji 48 si cancellano gratis. Per il 21, sabato del ponte, ricomprate i posti sul sito o alla macchinetta: saranno pochi. Oppure fate una giornata lenta a Kawaguchiko: onsen con vista lago e Museo Kubota Itchiku.
-- **Shinkansen del 24/11 e del 05/12:** nessuna azione, il Fuji è un bonus in corsa.
+- **Shinkansen del 24/11:** nessuna azione, il Fuji è un bonus in corsa. Il 05/12 si viaggia col buio.
 
 ## Previsioni foliage 2026
 
@@ -249,7 +248,7 @@ ITA Airways AZ 793 -- codice prenotazione in PRIVATO.md
 
 - **Quando:** **mercoledì 2 dicembre, la sera al rientro**: valigie chiuse alla reception del KABIN Kyoto, che le affida al corriere il giorno dopo. ✅ **Confermato dal KABIN:** potete portarle alla reception il 2/12 e il personale vi guida in prenotazione e pagamento. Corrieri convenzionati: **Tebura-kun** (consegna entro le 11:00 del 3/12) o **K-RISE** (entro le 15:00 del 3/12). Rispettando questi orari, arrivano allo Shiba Park il 4/12. Prezzi e metodi di pagamento dipendono dal corriere: chiedeteli alla reception. 💴 Chiedete la spedizione **prepagata** (*motobarai*, 元払い): pagate voi alla partenza, non l'hotel di arrivo alla consegna (*chakubarai*, 着払い).
 - **Destinazione:** Shiba Park Hotel, consegna 4 o 5 dicembre. Osaka solo con trolley piccolo e zaino.
-- ✅ **Confermato dallo Shiba Park Hotel:** riceve le due valigie il 4/12 e le custodisce fino al vostro arrivo del 5/12 (~16:30, orario comunicato).
+- ✅ **Confermato dallo Shiba Park Hotel:** riceve le due valigie il 4/12 e le custodisce fino al vostro arrivo del 5/12 (~22:30; era stato comunicato 16:30: avvisate l'hotel dell'arrivo tardo).
 
 ## Facoltativa, Tokyo -> Haneda
 
@@ -313,7 +312,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 | 20/11 ven | Cena | 20:15 | Facoltativa: **Maguro Mart**, Nakano (izakaya tutto tonno, 3.63, ~4-5.000 ¥), a 5 minuti di treno da Shinjuku. Altrimenti, appena scesi a Shinjuku: 📸 **Kakekomi Gyoza**, Kabukicho (gyoza e birra, aperto 24 ore, ~3.300-5.000 ¥) o 📸 **Pasta Mama** (pasta alla giapponese, orari da verificare) | 🎫 se Maguro Mart | [Maguro Mart](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) | Fuori finestra per i tempi di rientro. Consiglio di Camilla, si prenota con difficoltà | 🔍 Filiale non verificata (attorno alla stazione di Nakano ce ne sono diverse): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7066,139.6658,16z) |
 | 21/11 sab | Pranzo | 11:30 | **Komagata Maekawa**, Asakusa (unagi, vista sul Sumida) — alt. più leggera: **Onigiri Asakusa Yadoroku** (3.49, Bib Gourmand Michelin, la più antica onigiri di Tokyo, dal 1954, ~1.000 ¥, solo contanti, niente prenotazioni) — alt. sushi: 📸 **Tsune Zushi** (sushi di quartiere, ~1.500 ¥, a 5 minuti dalla stazione di Asakusa; orari da verificare) | 📞 Consigliata | [Tabelog](https://tabelog.com/en/tokyo/A1311/A131102/13003666/) · [Yadoroku](https://tabelog.com/en/tokyo/A1311/A131102/13024859/) | Tabelog 3.46. Prenotazione online. Prendete l'unaju (~6-8.000 ¥), non il kaiseki da 12.000 ¥ | **Tenya Asakusa**, tra Kaminarimon e Tawaramachi, tel. 03-5828-5918 (sab 10:00-23:00; si è spostato nell'edificio accanto) · [Tenya sulla mappa](https://www.google.com/maps/search/%E5%A4%A9%E4%B8%BC%E3%81%A6%E3%82%93%E3%82%84/@35.7105,139.7945,16z) |
 | 21/11 sab | Cena | 17:45 | **Tonkatsu** da **Ponta Honke**, Ueno (dal 1905, cotoletta fritta a bassa temperatura) — alt. a Nezu: **Nezu Kamachiku** (3.66, udon e sakè in un magazzino in mattoni del 1910) | 📞 Consigliata | [Ponta Honke](https://tabelog.com/en/tokyo/A1311/A131101/13003587/) · [Kamachiku](https://tabelog.com/en/tokyo/A1311/A131106/13020252/) | Tabelog 3.77, Tabelog 100 tonkatsu e yoshoku, ~4-5.000 ¥. Ultima ordinazione 19:45. Prenotazione online, carte accettate | 🔍 Filiale non verificata (Ueno-Okachimachi ne è pieno): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7076,139.7727,16z) |
-| 22/11 dom | Pranzo | 11:45 | A Shibuya, appena scesi da Shibuya Sky: 📸 **Sushi Hicho** (pranzo omakase da 7.590 ¥, 11:30-15:00) o 📸 **Espresso D'Works yellow** (omurice con hamburger e formaggio, 2.288 ¥, Tabelog ~3.2), oppure 📸 **FOODIES SCRAMBLE** al 13° dello Scramble Square. Se preferite pranzare a Harajuku (~15 min a piedi): **Harajuku Gyoza Ro** (3.49, ~1.500 ¥) o **Pretty Pork Factory** (3.74, tonkatsu, ~3-4.000 ¥) | 📞 Consigliata se Sushi Hicho | [Gyoza Ro](https://tabelog.com/en/tokyo/A1306/A130601/13001284/) · [Pretty Pork](https://tabelog.com/en/tokyo/A1306/A130601/13295369/) · [Marion](https://tabelog.com/en/tokyo/A1306/A130601/13088711/) | Sushi Hicho è a 2 minuti dalla stazione di Shibuya: meglio prenotare per le 11:45 | 🔍 Filiale non verificata (Shibuya ne è pieno): [Fujisoba sulla mappa](https://www.google.com/maps/search/%E5%AF%8C%E5%A3%AB%E3%81%9D%E3%81%B0/@35.6585,139.7015,16z) |
+| 22/11 dom | Pranzo | 12:30 | 📸 **Tonkatsu** da **Pretty Pork Factory & Katsu Puripo**, Harajuku (5° piano di Tokyu Plaza Harakado): tonkatsu di maiale di marca | ✅ Prenotato | [Pretty Pork](https://tabelog.com/en/tokyo/A1306/A130601/13295369/) | Tabelog 3.74. **Brand Pork Tonkatsu Seat da 4.500 ¥ a testa** (si sceglie il tonkatsu tra 4.500 e 8.000 ¥), 10% di servizio, da pagare al ristorante; 880 ¥ già pagati a Tabelog, non rimborsabili. **Tempo al tavolo 1 ora**. Tel. 03-6805-0290. Fuori tetto solo se scegliete i tagli più cari. Eccezione orario: dopo Shibuya Sky. Alt. se saltasse: **Harajuku Gyoza Ro** (3.49, ~1.500 ¥) | 🔍 Filiale non verificata (Harajuku ne ha poche): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6693,139.7035,16z) |
 | 22/11 dom | Cena | 18:00 | **Pizza** da 📸 **SHOGUN PIZZA**, Spain-zaka (Udagawacho 13-4, piano terra, 25 posti) — se piove: 📸 piani ristoranti **FOODIES SCRAMBLE** al 13° dello **Shibuya Scramble Square** (sushi, okonomiyaki, soba), lo stesso edificio di Shibuya Sky. Altre alternative: **Yakiniku Horumon Arai Ya** (3.67, ~6-8.000 ¥), **Tonkatsu Nagi** (3.63, ~5-6.000 ¥) | ✅ Walk-in | [Shogun Pizza](https://haveagood-holiday.com/en/articles/shogun-pizza-shibuya-opening) · [Arai Ya](https://tabelog.com/en/tokyo/A1303/A130301/13237382/) · [Nagi](https://tabelog.com/en/tokyo/A1303/A130301/13319750/) | ~1.000-2.000 ¥. 11:00-22:00 o 23:00 (le fonti non concordano), tel. 03-6416-1553. 6 minuti a piedi dalla stazione. Dopo Shimokitazawa e lo Scramble Crossing | 🔍 Filiale non verificata: [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6614,139.6989,16z) |
 | 23/11 lun | Pranzo | 11:30 | **AFURI Nakameguro** (yuzu shio ramen) + Starbucks Reserve Roastery — alt. 📸 **Blocks de Gamin**, bistrot francese a Nakameguro (pranzo dalle 12:00, da 3.960 ¥; chiuso mar e mer, il 23/11 è aperto) o 📸 **Ko Sushi**, Nishi-Shinjuku 7-7-22, a conduzione familiare (set di 10 pezzi 1.700 ¥, uscendo da Shinjuku Gyoen; apertura nel festivo da verificare) | ✅ Walk-in (si fa la fila) | [AFURI](https://tabelog.com/en/tokyo/A1317/A131701/13129706/) · [Roastery](https://tabelog.com/en/tokyo/A1317/A131701/13231942/) | ⚠️ Solo pagamento cashless | A Nakameguro davanti alla stazione c'è **MOS Burger**; le altre catene no · [MOS Burger sulla mappa](https://www.google.com/maps/search/%E3%83%A2%E3%82%B9%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC/@35.644,139.699,16z) |
 | 23/11 lun | Cena | 17:30 | **Tempura** da **Funabashiya Shinjuku Honten** (dal 1886, fritta nell'olio di sesamo) — alt. oden da **Itteki Hassenya** (3.62, ~4-5.000 ¥) | 📞 Consigliata, è festivo | [Funabashiya](https://tabelog.com/en/tokyo/A1304/A130401/13012090/) · [Itteki Hassenya](https://tabelog.com/en/tokyo/A1304/A130401/13000760/) | Tabelog 3.49, Tabelog 100 tempura 2022, ~4-5.000 ¥. Aperto tutti i giorni 11:30-21:00, a 1 minuto da Shinjuku-sanchome. Scartato Gyutan Iroha: 3.24, e su Tabelog risulta locale per fumatori. Omoide Yokocho resta una passeggiata per le foto | **Fujisoba Sankocho** (Shinjuku 5-16-5, 24 ore), a pochi minuti da Shinjuku-sanchome · [Fujisoba sulla mappa](https://www.google.com/maps/search/%E5%AF%8C%E5%A3%AB%E3%81%9D%E3%81%B0/@35.6914,139.703,16z) |
@@ -353,14 +352,14 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 | Data | Pasto | Ingresso | Locale proposto | Prenotazione | Tabelog | Note | Catena vicina |
 |---|---|---|---|---|---|---|---|
 | 04/12 ven | Pranzo | 11:45 | **Kuromon Ichiba Market**, a spizzico, in piena stagione del granchio reale: due o tre assaggi, non un pranzo intero. Kuromon è diventato molto turistico e caro, con prezzi al pezzo sopra quelli dei ristoranti. Un banco di granchio, uno di wagyu, uno di uni/ikura. Per kushikatsu seduti a Shinsekai: **Yaekatsu** (dal 1949, 3.49, solo contanti, chiuso il giovedì) invece di Kushikatsu Daruma (iconico ma turistico) | ✅ Walk-in | [Kuromon su Tabelog](https://tabelog.com/osaka/A2701/A270202/PS109/rstLst/lunch/) · [Yaekatsu](https://tabelog.com/osaka/A2701/A270206/27000443/) · [Daruma](https://tabelog.com/en/osaka/A2701/A270206/27004260/) | Partite dai banchi con la coda più corta. ⚠️ Il granchio reale al pezzo costa caro: fissate un tetto | **Matsuya Namba Sennichimae** (Namba Sennichimae 14-14) o **Sukiya Namba Sennichimae**, ~5 min da Kuromon · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@34.6654,135.5066,16z) |
-| 04/12 ven | Cena | 19:30 | 📸 **Namba Ramen Ichiza**, 9° piano dell'Edion Namba: 9 ramen-ya sotto lo stesso tetto, tra cui Bettei Takei (tsukemen al brodo di pesce), Kaneda (paitan di pollo cremoso) e Gyukkoshi (paitan di manzo wagyu). Oppure **Takoyaki Doraku Wanaka** (8 pezzi ~¥700; non è nella guida Michelin attuale) o **Takohachi** (takoyaki+okonomiyaki, 3.30); okonomiyaki seduti: **Fukutarou Honten** (3.71, il più votato della zona) o **Chibo** (3.2) | ✅ Walk-in | [Ramen Ichiza](https://ramen-ichiza.edion.com/en/) · [Wanaka](https://tabelog.com/en/osaka/A2701/A270202/27104548/) · [Takohachi](https://tabelog.com/osaka/A2701/A270202/27076174/) · [Fukutarou](https://tabelog.com/en/osaka/A2701/A270202/27002665/) · [Chibo](https://tabelog.com/osaka/A2701/A270202/27002622/) | Eccezione orario: dopo teamLab. 💡 Evitate i banchi sotto l'insegna Glico: spostatevi verso Soemoncho | **Marugame Seimen Namba** (Nambanaka 1-16-8) o **Yoshinoya Namba CITY Minamikan** · [Marugame Seimen sulla mappa](https://www.google.com/maps/search/%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%BA/@34.6657,135.5018,16z) |
+| 04/12 ven | Cena | 21:30 | **Street food** a Dotonbori dopo la crociera (takoyaki, okonomiyaki, kushikatsu), con una merenda a Umeda alle 16:00 prima del teamLab — alt. seduti: 📸 **Namba Ramen Ichiza**, 9° piano dell'Edion Namba: 9 ramen-ya sotto lo stesso tetto, tra cui Bettei Takei (tsukemen al brodo di pesce), Kaneda (paitan di pollo cremoso) e Gyukkoshi (paitan di manzo wagyu). Oppure **Takoyaki Doraku Wanaka** (8 pezzi ~¥700; non è nella guida Michelin attuale) o **Takohachi** (takoyaki+okonomiyaki, 3.30); okonomiyaki seduti: **Fukutarou Honten** (3.71, il più votato della zona) o **Chibo** (3.2) | ✅ Walk-in | [Ramen Ichiza](https://ramen-ichiza.edion.com/en/) · [Wanaka](https://tabelog.com/en/osaka/A2701/A270202/27104548/) · [Takohachi](https://tabelog.com/osaka/A2701/A270202/27076174/) · [Fukutarou](https://tabelog.com/en/osaka/A2701/A270202/27002665/) · [Chibo](https://tabelog.com/osaka/A2701/A270202/27002622/) | Eccezione orario: dopo teamLab (ingresso 18:00) e crociera. Gli stand di takoyaki chiudono di solito verso le 22:00-23:00. 💡 Evitate i banchi sotto l'insegna Glico: spostatevi verso Soemoncho | **Marugame Seimen Namba** (Nambanaka 1-16-8) o **Yoshinoya Namba CITY Minamikan** · [Marugame Seimen sulla mappa](https://www.google.com/maps/search/%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%BA/@34.6657,135.5018,16z) |
 
 ## Tokyo, seconda tappa (5-9 dicembre, inclusa gita a Kamakura)
 
 | Data | Pasto | Ingresso | Locale proposto | Prenotazione | Tabelog | Note | Catena vicina |
 |---|---|---|---|---|---|---|---|
-| 05/12 sab | Pranzo | 12:00 | Tempozan Marketplace, accanto al Kaiyukan — 🔍 da scegliere | ✅ Walk-in | — | Pranzo veloce: alle 12:45 si riparte per la stazione | 🔍 Filiale non verificata (zona Osakako, pochi locali oltre il Tempozan): [Yoshinoya sulla mappa](https://www.google.com/maps/search/%E5%90%89%E9%87%8E%E5%AE%B6/@34.6545,135.4289,16z) |
-| 05/12 sab | Cena | 18:00 | Monjayaki da **Monja Kondo Honten**, Tsukishima (la più antica del quartiere, dal 1950) | 📞 Consigliata, è sabato | [Tabelog](https://tabelog.com/en/tokyo/A1313/A131302/13012771/) | Tabelog 3.49, ~3.000 ¥. Il piatto tipico di Tokyo, cotto da voi sulla piastra del tavolo. Il tramonto lo vedete dallo Shinkansen | 🔍 Filiale non verificata: [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.664,139.783,16z) |
+| 05/12 sab | Pranzo | 13:45 | Tempozan Marketplace, accanto al Kaiyukan — 🔍 da scegliere | ✅ Walk-in | — | Pranzo tardo dopo l'acquario (ingresso 10:45-11:00): se la fame arriva prima, uno spuntino nel Marketplace | 🔍 Filiale non verificata (zona Osakako, pochi locali oltre il Tempozan): [Yoshinoya sulla mappa](https://www.google.com/maps/search/%E5%90%89%E9%87%8E%E5%AE%B6/@34.6545,135.4289,16z) |
+| 05/12 sab | Cena | 19:30 | **Ekiben** comprato alla stazione di **Shin-Osaka** e mangiato sullo Shinkansen (Nozomi delle 19:30) | ✅ Walk-in | — | Eccezione orario: cena in treno. Scegliete i bento tra le 18:15 e le 19:15; portate acqua o tè e salviette. Il monjayaki di Tsukishima è stato tolto dal piano | Nessuna catena: si compra in stazione. Piano B: konbini in stazione |
 | 06/12 dom | Pranzo | 12:45 | **Ramen** *tori paitan* da **Ginza Kagari Honten** — alt. **Mugi to Olive** (3.76, ramen al brodo di pollo, vongole e olio d'oliva; chiuso il mercoledì) | ✅ Walk-in, si fa la fila | [Kagari](https://tabelog.com/en/tokyo/A1301/A130101/13230021/) · [Mugi to Olive](https://tabelog.com/en/tokyo/A1301/A130101/13164932/) | Tabelog 3.66, ~1.000-2.000 ¥. Aperto tutti i giorni dalle 11:00. Tsukiji è passato alla colazione dell'8/12 (vedi Spuntini): la domenica molti banchi sono chiusi | 🔍 Filiale non verificata: [Yoshinoya sulla mappa](https://www.google.com/maps/search/%E5%90%89%E9%87%8E%E5%AE%B6/@35.6712,139.7614,16z) |
 | 06/12 dom | Cena | 16:30 | 📸 **Tonkatsu** da **Nihonbashi Tonkatsu Hajime HANARE**, Nihonbashi-Muromachi 1-11-15, UNO Bldg (costata di maiale spessa) | ✅ Walk-in (non prende prenotazioni) | — | Google 4,3 (567 recensioni), ~2.000-3.000 ¥. Domenica 09:00-20:00. A 3 minuti da Mitsukoshimae. Dopo cena, Rikugien | 🔍 Filiale non verificata: [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6866,139.7738,16z) |
 | 07/12 lun | Pranzo | 11:45 | Shirasu-don a Kamakura, zona stazione e Komachi-dori — 🔍 da scegliere | ✅ Walk-in | [Tobiccho](https://tabelog.com/kanagawa/A1404/A140403/14000795/) | Gita a Kamakura. Col nuovo ordine (Kita-Kamakura la mattina) a Enoshima arrivate alle 15:00: **Tobiccho** (3.49, il più noto per la shirasu) non è più comodo per pranzo | 🔍 Filiale non verificata: alla stazione di Kamakura non ne risultano, la più vicina Sukiya è a Ofuna: [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.3192,139.5502,16z) |
@@ -457,11 +456,12 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 - **08:00 -- 09:45** 🌟✅ **Meiji Jingu:** santuario shintoista nel bosco. Ingresso libero. La domenica mattina presto è tranquillo, e potreste vedere un matrimonio shintoista.
 - 🚃 *Trasferimento:* JR Yamanote Line da Harajuku a Shibuya, una fermata, poi l'ingresso di Shibuya Sky al 14° piano dello **Shibuya Scramble Square** (~20 min in tutto). Lì entro le 10:25.
 - **10:40 -- 11:45** 🌟🎫 **Shibuya Sky:** ingresso **10:40**, nessun limite di permanenza. Di mattina il Fuji si vede più spesso: guardate a sud-ovest. Borse grandi negli armadietti, sulla terrazza non si porta niente in mano.
-- **11:45 -- 12:45** *Pranzo a Shibuya:* 📸 **Sushi Hicho** (pranzo omakase, a 2 minuti dalla stazione, meglio prenotare) o l'omurice di 📸 **Espresso D'Works**. Senza uscire dall'edificio: 📸 **FOODIES SCRAMBLE**, 13° piano dello Scramble Square.
-- **13:00 -- 13:30** ✅ A piedi verso nord lungo **Cat Street** (~15 min) fino a **Omotesando**, poi lungo il viale verso **Aoyama**, con l'architettura delle boutique (Tod's di Toyo Ito, Prada di Herzog & de Meuron).
-- **13:30 -- 14:45** 🌟🎫 **Nezu Museum**, in fondo a Omotesando: il giardino col laghetto, le case da tè e gli aceri al loro meglio, il caffè con la vetrata sul giardino, l'edificio di Kengo Kuma. Mostra *Bugaku Costumes*, i costumi della danza di corte, fino al 23/11. ~1.600 ¥ online, **prenotazione a fascia oraria** (13:30): la domenica del ponte, senza prenotazione si rischia di restare fuori. Il giardino si visita solo col biglietto del museo. Takeshita Street è stata tolta per fargli spazio.
+- **11:45 -- 12:25** ✅ A piedi da Shibuya verso nord lungo **Cat Street** (~25 min) fino a **Harakado**, il centro commerciale Tokyu Plaza Harajuku (Jingumae 6-31-21). Arrivate entro le 12:25: il ristorante è al 5° piano e il tavolo è per le 12:30.
+- **12:30 -- 13:30** 🎫 *Pranzo:* 📸 **Pretty Pork Factory & Katsu Puripo**, tonkatsu di maiale di marca, 5° piano di Harakado (506). ✅ Prenotato su Tabelog (codice in PRIVATO.md), 2 persone, **tempo al tavolo 1 ora**: puntuali.
+- **13:30 -- 14:00** ✅ A piedi verso **Omotesando** e lungo il viale verso **Aoyama** (~20 min fino al museo), con l'architettura delle boutique (Tod's di Toyo Ito, Prada di Herzog & de Meuron).
+- **14:00 -- 15:15** 🌟🎫 **Nezu Museum**, in fondo a Omotesando: il giardino col laghetto, le case da tè e gli aceri al loro meglio, il caffè con la vetrata sul giardino, l'edificio di Kengo Kuma. Mostra *Bugaku Costumes*, i costumi della danza di corte, fino al 23/11. ~1.600 ¥ online, **prenotazione a fascia oraria** (14:00): la domenica del ponte, senza prenotazione si rischia di restare fuori. Il giardino si visita solo col biglietto del museo. Takeshita Street è stata tolta per fargli spazio.
 - 🚇 *Trasferimento:* a piedi alla stazione di Omotesando (~8 min), Ginza o Hanzomon Line fino a Shibuya, cambio Keio Inokashira Line fino a Shimokitazawa (~25 min).
-- **15:15 -- 17:15** 🔄✅ **Shimokitazawa**, il primo assaggio di Tokyo Ovest: vintage, dischi e boutique indie, con le luci che si accendono dopo il tramonto delle 16:30. Poi Keio Inokashira Line fino a Shibuya (~5 min).
+- **15:45 -- 17:15** 🔄✅ **Shimokitazawa**, il primo assaggio di Tokyo Ovest: vintage, dischi e boutique indie, con le luci che si accendono dopo il tramonto delle 16:30. Poi Keio Inokashira Line fino a Shibuya (~5 min).
 - **17:30 -- 18:00** ✅ Shibuya Crossing e statua di Hachiko, già col buio e le insegne accese.
 - **18:00 -- 20:00** *Cena:* pizza da 📸 **SHOGUN PIZZA**, a Spain-zaka (~6 min a piedi dallo Scramble Crossing). Se piove, 📸 ristoranti al 13° piano dello **Shibuya Scramble Square**.
 - 🚇 **Rientro in hotel:** JR Yamanote Line da Shibuya a Shinjuku, cambio Toei Oedo Line fino a Iidabashi (~20-25 min).
@@ -672,7 +672,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 
 ## Venerdì 04 dicembre -- Trasferimento a Osaka, in modalità leggera
 
-> 🍽️ ⚠️ **Eccezione cena:** teamLab è un'esperienza notturna, la cena a Dotonbori è dopo le 19:15.
+> 🍽️ ⚠️ **Eccezione cena:** teamLab (ingresso 18:00) e la crociera vengono prima, la cena è street food a Dotonbori dopo le 21:30. Merenda a Umeda alle 16:00.
 
 - 🚇 **Check-out al banco alle 07:40 (reception aperta 24 ore, confermato), partenza dal KABIN alle 08:05.** Karasuma Line da Gojo a Kyoto, una fermata (ascensori, comodo col trolley), oppure taxi (~10-15 min). Evitate i bus 4, 17 e 205: il venerdì mattina sono pieni.
 - **08:30 -- 09:00** ✅ JR Special Rapid Kyoto -> Osaka (~29 min, ogni 15 minuti circa). ⚠️ Ora di punta: col trolley cercate una corsa con carrozza **A-Seat** (840 ¥, 600 ¥ ticketless su e5489). Il treno non è prenotato: se arriva troppo pieno, lasciatelo passare e prendete il successivo. In alternativa Shinkansen fino a Shin-Osaka (posti non riservati, più caro) + Midosuji. 📸 Il treno Garaku il venerdì non circola (vedi Trasporti).
@@ -683,29 +683,35 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 - **11:45 -- 13:00** 🌟 *Pranzo:* **Kuromon Market** a spizzico, vedi tabella pasti.
 - **13:00 -- 13:45** ✅ **Shinsekai** e **Tsutenkaku Tower**, la Osaka anni Cinquanta. A piedi da Kuromon (~15 min). 💡 Kushikatsu: **non si intinge due volte** nella salsa comune.
 - 🚇 **13:45 -- 14:15** *Rientro in hotel:* Midosuji Line da Dobutsuen-mae a Umeda, poi a piedi all'Aloft (~30 min).
-- **14:15 -- 16:30** 🔄 Check-in all'**Aloft** (dalle 15:00) e riposo: la serata è lunga e all'aperto. Il Kaiyukan è passato al 5/12 mattina.
-- 🚇 **16:30 -- 17:15** *Trasferimento a Nagai:* Midosuji Line da Umeda a Nagai, ~10 min a piedi (~35 min).
-- **17:30 -- 19:15** 🌟🎫 **teamLab Botanical Garden:** slot 17:30-18:00. Installazioni luminose nel parco botanico di Nagai. ⚠️ **All'aperto e al freddo**.
-- **19:30 -- 21:15** *Dotonbori e cena:* insegne al neon, Glico Man, takoyaki e okonomiyaki, oppure ramen da 📸 **Namba Ramen Ichiza**, 9° piano dell'Edion Namba (~5 min a piedi). Midosuji da Nagai a Namba (~20 min). 💡 Se arrivate in tempo, **Tombori River Cruise** (~20 min) dal molo della ruota Don Quijote, ultima corsa ~21:00.
-- **21:15 -- 22:00** 🌟✅ **Hozen-ji Yokocho:** vicolo di lanterne a due minuti da Dotonbori, col **Mizukake Fudo** ricoperto di muschio da bagnare con un mestolo d'acqua esprimendo un desiderio.
+- **14:15 -- 16:00** 🔄 Check-in all'**Aloft** (dalle 15:00) e riposo: la serata è lunga e all'aperto. Il Kaiyukan è passato al 5/12.
+- **16:00 -- 16:45** 🍡 *Merenda a Umeda* (piani interrati di Hankyu o Daimaru, o takoyaki): qualcosa di caldo e sostanzioso, perché la cena è tardi e al teamLab si sta al freddo.
+- 🚇 **17:00 -- 17:45** *Trasferimento a Nagai:* Midosuji Line da Umeda a Nagai, ~10 min a piedi (~35 min).
+- **18:00 -- 19:45** 🌟🎫 **teamLab Botanical Garden:** ✅ prenotato, ingresso **18:00** (valido fino alle 20:30, niente rientro), 2 adulti, 4.000 ¥, codici in PRIVATO.md. Installazioni luminose nel parco botanico di Nagai. QR visibile da 24 ore prima: screenshot e telefono carico. ⚠️ **All'aperto e al freddo**. Uscite entro le 19:45.
+- 🚇 **19:45 -- 20:40** *Trasferimento a Dotonbori:* Midosuji da Nagai a Namba (~20 min), poi a piedi fino al molo della ruota Don Quijote (~5 min).
+- **20:40 -- 21:00** *Spuntino al volo* lungo Dotonbori (un assaggio di takoyaki) e foto al **Glico Man**, camminando verso il check-in della crociera. La cena vera è dopo.
+- **21:00 -- 21:30** 🎫 **Crociera sul fiume Dotonbori** (20 min, guida in inglese), ✅ prenotata su Booking.com, **partenza 21:10**, 2 adulti, 23,12 €, **non rimborsabile**. Il biglietto si ritira al check-in, a pochi minuti a piedi dal molo di **Minomachi (A)**, Nishishinsaibashi 2-6: arrivateci **entro le 21:00**, il punto esatto è nella foto del voucher. Non è il molo della ruota Don Quijote usato in precedenza nel piano: seguite il voucher.
+- **21:30 -- 22:15** 🌟 *Cena a street food:* insegne al neon, Glico Man, takoyaki, okonomiyaki e kushikatsu, oppure ramen da 📸 **Namba Ramen Ichiza**, 9° piano dell'Edion Namba (~5 min a piedi).
+- **22:15 -- 22:45** 🌟✅ **Hozen-ji Yokocho:** vicolo di lanterne a due minuti da Dotonbori, col **Mizukake Fudo** ricoperto di muschio da bagnare con un mestolo d'acqua esprimendo un desiderio.
 - 🚇 **Rientro in hotel:** Yotsubashi Line da Namba a Higobashi (~10 min).
 - 🏨 **Aloft by Marriott Osaka Dojima**
 
 ---
 
-## Sabato 05 dicembre -- Mattina a Osaka, Shinkansen del pomeriggio e serata a Tokyo 🌤️
+## Sabato 05 dicembre -- Osaka senza fretta, Shinkansen serale con cena ekiben
 
-- **08:30 -- 09:15** 🔄✅ Check-out al banco alle 08:30, trolley in custodia alla reception, poi **passeggiata a Nakanoshima**, a due passi dall'Aloft: ponte sul fiume Dojima, **Osaka City Central Public Hall** (1918) e **Biblioteca di Nakanoshima** (1904).
-- 🚇 **09:15 -- 09:45** *Trasferimento in baia:* Yotsubashi Line da Higobashi a Hommachi, cambio Chuo Line fino a Osakako, ~7 min a piedi (~30 min).
-- **10:00 -- 12:00** 🌟🎫 **Kaiyukan (Osaka Aquarium):** spirale su 8 piani attorno alla vasca dello squalo balena, ~2.700-3.200 ¥ secondo la data. Biglietto online con **fascia oraria** (in vendita 30 giorni prima): prendete l'ingresso delle 10:00, all'apertura. Il giorno stesso i biglietti sono limitati. Riverificate l'orario sul calendario ufficiale.
-- **12:00 -- 12:45** *Pranzo* al **Tempozan Marketplace**, accanto all'acquario.
-- 🚇 **12:45 -- 13:45** *Rientro e stazione:* Chuo Line fino a Hommachi, Yotsubashi Line fino a Higobashi, ritiro del trolley all'Aloft, poi taxi fino a Shin-Osaka (~15 min). Taxi **entro le 13:20**: a Shin-Osaka verso le 13:40. Se il Kaiyukan vi trattiene, saltate il pranzo seduti, non il margine.
-- **14:00 -- 16:30** 🎫🌤️ Shinkansen Tokaido Shin-Osaka -> Tokyo, Nozomi. Su smartEX scegliete una corsa **tra le 14:00 e le 14:20, non prima**: è sabato, niente ora di punta, e 20 minuti in stazione bastano. L'orario esatto arriva il 5/11: ricalcolate la giornata. **Coppia D+E**, E finestrino: il Fuji sarà a sinistra **circa 1h40 dopo la partenza (~15:40)**, tra Shizuoka e Shin-Fuji, prima del tramonto delle 16:30. Di pomeriggio è più spesso tra le nuvole.
-- **16:30 -- 17:30** **Shiba Park Hotel**, check-in e **ritiro delle valigie grandi**. 🚶 JR Yamanote/Keihin-Tohoku Line fino a Hamamatsucho (~7 min) + 10 min a piedi.
-- 🚇 **17:30 -- 18:00** *Trasferimento a Tsukishima:* Toei Oedo Line da Akabanebashi a Tsukishima (~12 min).
-- **18:00 -- 19:45** 🌟 *Cena:* monjayaki da **Monja Kondo Honten**, lungo la Nishinaka-dori, la via della monja.
-- 🚇 *Rientro:* Toei Oedo Line da Tsukishima ad Akabanebashi (~12 min).
-- **20:15 -- 21:30** 🔄✅ **Tokyo Tower illuminata** e il tempio **Zojo-ji** con la torre alle spalle, dietro l'hotel. Salita all'osservatorio facoltativa: verificate l'orario serale.
+> 🌙 La sera del 4/12 si fa tardi (teamLab, Dotonbori): mattina libera e Osaka fino al tramonto, poi rientro in treno a sera, con la cena in treno. Il Fuji non si vede: è buio.
+
+- **09:00 -- 10:00** 🔄✅ Sveglia con calma, colazione, check-out al banco entro le 11:00 (chiedete all'Aloft un late check-out se serve), trolley in custodia alla reception. Se avete voglia, **passeggiata a Nakanoshima**, a due passi dall'Aloft: ponte sul fiume Dojima, **Osaka City Central Public Hall** (1918) e **Biblioteca di Nakanoshima** (1904).
+- 🚇 **10:00 -- 10:40** *Trasferimento in baia, uscite dall'hotel alle 10:00:* Yotsubashi Line da Higobashi a Hommachi, cambio Chuo Line fino a Osakako, ~7 min a piedi (~30 min).
+- **10:45 -- 13:45** 🌟🎫 **Kaiyukan (Osaka Aquarium):** spirale su 8 piani attorno alla vasca dello squalo balena, ~2.700-3.200 ¥ secondo la data. ✅ **Prenotato il 13 novembre** sul sito ufficiale (Webket): 2 adulti, **fascia 10:45-11:00**, 5.600 ¥. Il QR è in Webket (My Page) e nell'email: screenshot e telefono carico. Entrate nella fascia, non prima né dopo; niente rientro. Con calma, senza guardare l'orologio.
+- **13:45 -- 14:45** *Pranzo* al **Tempozan Marketplace**, accanto all'acquario.
+- **14:45 -- 15:30** 🔄✅ **Ruota panoramica di Tempozan** (circa 15 minuti, tra le più grandi del mondo), oppure crociera sulla baia con la **Santa Maria**. Biglietto in loco.
+- 🚇 **15:30 -- 16:15** *Trasferimento a Umeda:* Chuo Line fino a Hommachi, Midosuji Line fino a Umeda, poi ~10 min a piedi fino all'Umeda Sky Building (~45 min).
+- **16:15 -- 17:30** 🌟✅ **Umeda Sky Building:** il **Floating Garden Observatory** al tramonto (~16:45), Osaka che si accende. Biglietto in loco.
+- 🚕 **17:30 -- 18:15** *Ritiro del trolley:* taxi fino all'Aloft (~10 min), poi taxi fino a Shin-Osaka (~15 min), in arrivo verso le 18:15. Se c'è traffico, il margine copre i 15 minuti.
+- **18:15 -- 19:15** 🍱 *Cena in treno:* compratela alla stazione di **Shin-Osaka**, tra negozi di ekiben e bevande (anche dentro i tornelli). Dopo le 18:00 i banchi più popolari possono aver finito alcuni bento: scegliete con calma.
+- **19:30 -- 22:00** 🎫 Shinkansen Tokaido Shin-Osaka -> Tokyo, Nozomi. Su smartEX scegliete una corsa **verso le 19:30**: il sabato sera non c'è ora di punta. Piano di riserva: l'ultimo Nozomi parte intorno alle **21:00** (verificate sul tabellone); meglio non arrivare a mezzanotte, il 6/12 si parte alle 09:30. **Coppia D+E**. Cenate in carrozza.
+- **22:00 -- 22:45** **Shiba Park Hotel**, check-in e **ritiro delle valigie grandi**. 🚶 JR Yamanote/Keihin-Tohoku Line da Tokyo fino a Hamamatsucho (~7 min) + 10 min a piedi (~30 min in tutto). La reception è aperta 24 ore: avvisate l'hotel dell'arrivo tardo.
 - 🏨 **Shiba Park Hotel**
 
 ---
@@ -814,10 +820,10 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 | 21/11 | 17:45 | Ponta Honke Ueno | 35.7076 | 139.7727 |
 | 22/11 | 08:00 | Meiji Jingu | 35.6764 | 139.6993 |
 | 22/11 | 10:40 | Shibuya Sky | 35.6584 | 139.7022 |
-| 22/11 | 11:45 | Sushi Hicho Shibuya | 35.6585 | 139.7015 |
-| 22/11 | 13:00 | Omotesando | 35.6654 | 139.71 |
-| 22/11 | 13:30 | Nezu Museum | 35.6623 | 139.7178 |
-| 22/11 | 15:15 | Shimokitazawa | 35.6618 | 139.668 |
+| 22/11 | 12:30 | Pretty Pork Factory Harakado | 35.6693 | 139.7035 |
+| 22/11 | 13:30 | Omotesando | 35.6654 | 139.71 |
+| 22/11 | 14:00 | Nezu Museum | 35.6623 | 139.7178 |
+| 22/11 | 15:45 | Shimokitazawa | 35.6618 | 139.668 |
 | 22/11 | 17:30 | Shibuya Crossing | 35.6595 | 139.7005 |
 | 22/11 | 18:00 | SHOGUN PIZZA Shibuya | 35.6614 | 139.6989 |
 | 23/11 | 09:00 | Shinjuku Gyoen | 35.6852 | 139.7101 |
@@ -901,16 +907,17 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 | 04/12 | 09:50 | Osaka Castle | 34.6873 | 135.5262 |
 | 04/12 | 11:45 | Kuromon Market | 34.6654 | 135.5066 |
 | 04/12 | 13:00 | Tsutenkaku | 34.6525 | 135.5063 |
-| 04/12 | 17:30 | teamLab Botanical Garden Osaka | 34.6116 | 135.518 |
-| 04/12 | 19:30 | Dotonbori Glico Sign | 34.6687 | 135.5013 |
-| 04/12 | 20:00 | Edion Namba Ramen Ichiza | 34.6657 | 135.5018 |
-| 04/12 | 21:15 | Hozenji Yokocho | 34.668 | 135.5025 |
-| 05/12 | 08:30 | Osaka City Central Public Hall | 34.6925 | 135.504 |
-| 05/12 | 10:00 | Osaka Aquarium Kaiyukan | 34.6545 | 135.4289 |
-| 05/12 | 16:30 | Tokyo Station | 35.6812 | 139.7671 |
-| 05/12 | 18:00 | Monja Kondo Honten Tsukishima | 35.664 | 139.783 |
-| 05/12 | 20:15 | Tokyo Tower | 35.6586 | 139.7454 |
-| 05/12 | 21:00 | Zojo-ji | 35.6575 | 139.7484 |
+| 04/12 | 18:00 | teamLab Botanical Garden Osaka | 34.6116 | 135.518 |
+| 04/12 | 20:40 | Dotonbori Glico Sign | 34.6687 | 135.5013 |
+| 04/12 | 21:00 | Tombori River Cruise | 34.6688 | 135.5026 |
+| 04/12 | 21:30 | Edion Namba Ramen Ichiza | 34.6657 | 135.5018 |
+| 04/12 | 22:15 | Hozenji Yokocho | 34.668 | 135.5025 |
+| 05/12 | 09:00 | Osaka City Central Public Hall | 34.6925 | 135.504 |
+| 05/12 | 10:45 | Osaka Aquarium Kaiyukan | 34.6545 | 135.4289 |
+| 05/12 | 14:45 | Tempozan Giant Ferris Wheel | 34.6553 | 135.431 |
+| 05/12 | 16:15 | Umeda Sky Building | 34.7052 | 135.4896 |
+| 05/12 | 18:15 | Shin-Osaka Station | 34.7334 | 135.5003 |
+| 05/12 | 22:00 | Tokyo Station | 35.6812 | 139.7671 |
 | 06/12 | 09:30 | Icho Namiki Jingu Gaien | 35.6745 | 139.7182 |
 | 06/12 | 11:20 | Akasaka Sacas | 35.6727 | 139.7363 |
 | 06/12 | 12:45 | Ginza Kagari Honten | 35.6712 | 139.7614 |

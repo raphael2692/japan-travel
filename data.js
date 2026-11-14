@@ -122,17 +122,17 @@ window.TRIP = {
       "dove": "[smartEX](https://smart-ex.jp/en/)"
     },
     {
-      "cosa": "**eSIM o Pocket Wi-Fi (ritiro il 19/11 a Haneda)**",
-      "apre": "già aperta",
+      "cosa": "eSIM o SIM fisica",
+      "apre": "--",
       "oraIt": "",
-      "entro": "**10 nov**: il Pocket Wi-Fi da ritirare in aeroporto va ordinato qualche giorno prima; l'eSIM si installa in Italia",
-      "dove": "sito del fornitore scelto"
+      "entro": "✅ **ordinata** una SIM fisica, consegna direttamente all'Edmont (la seconda persona usa Vodafone Mondo)",
+      "dove": "--"
     },
     {
-      "cosa": "**Shibuya Sky (22/11, ore 10:40)**",
-      "apre": "già aperta (8 nov)",
+      "cosa": "Shibuya Sky (22/11, ore 10:40)",
+      "apre": "--",
       "oraIt": "",
-      "entro": "**subito**: il 22/11 restano solo slot del mattino (10:20-12:40). Prendete le 10:40",
+      "entro": "✅ **prenotato** (13 nov), slot 10:40. Cancellazione gratuita entro il giorno prima (Klook: 24 ore): guardate il meteo il 20-21/11",
       "dove": "[sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/) · Klook"
     },
     {
@@ -207,9 +207,9 @@ window.TRIP = {
     },
     {
       "cosa": "Nezu Museum (22/11, ore 14:00)",
-      "apre": "già aperta (online, a fascia oraria)",
+      "apre": "--",
       "oraIt": "",
-      "entro": "**appena decidete**: domenica del ponte, ultimo weekend della mostra",
+      "entro": "✅ **prenotato** (14 nov): 2 biglietti, fascia 14:00-15:00, 1.600 ¥ l'uno (numeri in PRIVATO.md). Salvate uno screenshot",
       "dove": "[sito ufficiale](https://www.nezu-muse.or.jp/en/)"
     },
     {
@@ -221,9 +221,9 @@ window.TRIP = {
     },
     {
       "cosa": "Visit Japan Web",
-      "apre": "quando volete",
+      "apre": "--",
       "oraIt": "",
-      "entro": "16 nov",
+      "entro": "✅ **fatto** (13 nov): tenete il QR a portata di mano (si apre anche offline)",
       "dove": "[Visit Japan Web](https://services.digital.go.jp/en/visit-japan-web/)"
     },
     {
@@ -434,8 +434,9 @@ window.TRIP = {
         {
           "titolo": "Shibuya Sky, Tokyo, 22/11, slot 10:40",
           "tags": "🌟🎫",
-          "done": false,
+          "done": true,
           "note": [
+            "✅ **Prenotato il 13 novembre**",
             "**Dove:** [sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/), che **rifiuta molte carte estere**: tenete pronto **Klook**, che vende gli stessi slot pochi minuti dopo e cancella gratis fino a 24 ore prima.",
             "**Quando:** in vendita dall'8 novembre. **Al 11 novembre il 22/11 ha solo slot del mattino, dalle 10:20 alle 12:40**: tramonto e sera esauriti. Prenotate subito, prima che finiscano anche questi. Sul sito ufficiale la cancellazione è gratuita fino al giorno prima.",
             "**1.** Se la carta viene rifiutata sul sito ufficiale, passate subito a Klook.",
@@ -446,8 +447,9 @@ window.TRIP = {
         {
           "titolo": "Visit Japan Web",
           "tags": "🎫",
-          "done": false,
+          "done": true,
           "note": [
+            "✅ **Fatto il 13 novembre**",
             "**Dove:** [Visit Japan Web](https://services.digital.go.jp/en/visit-japan-web/), da browser. Limite operativo: 16 novembre.",
             "**1.** Account e registrazione di entrambi i passaporti.",
             "**2.** Arrivo **19 novembre a Haneda**, volo **AZ 792**, indirizzo **Hotel Metropolitan Edmont, 3-10-8 Iidabashi, Chiyoda-ku, Tokyo**.",
@@ -1652,6 +1654,12 @@ window.TRIP = {
         "13:15"
       ],
       [
+        "Nijo-jo Castle",
+        35.0142,
+        135.7482,
+        "15:00"
+      ],
+      [
         "Gion Yorozuya",
         35.0005,
         135.7755,
@@ -2025,7 +2033,7 @@ window.TRIP = {
       "titolo": "Arrivo a Tokyo e primo assaggio",
       "hotel": "Hotel Metropolitan Edmont",
       "items": [
-        "**11:20 – 13:00** Arrivo a Haneda, immigrazione e dogana, ritiro eSIM o Pocket Wi-Fi, acquisto di **due Welcome Suica** ai distributori del Terminal 3. 🎫",
+        "**11:20 – 13:00** Arrivo a Haneda, immigrazione e dogana, acquisto di **due Welcome Suica** ai distributori del Terminal 3. 🎫",
         "**13:00 – 13:45** 🚇 **Trasferimento in hotel, senza fermarsi a mangiare in aeroporto:** Keikyu Airport Line fino a **Daimon** (diretti sulla Toei Asakusa Line, ~30 min), poi **Toei Oedo Line fino a Iidabashi** (~15 min). In alternativa Monorail fino a Hamamatsucho e poi la Oedo. Piano B: taxi (~35-40 min).",
         "**13:45 – 14:15** Check-in o deposito bagagli all'**Hotel Metropolitan Edmont**, Iidabashi.",
         "**14:15 – 15:00** *Pranzo (eccezione per l'arrivo):* **katsu curry** da **Ippekoppe**, a 4 minuti dall'uscita est di Iidabashi. Ultima ordinazione 14:45, solo contanti. Se la fame arriva prima, un onigiri al konbini.",
@@ -2100,7 +2108,7 @@ window.TRIP = {
         "**11:45 – 12:25** ✅ A piedi da Shibuya verso nord lungo **Cat Street** (~25 min) fino a **Harakado**, il centro commerciale Tokyu Plaza Harajuku (Jingumae 6-31-21). Arrivate entro le 12:25: il ristorante è al 5° piano e il tavolo è per le 12:30.",
         "**12:30 – 13:30** 🎫 *Pranzo:* 📸 **Pretty Pork Factory & Katsu Puripo**, tonkatsu di maiale di marca, 5° piano di Harakado (506). ✅ Prenotato su Tabelog (codice in PRIVATO.md), 2 persone, **tempo al tavolo 1 ora**: puntuali.",
         "**13:30 – 14:00** ✅ A piedi verso **Omotesando** e lungo il viale verso **Aoyama** (~20 min fino al museo), con l'architettura delle boutique (Tod's di Toyo Ito, Prada di Herzog & de Meuron).",
-        "**14:00 – 15:15** 🌟🎫 **Nezu Museum**, in fondo a Omotesando: il giardino col laghetto, le case da tè e gli aceri al loro meglio, il caffè con la vetrata sul giardino, l'edificio di Kengo Kuma. Mostra *Bugaku Costumes*, i costumi della danza di corte, fino al 23/11. ~1.600 ¥ online, **prenotazione a fascia oraria** (14:00): la domenica del ponte, senza prenotazione si rischia di restare fuori. Il giardino si visita solo col biglietto del museo. Takeshita Street è stata tolta per fargli spazio.",
+        "**14:00 – 15:15** 🌟🎫 **Nezu Museum**, in fondo a Omotesando: il giardino col laghetto, le case da tè e gli aceri al loro meglio, il caffè con la vetrata sul giardino, l'edificio di Kengo Kuma. Mostra *Bugaku Costumes*, i costumi della danza di corte, fino al 23/11. ✅ **Prenotato il 14 novembre**, 2 biglietti da 1.600 ¥, **fascia 14:00-15:00** (numeri in PRIVATO.md): entrate nella fascia, con lo screenshot. Il giardino si visita solo col biglietto del museo. Takeshita Street è stata tolta per fargli spazio.",
         "🚇 *Trasferimento:* a piedi alla stazione di Omotesando (~8 min), Ginza o Hanzomon Line fino a Shibuya, cambio Keio Inokashira Line fino a Shimokitazawa (~25 min).",
         "**15:45 – 17:15** 🔄✅ **Shimokitazawa**, il primo assaggio di Tokyo Ovest: vintage, dischi e boutique indie, con le luci che si accendono dopo il tramonto delle 16:30. Poi Keio Inokashira Line fino a Shibuya (~5 min).",
         "**17:30 – 18:00** ✅ Shibuya Crossing e statua di Hachiko, già col buio e le insegne accese.",
@@ -2267,7 +2275,9 @@ window.TRIP = {
         "🚕 *Trasferimento:* taxi fino a Sanjo-Teramachi (~10 min), oppure a piedi (~25 min).",
         "**11:30 – 13:00** 🌟🎫 *Pranzo:* sukiyaki di **wagyu** da **Mishima-tei**, casa di legno del 1873, col Lunch Course.",
         "**13:15 – 14:30** ✅ **Nishiki Market**, a 5 minuti a piedi da Mishima-tei: a quest'ora i banchi sono tutti aperti. Dopo il sukiyaki, più da guardare che da mangiare: vedi Spuntini.",
-        "**14:45 – 16:45** 🔄✅ Riposo in hotel (~15 min a piedi), oppure **onsen o sento tradizionale**.",
+        "**14:30 – 15:00** 🚇 *Trasferimento:* da Nishiki a Karasuma-Oike, Tozai Line fino a **Nijo-jo-mae** (~15 min porta a porta), oppure taxi (~10 min).",
+        "**15:00 – 16:30** 🌟✅ **Castello di Nijo**, patrimonio UNESCO, la residenza dello shogun Tokugawa: il palazzo **Ninomaru** coi \"pavimenti usignolo\" e le sale dipinte su pannelli dorati, poi giardino e fossati. Biglietto in loco. ⚠️ **Ultimo ingresso 16:00** (palazzo 16:10), chiude alle 17:00: arrivate entro le 15:15. Lunedì aperto (chiude i martedì di dicembre, quindi il 1/12 no). Se siete cotti, tornate in hotel a riposare al suo posto.",
+        "🚇 *Trasferimento:* Tozai Line da Nijo-jo-mae fino a Kyoto Shiyakusho-mae o Sanjo-Keihan, poi a piedi verso Gion (~35 min in tutto).",
         "**17:15 – 18:15** *Cena leggera:* udon col cipollotto di Kujo da **Gion Yorozuya**, Bib Gourmand, in un vicolo vicino a Hanamikoji (~20 min a piedi dall'hotel). Apre alle 17:30: mettetevi in fila un quarto d'ora prima. Solo contanti.",
         "**18:30 – 20:00** 🌟✅ **Kodai-ji Illuminations:** bambù e aceri riflessi nello stagno (fino al 13 dicembre, ultimo ingresso ~21:30). Biglietto in loco.",
         "🚶 **Rientro in hotel:** a piedi (~15 min)."

@@ -99,12 +99,42 @@ function renderDeadline(d) {
   return div;
 }
 
+// --- stato dei pasti (calcolato da build.js) ---
+const STATI_PASTO = {
+  prenotato: "✓ Prenotato",
+  obbligatoria: "Da prenotare",
+  consigliata: "Prenotazione consigliata",
+  scegliere: "Da scegliere",
+  nessuna: "Nessuna proposta",
+  walkin: "Walk-in"
+};
+const DA_FARE = ["obbligatoria", "consigliata", "scegliere", "nessuna"];
+
+// "**subito**" o "15 nov" → urgente se è oggi, domani o già passato
+function scadenzaUrgente(entro) {
+  if (/subito/i.test(entro)) return true;
+  const m = entro.match(/(\d{1,2})\s+(nov|dic)/i);
+  if (!m) return false;
+  const d = new Date(`2026-${/nov/i.test(m[2]) ? 11 : 12}-${String(m[1]).padStart(2, "0")}T00:00:00`);
+  return (d - new Date(todayIso() + "T00:00:00")) / 86400000 <= 1;
+}
+
+function badgePasto(p) {
+  return `<span class="badge b-${p.stato}">${STATI_PASTO[p.stato]}</span>`;
+}
+
 function renderIndex() {
   const t = window.TRIP;
   document.getElementById("trip-title").textContent = t.title;
   document.getElementById("trip-subtitle").textContent = t.subtitle;
 
   const scad = document.getElementById("scadenze-list");
+  const daFare = Object.values(t.pasti).flat().filter(p => DA_FARE.includes(p.stato)).length;
+  const toPasti = document.createElement("a");
+  toPasti.className = "callout";
+  toPasti.href = "pasti.html";
+  toPasti.innerHTML = `🍽️ Le prenotazioni dei ristoranti sono nella pagina <b>Pasti</b>${daFare ? ` · ${daFare} pasti da sistemare` : ""} →`;
+  scad.appendChild(toPasti);
   const table = document.createElement("div");
   table.className = "card table-wrap";
   table.innerHTML = `<table class="scad-table">
@@ -189,6 +219,12 @@ function buildSearchIndex() {
   t.scadenze.forEach(grp => grp.items.forEach(d => {
     idx.push({ section: "SCADENZE", text: stripMd([d.titolo, ...d.note].join(" · ")), link: "index.html#scadenze" });
   }));
+  (t.pastiScadenze || []).forEach(r => {
+    idx.push({ section: "PASTI — PRENOTAZIONI", text: stripMd(`${r.cosa} · entro ${r.entro} · ${r.dove}`), link: "pasti.html" });
+  });
+  (t.ristoranti || []).forEach(d => {
+    idx.push({ section: "PASTI — PRENOTAZIONI", text: stripMd([d.titolo, ...d.note].join(" · ")), link: "pasti.html" });
+  });
 
   t.hotel.forEach(h => {
     idx.push({ section: "HOTEL", text: `${h.citta} — ${h.nome}, ${h.indirizzo} (${h.dal} → ${h.al})`, link: "index.html#hotel" });
@@ -324,9 +360,11 @@ function renderGiorno() {
   const pasti = t.pasti[g.data] || [];
   const pastiBox = document.getElementById("d-pasti");
   if (pastiBox && pasti.length) {
-    pastiBox.innerHTML = `<h2 class="sub-h">Pasti</h2>` + pasti.map(p => `
+    pastiBox.innerHTML = `<h2 class="sub-h">Pasti · <a href="pasti.html">tutti i pasti →</a></h2>` + pasti.map(p => `
       <div class="card meal">
-        <div class="meal-head"><span class="meal-time">${p.pasto}${p.ingresso ? " · " + p.ingresso : ""}</span>${p.prenotazione ? `<span class="meal-book">${mdInline(p.prenotazione)}</span>` : ""}</div>
+        <div class="meal-head"><span class="meal-time">${p.pasto}${p.ingresso ? " · " + p.ingresso : ""}</span>${p.stato
+          ? `<span class="meal-book">${badgePasto(p)}${p.prenNota ? " " + mdInline(p.prenNota) : ""}${p.entro ? ` · <span class="pt-due${scadenzaUrgente(p.entro) ? " urgent" : ""}">entro ${mdInline(p.entro)}</span>` : ""}</span>`
+          : p.prenotazione ? `<span class="meal-book">${mdInline(p.prenotazione)}</span>` : ""}</div>
         <div>${mdInline(p.locale)}</div>
         ${p.tabelog ? `<div class="meal-links">${mdInline(p.tabelog)}</div>` : ""}
         ${p.note ? `<div class="meal-note">${mdInline(p.note)}</div>` : ""}
@@ -340,4 +378,107 @@ function renderGiorno() {
   else prevA.classList.add("disabled");
   if (next) { nextA.href = "giorno.html?d=" + next.data; nextA.textContent = next.giorno.slice(0,3) + " " + next.data.slice(8) + " →"; }
   else nextA.classList.add("disabled");
+}
+
+// --- pagina pasti: tabella di tutti i pranzi e le cene, con stato della prenotazione ---
+function renderPasti() {
+  const t = window.TRIP;
+  const today = todayIso(), last = t.giorni[t.giorni.length - 1].data;
+  const pasti = t.giorni.flatMap(g => (t.pasti[g.data] || []).filter(p => p.stato).map(p => ({ ...p, g })));
+
+  // riepilogo
+  const conta = s => pasti.filter(p => s.includes(p.stato)).length;
+  const urgenti = pasti.filter(p => p.entro && scadenzaUrgente(p.entro)).length;
+  document.getElementById("pt-summary").innerHTML = [
+    ["s-ok", conta(["prenotato"]), "prenotati"],
+    ["s-todo", conta(["obbligatoria"]), "da prenotare"],
+    ["s-warn", conta(["consigliata"]), "consigliati"],
+    ["s-open", conta(["scegliere", "nessuna"]), "da scegliere"],
+    ["", conta(["walkin"]), "walk-in"]
+  ].map(([c, n, l]) => `<div class="pt-stat ${c}"><b>${n}</b><span>${l}</span></div>`).join("");
+  if (urgenti) {
+    const u = document.getElementById("pt-urgenti");
+    u.hidden = false;
+    u.innerHTML = `⏰ <b>${urgenti} prenotazioni da fare entro domani</b>: sono segnate in rosso.`;
+  }
+
+  // filtri
+  const FILTRI = {
+    tutti: ["Tutti", () => true],
+    dafare: ["Da sistemare", p => DA_FARE.includes(p.stato)],
+    prenotati: ["Prenotati", p => p.stato === "prenotato"],
+    walkin: ["Walk-in", p => p.stato === "walkin"]
+  };
+  let filtro = "tutti";
+  try { filtro = localStorage.getItem("pastiFiltro") || "tutti"; } catch (e) { /* storage non disponibile */ }
+  if (!FILTRI[filtro]) filtro = "tutti";
+  const chips = document.getElementById("pt-filtri");
+
+  function riga(p) {
+    const flags = [p.contanti ? `<span title="Solo contanti">💴</span>` : "", p.fuoriTetto ? `<span title="Fuori tetto per scelta">💶</span>` : "", p.foto ? `<span title="Dalla lista Instagram">📸</span>` : ""].join("");
+    let corpo;
+    if (p.stato === "scegliere") {
+      corpo = `<div class="pt-name">Da scegliere tra:</div><div class="pt-opts">${p.tabelog ? mdInline(p.tabelog) : p.opzioni.join(" · ")}</div>`;
+    } else if (p.stato === "nessuna") {
+      corpo = `<div class="pt-name"><span class="pt-idea">${mdInline(p.idea || "—")}</span></div>`;
+    } else {
+      const nome = p.link ? `<a href="${p.link}" target="_blank" rel="noopener">${escapeHtml(p.nome)}</a>` : escapeHtml(p.nome);
+      corpo = `<div class="pt-name">${nome}${p.piatto ? ` <span class="pt-dish">· ${escapeHtml(p.piatto.toLowerCase())}</span>` : ""}${flags ? `<span class="pt-flags">${flags}</span>` : ""}</div>`;
+    }
+    const ctx = [p.dopo ? "dopo " + escapeHtml(p.dopo) : "", p.poi ? "poi " + escapeHtml(p.poi) : ""].filter(Boolean).join(" · ");
+    const due = p.entro ? `<span class="pt-due${scadenzaUrgente(p.entro) ? " urgent" : ""}">${/^\W*(\d|subito)/i.test(p.entro) ? "entro " : ""}${mdInline(p.entro)}</span>` : "";
+    return `<div class="pt-meal" data-stato="${p.stato}">
+      <div class="pt-head"><a class="pt-when" href="giorno.html?d=${p.g.data}#d-pasti">${p.pasto}${p.ingresso ? " · " + escapeHtml(p.ingresso) : ""}</a>
+        <span>${badgePasto(p)}</span></div>
+      ${corpo}
+      ${ctx || due || p.prenNota ? `<div class="pt-ctx">${[due, p.prenNota ? mdInline(p.prenNota) : "", ctx].filter(Boolean).join(" · ")}</div>` : ""}
+    </div>`;
+  }
+
+  function disegna() {
+    const ok = FILTRI[filtro][1];
+    chips.innerHTML = Object.entries(FILTRI).map(([k, [label, fn]]) =>
+      `<button class="chip" type="button" data-f="${k}" aria-pressed="${k === filtro}">${label} (${pasti.filter(fn).length})</button>`).join("");
+    const box = document.getElementById("pt-table");
+    let html = "", citta = null;
+    t.giorni.forEach(g => {
+      const lista = pasti.filter(p => p.g === g && ok(p));
+      if (!lista.length) return;
+      if (lista[0].citta !== citta) { citta = lista[0].citta; html += `<h3 class="sub-h">${escapeHtml(citta)}</h3>`; }
+      const d = new Date(g.data + "T00:00:00");
+      const cls = g.data === today ? " today" : g.data < today && today <= last ? " past" : "";
+      html += `<div class="pt-day${cls}">
+        <a class="pt-date" href="giorno.html?d=${g.data}" aria-label="${g.giorno} ${d.getDate()}">
+          <span class="wd">${g.giorno.slice(0, 3)}</span><span class="dn">${d.getDate()}</span><span class="mo">${d.toLocaleDateString("it-IT", { month: "short" })}</span></a>
+        <div class="pt-meals"><a class="pt-title" href="giorno.html?d=${g.data}">${escapeHtml(g.titolo)} ›</a>${lista.map(riga).join("")}</div>
+      </div>`;
+    });
+    box.innerHTML = html || `<div class="pt-empty">Niente da mostrare con questo filtro.</div>`;
+  }
+  chips.addEventListener("click", e => {
+    const b = e.target.closest("[data-f]");
+    if (!b) return;
+    filtro = b.dataset.f;
+    try { localStorage.setItem("pastiFiltro", filtro); } catch (err) { /* storage non disponibile */ }
+    disegna();
+  });
+  disegna();
+
+  // regole, check-list dei ristoranti, scadenze non legate a un pranzo o una cena, legenda
+  document.getElementById("pt-regole").innerHTML = (t.pastiRegole || []).map(r => `<div class="callout">${mdInline(r)}</div>`).join("");
+  const det = document.getElementById("pt-prenotazioni");
+  const chiaviPasti = new Set(pasti.map(p => `${p.g.data} ${p.pasto}`));
+  const altre = (t.pastiScadenze || []).filter(r => !r.chiavi.some(k => chiaviPasti.has(k)));
+  if (altre.length) {
+    const tab = document.createElement("div");
+    tab.className = "card table-wrap";
+    tab.innerHTML = `<table class="scad-table"><thead><tr><th>Altre prenotazioni</th><th>Entro</th><th>Dove</th></tr></thead>
+      <tbody>${altre.map(r => `<tr><td>${mdInline(r.cosa)}</td><td>${mdInline(r.entro)}</td><td>${mdInline(r.dove)}</td></tr>`).join("")}</tbody></table>`;
+    det.appendChild(tab);
+  }
+  (t.ristoranti || []).slice().sort((a, b) => a.done - b.done).forEach(d => det.appendChild(renderDeadline(d)));
+  if ((t.pastiLegenda || []).length) {
+    document.getElementById("pt-legenda").innerHTML =
+      `<details class="card note-card"><summary>Legenda della tabella pasti e catene di ripiego</summary>${renderLines(t.pastiLegenda)}</details>`;
+  }
 }

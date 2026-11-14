@@ -187,12 +187,13 @@ function parsePasti(section) {
   const pasti = {};
   const add = (d, p) => (pasti[d] = pasti[d] || []).push(p);
   for (const sub of splitBy(section.lines, 2)) {
+    const citta = clean(sub.title.replace(/\s*\(.*\)\s*$/, ""));
     for (const r of parseTable(sub.lines)) {
       const d = isoFromSlash(r["Data"] || "");
       if (!d) continue;
       const cell = s => (s && s !== "—" && s !== "-") ? clean(s.replace(/<br\s*\/?>/g, "\n")) : "";
       add(d, { pasto: r["Pasto"], ingresso: cell(r["Ingresso"]), locale: cell(r["Locale proposto"]),
-        prenotazione: cell(r["Prenotazione"]), tabelog: cell(r["Tabelog"]), note: cell(r["Note"]), catena: cell(r["Catena vicina"]) });
+        prenotazione: cell(r["Prenotazione"]), tabelog: cell(r["Tabelog"]), note: cell(r["Note"]), catena: cell(r["Catena vicina"]), citta });
     }
     // spuntini: ogni punto elenco che cita una data viene agganciato a quel giorno
     if (sub.title.startsWith("Spuntini")) {
@@ -204,6 +205,94 @@ function parsePasti(section) {
     }
   }
   return pasti;
+}
+
+// --- pasti: stato della prenotazione e contesto, per la pagina pasti.html ---
+
+// "cena 26/11", "pranzo del 22/11", "Cene a Kanazawa (24/11 e 25/11)" → ["2026-11-26 Cena", ...]
+function chiaviPasto(s) {
+  const out = [];
+  for (const m of (s || "").matchAll(/\b(pranz[oi]|cen[ae]|colazion[ei])\b([^)]*)/gi)) {
+    const pasto = /^pranz/i.test(m[1]) ? "Pranzo" : /^cen/i.test(m[1]) ? "Cena" : "Colazione";
+    for (const d of m[2].matchAll(/(\d{1,2})\/(\d{1,2})/g)) out.push(`${iso(+d[1], +d[2])} ${pasto}`);
+  }
+  return out;
+}
+
+// nome del locale dalla cella "Locale proposto": "**Tonkatsu** da **Ponta Honke**" → piatto + nome
+function nomeLocale(loc) {
+  const bold = [...loc.matchAll(/\*\*([^*]+)\*\*/g)].map(m => m[1].trim());
+  let m = loc.match(/^[^*]*\*\*([^*]+)\*\*(?:\s+\*[^*]+\*)?(?:\s+a\s+\*\*[^*]+\*\*)?\s+(?:da|al ristorante)\s+(?:\p{Extended_Pictographic}\s*)*\*\*([^*]+)\*\*/u);
+  if (m) return { nome: m[2].trim(), piatto: m[1].trim(), bold };
+  m = loc.match(/^(?:[^*:]*:\s*)?([^*:—]{3,40}?)\s+da\s+\*\*([^*]+)\*\*/);
+  if (m) return { nome: m[2].trim(), piatto: m[1].trim(), bold };
+  return { nome: bold[0] || "", piatto: "", bold };
+}
+
+function arricchisciPasti(pasti, luoghi, scadCibo, ristoranti) {
+  const scadPer = {};
+  scadCibo.forEach(r => r.chiavi.forEach(k => { scadPer[k] = r; }));
+  const checkPer = {};
+  ristoranti.forEach(it => chiaviPasto(it.titolo).forEach(k => { checkPer[k] = it; }));
+  const visti = new Set();
+
+  Object.entries(pasti).forEach(([d, lista]) => lista.forEach(p => {
+    if (p.pasto === "Spuntino") return;
+    const key = `${d} ${p.pasto}`;
+    visti.add(key);
+    const { nome, piatto, bold } = nomeLocale(p.locale);
+    // "🔍 da scegliere tra **A**, **B**" = opzioni aperte; "🔍 da scegliere" senza alcun locale = nessuna proposta.
+    // Se c'è già un locale (es. 28/11: opzione B decisa, solo la A da scegliere) vale la proposta.
+    const daScegliere = /🔍\s*da scegliere tra/.test(p.locale);
+    const senzaProposta = /🔍\s*da scegliere/.test(p.locale) && !nome;
+
+    if (/prenotat/i.test(p.prenotazione)) p.stato = "prenotato";
+    else if (daScegliere) p.stato = "scegliere";
+    else if (senzaProposta) p.stato = "nessuna";
+    else if (/🎫/.test(p.prenotazione)) p.stato = "obbligatoria";
+    else if (/📞/.test(p.prenotazione)) p.stato = "consigliata";
+    else if (/walk-in/i.test(p.prenotazione)) p.stato = "walkin";
+    else { p.stato = "nessuna"; warn(`Pasto ${key}: colonna Prenotazione non riconosciuta ("${p.prenotazione}")`); }
+
+    const extra = p.prenotazione.match(/^[^\p{L}]*(?:Walk-in|Consigliata|Fissa|Prenotato)\b[\s,]*(.*)$/u);
+    if (extra && extra[1]) p.prenNota = extra[1];
+
+    if (p.stato === "scegliere") p.opzioni = bold;
+    else if (p.stato === "nessuna") p.idea = p.locale.replace(/\s*—?\s*🔍\s*da scegliere.*$/, "").trim();
+    else { p.nome = nome; if (piatto) p.piatto = piatto; }
+
+    const url = p.tabelog.match(/\]\((https?:[^)\s]+)\)/);
+    if (url && p.nome) p.link = url[1];
+    const fotoAt = p.locale.indexOf("📸");
+    if (p.nome && fotoAt >= 0 && fotoAt < p.locale.indexOf("**" + p.nome + "**")) p.foto = true;
+    if (/solo contanti|portate contanti/i.test(p.note)) p.contanti = true;
+    if (/💶/.test(p.locale) || /fuori tetto per scelta/i.test(p.note)) p.fuoriTetto = true;
+
+    // contesto: il luogo della mappa subito prima e subito dopo l'orario del pasto
+    const t = toMin(p.ingresso);
+    if (t !== null) {
+      const n = s => s.toLowerCase().replace(/[^a-z0-9]/g, "");
+      const stesso = x => p.nome && (n(x[0]).includes(n(p.nome)) || n(p.nome).includes(n(x[0])));
+      const pts = (luoghi[d] || []).filter(x => toMin(x[3]) !== t && !stesso(x));
+      const prima = pts.filter(x => toMin(x[3]) < t).pop(), dopo = pts.find(x => toMin(x[3]) > t);
+      if (prima) p.dopo = prima[0];
+      if (dopo) p.poi = dopo[0];
+    }
+
+    const sc = scadPer[key];
+    if (sc && p.stato !== "prenotato") p.entro = sc.entro.split(/[:;.,]\s/)[0].trim();
+    if (p.stato === "obbligatoria" && !sc) warn(`Pasto ${key} (${p.nome}): prenotazione obbligatoria ma nessuna riga nella tabella Scadenze`);
+
+    // coerenza con check-list ristoranti e tabella scadenze
+    const ck = checkPer[key];
+    if (ck && ck.done && p.stato !== "prenotato") warn(`Pasto ${key}: spuntato nella check-list ristoranti ma la tabella pasti non dice "Prenotato"`);
+    if (ck && !ck.done && p.stato === "prenotato") warn(`Pasto ${key}: "Prenotato" nella tabella pasti ma non spuntato nella check-list ristoranti`);
+    if (sc && /prenotat/i.test(sc.entro) && p.stato !== "prenotato") warn(`Pasto ${key}: prenotato secondo la tabella Scadenze ma non nella tabella pasti`);
+  }));
+
+  [...Object.keys(scadPer), ...Object.keys(checkPer)].forEach(k => {
+    if (!/Colazione$/.test(k) && !visti.has(k)) warn(`Prenotazione ristorante per "${k}" senza riga corrispondente nella tabella pasti`);
+  });
 }
 
 function parseGiorno(sec) {
@@ -266,14 +355,25 @@ function build() {
   const mappa = parseMappa(find(top, "Mappa"));
   const { hotel, nota: hotelNota } = parseHotel(find(top, "Hotel").lines, mappa.hotelCoords);
 
-  const scadenzeTabella = parseTable(find(checkSubs, "Scadenze").lines).map(r => ({
+  // le righe che citano un pasto ("cena 26/11") vanno nella pagina pasti, le altre restano nelle scadenze
+  const tutteScadenze = parseTable(find(checkSubs, "Scadenze").lines).map(r => ({
     cosa: clean(r["Cosa"]), apre: clean(r["Apre"]),
     oraIt: r["Ora italiana"] === "--" ? "" : r["Ora italiana"],
-    entro: clean(r["Fare entro"]), dove: clean(r["Dove"])
+    entro: clean(r["Fare entro"]), dove: clean(r["Dove"]), chiavi: chiaviPasto(r["Cosa"])
   }));
-  const scadenze = checkSubs
+  const scadenzeTabella = tutteScadenze.filter(r => !r.chiavi.length).map(({ chiavi, ...r }) => r);
+  const pastiScadenze = tutteScadenze.filter(r => r.chiavi.length);
+  const gruppi = checkSubs
     .map(s => ({ titolo: s.title, items: parseChecklist(s.lines) }))
     .filter(s => s.items.length);
+  const scadenze = gruppi.filter(g => !g.titolo.startsWith("Ristoranti"));
+  const ristoranti = (gruppi.find(g => g.titolo.startsWith("Ristoranti")) || { items: [] }).items;
+  const pastiSec = find(top, "Pasti");
+  const pastiRegole = parseBlock([
+    ...check.lines.filter(l => /^>.*Regola pasti/.test(l)),
+    ...find(checkSubs, "Ristoranti").lines.filter(l => /^>/.test(l))
+  ]);
+  const pastiLegenda = parseBlock(pastiSec.lines.slice(0, pastiSec.lines.findIndex(l => /^## /.test(l))));
 
   const note = [];
   splitBy(find(top, "Note pratiche").lines, 2).forEach(s => note.push({ titolo: clean(s.title), righe: parseBlock(s.lines) }));
@@ -296,6 +396,9 @@ function build() {
     });
   });
 
+  const pasti = parsePasti(pastiSec);
+  arricchisciPasti(pasti, mappa.luoghi, pastiScadenze, ristoranti);
+
   const voli = parseVoli(find(top, "Voli").lines);
   const trip = {
     title: TITLE, subtitle: SUBTITLE,
@@ -303,7 +406,7 @@ function build() {
     voli, partenza: decollo(voli[0]), ritorno: decollo(voli[voli.length - 1]),
     hotel, hotelNota,
     scadenzeTabella, scadenze, note,
-    pasti: parsePasti(find(top, "Pasti")),
+    pasti, pastiScadenze, ristoranti, pastiRegole, pastiLegenda,
     luoghi: mappa.luoghi,
     giorni
   };

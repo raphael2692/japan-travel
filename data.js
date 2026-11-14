@@ -94,27 +94,6 @@ window.TRIP = {
       "dove": "[JR-WEST Online](https://e5489.jr-odekake.net/e5489/ibpc/CBTrainEntryExternalPC?LANG=en)"
     },
     {
-      "cosa": "**Yakiniku Tendan Gion Honten (cena 26/11, ore 18:00)**",
-      "apre": "già aperta",
-      "oraIt": "",
-      "entro": "**subito**",
-      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26001422/) (prenotazione online) · tel. 075-551-4129"
-    },
-    {
-      "cosa": "**Mishima-tei (pranzo 30/11)**",
-      "apre": "già aperta",
-      "oraIt": "",
-      "entro": "**subito**",
-      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26000646/) (prenotazione online) · tel. +81 75-221-0003"
-    },
-    {
-      "cosa": "**Shigetsu (pranzo 27/11, ore 11:30)**",
-      "apre": "già aperta",
-      "oraIt": "",
-      "entro": "**subito**, al più tardi 3 giorni prima",
-      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260403/26000923/) · omakaseje.com · tel. +81 75-882-9725"
-    },
-    {
       "cosa": "eSIM o SIM fisica",
       "apre": "--",
       "oraIt": "",
@@ -127,76 +106,6 @@ window.TRIP = {
       "oraIt": "",
       "entro": "✅ **prenotato** (13 nov), slot 10:40. Cancellazione gratuita entro il giorno prima (Klook: 24 ore): guardate il meteo il 20-21/11",
       "dove": "[sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/) · Klook"
-    },
-    {
-      "cosa": "Maguro Mart (cena 20/11, facoltativa)",
-      "apre": "già aperta (30 giorni prima, 12:00 JST)",
-      "oraIt": "",
-      "entro": "appena decidete, si esaurisce. **Turno delle 20:15 o più tardi**: il Kaiji arriva a Shinjuku alle 19:48",
-      "dove": "[Tabelog](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) · tel. 050-5597-6557"
-    },
-    {
-      "cosa": "Choshoku Kishin (colazione 28/11, opzione B, ora quella principale)",
-      "apre": "già aperta",
-      "oraIt": "",
-      "entro": "15 nov",
-      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26028888/) · TableCheck · tel. +81 75-525-8500"
-    },
-    {
-      "cosa": "Komagata Maekawa (pranzo 21/11), Ponta Honke (cena 21/11), Tempura Funabashiya (cena 23/11)",
-      "apre": "già aperta (online)",
-      "oraIt": "",
-      "entro": "15 nov",
-      "dove": "[Maekawa](https://tabelog.com/en/tokyo/A1311/A131102/13003666/) · [Ponta Honke](https://tabelog.com/en/tokyo/A1311/A131101/13003587/) · [Funabashiya](https://tabelog.com/en/tokyo/A1304/A130401/13012090/)"
-    },
-    {
-      "cosa": "Cene a Kanazawa (24/11 e 25/11): sceglietene una per sera",
-      "apre": "già aperta (Tabelog o telefono)",
-      "oraIt": "",
-      "entro": "15 nov: stagione del granchio, i locali piccoli si riempiono",
-      "dove": "[Kabuna](https://tabelog.com/en/ishikawa/A1701/A170101/17000085/) · [Daigo](https://tabelog.com/en/ishikawa/A1701/A170101/17009374/) · [Itaru](https://tabelog.com/en/ishikawa/A1701/A170101/17000009/) · [Miyuki](https://tabelog.com/en/ishikawa/A1701/A170101/17002725/) · [Tokkuriya](https://tabelog.com/en/ishikawa/A1701/A170101/17000666/)"
-    },
-    {
-      "cosa": "Kibune Beniya (pranzo 29/11)",
-      "apre": "già aperta",
-      "oraIt": "",
-      "entro": "15 nov: domenica in pieno foliage",
-      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260502/26013329/)"
-    },
-    {
-      "cosa": "Gion Tempura Bansan (pranzo 26/11)",
-      "apre": "già aperta (online)",
-      "oraIt": "",
-      "entro": "15 nov; la prenotazione è obbligatoria, al più tardi il giorno prima",
-      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26035557/)"
-    },
-    {
-      "cosa": "Mitsumasa, yakitori (cena 07/12)",
-      "apre": "già aperta (online)",
-      "oraIt": "",
-      "entro": "15 nov",
-      "dove": "[Tabelog](https://tabelog.com/en/tokyo/A1301/A130103/13001520/)"
-    },
-    {
-      "cosa": "📸 **Gion Sushi FARO (cena 28/11, ore 19:00)**",
-      "apre": "già aperta (online)",
-      "oraIt": "",
-      "entro": "15 nov: è sabato",
-      "dove": "[TableCheck](https://www.tablecheck.com/en/gion-sushi-faro) · Tabelog"
-    },
-    {
-      "cosa": "📸 Kobe Beef Kisshokichi Kyoto (cena 03/12)",
-      "apre": "già aperta",
-      "oraIt": "",
-      "entro": "20 nov",
-      "dove": "[ikyu](https://restaurant.ikyu.com/123087/highlights)"
-    },
-    {
-      "cosa": "Yama San Sushi (pranzo 24/11), Kaiten Sushi Ginza Onodera (cena 29/11)",
-      "apre": "già aperta (online, pochi posti)",
-      "oraIt": "",
-      "entro": "20 nov, facoltativa",
-      "dove": "[Yama San](https://tabelog.com/en/ishikawa/A1701/A170101/17000196/) · [Onodera](https://tabelog.com/en/kyoto/A2601/A260201/26039528/)"
     },
     {
       "cosa": "Nezu Museum (22/11, ore 14:00)",
@@ -246,13 +155,6 @@ window.TRIP = {
       "oraIt": "",
       "entro": "✅ **prenotato** il 13 nov sul sito ufficiale (Webket), 2 adulti, 5.600 ¥ (numero d'acquisto in PRIVATO.md). QR in Webket (My Page) e nell'email; orario modificabile altre 2 volte, solo il 5/12",
       "dove": "[Webket Kaiyukan](https://www.kaiyukan.com/)"
-    },
-    {
-      "cosa": "Sushiya Shota (cena 08/12, ore 20:00)",
-      "apre": "--",
-      "oraIt": "",
-      "entro": "✅ **prenotato** (codice in PRIVATO.md). Cancellazione gratuita fino al 6 dic alle 21:59 italiane",
-      "dove": "[Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/)"
     },
     {
       "cosa": "Shinkansen Hokuriku, Tokyo → Kanazawa (24/11)",
@@ -451,123 +353,6 @@ window.TRIP = {
           ]
         }
       ]
-    },
-    {
-      "titolo": "Ristoranti ed esperienze gastronomiche",
-      "items": [
-        {
-          "titolo": "📸 **Pretty Pork Factory & Katsu Puripo, Harajuku, pranzo del 22/11 alle 12:30** 🎫",
-          "tags": "",
-          "done": true,
-          "note": [
-            "✅ **Prenotato su Tabelog** (codice in PRIVATO.md), 2 persone, Brand Pork Tonkatsu Seat da 4.500 ¥ a testa (si sceglie il tonkatsu tra 4.500 e 8.000 ¥) + 10% di servizio, da pagare al ristorante. 5° piano di Tokyu Plaza Harakado, tel. 03-6805-0290. **Tempo al tavolo 1 ora.** Già pagati 880 ¥ di costo del servizio Tabelog, non rimborsabili. Penale solo per assenza senza avviso (100%). [Tabelog](https://tabelog.com/en/tokyo/A1306/A130601/13295369/)"
-          ]
-        },
-        {
-          "titolo": "Yakiniku Tendan Gion Honten, Kyoto, cena del 26/11 alle 18:00",
-          "tags": "🌟🎫",
-          "done": false,
-          "note": [
-            "online su [Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26001422/) (3.44, ~6-8.000 ¥), tel. 075-551-4129. Lo yakiniku nato a Kyoto (dal 1965): wagyu nero alla griglia al tavolo, intinto nella famosa salsa-brodo di ossa di manzo della casa, poi lingua al sale e chige udon o ramen per chiudere. **Set da 7.500-8.000 ¥ a testa**, dentro il tetto; turni di 2 ore. A 2 minuti da Gion-Shijo, all'imbocco di Miyagawacho, ~12 minuti a piedi dal KABIN. Feriali dalle 17:00; aperto tutto l'anno (una fonte indica chiusura la vigilia dei festivi: il 26/11 non lo è). Sostituisce **Tan** (cucina di stagione, più raffinata che abbondante), che a sua volta sostituiva THE KAISEKI, chiuso dal 30/9. Alternativa: **Miyagawa Tonemon**, tonkatsu nella lista Tabelog 100 2026, ~3-4.000 ¥, a 5 minuti da Kiyomizu-Gojo, [TableCheck](https://www.tablecheck.com/miyagawatonemon)."
-          ]
-        },
-        {
-          "titolo": "Mishima-tei, Kyoto, sukiyaki di wagyu, pranzo del 30/11",
-          "tags": "🌟🎫",
-          "done": false,
-          "note": [
-            "online su [Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26000646/) (3.64, 878 recensioni; nella guida Michelin, senza stelle). **Lunch Course 8.591 ¥** con tasse e servizio: la cena (17.545 ¥) supera il tetto, per questo è passato a pranzo. Turno delle **11:30**. Se online non c'è posto, telefono **+81 75-221-0003** (tra le 03:00 e le 08:00 italiane): *\"Jūichi-gatsu sanjū-nichi, gozen jūichi-ji han, futari, onegai shimasu\"* = \"30 novembre, alle 11:30, due persone\"."
-          ]
-        },
-        {
-          "titolo": "Sushi omakase di fine viaggio, Sushiya Shota, 08/12 alle 20:00",
-          "tags": "🌟🎫💶",
-          "done": true,
-          "note": [
-            "✅ **Prenotato su Tabelog** (codice in PRIVATO.md), 2 persone, Omakase Course da 20 portate. Azabu-Juban, [Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/) (3.72), nella guida Michelin, oggi senza stella, 7 posti al banco. **Si paga al ristorante: 17.600 ¥ a testa + 1.100 ¥ di servizio, 37.400 ¥ in due senza bevande**, fuori tetto per scelta. Controllate i metodi di pagamento accettati, o portate contanti. Già pagati 880 ¥ di costo del servizio Tabelog, non rimborsabili. **Cancellazione gratuita fino al 7/12 alle 05:59 JST (6/12 alle 21:59 italiane)**; il giorno prima 50%, il giorno stesso o senza presentarsi 100%. Modifiche dal link nell'email di conferma."
-          ]
-        },
-        {
-          "titolo": "Maguro Mart, Nakano, cena del 20/11 (facoltativa)",
-          "tags": "📞",
-          "done": false,
-          "note": [
-            "[Tabelog](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) (3.63, ~4-5.000 ¥), izakaya tutto tonno consigliato da Camilla: \"bisogna prenotare, è tostissima\". Prenotazioni 30 giorni prima, a mezzogiorno ora giapponese (04:00 italiane): per il 20/11 sono già aperte. Tel. 050-5597-6557. Se col piano B meteo il Fuji passa al 21/11, spostate o cancellate."
-          ]
-        },
-        {
-          "titolo": "Shigetsu, pranzo del 27/11 alle 11:30",
-          "tags": "🌟🎫",
-          "done": false,
-          "note": [
-            "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260403/26000923/) (3.58, Bib Gourmand Michelin). Cucina buddista *shojin ryori* dentro il giardino del Tenryu-ji, ~3-4.000 ¥ più 500 ¥ di ingresso al giardino. Tre menu (Yuki, Tsuki, Hana): il Tsuki va prenotato entro il giorno prima. Prenotazione su omakaseje.com o al +81 75-882-9725, almeno 3 giorni prima. Chiuso il giovedì; il 27/11 è venerdì."
-          ]
-        },
-        {
-          "titolo": "Choshoku Kishin, colazione del 28/11 (opzione B)",
-          "tags": "📞",
-          "done": false,
-          "note": [
-            "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26028888/) (3.70, Bib Gourmand Michelin), ~3-4.000 ¥. Prenotazione su TableCheck o al +81 75-525-8500: i posti sono pochi. Chiuso mercoledì e giovedì."
-          ]
-        },
-        {
-          "titolo": "Tempura Funabashiya, Shinjuku, cena del 23/11 (festa nazionale)",
-          "tags": "📞",
-          "done": false,
-          "note": [
-            "[Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13012090/) (3.49, Tabelog 100 tempura 2022), tempura dal 1886, a 1 minuto da Shinjuku-sanchome. Aperto tutti i giorni 11:30-21:00. Prenotazione online: è festivo. Alternativa: oden da **Itteki Hassenya** ([Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13000760/), 3.62)."
-          ]
-        },
-        {
-          "titolo": "Ponta Honke, Ueno, cena del 21/11",
-          "tags": "📞",
-          "done": false,
-          "note": [
-            "[Tabelog](https://tabelog.com/en/tokyo/A1311/A131101/13003587/) (3.77, Tabelog 100 tonkatsu e yoshoku), il locale del 1905 che si vanta di aver inventato il tonkatsu. ~4-5.000 ¥. Sabato cena 16:30-20:20 (ultima ordinazione 19:45), chiuso il lunedì. Prenotazione online per due o più persone; carte accettate."
-          ]
-        },
-        {
-          "titolo": "Gion Tempura Bansan, pranzo del 26/11",
-          "tags": "🎫",
-          "done": false,
-          "note": [
-            "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26035557/) (3.52). Pranzo feriale di tempura e kakiage-don a **3.300 ¥** (10 portate); il corso completo costa 6.600 ¥. **Solo su prenotazione, entro il giorno prima**, online. Solo carta."
-          ]
-        },
-        {
-          "titolo": "Mitsumasa, Shimbashi, yakitori, cena del 07/12",
-          "tags": "📞",
-          "done": false,
-          "note": [
-            "[Tabelog](https://tabelog.com/en/tokyo/A1301/A130103/13001520/) (3.66, Tabelog 100 yakitori 2021 e 2025), spiedini grandi e frattaglie alla griglia, ~5-8.000 ¥. Lun-ven 17:00-23:00, chiuso domenica e festivi. Prenotazione online. **Solo contanti.**"
-          ]
-        },
-        {
-          "titolo": "Pranzo del 21/11, Komagata Maekawa (Asakusa)",
-          "tags": "📞",
-          "done": false,
-          "note": [
-            "online su [Tabelog](https://tabelog.com/en/tokyo/A1311/A131102/13003666/) (3.46). Primo giorno del ponte: meglio prenotare. Prendete l'unaju, non il kaiseki da 12.000 ¥."
-          ]
-        },
-        {
-          "titolo": "📸 **Gion Sushi FARO, cena del 28/11 alle 19:00** 🎫💶",
-          "tags": "",
-          "done": false,
-          "note": [
-            "[TableCheck](https://www.tablecheck.com/en/gion-sushi-faro), anche su Tabelog (~3.05). Sushi Edomae al banco, due fratelli formati a Tokyo; lo chef spiega i pezzi in inglese. **Luxury Course 15.000 ¥ a testa**, fuori tetto per scelta. 16:00-23:00, chiuso la domenica e un lunedì su due. A ~450 m da Gion-Shijo."
-          ]
-        },
-        {
-          "titolo": "📸 **Kobe Beef Kisshokichi Kyoto Honten, cena del 03/12** 📞💶",
-          "tags": "",
-          "done": false,
-          "note": [
-            "[ikyu](https://restaurant.ikyu.com/123087/highlights). Teppanyaki di solo manzo di Kobe all'8° piano del Kyoto Empire Bldg, a Kiyamachi, con vista sul Kamo e sulle montagne di Higashiyama. **Corsi da 13.750 ¥**, fuori tetto per scelta. Tutti i giorni 11:00-22:00 (ultima ordinazione 21:30). A 5 minuti da Sanjo e Kawaramachi."
-          ]
-        }
-      ]
     }
   ],
   "note": [
@@ -652,7 +437,15 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "[Tabelog](https://tabelog.com/en/tokyo/A1309/A130905/13239562/)",
         "note": "Tabelog 3.58, ~1.000-2.000 ¥, a 4 minuti dall'uscita est di Iidabashi. Giovedì 11:00-15:00, ultima ordinazione 14:45. **Solo contanti**, niente prenotazioni. Eccezione orario: dritti in città senza mangiare a Haneda",
-        "catena": "**Matsuya Iidabashi Ekimae** (Iidabashi 4-9-10, 24 ore), ~5 min dalla stazione · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6993,139.7478,16z)"
+        "catena": "**Matsuya Iidabashi Ekimae** (Iidabashi 4-9-10, 24 ore), ~5 min dalla stazione · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6993,139.7478,16z)",
+        "citta": "Tokyo, prima tappa",
+        "stato": "walkin",
+        "nome": "Tonkatsu Aoki no Curry Ya Ippekoppe",
+        "piatto": "Katsu curry",
+        "link": "https://tabelog.com/en/tokyo/A1309/A130905/13239562/",
+        "contanti": true,
+        "dopo": "Haneda Airport",
+        "poi": "Koishikawa Korakuen"
       },
       {
         "pasto": "Cena",
@@ -661,7 +454,16 @@ window.TRIP = {
         "prenotazione": "📞 Consigliata",
         "tabelog": "[Kyorakutei](https://tabelog.com/en/tokyo/A1309/A130905/13000479/) · [Kinsuke](https://tabelog.com/en/tokyo/A1309/A130905/13063842/) · [Toritama](https://tabelog.com/en/tokyo/A1309/A130905/13059154/) · [Kotobuki](https://tabelog.com/en/tokyo/A1309/A130905/13178957/)",
         "note": "",
-        "catena": "**Matsuya Iidabashi Higashiguchi** (Shimomiyabicho 1-1), all'uscita est, ai piedi di Kagurazaka · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.702,139.7405,16z)"
+        "catena": "**Matsuya Iidabashi Higashiguchi** (Shimomiyabicho 1-1), all'uscita est, ai piedi di Kagurazaka · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.702,139.7405,16z)",
+        "citta": "Tokyo, prima tappa",
+        "stato": "scegliere",
+        "opzioni": [
+          "Kyorakutei",
+          "Toritama Kagurazaka",
+          "Sake to Kotobuki",
+          "Shuan Kinsuke"
+        ],
+        "dopo": "Koishikawa Korakuen"
       }
     ],
     "2026-11-20": [
@@ -672,7 +474,14 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "[Tabelog](https://tabelog.com/en/yamanashi/A1903/A190303/19004418/)",
         "note": "Tabelog 3.48, ~1.500 ¥. Solo contanti. ⚠️ Chiude quando finisce l'impasto: arrivate presto",
-        "catena": "Nessuna catena a piedi da Kawaguchiko: la più vicina è **MOS Burger Forest Mall Fujikawaguchiko**, ~3 km dalla stazione (7:00-23:00) · [MOS Burger sulla mappa](https://www.google.com/maps/search/%E3%83%A2%E3%82%B9%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC/@35.4985,138.769,16z)"
+        "catena": "Nessuna catena a piedi da Kawaguchiko: la più vicina è **MOS Burger Forest Mall Fujikawaguchiko**, ~3 km dalla stazione (7:00-23:00) · [MOS Burger sulla mappa](https://www.google.com/maps/search/%E3%83%A2%E3%82%B9%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC/@35.4985,138.769,16z)",
+        "citta": "Tokyo, prima tappa",
+        "stato": "walkin",
+        "nome": "Houtou Fudo Higashi Koiji",
+        "link": "https://tabelog.com/en/yamanashi/A1903/A190303/19004418/",
+        "contanti": true,
+        "dopo": "Mt. Fuji Panoramic Ropeway",
+        "poi": "Oishi Park"
       },
       {
         "pasto": "Cena",
@@ -681,7 +490,13 @@ window.TRIP = {
         "prenotazione": "🎫 se Maguro Mart",
         "tabelog": "[Maguro Mart](https://tabelog.com/en/tokyo/A1319/A131902/13236734/)",
         "note": "Fuori finestra per i tempi di rientro. Consiglio di Camilla, si prenota con difficoltà",
-        "catena": "🔍 Filiale non verificata (attorno alla stazione di Nakano ce ne sono diverse): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7066,139.6658,16z)"
+        "catena": "🔍 Filiale non verificata (attorno alla stazione di Nakano ce ne sono diverse): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7066,139.6658,16z)",
+        "citta": "Tokyo, prima tappa",
+        "stato": "obbligatoria",
+        "nome": "Maguro Mart",
+        "link": "https://tabelog.com/en/tokyo/A1319/A131902/13236734/",
+        "dopo": "Otsuki Station",
+        "entro": "appena decidete"
       }
     ],
     "2026-11-21": [
@@ -692,7 +507,14 @@ window.TRIP = {
         "prenotazione": "📞 Consigliata",
         "tabelog": "[Tabelog](https://tabelog.com/en/tokyo/A1311/A131102/13003666/) · [Yadoroku](https://tabelog.com/en/tokyo/A1311/A131102/13024859/)",
         "note": "Tabelog 3.46. Prenotazione online. Prendete l'unaju (~6-8.000 ¥), non il kaiseki da 12.000 ¥",
-        "catena": "**Tenya Asakusa**, tra Kaminarimon e Tawaramachi, tel. 03-5828-5918 (sab 10:00-23:00; si è spostato nell'edificio accanto) · [Tenya sulla mappa](https://www.google.com/maps/search/%E5%A4%A9%E4%B8%BC%E3%81%A6%E3%82%93%E3%82%84/@35.7105,139.7945,16z)"
+        "catena": "**Tenya Asakusa**, tra Kaminarimon e Tawaramachi, tel. 03-5828-5918 (sab 10:00-23:00; si è spostato nell'edificio accanto) · [Tenya sulla mappa](https://www.google.com/maps/search/%E5%A4%A9%E4%B8%BC%E3%81%A6%E3%82%93%E3%82%84/@35.7105,139.7945,16z)",
+        "citta": "Tokyo, prima tappa",
+        "stato": "consigliata",
+        "nome": "Komagata Maekawa",
+        "link": "https://tabelog.com/en/tokyo/A1311/A131102/13003666/",
+        "dopo": "Kappabashi Kitchen Town",
+        "poi": "Ueno Park",
+        "entro": "15 nov"
       },
       {
         "pasto": "Cena",
@@ -701,7 +523,14 @@ window.TRIP = {
         "prenotazione": "📞 Consigliata",
         "tabelog": "[Ponta Honke](https://tabelog.com/en/tokyo/A1311/A131101/13003587/) · [Kamachiku](https://tabelog.com/en/tokyo/A1311/A131106/13020252/)",
         "note": "Tabelog 3.77, Tabelog 100 tonkatsu e yoshoku, ~4-5.000 ¥. Ultima ordinazione 19:45. Prenotazione online, carte accettate",
-        "catena": "🔍 Filiale non verificata (Ueno-Okachimachi ne è pieno): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7076,139.7727,16z)"
+        "catena": "🔍 Filiale non verificata (Ueno-Okachimachi ne è pieno): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7076,139.7727,16z)",
+        "citta": "Tokyo, prima tappa",
+        "stato": "consigliata",
+        "nome": "Ponta Honke",
+        "piatto": "Tonkatsu",
+        "link": "https://tabelog.com/en/tokyo/A1311/A131101/13003587/",
+        "dopo": "Ameyoko Market",
+        "entro": "15 nov"
       },
       {
         "pasto": "Spuntino",
@@ -728,7 +557,15 @@ window.TRIP = {
         "prenotazione": "✅ Prenotato",
         "tabelog": "[Pretty Pork](https://tabelog.com/en/tokyo/A1306/A130601/13295369/)",
         "note": "Tabelog 3.74. **Brand Pork Tonkatsu Seat da 4.500 ¥ a testa** (si sceglie il tonkatsu tra 4.500 e 8.000 ¥), 10% di servizio, da pagare al ristorante; 880 ¥ già pagati a Tabelog, non rimborsabili. **Tempo al tavolo 1 ora**. Tel. 03-6805-0290. Fuori tetto solo se scegliete i tagli più cari. Eccezione orario: dopo Shibuya Sky. Alt. se saltasse: **Harajuku Gyoza Ro** (3.49, ~1.500 ¥)",
-        "catena": "🔍 Filiale non verificata (Harajuku ne ha poche): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6693,139.7035,16z)"
+        "catena": "🔍 Filiale non verificata (Harajuku ne ha poche): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6693,139.7035,16z)",
+        "citta": "Tokyo, prima tappa",
+        "stato": "prenotato",
+        "nome": "Pretty Pork Factory & Katsu Puripo",
+        "piatto": "Tonkatsu",
+        "link": "https://tabelog.com/en/tokyo/A1306/A130601/13295369/",
+        "foto": true,
+        "dopo": "Shibuya Sky",
+        "poi": "Omotesando"
       },
       {
         "pasto": "Cena",
@@ -737,7 +574,14 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "[Shogun Pizza](https://haveagood-holiday.com/en/articles/shogun-pizza-shibuya-opening) · [Arai Ya](https://tabelog.com/en/tokyo/A1303/A130301/13237382/) · [Nagi](https://tabelog.com/en/tokyo/A1303/A130301/13319750/)",
         "note": "~1.000-2.000 ¥. 11:00-22:00 o 23:00 (le fonti non concordano), tel. 03-6416-1553. 6 minuti a piedi dalla stazione. Dopo Shimokitazawa e lo Scramble Crossing",
-        "catena": "🔍 Filiale non verificata: [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6614,139.6989,16z)"
+        "catena": "🔍 Filiale non verificata: [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6614,139.6989,16z)",
+        "citta": "Tokyo, prima tappa",
+        "stato": "walkin",
+        "nome": "SHOGUN PIZZA",
+        "piatto": "Pizza",
+        "link": "https://haveagood-holiday.com/en/articles/shogun-pizza-shibuya-opening",
+        "foto": true,
+        "dopo": "Shibuya Crossing"
       }
     ],
     "2026-11-23": [
@@ -748,7 +592,14 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in (si fa la fila)",
         "tabelog": "[AFURI](https://tabelog.com/en/tokyo/A1317/A131701/13129706/) · [Roastery](https://tabelog.com/en/tokyo/A1317/A131701/13231942/)",
         "note": "⚠️ Solo pagamento cashless",
-        "catena": "A Nakameguro davanti alla stazione c'è **MOS Burger**; le altre catene no · [MOS Burger sulla mappa](https://www.google.com/maps/search/%E3%83%A2%E3%82%B9%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC/@35.644,139.699,16z)"
+        "catena": "A Nakameguro davanti alla stazione c'è **MOS Burger**; le altre catene no · [MOS Burger sulla mappa](https://www.google.com/maps/search/%E3%83%A2%E3%82%B9%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC/@35.644,139.699,16z)",
+        "citta": "Tokyo, prima tappa",
+        "stato": "walkin",
+        "prenNota": "(si fa la fila)",
+        "nome": "AFURI Nakameguro",
+        "link": "https://tabelog.com/en/tokyo/A1317/A131701/13129706/",
+        "dopo": "Shinjuku Gyoen",
+        "poi": "Starbucks Reserve Roastery Tokyo"
       },
       {
         "pasto": "Cena",
@@ -757,7 +608,16 @@ window.TRIP = {
         "prenotazione": "📞 Consigliata, è festivo",
         "tabelog": "[Funabashiya](https://tabelog.com/en/tokyo/A1304/A130401/13012090/) · [Itteki Hassenya](https://tabelog.com/en/tokyo/A1304/A130401/13000760/)",
         "note": "Tabelog 3.49, Tabelog 100 tempura 2022, ~4-5.000 ¥. Aperto tutti i giorni 11:30-21:00, a 1 minuto da Shinjuku-sanchome. Scartato Gyutan Iroha: 3.24, e su Tabelog risulta locale per fumatori. Omoide Yokocho resta una passeggiata per le foto",
-        "catena": "**Fujisoba Sankocho** (Shinjuku 5-16-5, 24 ore), a pochi minuti da Shinjuku-sanchome · [Fujisoba sulla mappa](https://www.google.com/maps/search/%E5%AF%8C%E5%A3%AB%E3%81%9D%E3%81%B0/@35.6914,139.703,16z)"
+        "catena": "**Fujisoba Sankocho** (Shinjuku 5-16-5, 24 ore), a pochi minuti da Shinjuku-sanchome · [Fujisoba sulla mappa](https://www.google.com/maps/search/%E5%AF%8C%E5%A3%AB%E3%81%9D%E3%81%B0/@35.6914,139.703,16z)",
+        "citta": "Tokyo, prima tappa",
+        "stato": "consigliata",
+        "prenNota": "è festivo",
+        "nome": "Funabashiya Shinjuku Honten",
+        "piatto": "Tempura",
+        "link": "https://tabelog.com/en/tokyo/A1304/A130401/13012090/",
+        "dopo": "Tokyo Metropolitan Government Building",
+        "poi": "Disney FLAGSHIP TOKYO",
+        "entro": "15 nov"
       }
     ],
     "2026-11-24": [
@@ -768,7 +628,17 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in (online pochi posti al giorno)",
         "tabelog": "[Yama San](https://tabelog.com/en/ishikawa/A1701/A170101/17000196/) · [Yutaka Suisan](https://tabelog.com/en/ishikawa/A1701/A170101/17012730/)",
         "note": "Tabelog 3.66, 1.345 recensioni, ~3-4.000 ¥. 9:00-16:00, fino a esaurimento. ⚠️ Carte JCB, AMEX e Diners e PayPay: **Visa e Mastercard no**, portate contanti. Kanazawa è la città del sushi: le grandi sushiya superano il tetto, questa ci sta",
-        "catena": "Nessuna catena della lista vicino a Omicho né alla stazione di Kanazawa: restano il Kanazawa Curry Lab al mercato e i konbini · [CoCo Ichibanya sulla mappa](https://www.google.com/maps/search/CoCo%E5%A3%B1%E7%95%AA%E5%B1%8B/@36.5716,136.6567,16z)"
+        "catena": "Nessuna catena della lista vicino a Omicho né alla stazione di Kanazawa: restano il Kanazawa Curry Lab al mercato e i konbini · [CoCo Ichibanya sulla mappa](https://www.google.com/maps/search/CoCo%E5%A3%B1%E7%95%AA%E5%B1%8B/@36.5716,136.6567,16z)",
+        "citta": "Kanazawa",
+        "stato": "walkin",
+        "prenNota": "(online pochi posti al giorno)",
+        "nome": "Yama San Sushi Honten",
+        "piatto": "Sushi",
+        "link": "https://tabelog.com/en/ishikawa/A1701/A170101/17000196/",
+        "contanti": true,
+        "dopo": "Kanazawa Station",
+        "poi": "Kenrokuen",
+        "entro": "20 nov"
       },
       {
         "pasto": "Cena",
@@ -777,7 +647,17 @@ window.TRIP = {
         "prenotazione": "📞 Consigliata",
         "tabelog": "[Kabuna](https://tabelog.com/en/ishikawa/A1701/A170101/17000085/) · [Daigo](https://tabelog.com/en/ishikawa/A1701/A170101/17009374/) · [Itaru](https://tabelog.com/en/ishikawa/A1701/A170101/17000009/)",
         "note": "~6-8.000 ¥. Stagione del granchio kobako (da novembre). Kabuna è nei \"Tabelog 100\" izakaya 2025 e 2026, ma ha un'area fumatori",
-        "catena": "**Marugame Seimen Kanazawa** (Nagadohei 2-6-33, 11:00-22:00), ~15 min a piedi da Katamachi. In centro non ci sono altre catene della lista · [Marugame Seimen sulla mappa](https://www.google.com/maps/search/%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%BA/@36.5622,136.6505,16z)"
+        "catena": "**Marugame Seimen Kanazawa** (Nagadohei 2-6-33, 11:00-22:00), ~15 min a piedi da Katamachi. In centro non ci sono altre catene della lista · [Marugame Seimen sulla mappa](https://www.google.com/maps/search/%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%BA/@36.5622,136.6505,16z)",
+        "citta": "Kanazawa",
+        "stato": "scegliere",
+        "opzioni": [
+          "Kabuna",
+          "Shusui Daigo",
+          "Itaru Honten"
+        ],
+        "dopo": "Oyama Shrine",
+        "poi": "Higashi Chaya District",
+        "entro": "15 nov"
       }
     ],
     "2026-11-25": [
@@ -788,7 +668,15 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "[Tabelog](https://tabelog.com/en/ishikawa/A1701/A170101/17001277/)",
         "note": "Tabelog 3.50 (916 recensioni), il primo della classifica curry di Kanazawa, ~1.000 ¥. Tutti i giorni 11:00-21:00. **Solo contanti**. Tra Oyama Shrine e Teramachi. Alt. 📸 **Kanazawa Curry Lab** (金沢カレー研究工房) al mercato di Omicho, anche come assaggio il 24/11",
-        "catena": "**Marugame Seimen Kanazawa** (Nagadohei 2-6-33, 11:00-22:00), ~10 min a piedi da Nagamachi. In centro non ci sono altre catene della lista · [Marugame Seimen sulla mappa](https://www.google.com/maps/search/%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%BA/@36.5622,136.6505,16z)"
+        "catena": "**Marugame Seimen Kanazawa** (Nagadohei 2-6-33, 11:00-22:00), ~10 min a piedi da Nagamachi. In centro non ci sono altre catene della lista · [Marugame Seimen sulla mappa](https://www.google.com/maps/search/%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%BA/@36.5622,136.6505,16z)",
+        "citta": "Kanazawa",
+        "stato": "walkin",
+        "nome": "Turban Curry Honten",
+        "piatto": "Kanazawa curry",
+        "link": "https://tabelog.com/en/ishikawa/A1701/A170101/17001277/",
+        "contanti": true,
+        "dopo": "Nomura Samurai House",
+        "poi": "Myoryu-ji Ninja-dera"
       },
       {
         "pasto": "Cena",
@@ -797,7 +685,15 @@ window.TRIP = {
         "prenotazione": "📞 Consigliata",
         "tabelog": "[Miyuki](https://tabelog.com/en/ishikawa/A1701/A170101/17002725/) · [Tokkuriya](https://tabelog.com/en/ishikawa/A1701/A170101/17000666/)",
         "note": "⚠️ Mercoledì: molti locali chiudono (Hachinana, Yumemi, Hasuya, Kuroya)",
-        "catena": "**Marugame Seimen Kanazawa** (Nagadohei 2-6-33, 11:00-22:00), ~15 min a piedi da Korinbo. In centro non ci sono altre catene della lista · [Marugame Seimen sulla mappa](https://www.google.com/maps/search/%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%BA/@36.5622,136.6505,16z)"
+        "catena": "**Marugame Seimen Kanazawa** (Nagadohei 2-6-33, 11:00-22:00), ~15 min a piedi da Korinbo. In centro non ci sono altre catene della lista · [Marugame Seimen sulla mappa](https://www.google.com/maps/search/%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%BA/@36.5622,136.6505,16z)",
+        "citta": "Kanazawa",
+        "stato": "scegliere",
+        "opzioni": [
+          "Oden Izakaya Miyuki",
+          "Tokkuriya"
+        ],
+        "dopo": "Kazuemachi",
+        "entro": "15 nov"
       }
     ],
     "2026-11-26": [
@@ -808,7 +704,16 @@ window.TRIP = {
         "prenotazione": "🎫 Fissa, entro il giorno prima",
         "tabelog": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26035557/)",
         "note": "Tabelog 3.52. Solo carta. Ultimo ingresso a pranzo 13:30. Colazione in treno: **ekiben** comprato alla stazione di Kanazawa (granchio, nodoguro, cucina Kaga)",
-        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), oltre il ponte di Shijo, ~8 min · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0035,135.7728,16z)"
+        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), oltre il ponte di Shijo, ~8 min · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0035,135.7728,16z)",
+        "citta": "Kyoto",
+        "stato": "obbligatoria",
+        "prenNota": "entro il giorno prima",
+        "nome": "Gion Tempura Bansan",
+        "piatto": "Tempura",
+        "link": "https://tabelog.com/en/kyoto/A2601/A260301/26035557/",
+        "dopo": "Kyoto Station",
+        "poi": "Kennin-ji",
+        "entro": "15 nov"
       },
       {
         "pasto": "Cena",
@@ -817,7 +722,14 @@ window.TRIP = {
         "prenotazione": "🎫 Fissa",
         "tabelog": "[Tendan](https://tabelog.com/en/kyoto/A2601/A260301/26001422/) · [Tonemon](https://www.tablecheck.com/miyagawatonemon)",
         "note": "Tabelog 3.44, set da 7.500-8.000 ¥, turni di 2 ore. Prenotazione online, tel. 075-551-4129. A 2 minuti da Gion-Shijo. Sostituisce Tan (e prima THE KAISEKI, chiuso dal 30/9)",
-        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), oltre il ponte di Shijo, ~8 min · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0035,135.7728,16z)"
+        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), oltre il ponte di Shijo, ~8 min · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0035,135.7728,16z)",
+        "citta": "Kyoto",
+        "stato": "obbligatoria",
+        "nome": "Tendan Gion Honten",
+        "piatto": "Yakiniku",
+        "link": "https://tabelog.com/en/kyoto/A2601/A260301/26001422/",
+        "dopo": "Shirakawa Tatsumi Bridge",
+        "entro": "**subito**"
       }
     ],
     "2026-11-27": [
@@ -828,7 +740,14 @@ window.TRIP = {
         "prenotazione": "🎫 Fissa",
         "tabelog": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260403/26000923/)",
         "note": "Tabelog 3.58, Bib Gourmand Michelin, ~3-4.000 ¥ + 500 ¥ di ingresso al giardino. Se saltate il Monkey Park, pausa caffè da **Bread, Espresso & Arashiyama Garden** ([Tabelog](https://tabelog.com/en/kyoto/A2601/A260403/26032681/), 3.39, niente prenotazioni)",
-        "catena": "🔍 Filiale non verificata: ad Arashiyama non ne risultano, le più vicine sono a Uzumasa: [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0158,135.6745,16z)"
+        "catena": "🔍 Filiale non verificata: ad Arashiyama non ne risultano, le più vicine sono a Uzumasa: [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0158,135.6745,16z)",
+        "citta": "Kyoto",
+        "stato": "obbligatoria",
+        "nome": "Shigetsu",
+        "link": "https://tabelog.com/en/kyoto/A2601/A260403/26000923/",
+        "dopo": "Arashiyama Monkey Park Iwatayama",
+        "poi": "Ryoan-ji",
+        "entro": "**subito**"
       },
       {
         "pasto": "Cena",
@@ -837,7 +756,12 @@ window.TRIP = {
         "prenotazione": "📞 Consigliata",
         "tabelog": "",
         "note": "Kiraku: 11:30-15:00 e 17:00-23:00, a 4 minuti da Sanjo; su Tabelog cena 8-10.000 ¥, carte accettate. Verificate che la hitsumabushi ci sia anche a cena. Muni: Ajibiru Bldg 5F, 5 minuti da Kawaramachi",
-        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), ~5 min da Pontocho · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0078,135.7712,16z)"
+        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), ~5 min da Pontocho · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0078,135.7712,16z)",
+        "citta": "Kyoto",
+        "stato": "consigliata",
+        "nome": "Pontocho Yakiniku Kiraku",
+        "foto": true,
+        "dopo": "Kitano Tenmangu"
       }
     ],
     "2026-11-28": [
@@ -848,7 +772,13 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "",
         "note": "Okutan: ~3.000-4.000 ¥, orari e giorno di chiusura da verificare",
-        "catena": "🔍 Filiale non verificata: [Nakau sulla mappa](https://www.google.com/maps/search/%E3%81%AA%E3%81%8B%E5%8D%AF/@35.023,135.7945,16z)"
+        "catena": "🔍 Filiale non verificata: [Nakau sulla mappa](https://www.google.com/maps/search/%E3%81%AA%E3%81%8B%E5%8D%AF/@35.023,135.7945,16z)",
+        "citta": "Kyoto",
+        "stato": "walkin",
+        "nome": "Okutan",
+        "piatto": "yudofu",
+        "dopo": "Philosopher's Path",
+        "poi": "Murin-an"
       },
       {
         "pasto": "Cena",
@@ -857,7 +787,17 @@ window.TRIP = {
         "prenotazione": "🎫 Fissa",
         "tabelog": "[FARO](https://www.tablecheck.com/en/gion-sushi-faro) · [Yoshina](https://tabelog.com/en/kyoto/A2601/A260301/26000704/) · [Futago Ya](https://tabelog.com/en/kyoto/A2601/A260301/26032366/)",
         "note": "Tabelog ~3.05, cena 10-15.000 ¥: **fuori tetto per scelta**. 16:00-23:00, chiuso la domenica e un lunedì su due. Lo chef parla inglese. Eccezione orario: dopo Eikando. Dopo cena, passeggiata a Pontocho",
-        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), oltre il ponte di Shijo, ~8 min · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0036,135.7748,16z)"
+        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), oltre il ponte di Shijo, ~8 min · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0036,135.7748,16z)",
+        "citta": "Kyoto",
+        "stato": "obbligatoria",
+        "nome": "Gion Sushi FARO",
+        "piatto": "Sushi",
+        "link": "https://www.tablecheck.com/en/gion-sushi-faro",
+        "foto": true,
+        "fuoriTetto": true,
+        "dopo": "Eikando Zenrin-ji",
+        "poi": "Pontocho Alley",
+        "entro": "15 nov"
       },
       {
         "pasto": "Spuntino",
@@ -876,7 +816,14 @@ window.TRIP = {
         "prenotazione": "📞 Consigliata",
         "tabelog": "[Beniya](https://tabelog.com/en/kyoto/A2601/A260502/26013329/) · [Hyoue Cafe](https://tabelog.com/en/kyoto/A2601/A260502/26031572/)",
         "note": "Scartato Hiroya: le recensioni indicano una spesa di 15-20.000 ¥ e la penale è del 100% già due giorni prima. Hyoue Cafe chiude il mercoledì. Le piattaforme sul fiume (kawadoko) finiscono a settembre: a fine novembre si mangia al chiuso",
-        "catena": "Nessuna catena a Kurama e Kibune. Al rientro: **Nakau Kawaramachi Marutamachi** (Kawaramachi-dori Marutamachi sagaru), ~10 min a piedi da Demachiyanagi · [Nakau sulla mappa](https://www.google.com/maps/search/%E3%81%AA%E3%81%8B%E5%8D%AF/@35.0185,135.7695,16z)"
+        "catena": "Nessuna catena a Kurama e Kibune. Al rientro: **Nakau Kawaramachi Marutamachi** (Kawaramachi-dori Marutamachi sagaru), ~10 min a piedi da Demachiyanagi · [Nakau sulla mappa](https://www.google.com/maps/search/%E3%81%AA%E3%81%8B%E5%8D%AF/@35.0185,135.7695,16z)",
+        "citta": "Kyoto",
+        "stato": "consigliata",
+        "nome": "Kibune Beniya",
+        "link": "https://tabelog.com/en/kyoto/A2601/A260502/26013329/",
+        "dopo": "Kurama-dera",
+        "poi": "Kifune Shrine",
+        "entro": "15 nov"
       },
       {
         "pasto": "Cena",
@@ -885,7 +832,14 @@ window.TRIP = {
         "prenotazione": "📞 Consigliata",
         "tabelog": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26039528/)",
         "note": "Tabelog 3.48, ~2.000-5.000 ¥ (set da 5.280 ¥). Tutti i giorni 11:30-22:30. Prenotazione online; carte, Suica e PayPay. A 1 minuto da Kyoto-Kawaramachi",
-        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), ~3 min da Kyoto-Kawaramachi · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0035,135.7695,16z)"
+        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), ~3 min da Kyoto-Kawaramachi · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0035,135.7695,16z)",
+        "citta": "Kyoto",
+        "stato": "consigliata",
+        "nome": "Kaiten Sushi Ginza Onodera",
+        "piatto": "Kaiten-zushi",
+        "link": "https://tabelog.com/en/kyoto/A2601/A260201/26039528/",
+        "dopo": "Shimogamo Jinja",
+        "entro": "20 nov"
       }
     ],
     "2026-11-30": [
@@ -896,7 +850,14 @@ window.TRIP = {
         "prenotazione": "🎫 Fissa",
         "tabelog": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26000646/)",
         "note": "Tabelog 3.64, nella guida Michelin. **Lunch Course 8.591 ¥** (tasse e servizio inclusi); i corsi serali costano 17.545 ¥. Machiya Meiji, sukiyaki dal 1873",
-        "catena": "**Matsuya Hotel Unizo Kyoto Karasuma Oike** (Sakaimachi Oshikoji sagaru), ~10 min a piedi · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.0055,135.768,16z)"
+        "catena": "**Matsuya Hotel Unizo Kyoto Karasuma Oike** (Sakaimachi Oshikoji sagaru), ~10 min a piedi · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.0055,135.768,16z)",
+        "citta": "Kyoto",
+        "stato": "obbligatoria",
+        "nome": "Mishima-tei",
+        "link": "https://tabelog.com/en/kyoto/A2601/A260201/26000646/",
+        "dopo": "Hokan-ji Yasaka Pagoda",
+        "poi": "Nishiki Market",
+        "entro": "**subito**"
       },
       {
         "pasto": "Cena",
@@ -905,7 +866,15 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in, si fa la fila",
         "tabelog": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26000254/)",
         "note": "Cena leggera dopo il sukiyaki. Apre alle 17:30, 14 posti, solo contanti. Il locale dove mangiano geiko e maiko, a pochi minuti dal Kodai-ji",
-        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), oltre il ponte di Shijo, ~10 min · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0005,135.7755,16z)"
+        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), oltre il ponte di Shijo, ~10 min · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0005,135.7755,16z)",
+        "citta": "Kyoto",
+        "stato": "walkin",
+        "prenNota": "si fa la fila",
+        "nome": "Gion Yorozuya",
+        "link": "https://tabelog.com/en/kyoto/A2601/A260301/26000254/",
+        "contanti": true,
+        "dopo": "Nishiki Market",
+        "poi": "Kodai-ji"
       },
       {
         "pasto": "Spuntino",
@@ -924,7 +893,14 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "[Hiraso](https://tabelog.com/en/nara/A2901/A290101/29000753/)",
         "note": "Gita a Nara. Tabelog 3.32: piatto tipico, cucina nella media",
-        "catena": "**Sukiya Kintetsu Nara Ekimae** (Nakasujicho 6-1) o **MOS Burger Kintetsu Nara** (Higashimuki-minamimachi 10-2), entrambi davanti alla stazione Kintetsu · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@34.6844,135.827,16z)"
+        "catena": "**Sukiya Kintetsu Nara Ekimae** (Nakasujicho 6-1) o **MOS Burger Kintetsu Nara** (Higashimuki-minamimachi 10-2), entrambi davanti alla stazione Kintetsu · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@34.6844,135.827,16z)",
+        "citta": "Kyoto",
+        "stato": "walkin",
+        "nome": "Hiraso",
+        "piatto": "Kaki-no-ha sushi",
+        "link": "https://tabelog.com/en/nara/A2901/A290101/29000753/",
+        "dopo": "Kasuga Taisha",
+        "poi": "Kofuku-ji"
       },
       {
         "pasto": "Cena",
@@ -933,7 +909,12 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26001330/)",
         "note": "Stessa famiglia dall'epoca Meiji, vicino a Shinkyogoku. Chiuso il mercoledì. Qualche recensione trova poca anguilla sotto la frittata",
-        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), ~5 min lungo Shijo · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0068,135.7676,16z)"
+        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), ~5 min lungo Shijo · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0068,135.7676,16z)",
+        "citta": "Kyoto",
+        "stato": "walkin",
+        "nome": "Kyogoku Kaneyo",
+        "link": "https://tabelog.com/en/kyoto/A2601/A260201/26001330/",
+        "dopo": "Nakatanidou"
       },
       {
         "pasto": "Spuntino",
@@ -952,7 +933,14 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "[Tabelog](https://tabelog.com/en/kyoto/A2607/A260701/26000722/)",
         "note": "Tabelog 3.55, ~2.000 ¥. Coda frequente: a mezzogiorno mettete in conto un'attesa, scrivete il nome sulla lista appena arrivati",
-        "catena": "Nessuna catena a piedi dalle stazioni di Uji: la più vicina è **Nakau Uji Makishima**, ~3 km · [Nakau sulla mappa](https://www.google.com/maps/search/%E3%81%AA%E3%81%8B%E5%8D%AF/@34.8936,135.8005,16z)"
+        "catena": "Nessuna catena a piedi dalle stazioni di Uji: la più vicina è **Nakau Uji Makishima**, ~3 km · [Nakau sulla mappa](https://www.google.com/maps/search/%E3%81%AA%E3%81%8B%E5%8D%AF/@34.8936,135.8005,16z)",
+        "citta": "Kyoto",
+        "stato": "walkin",
+        "nome": "Nakamura Tokichi Honten",
+        "piatto": "Soba al tè matcha",
+        "link": "https://tabelog.com/en/kyoto/A2607/A260701/26000722/",
+        "dopo": "Sanjusangen-do",
+        "poi": "Byodo-in"
       },
       {
         "pasto": "Cena",
@@ -961,7 +949,13 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in (al tavolo non si prenota)",
         "tabelog": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26000585/)",
         "note": "Chiuso il martedì; il 2/12 è mercoledì. 16 posti",
-        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), oltre il ponte di Shijo, ~8 min · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.005,135.7737,16z)"
+        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), oltre il ponte di Shijo, ~8 min · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.005,135.7737,16z)",
+        "citta": "Kyoto",
+        "stato": "walkin",
+        "prenNota": "(al tavolo non si prenota)",
+        "nome": "Izuu",
+        "link": "https://tabelog.com/en/kyoto/A2601/A260301/26000585/",
+        "dopo": "Byodo-in"
       },
       {
         "pasto": "Spuntino",
@@ -980,7 +974,14 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "[Classifica anago Himeji](https://tabelog.com/en/hyogo/A2805/A280501/R8523/rstLst/RC010503/)",
         "note": "Gita a Himeji. Kassui-ken: orari e menu da verificare; si entra col biglietto del Koko-en",
-        "catena": "**Matsuya Himeji Otemae-dori** (Ekimaecho 338, 24 ore), sul viale tra stazione e castello · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@34.8296,134.6905,16z)"
+        "catena": "**Matsuya Himeji Otemae-dori** (Ekimaecho 338, 24 ore), sul viale tra stazione e castello · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@34.8296,134.6905,16z)",
+        "citta": "Kyoto",
+        "stato": "walkin",
+        "nome": "Kassui-ken",
+        "piatto": "Anago",
+        "link": "https://tabelog.com/en/hyogo/A2805/A280501/R8523/rstLst/RC010503/",
+        "dopo": "Himeji Castle",
+        "poi": "Nijo-jo Castle"
       },
       {
         "pasto": "Cena",
@@ -989,7 +990,16 @@ window.TRIP = {
         "prenotazione": "📞 Consigliata",
         "tabelog": "[ikyu](https://restaurant.ikyu.com/123087/highlights) · [Inoichi](https://tabelog.com/en/kyoto/A2601/A260201/26032368/)",
         "note": "Corsi da 13.750 ¥: **fuori tetto per scelta**. Tutti i giorni 11:00-22:00, ultima ordinazione 21:30. ~20 minuti a piedi dal KABIN. La tempura di Bansan è passata al pranzo del 26/11",
-        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), ~5 min lungo Kiyamachi · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0087,135.7712,16z)"
+        "catena": "**Sukiya Shijo Kiyamachi** (Shimogyo, Hashimotocho 109), ~5 min lungo Kiyamachi · [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.0087,135.7712,16z)",
+        "citta": "Kyoto",
+        "stato": "consigliata",
+        "nome": "Kobe Beef Kisshokichi Kyoto Honten",
+        "piatto": "Manzo di Kobe al teppanyaki",
+        "link": "https://restaurant.ikyu.com/123087/highlights",
+        "foto": true,
+        "fuoriTetto": true,
+        "dopo": "Nijo-jo Castle",
+        "entro": "20 nov"
       }
     ],
     "2026-12-04": [
@@ -1000,7 +1010,13 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "[Kuromon su Tabelog](https://tabelog.com/osaka/A2701/A270202/PS109/rstLst/lunch/) · [Yaekatsu](https://tabelog.com/osaka/A2701/A270206/27000443/) · [Daruma](https://tabelog.com/en/osaka/A2701/A270206/27004260/)",
         "note": "Partite dai banchi con la coda più corta. ⚠️ Il granchio reale al pezzo costa caro: fissate un tetto",
-        "catena": "**Matsuya Namba Sennichimae** (Namba Sennichimae 14-14) o **Sukiya Namba Sennichimae**, ~5 min da Kuromon · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@34.6654,135.5066,16z)"
+        "catena": "**Matsuya Namba Sennichimae** (Namba Sennichimae 14-14) o **Sukiya Namba Sennichimae**, ~5 min da Kuromon · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@34.6654,135.5066,16z)",
+        "citta": "Osaka",
+        "stato": "walkin",
+        "nome": "Kuromon Ichiba Market",
+        "link": "https://tabelog.com/osaka/A2701/A270202/PS109/rstLst/lunch/",
+        "dopo": "Osaka Castle",
+        "poi": "Namba Yasaka Shrine"
       },
       {
         "pasto": "Cena",
@@ -1009,7 +1025,13 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "[Ramen Ichiza](https://ramen-ichiza.edion.com/en/) · [Wanaka](https://tabelog.com/en/osaka/A2701/A270202/27104548/) · [Takohachi](https://tabelog.com/osaka/A2701/A270202/27076174/) · [Fukutarou](https://tabelog.com/en/osaka/A2701/A270202/27002665/) · [Chibo](https://tabelog.com/osaka/A2701/A270202/27002622/)",
         "note": "Eccezione orario: dopo teamLab (ingresso 18:00). Gli stand di takoyaki chiudono di solito verso le 22:00-23:00. 💡 Evitate i banchi sotto l'insegna Glico: spostatevi verso Soemoncho",
-        "catena": "**Marugame Seimen Namba** (Nambanaka 1-16-8) o **Yoshinoya Namba CITY Minamikan** · [Marugame Seimen sulla mappa](https://www.google.com/maps/search/%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%BA/@34.6657,135.5018,16z)"
+        "catena": "**Marugame Seimen Namba** (Nambanaka 1-16-8) o **Yoshinoya Namba CITY Minamikan** · [Marugame Seimen sulla mappa](https://www.google.com/maps/search/%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%BA/@34.6657,135.5018,16z)",
+        "citta": "Osaka",
+        "stato": "walkin",
+        "nome": "Street food",
+        "link": "https://ramen-ichiza.edion.com/en/",
+        "dopo": "teamLab Botanical Garden Osaka",
+        "poi": "Edion Namba Ramen Ichiza"
       }
     ],
     "2026-12-05": [
@@ -1020,7 +1042,12 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "",
         "note": "Pranzo tardo dopo l'acquario (ingresso 10:45-11:00): se la fame arriva prima, uno spuntino nel Marketplace",
-        "catena": "🔍 Filiale non verificata (zona Osakako, pochi locali oltre il Tempozan): [Yoshinoya sulla mappa](https://www.google.com/maps/search/%E5%90%89%E9%87%8E%E5%AE%B6/@34.6545,135.4289,16z)"
+        "catena": "🔍 Filiale non verificata (zona Osakako, pochi locali oltre il Tempozan): [Yoshinoya sulla mappa](https://www.google.com/maps/search/%E5%90%89%E9%87%8E%E5%AE%B6/@34.6545,135.4289,16z)",
+        "citta": "Tokyo, seconda tappa",
+        "stato": "nessuna",
+        "idea": "Tempozan Marketplace, accanto al Kaiyukan",
+        "dopo": "Osaka Aquarium Kaiyukan",
+        "poi": "Tempozan Giant Ferris Wheel"
       },
       {
         "pasto": "Cena",
@@ -1029,7 +1056,12 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "",
         "note": "Eccezione orario: cena in treno. Scegliete i bento tra le 18:15 e le 19:15; portate acqua o tè e salviette. Il monjayaki di Tsukishima è stato tolto dal piano",
-        "catena": "Nessuna catena: si compra in stazione. Piano B: konbini in stazione"
+        "catena": "Nessuna catena: si compra in stazione. Piano B: konbini in stazione",
+        "citta": "Tokyo, seconda tappa",
+        "stato": "walkin",
+        "nome": "Ekiben",
+        "dopo": "Shin-Osaka Station",
+        "poi": "Tokyo Station"
       }
     ],
     "2026-12-06": [
@@ -1040,7 +1072,15 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in, si fa la fila",
         "tabelog": "[Kagari](https://tabelog.com/en/tokyo/A1301/A130101/13230021/) · [Mugi to Olive](https://tabelog.com/en/tokyo/A1301/A130101/13164932/)",
         "note": "Tabelog 3.66, ~1.000-2.000 ¥. Aperto tutti i giorni dalle 11:00. Tsukiji è passato alla colazione dell'8/12 (vedi Spuntini): la domenica molti banchi sono chiusi",
-        "catena": "🔍 Filiale non verificata: [Yoshinoya sulla mappa](https://www.google.com/maps/search/%E5%90%89%E9%87%8E%E5%AE%B6/@35.6712,139.7614,16z)"
+        "catena": "🔍 Filiale non verificata: [Yoshinoya sulla mappa](https://www.google.com/maps/search/%E5%90%89%E9%87%8E%E5%AE%B6/@35.6712,139.7614,16z)",
+        "citta": "Tokyo, seconda tappa",
+        "stato": "walkin",
+        "prenNota": "si fa la fila",
+        "nome": "Ginza Kagari Honten",
+        "piatto": "Ramen",
+        "link": "https://tabelog.com/en/tokyo/A1301/A130101/13230021/",
+        "dopo": "Akasaka Sacas",
+        "poi": "Don Quijote Ginza"
       },
       {
         "pasto": "Cena",
@@ -1049,7 +1089,15 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in (non prende prenotazioni)",
         "tabelog": "",
         "note": "Google 4,3 (567 recensioni), ~2.000-3.000 ¥. Domenica 09:00-20:00. A 3 minuti da Mitsukoshimae. Dopo cena, Rikugien",
-        "catena": "🔍 Filiale non verificata: [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6866,139.7738,16z)"
+        "catena": "🔍 Filiale non verificata: [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6866,139.7738,16z)",
+        "citta": "Tokyo, seconda tappa",
+        "stato": "walkin",
+        "prenNota": "(non prende prenotazioni)",
+        "nome": "Nihonbashi Tonkatsu Hajime HANARE",
+        "piatto": "Tonkatsu",
+        "foto": true,
+        "dopo": "Don Quijote Ginza",
+        "poi": "Rikugien"
       }
     ],
     "2026-12-07": [
@@ -1060,7 +1108,12 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "[Tobiccho](https://tabelog.com/kanagawa/A1404/A140403/14000795/)",
         "note": "Gita a Kamakura. Col nuovo ordine (Kita-Kamakura la mattina) a Enoshima arrivate alle 15:00: **Tobiccho** (3.49, il più noto per la shirasu) non è più comodo per pranzo",
-        "catena": "🔍 Filiale non verificata: alla stazione di Kamakura non ne risultano, la più vicina Sukiya è a Ofuna: [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.3192,139.5502,16z)"
+        "catena": "🔍 Filiale non verificata: alla stazione di Kamakura non ne risultano, la più vicina Sukiya è a Ofuna: [Sukiya sulla mappa](https://www.google.com/maps/search/%E3%81%99%E3%81%8D%E5%AE%B6/@35.3192,139.5502,16z)",
+        "citta": "Tokyo, seconda tappa",
+        "stato": "nessuna",
+        "idea": "Shirasu-don a Kamakura, zona stazione e Komachi-dori",
+        "dopo": "Tsurugaoka Hachimangu",
+        "poi": "Kotoku-in Great Buddha"
       },
       {
         "pasto": "Cena",
@@ -1069,7 +1122,16 @@ window.TRIP = {
         "prenotazione": "📞 Consigliata",
         "tabelog": "[Tabelog](https://tabelog.com/en/tokyo/A1301/A130103/13001520/)",
         "note": "Tabelog 3.66, Tabelog 100 yakitori 2021 e 2025, ~5-8.000 ¥. **Solo contanti.** Chiuso domenica e festivi. Eccezione orario: tramonto a Enoshima",
-        "catena": "**Yoshinoya Shimbashi Karasumoriguchi**, alla stessa uscita di Mitsumasa · [Yoshinoya sulla mappa](https://www.google.com/maps/search/%E5%90%89%E9%87%8E%E5%AE%B6/@35.6655,139.7565,16z)"
+        "catena": "**Yoshinoya Shimbashi Karasumoriguchi**, alla stessa uscita di Mitsumasa · [Yoshinoya sulla mappa](https://www.google.com/maps/search/%E5%90%89%E9%87%8E%E5%AE%B6/@35.6655,139.7565,16z)",
+        "citta": "Tokyo, seconda tappa",
+        "stato": "consigliata",
+        "nome": "Mitsumasa",
+        "piatto": "Yakitori",
+        "link": "https://tabelog.com/en/tokyo/A1301/A130103/13001520/",
+        "contanti": true,
+        "dopo": "Enoshima",
+        "poi": "Zojo-ji",
+        "entro": "15 nov"
       }
     ],
     "2026-12-08": [
@@ -1080,7 +1142,15 @@ window.TRIP = {
         "prenotazione": "✅ Walk-in",
         "tabelog": "[Tabelog](https://tabelog.com/en/tokyo/A1319/A131902/13205769/)",
         "note": "Tabelog 3.73, il più votato di Nakano, Tabelog 100 ramen 2019 e 2020, ~1.000 ¥. Martedì 11:30-16:00, fino a esaurimento. **Solo contanti.** 9 minuti a piedi dall'uscita nord, la stessa di Nakano Broadway. Alt. 📸 **Himuka Shokudo**, Akihabara (Sotokanda 3-16-13): chicken nanban di Miyazaki, apre alle 11:00, coda dopo l'apertura; chiusure da verificare",
-        "catena": "🔍 Filiale non verificata (attorno alla stazione di Nakano ce ne sono diverse): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7066,139.6658,16z)"
+        "catena": "🔍 Filiale non verificata (attorno alla stazione di Nakano ce ne sono diverse): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7066,139.6658,16z)",
+        "citta": "Tokyo, seconda tappa",
+        "stato": "walkin",
+        "nome": "Menya Hashimoto",
+        "piatto": "Ramen",
+        "link": "https://tabelog.com/en/tokyo/A1319/A131902/13205769/",
+        "contanti": true,
+        "dopo": "Akihabara",
+        "poi": "Nakano Broadway"
       },
       {
         "pasto": "Cena",
@@ -1089,7 +1159,14 @@ window.TRIP = {
         "prenotazione": "✅ Prenotato",
         "tabelog": "[Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/)",
         "note": "Tabelog 3.72, nella guida Michelin, oggi senza stella. **17.600 ¥ a testa + 1.100 ¥ di servizio, da pagare al ristorante: fuori tetto per scelta.** Eccezione orario: turno delle 20:00",
-        "catena": "Cena prenotata. Ripiego verso l'hotel: **Yoshinoya Shiba-Daimon** o **Yoshinoya Hamamatsucho** · [Yoshinoya sulla mappa](https://www.google.com/maps/search/%E5%90%89%E9%87%8E%E5%AE%B6/@35.6545,139.7355,16z)"
+        "catena": "Cena prenotata. Ripiego verso l'hotel: **Yoshinoya Shiba-Daimon** o **Yoshinoya Hamamatsucho** · [Yoshinoya sulla mappa](https://www.google.com/maps/search/%E5%90%89%E9%87%8E%E5%AE%B6/@35.6545,139.7355,16z)",
+        "citta": "Tokyo, seconda tappa",
+        "stato": "prenotato",
+        "nome": "Sushiya Shota",
+        "piatto": "sushi omakase",
+        "link": "https://tabelog.com/en/tokyo/A1307/A130702/13241750/",
+        "fuoriTetto": true,
+        "dopo": "Roppongi Hills Tokyo City View"
       },
       {
         "pasto": "Spuntino",
@@ -1101,6 +1178,276 @@ window.TRIP = {
       }
     ]
   },
+  "pastiScadenze": [
+    {
+      "cosa": "**Yakiniku Tendan Gion Honten (cena 26/11, ore 18:00)**",
+      "apre": "già aperta",
+      "oraIt": "",
+      "entro": "**subito**",
+      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26001422/) (prenotazione online) · tel. 075-551-4129",
+      "chiavi": [
+        "2026-11-26 Cena"
+      ]
+    },
+    {
+      "cosa": "**Mishima-tei (pranzo 30/11)**",
+      "apre": "già aperta",
+      "oraIt": "",
+      "entro": "**subito**",
+      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26000646/) (prenotazione online) · tel. +81 75-221-0003",
+      "chiavi": [
+        "2026-11-30 Pranzo"
+      ]
+    },
+    {
+      "cosa": "**Shigetsu (pranzo 27/11, ore 11:30)**",
+      "apre": "già aperta",
+      "oraIt": "",
+      "entro": "**subito**, al più tardi 3 giorni prima",
+      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260403/26000923/) · omakaseje.com · tel. +81 75-882-9725",
+      "chiavi": [
+        "2026-11-27 Pranzo"
+      ]
+    },
+    {
+      "cosa": "Maguro Mart (cena 20/11, facoltativa)",
+      "apre": "già aperta (30 giorni prima, 12:00 JST)",
+      "oraIt": "",
+      "entro": "appena decidete, si esaurisce. **Turno delle 20:15 o più tardi**: il Kaiji arriva a Shinjuku alle 19:48",
+      "dove": "[Tabelog](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) · tel. 050-5597-6557",
+      "chiavi": [
+        "2026-11-20 Cena"
+      ]
+    },
+    {
+      "cosa": "Choshoku Kishin (colazione 28/11, opzione B, ora quella principale)",
+      "apre": "già aperta",
+      "oraIt": "",
+      "entro": "15 nov",
+      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26028888/) · TableCheck · tel. +81 75-525-8500",
+      "chiavi": [
+        "2026-11-28 Colazione"
+      ]
+    },
+    {
+      "cosa": "Komagata Maekawa (pranzo 21/11), Ponta Honke (cena 21/11), Tempura Funabashiya (cena 23/11)",
+      "apre": "già aperta (online)",
+      "oraIt": "",
+      "entro": "15 nov",
+      "dove": "[Maekawa](https://tabelog.com/en/tokyo/A1311/A131102/13003666/) · [Ponta Honke](https://tabelog.com/en/tokyo/A1311/A131101/13003587/) · [Funabashiya](https://tabelog.com/en/tokyo/A1304/A130401/13012090/)",
+      "chiavi": [
+        "2026-11-21 Pranzo",
+        "2026-11-21 Cena",
+        "2026-11-23 Cena"
+      ]
+    },
+    {
+      "cosa": "Cene a Kanazawa (24/11 e 25/11): sceglietene una per sera",
+      "apre": "già aperta (Tabelog o telefono)",
+      "oraIt": "",
+      "entro": "15 nov: stagione del granchio, i locali piccoli si riempiono",
+      "dove": "[Kabuna](https://tabelog.com/en/ishikawa/A1701/A170101/17000085/) · [Daigo](https://tabelog.com/en/ishikawa/A1701/A170101/17009374/) · [Itaru](https://tabelog.com/en/ishikawa/A1701/A170101/17000009/) · [Miyuki](https://tabelog.com/en/ishikawa/A1701/A170101/17002725/) · [Tokkuriya](https://tabelog.com/en/ishikawa/A1701/A170101/17000666/)",
+      "chiavi": [
+        "2026-11-24 Cena",
+        "2026-11-25 Cena"
+      ]
+    },
+    {
+      "cosa": "Kibune Beniya (pranzo 29/11)",
+      "apre": "già aperta",
+      "oraIt": "",
+      "entro": "15 nov: domenica in pieno foliage",
+      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260502/26013329/)",
+      "chiavi": [
+        "2026-11-29 Pranzo"
+      ]
+    },
+    {
+      "cosa": "Gion Tempura Bansan (pranzo 26/11)",
+      "apre": "già aperta (online)",
+      "oraIt": "",
+      "entro": "15 nov; la prenotazione è obbligatoria, al più tardi il giorno prima",
+      "dove": "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26035557/)",
+      "chiavi": [
+        "2026-11-26 Pranzo"
+      ]
+    },
+    {
+      "cosa": "Mitsumasa, yakitori (cena 07/12)",
+      "apre": "già aperta (online)",
+      "oraIt": "",
+      "entro": "15 nov",
+      "dove": "[Tabelog](https://tabelog.com/en/tokyo/A1301/A130103/13001520/)",
+      "chiavi": [
+        "2026-12-07 Cena"
+      ]
+    },
+    {
+      "cosa": "📸 **Gion Sushi FARO (cena 28/11, ore 19:00)**",
+      "apre": "già aperta (online)",
+      "oraIt": "",
+      "entro": "15 nov: è sabato",
+      "dove": "[TableCheck](https://www.tablecheck.com/en/gion-sushi-faro) · Tabelog",
+      "chiavi": [
+        "2026-11-28 Cena"
+      ]
+    },
+    {
+      "cosa": "📸 Kobe Beef Kisshokichi Kyoto (cena 03/12)",
+      "apre": "già aperta",
+      "oraIt": "",
+      "entro": "20 nov",
+      "dove": "[ikyu](https://restaurant.ikyu.com/123087/highlights)",
+      "chiavi": [
+        "2026-12-03 Cena"
+      ]
+    },
+    {
+      "cosa": "Yama San Sushi (pranzo 24/11), Kaiten Sushi Ginza Onodera (cena 29/11)",
+      "apre": "già aperta (online, pochi posti)",
+      "oraIt": "",
+      "entro": "20 nov, facoltativa",
+      "dove": "[Yama San](https://tabelog.com/en/ishikawa/A1701/A170101/17000196/) · [Onodera](https://tabelog.com/en/kyoto/A2601/A260201/26039528/)",
+      "chiavi": [
+        "2026-11-24 Pranzo",
+        "2026-11-29 Cena"
+      ]
+    },
+    {
+      "cosa": "Sushiya Shota (cena 08/12, ore 20:00)",
+      "apre": "--",
+      "oraIt": "",
+      "entro": "✅ **prenotato** (codice in PRIVATO.md). Cancellazione gratuita fino al 6 dic alle 21:59 italiane",
+      "dove": "[Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/)",
+      "chiavi": [
+        "2026-12-08 Cena"
+      ]
+    }
+  ],
+  "ristoranti": [
+    {
+      "titolo": "📸 **Pretty Pork Factory & Katsu Puripo, Harajuku, pranzo del 22/11 alle 12:30** 🎫",
+      "tags": "",
+      "done": true,
+      "note": [
+        "✅ **Prenotato su Tabelog** (codice in PRIVATO.md), 2 persone, Brand Pork Tonkatsu Seat da 4.500 ¥ a testa (si sceglie il tonkatsu tra 4.500 e 8.000 ¥) + 10% di servizio, da pagare al ristorante. 5° piano di Tokyu Plaza Harakado, tel. 03-6805-0290. **Tempo al tavolo 1 ora.** Già pagati 880 ¥ di costo del servizio Tabelog, non rimborsabili. Penale solo per assenza senza avviso (100%). [Tabelog](https://tabelog.com/en/tokyo/A1306/A130601/13295369/)"
+      ]
+    },
+    {
+      "titolo": "Yakiniku Tendan Gion Honten, Kyoto, cena del 26/11 alle 18:00",
+      "tags": "🌟🎫",
+      "done": false,
+      "note": [
+        "online su [Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26001422/) (3.44, ~6-8.000 ¥), tel. 075-551-4129. Lo yakiniku nato a Kyoto (dal 1965): wagyu nero alla griglia al tavolo, intinto nella famosa salsa-brodo di ossa di manzo della casa, poi lingua al sale e chige udon o ramen per chiudere. **Set da 7.500-8.000 ¥ a testa**, dentro il tetto; turni di 2 ore. A 2 minuti da Gion-Shijo, all'imbocco di Miyagawacho, ~12 minuti a piedi dal KABIN. Feriali dalle 17:00; aperto tutto l'anno (una fonte indica chiusura la vigilia dei festivi: il 26/11 non lo è). Sostituisce **Tan** (cucina di stagione, più raffinata che abbondante), che a sua volta sostituiva THE KAISEKI, chiuso dal 30/9. Alternativa: **Miyagawa Tonemon**, tonkatsu nella lista Tabelog 100 2026, ~3-4.000 ¥, a 5 minuti da Kiyomizu-Gojo, [TableCheck](https://www.tablecheck.com/miyagawatonemon)."
+      ]
+    },
+    {
+      "titolo": "Mishima-tei, Kyoto, sukiyaki di wagyu, pranzo del 30/11",
+      "tags": "🌟🎫",
+      "done": false,
+      "note": [
+        "online su [Tabelog](https://tabelog.com/en/kyoto/A2601/A260201/26000646/) (3.64, 878 recensioni; nella guida Michelin, senza stelle). **Lunch Course 8.591 ¥** con tasse e servizio: la cena (17.545 ¥) supera il tetto, per questo è passato a pranzo. Turno delle **11:30**. Se online non c'è posto, telefono **+81 75-221-0003** (tra le 03:00 e le 08:00 italiane): *\"Jūichi-gatsu sanjū-nichi, gozen jūichi-ji han, futari, onegai shimasu\"* = \"30 novembre, alle 11:30, due persone\"."
+      ]
+    },
+    {
+      "titolo": "Sushi omakase di fine viaggio, Sushiya Shota, cena dell'08/12 alle 20:00",
+      "tags": "🌟🎫💶",
+      "done": true,
+      "note": [
+        "✅ **Prenotato su Tabelog** (codice in PRIVATO.md), 2 persone, Omakase Course da 20 portate. Azabu-Juban, [Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/) (3.72), nella guida Michelin, oggi senza stella, 7 posti al banco. **Si paga al ristorante: 17.600 ¥ a testa + 1.100 ¥ di servizio, 37.400 ¥ in due senza bevande**, fuori tetto per scelta. Controllate i metodi di pagamento accettati, o portate contanti. Già pagati 880 ¥ di costo del servizio Tabelog, non rimborsabili. **Cancellazione gratuita fino al 7/12 alle 05:59 JST (6/12 alle 21:59 italiane)**; il giorno prima 50%, il giorno stesso o senza presentarsi 100%. Modifiche dal link nell'email di conferma."
+      ]
+    },
+    {
+      "titolo": "Maguro Mart, Nakano, cena del 20/11 (facoltativa)",
+      "tags": "📞",
+      "done": false,
+      "note": [
+        "[Tabelog](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) (3.63, ~4-5.000 ¥), izakaya tutto tonno consigliato da Camilla: \"bisogna prenotare, è tostissima\". Prenotazioni 30 giorni prima, a mezzogiorno ora giapponese (04:00 italiane): per il 20/11 sono già aperte. Tel. 050-5597-6557. Se col piano B meteo il Fuji passa al 21/11, spostate o cancellate."
+      ]
+    },
+    {
+      "titolo": "Shigetsu, pranzo del 27/11 alle 11:30",
+      "tags": "🌟🎫",
+      "done": false,
+      "note": [
+        "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260403/26000923/) (3.58, Bib Gourmand Michelin). Cucina buddista *shojin ryori* dentro il giardino del Tenryu-ji, ~3-4.000 ¥ più 500 ¥ di ingresso al giardino. Tre menu (Yuki, Tsuki, Hana): il Tsuki va prenotato entro il giorno prima. Prenotazione su omakaseje.com o al +81 75-882-9725, almeno 3 giorni prima. Chiuso il giovedì; il 27/11 è venerdì."
+      ]
+    },
+    {
+      "titolo": "Choshoku Kishin, colazione del 28/11 (opzione B)",
+      "tags": "📞",
+      "done": false,
+      "note": [
+        "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26028888/) (3.70, Bib Gourmand Michelin), ~3-4.000 ¥. Prenotazione su TableCheck o al +81 75-525-8500: i posti sono pochi. Chiuso mercoledì e giovedì."
+      ]
+    },
+    {
+      "titolo": "Tempura Funabashiya, Shinjuku, cena del 23/11 (festa nazionale)",
+      "tags": "📞",
+      "done": false,
+      "note": [
+        "[Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13012090/) (3.49, Tabelog 100 tempura 2022), tempura dal 1886, a 1 minuto da Shinjuku-sanchome. Aperto tutti i giorni 11:30-21:00. Prenotazione online: è festivo. Alternativa: oden da **Itteki Hassenya** ([Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13000760/), 3.62)."
+      ]
+    },
+    {
+      "titolo": "Ponta Honke, Ueno, cena del 21/11",
+      "tags": "📞",
+      "done": false,
+      "note": [
+        "[Tabelog](https://tabelog.com/en/tokyo/A1311/A131101/13003587/) (3.77, Tabelog 100 tonkatsu e yoshoku), il locale del 1905 che si vanta di aver inventato il tonkatsu. ~4-5.000 ¥. Sabato cena 16:30-20:20 (ultima ordinazione 19:45), chiuso il lunedì. Prenotazione online per due o più persone; carte accettate."
+      ]
+    },
+    {
+      "titolo": "Gion Tempura Bansan, pranzo del 26/11",
+      "tags": "🎫",
+      "done": false,
+      "note": [
+        "[Tabelog](https://tabelog.com/en/kyoto/A2601/A260301/26035557/) (3.52). Pranzo feriale di tempura e kakiage-don a **3.300 ¥** (10 portate); il corso completo costa 6.600 ¥. **Solo su prenotazione, entro il giorno prima**, online. Solo carta."
+      ]
+    },
+    {
+      "titolo": "Mitsumasa, Shimbashi, yakitori, cena del 07/12",
+      "tags": "📞",
+      "done": false,
+      "note": [
+        "[Tabelog](https://tabelog.com/en/tokyo/A1301/A130103/13001520/) (3.66, Tabelog 100 yakitori 2021 e 2025), spiedini grandi e frattaglie alla griglia, ~5-8.000 ¥. Lun-ven 17:00-23:00, chiuso domenica e festivi. Prenotazione online. **Solo contanti.**"
+      ]
+    },
+    {
+      "titolo": "Pranzo del 21/11, Komagata Maekawa (Asakusa)",
+      "tags": "📞",
+      "done": false,
+      "note": [
+        "online su [Tabelog](https://tabelog.com/en/tokyo/A1311/A131102/13003666/) (3.46). Primo giorno del ponte: meglio prenotare. Prendete l'unaju, non il kaiseki da 12.000 ¥."
+      ]
+    },
+    {
+      "titolo": "📸 **Gion Sushi FARO, cena del 28/11 alle 19:00** 🎫💶",
+      "tags": "",
+      "done": false,
+      "note": [
+        "[TableCheck](https://www.tablecheck.com/en/gion-sushi-faro), anche su Tabelog (~3.05). Sushi Edomae al banco, due fratelli formati a Tokyo; lo chef spiega i pezzi in inglese. **Luxury Course 15.000 ¥ a testa**, fuori tetto per scelta. 16:00-23:00, chiuso la domenica e un lunedì su due. A ~450 m da Gion-Shijo."
+      ]
+    },
+    {
+      "titolo": "📸 **Kobe Beef Kisshokichi Kyoto Honten, cena del 03/12** 📞💶",
+      "tags": "",
+      "done": false,
+      "note": [
+        "[ikyu](https://restaurant.ikyu.com/123087/highlights). Teppanyaki di solo manzo di Kobe all'8° piano del Kyoto Empire Bldg, a Kiyamachi, con vista sul Kamo e sulle montagne di Higashiyama. **Corsi da 13.750 ¥**, fuori tetto per scelta. Tutti i giorni 11:00-22:00 (ultima ordinazione 21:30). A 5 minuti da Sanjo e Kawaramachi."
+      ]
+    }
+  ],
+  "pastiRegole": [
+    "🍽️ **Regola pasti:** pranzo entro le 12:00, cena nella finestra 16:30-18:00. Le eccezioni (teamLab, Eikando, giorno di arrivo, gite lunghe) sono segnalate nel giorno.",
+    "💶 **Tetto di spesa: 9.000 ¥ a testa per pasto.** Le opzioni sopra il tetto sono state scartate. Eccezioni volute: il sushi omakase dell'ultima sera (08/12) e due posti della lista Instagram, 📸 Gion Sushi FARO (28/11) e 📸 Kobe Beef Kisshokichi (03/12)."
+  ],
+  "pastiLegenda": [
+    "🍽️ Ogni volta che scegliete o prenotate un locale, ditelo a Claude e la tabella si aggiorna.",
+    "**Colonna Prenotazione:** 🎫 *Fissa* = prenotazione obbligatoria (vedi check-list). 📞 *Consigliata* = locale popolare o giornata affollata. ✅ *Walk-in* = nessuna prenotazione. I pasti \"🔍 da scegliere\" si decidono sul momento.",
+    "📸 **Ripiego ovunque:** **CoCo Ichibanya**, la catena del curry: scegliete riso, piccantezza (fino a 20) e tra circa 40 condimenti.",
+    "🍚 **Colonna Catena vicina:** se il locale è pieno, la filiale più vicina di una catena consigliata: **Yoshinoya**, **Sukiya**, **Matsuya** e **Nakau** (gyudon e teishoku), **Marugame Seimen** (udon), **Tenya** (tendon), **Fujisoba** (soba), **MOS Burger**, **CoCo Ichibanya** (curry). Niente prenotazioni, si ordina spesso al distributore automatico, ~500-1.200 ¥. Il link apre Google Maps centrato sul pasto. Le filiali con nome sono state verificate su elenchi online (novembre 2026); quelle segnate 🔍 no: guardate la mappa. Kanazawa, Arashiyama, Kibune, Uji, Kamakura e Kawaguchiko hanno le catene solo in periferia."
+  ],
   "luoghi": {
     "2026-11-19": [
       [

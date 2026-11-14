@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Pasti — Giappone</title>
+<script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'%3E%3Ccircle cx='5' cy='5' r='4' fill='%23c2410c'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top top-sm">
+  <div class="top-bar">
+    <a href="index.html" class="back">← Panoramica</a>
+    <button id="theme-toggle" class="icon-btn" type="button" aria-label="Cambia tema"></button>
+  </div>
+  <div id="global-search" class="global-search"></div>
+</header>
+
+<main>
+  <div class="day-header">
+    <div class="eyebrow">Organizzazione pasti</div>
+    <h1>Pranzi e cene</h1>
+    <p class="subtitle">Ogni pasto del viaggio con lo stato della prenotazione. Tocca la data per aprire la giornata, il nome per la scheda del locale.</p>
+  </div>
+
+  <div id="pt-summary" class="pt-summary"></div>
+  <div id="pt-urgenti" class="callout" hidden></div>
+  <div id="pt-filtri" class="chips"></div>
+  <p class="hint">💴 solo contanti · 💶 fuori tetto per scelta · 📸 dalla lista Instagram · «dopo / poi» = la tappa prima e dopo il pasto.</p>
+
+  <div id="pt-table" class="pt-table"></div>
+
+  <h2 class="sub-h">Regole</h2>
+  <div id="pt-regole"></div>
+
+  <h2 class="sub-h">Prenotazioni dei ristoranti, nel dettaglio</h2>
+  <div id="pt-prenotazioni"></div>
+
+  <div id="pt-legenda"></div>
+</main>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+<script>renderPasti(); renderSearch(); initTheme();</script>
+</body>
+</html>

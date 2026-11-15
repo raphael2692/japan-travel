@@ -427,16 +427,18 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 
 ---
 
-## Sabato 21 novembre -- Tokyo Est: tradizioni, utensili e vicoli retrò
+## Sabato 21 novembre -- Tokyo Est: templi, parchi e vicoli retrò
 
 > ⚠️ Primo giorno del ponte: Asakusa sarà molto affollata, arrivate alle 08:30. Se la giornata va stretta, tagliate per prima la sosta a Ueno.
 
 - 🚇 **Andata dall'hotel:** Toei Oedo Line da Iidabashi a Kuramae, cambio Toei Asakusa Line fino a Asakusa (~20 min).
 - **08:30 -- 10:00** 🌟✅ **Senso-ji**, Asakusa, e le bancarelle di Nakamise-dori. Ingresso libero.
-- **10:15 -- 11:00** 🔄✅ **Kappabashi Kitchen Town**, ~10 min a piedi a ovest del Senso-ji, già sulla strada per Ueno: utensili da cucina e *sampuru*, i modelli di cibo in cera. ⚠️ Alcuni negozi chiudono il sabato pomeriggio: la mattina è il momento giusto.
-- 🚇 *Trasferimento, entro le 11:00:* Ginza Line da Tawaramachi a Ueno (~5 min) + ~3 min a piedi fino all'uscita Shinobazu di JR Ueno, oppure tutto a piedi (~20 min). Il giorno va sempre verso ovest, senza tornare verso il Sumida.
+- **10:00 -- 10:15** ✅ **Denboin-dori**, appena a ovest di Nakamise: facciate dei negozi in stile Edo e insegne di legno, molto meno folla. Da qui si va verso ovest a piedi.
+- **10:20 -- 10:35** 🔄✅ **Tokyo Honganji**, il grande tempio buddista vicino a Tawaramachi, sulla strada per Ueno: cortile ampio e silenzioso dopo la ressa del Senso-ji. Ingresso libero.
+- 🚶 *Trasferimento:* a piedi lungo la Asakusa-dori fino a Ueno (~25 min; uno stradone, non scenografico). Per risparmiare le gambe: Ginza Line da Tawaramachi a Ueno, 2 fermate (~5 min). Kappabashi Kitchen Town è stata tolta il 15/11. Il giorno va sempre verso ovest, senza tornare verso il Sumida.
+- **11:00 -- 11:25** ✅ **Kiyomizu Kannon-do**, il tempietto a terrazza ispirato al Kiyomizu-dera di Kyoto, col "Pino della luna" che inquadra il laghetto, poi giù al **Bentendo**, il tempio ottagonale sull'isola del laghetto **Shinobazu**. Ingresso libero. Ninomiya è a 2-3 minuti: alle 11:25 incamminatevi.
 - **11:30 -- 12:30** 🎫 *Pranzo:* sushi omakase da **Ninomiya Ueno**, ✅ prenotato su Tabelog (codice in PRIVATO.md), 2° piano dell'edificio UENO3153, sopra l'uscita Shinobazu di JR Ueno e all'ingresso sud di Ueno Park. Niente profumi forti.
-- **12:45 -- 14:15** 🔄✅ **Ueno Park**: dal laghetto Shinobazu il parco attraversato a piedi verso nord-ovest fino a Yanaka (~20 min). La crociera verso Hamarikyu è stata tolta: porta a sud, mentre Yanaka è a nord. ☔ Se piove: **Tokyo National Museum**, dentro il parco (katane, armature samurai, tesori nazionali; 09:30-17:00, sabato aperto), al posto del parco.
+- **12:45 -- 14:15** 🔄✅ **Ueno Park**: il laghetto Shinobazu è già visto la mattina, quindi dall'ingresso sud il parco attraversato a piedi verso nord-ovest fino a Yanaka (~20 min). La crociera verso Hamarikyu è stata tolta: porta a sud, mentre Yanaka è a nord. ☔ Se piove: **Tokyo National Museum**, dentro il parco (katane, armature samurai, tesori nazionali; 09:30-17:00, sabato aperto), al posto del parco.
 - **14:15 -- 16:45** 🌟✅ **Yanaka Ginza:** quartiere nostalgico, coi templi e il cimitero di Yanaka, fino al tramonto delle 16:30 dalla scalinata **Yuyake Dandan**.
 - 🚃 *Trasferimento:* JR Yamanote Line da Nippori a Okachimachi (~5 min).
 - **17:00 -- 18:15** ✅ **Ameyoko**, il mercato sotto la ferrovia, con le insegne accese: un assaggio leggero, la cena è alle 18:30. Spostato qui da dopo Ueno Park per non tornare indietro.
@@ -825,7 +827,10 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 | 20/11 | 18:43 | Otsuki Station | 35.6107 | 138.9406 |
 | 20/11 | 20:00 | Kakekomi Gyoza Kabukicho | 35.6945 | 139.702 |
 | 21/11 | 08:30 | Senso-ji | 35.7148 | 139.7967 |
-| 21/11 | 10:15 | Kappabashi Kitchen Town | 35.7123 | 139.788 |
+| 21/11 | 10:05 | Denboin-dori | 35.7125 | 139.7945 |
+| 21/11 | 10:20 | Tokyo Honganji | 35.7122 | 139.7893 |
+| 21/11 | 11:00 | Kiyomizu Kannon-do Ueno | 35.7128 | 139.7728 |
+| 21/11 | 11:15 | Shinobazu Pond Bentendo | 35.7121 | 139.7701 |
 | 21/11 | 11:30 | Nihonbashi Sushi Dokoro Ninomiya Ueno | 35.7115 | 139.7735 |
 | 21/11 | 12:45 | Ueno Park | 35.7148 | 139.7714 |
 | 21/11 | 14:15 | Yanaka Ginza | 35.7276 | 139.766 |

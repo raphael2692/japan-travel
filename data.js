@@ -506,7 +506,7 @@ window.TRIP = {
         "locale": "**Sushi** da **Nihonbashi Sushi Dokoro Ninomiya Ueno** (日本橋 すし処 二ノ宮 上野店): omakase *Ninomiya Supreme* da 15 pezzi",
         "prenotazione": "✅ Prenotato",
         "tabelog": "[Gurunavi](https://r.gnavi.co.jp/a5618px10000/)",
-        "note": "UENO3153 Bldg 2F, a 30 secondi dall'uscita Shinobazu di JR Ueno. Tabelog 3.46, fascia a pranzo 3.000-3.999 ¥ (prezzo esatto del set *Supreme* da verificare), menu multilingue, carte accettate, si paga al ristorante; 540 ¥ di coperto se ordinate alcolici. Tel. 03-5826-4554. Sostituisce Izuei Honten",
+        "note": "UENO3153 Bldg 2F, a 30 secondi dall'uscita Shinobazu di JR Ueno. Tabelog 3.46. **7.139 ¥ a testa** tasse incluse, da pagare al ristorante; menu multilingue, carte accettate; 540 ¥ di coperto se ordinate alcolici. Tel. 03-5826-4554. Sostituisce Izuei Honten",
         "catena": "🔍 Filiale non verificata (Ueno-Okachimachi ne è pieno): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7115,139.7735,16z)",
         "citta": "Tokyo, prima tappa",
         "stato": "prenotato",
@@ -1366,7 +1366,7 @@ window.TRIP = {
       "tags": "🎫",
       "done": true,
       "note": [
-        "✅ **Prenotato su Tabelog il 15 novembre** (codice in PRIVATO.md), 2 persone, *Ninomiya Supreme ★ Exquisite Omakase*, 15 pezzi di sushi Edomae. Nome giapponese 日本橋 すし処 二ノ宮 上野店, UENO3153 Bldg 2F (Ueno Koen 1-57), a 30 secondi dall'uscita Shinobazu di JR Ueno. Tel. 03-5826-4554. Tabelog 3.46 (oltre 850 recensioni), fascia di prezzo a pranzo 3.000-3.999 ¥, dentro il tetto; menu multilingue, carte accettate. **Si paga al ristorante**: il prezzo esatto del set *Supreme* non è nella conferma, controllatelo su Tabelog (potrebbe superare la fascia media). Chi ordina alcolici paga 540 ¥ di coperto. Niente profumi forti. Già pagati 880 ¥ di costo del servizio Tabelog, non rimborsabili. **Cancellazione gratuita fino al 21/11 alle 05:59 JST (20/11 alle 21:59 italiane)**, poi 100% del prezzo del set. Sostituisce Izuei Honten."
+        "✅ **Prenotato su Tabelog il 15 novembre** (codice in PRIVATO.md), 2 persone, *Ninomiya Supreme ★ Exquisite Omakase*, 15 pezzi di sushi Edomae. Nome giapponese 日本橋 すし処 二ノ宮 上野店, UENO3153 Bldg 2F (Ueno Koen 1-57), a 30 secondi dall'uscita Shinobazu di JR Ueno. Tel. 03-5826-4554. Tabelog 3.46 (oltre 850 recensioni); menu multilingue, carte accettate. **Si paga al ristorante: 7.139 ¥ a testa, tasse incluse (14.278 ¥ in due)**, dentro il tetto. Chi ordina alcolici paga 540 ¥ di coperto. Niente profumi forti. Già pagati 880 ¥ di costo del servizio Tabelog, non rimborsabili. **Cancellazione gratuita fino al 21/11 alle 05:59 JST (20/11 alle 21:59 italiane)**, poi 100% del prezzo del set (7.139 ¥ a testa). Sostituisce Izuei Honten."
       ]
     },
     {

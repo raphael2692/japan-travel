@@ -404,7 +404,7 @@ window.LINGUA = {
         ]},
         { tipo: "nota", righe: [
           "Fare rumore mangiando i noodle è normale. Se c'è la fila, finito il piatto ci si alza subito.",
-          "AFURI Nakameguro accetta solo pagamenti cashless, anche alla macchinetta."
+          "Molti locali di ramen e tsukemen (come Tsujita) hanno la macchinetta dei biglietti (食券機) all'ingresso: spesso solo contanti, tenete banconote da 1.000 ¥."
         ]}
       ]
     },
@@ -867,11 +867,11 @@ window.LINGUA = {
   // situazioni utili giorno per giorno (mostrate nella pagina del giorno)
   giorni: {
     "2026-11-18": ["kit", "numeri", "cartelli"],
-    "2026-11-19": ["treni", "hotel", "konbini", "izakaya"],
+    "2026-11-19": ["treni", "hotel", "ramen", "konbini", "izakaya"],
     "2026-11-20": ["shinkansen", "bus-taxi", "ristorante", "izakaya"],
-    "2026-11-21": ["biglietti", "prenotato", "mercati", "chiacchiere"],
-    "2026-11-22": ["biglietti", "ristorante", "negozi", "takkyubin"],
-    "2026-11-23": ["ramen", "prenotato", "negozi"],
+    "2026-11-21": ["biglietti", "prenotato", "mercati", "ramen", "chiacchiere"],
+    "2026-11-22": ["biglietti", "prenotato", "ristorante", "negozi", "takkyubin"],
+    "2026-11-23": ["prenotato", "biglietti", "negozi"],
     "2026-11-24": ["shinkansen", "hotel", "mercati", "biglietti", "izakaya"],
     "2026-11-25": ["biglietti", "onsen", "ristorante"],
     "2026-11-26": ["shinkansen", "bus-taxi", "hotel", "prenotato"],

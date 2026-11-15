@@ -428,7 +428,7 @@ window.TRIP = {
       "righe": [
         "Il Fuji in questo periodo è visibile circa il 40-50% dei giorni, più spesso al mattino presto.",
         "• Controllate le **webcam del Fuji** la sera del 19/11.",
-        "• **Se il 20/11 è coperto:** scambiate con il 21/11 (Tokyo Est). Decidete **entro le 21:00 JST del 19/11** (13:00 italiane): fino ad allora Azusa 3 e Kaiji 48 si cancellano gratis. Per il 21, sabato del ponte, ricomprate i posti sul sito o alla macchinetta: saranno pochi. Oppure fate una giornata lenta a Kawaguchiko: onsen con vista lago e Museo Kubota Itchiku.",
+        "• **Se il 20/11 è coperto:** scambiate con il 21/11 (Tokyo Est). Decidete **entro le 21:00 JST del 19/11** (13:00 italiane): fino ad allora Azusa 3 e Kaiji 48 si cancellano gratis. Per il 21, sabato del ponte, ricomprate i posti sul sito o alla macchinetta: saranno pochi. ⚠️ Lo scambio tocca anche **Ninomiya (11:30) e Ikkizuna (18:30) del 21/11**: spostateli al 20/11 dal link nell'email di Tabelog entro le 05:59 JST del 21/11, gratis. Ninomiya di venerdì potrebbe aprire solo nel pomeriggio (una fonte indica 15:00-22:00 nei feriali): se a pranzo non c'è posto, cancellatelo. Oppure fate una giornata lenta a Kawaguchiko: onsen con vista lago e Museo Kubota Itchiku.",
         "• **Shinkansen del 24/11:** nessuna azione, il Fuji è un bonus in corsa. Il 05/12 si viaggia col buio."
       ]
     }
@@ -438,37 +438,34 @@ window.TRIP = {
       {
         "pasto": "Pranzo",
         "ingresso": "14:15",
-        "locale": "**Katsu curry** da **Tonkatsu Aoki no Curry Ya Ippekoppe**, Iidabashi: il curry della catena di tonkatsu Aoki, con cotoletta di lonza o filetto",
+        "locale": "**Tsukemen** da **Tsujita Iidabashi** (つじ田 飯田橋店): noodle spessi da intingere in un brodo denso di maiale e pesce, con sudachi",
         "prenotazione": "✅ Walk-in",
-        "tabelog": "[Tabelog](https://tabelog.com/en/tokyo/A1309/A130905/13239562/)",
-        "note": "Tabelog 3.58, ~1.000-2.000 ¥, a 4 minuti dall'uscita est di Iidabashi. Giovedì 11:00-15:00, ultima ordinazione 14:45. **Solo contanti**, niente prenotazioni. Eccezione orario: dritti in città senza mangiare a Haneda",
+        "tabelog": "[Tabelog](https://ssl.tabelog.com/en/tokyo/A1309/A130905/13058429/)",
+        "note": "~1.000-1.500 ¥. Iidabashi 4-8-14, tra la stazione e l'Edmont. Feriali 11:00-23:00 (una sola fonte, da riconfermare), si ordina alla macchinetta. Tel. 03-6268-9377. Eccezione orario: dritti in città senza mangiare a Haneda. Sostituisce Ippekoppe",
         "catena": "**Matsuya Iidabashi Ekimae** (Iidabashi 4-9-10, 24 ore), ~5 min dalla stazione · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6993,139.7478,16z)",
         "citta": "Tokyo, prima tappa",
         "stato": "walkin",
-        "nome": "Tonkatsu Aoki no Curry Ya Ippekoppe",
-        "piatto": "Katsu curry",
-        "link": "https://tabelog.com/en/tokyo/A1309/A130905/13239562/",
-        "contanti": true,
+        "nome": "Tsujita Iidabashi",
+        "piatto": "Tsukemen",
+        "link": "https://ssl.tabelog.com/en/tokyo/A1309/A130905/13058429/",
         "dopo": "Haneda Airport",
         "poi": "Koishikawa Korakuen"
       },
       {
         "pasto": "Cena",
-        "ingresso": "17:30",
-        "locale": "**Kyorakutei**, soba macinato a pietra e tempura con un sakè (Tabelog 3.75, Bib Gourmand Michelin, si fa la fila prima delle 17:00), oppure un izakaya a Kagurazaka — 🔍 da scegliere tra **Toritama Kagurazaka** (3.59, yakitori), **Sake to Kotobuki** (3.58), **Shuan Kinsuke** (3.56, pesce)",
-        "prenotazione": "📞 Consigliata",
-        "tabelog": "[Kyorakutei](https://tabelog.com/en/tokyo/A1309/A130905/13000479/) · [Kinsuke](https://tabelog.com/en/tokyo/A1309/A130905/13063842/) · [Toritama](https://tabelog.com/en/tokyo/A1309/A130905/13059154/) · [Kotobuki](https://tabelog.com/en/tokyo/A1309/A130905/13178957/)",
-        "note": "",
-        "catena": "**Matsuya Iidabashi Higashiguchi** (Shimomiyabicho 1-1), all'uscita est, ai piedi di Kagurazaka · [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.702,139.7405,16z)",
+        "ingresso": "18:00",
+        "locale": "**Yakitori**, cena informale vicino all'hotel: **Torikizoku** (catena di yakitori a prezzo fisso, ~3.000 ¥ a testa) oppure **TORIKURA Kagurazaka** (東京神楽坂 TORIKURA, più curato)",
+        "prenotazione": "📞 Consigliata per TORIKURA",
+        "tabelog": "[TORIKURA](https://www.tablecheck.com/ja/kagurazaka-torikura)",
+        "note": "TORIKURA: Kagurazaka 6-39-1, Equra Kagurazaka 2F, a 1 minuto dall'uscita 1 di Kagurazaka (Tozai), ~15 min a piedi dall'Edmont. **Apre alle 18:00** (ultima ordinazione 22:30), chiuso la domenica, tel. 03-4400-9744, prenotazione su TableCheck. Torikizoku: filiali tra Iidabashi e Kagurazaka, guardate la mappa",
+        "catena": "",
         "citta": "Tokyo, prima tappa",
-        "stato": "scegliere",
-        "opzioni": [
-          "Kyorakutei",
-          "Toritama Kagurazaka",
-          "Sake to Kotobuki",
-          "Shuan Kinsuke"
-        ],
-        "dopo": "Koishikawa Korakuen"
+        "stato": "consigliata",
+        "prenNota": "per TORIKURA",
+        "nome": "Yakitori",
+        "link": "https://www.tablecheck.com/ja/kagurazaka-torikura",
+        "dopo": "Koishikawa Korakuen",
+        "poi": "Kagurazaka"
       }
     ],
     "2026-11-20": [
@@ -490,53 +487,48 @@ window.TRIP = {
       },
       {
         "pasto": "Cena",
-        "ingresso": "20:15",
-        "locale": "Facoltativa: **Maguro Mart**, Nakano (izakaya tutto tonno, 3.63, ~4-5.000 ¥), a 5 minuti di treno da Shinjuku. Altrimenti, appena scesi a Shinjuku: 📸 **Kakekomi Gyoza**, Kabukicho (gyoza e birra, aperto 24 ore, ~3.300-5.000 ¥) o 📸 **Pasta Mama** (pasta alla giapponese, orari da verificare)",
-        "prenotazione": "🎫 se Maguro Mart",
-        "tabelog": "[Maguro Mart](https://tabelog.com/en/tokyo/A1319/A131902/13236734/)",
-        "note": "Fuori finestra per i tempi di rientro. Consiglio di Camilla, si prenota con difficoltà",
-        "catena": "🔍 Filiale non verificata (attorno alla stazione di Nakano ce ne sono diverse): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7066,139.6658,16z)",
+        "ingresso": "20:00",
+        "locale": "**Gyoza** e comfort food appena scesi a Shinjuku: 📸 **Kakekomi Gyoza**, Kabukicho (gyoza e birra, aperto 24 ore, ~3.300-5.000 ¥) o 📸 **Pasta Mama** (pasta alla giapponese, orari da verificare)",
+        "prenotazione": "✅ Walk-in",
+        "tabelog": "",
+        "note": "Fuori finestra per i tempi di rientro (Kaiji a Shinjuku alle 19:48). Maguro Mart (Nakano) è stato tolto il 15/11: niente prenotazione dopo una giornata lunga",
+        "catena": "🔍 Filiale non verificata (attorno alla stazione di Shinjuku ce ne sono molte): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6945,139.702,16z)",
         "citta": "Tokyo, prima tappa",
-        "stato": "obbligatoria",
-        "nome": "Maguro Mart",
-        "link": "https://tabelog.com/en/tokyo/A1319/A131902/13236734/",
-        "dopo": "Otsuki Station",
-        "entro": "appena decidete"
+        "stato": "walkin",
+        "nome": "Gyoza",
+        "dopo": "Otsuki Station"
       }
     ],
     "2026-11-21": [
       {
         "pasto": "Pranzo",
         "ingresso": "11:30",
-        "locale": "**Unagi** da **Izuei Honten**, Ueno: anguilla in stile Edo sul laghetto Shinobazu, all'ingresso sud di Ueno Park",
-        "prenotazione": "📞 Consigliata",
-        "tabelog": "[Tabelog](https://tabelog.com/en/tokyo/A1311/A131101/13003586/)",
-        "note": "Locale storico, dal periodo Edo. Prendete l'unaju. Prezzi e orari da riconfermare (pranzo da ~2.000-4.000 ¥). A 5 minuti dall'uscita Shinobazu di JR Ueno. Sostituisce Komagata Maekawa, fuori strada sul Sumida. Se è pieno, Ueno-Okachimachi è pieno di locali",
-        "catena": "🔍 Filiale non verificata (Ueno-Okachimachi ne è pieno): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7095,139.7712,16z)",
+        "locale": "**Sushi** da **Nihonbashi Sushi Dokoro Ninomiya Ueno** (日本橋 すし処 二ノ宮 上野店): omakase *Ninomiya Supreme* da 15 pezzi",
+        "prenotazione": "✅ Prenotato",
+        "tabelog": "[Gurunavi](https://r.gnavi.co.jp/a5618px10000/)",
+        "note": "UENO3153 Bldg 2F, a 30 secondi dall'uscita Shinobazu di JR Ueno. Tabelog 3.46, fascia a pranzo 3.000-3.999 ¥ (prezzo esatto del set *Supreme* da verificare), menu multilingue, carte accettate, si paga al ristorante; 540 ¥ di coperto se ordinate alcolici. Tel. 03-5826-4554. Sostituisce Izuei Honten",
+        "catena": "🔍 Filiale non verificata (Ueno-Okachimachi ne è pieno): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7115,139.7735,16z)",
         "citta": "Tokyo, prima tappa",
-        "stato": "consigliata",
-        "nome": "Izuei Honten",
-        "piatto": "Unagi",
-        "link": "https://tabelog.com/en/tokyo/A1311/A131101/13003586/",
+        "stato": "prenotato",
+        "nome": "Nihonbashi Sushi Dokoro Ninomiya Ueno",
+        "piatto": "Sushi",
+        "link": "https://r.gnavi.co.jp/a5618px10000/",
         "dopo": "Kappabashi Kitchen Town",
-        "poi": "Ueno Park",
-        "entro": "15 nov"
+        "poi": "Ueno Park"
       },
       {
         "pasto": "Cena",
-        "ingresso": "17:45",
-        "locale": "**Tonkatsu** da **Ponta Honke**, Ueno (dal 1905, cotoletta fritta a bassa temperatura) — alt. a Nezu: **Nezu Kamachiku** (3.66, udon e sakè in un magazzino in mattoni del 1910)",
-        "prenotazione": "📞 Consigliata",
-        "tabelog": "[Ponta Honke](https://tabelog.com/en/tokyo/A1311/A131101/13003587/) · [Kamachiku](https://tabelog.com/en/tokyo/A1311/A131106/13020252/)",
-        "note": "Tabelog 3.77, Tabelog 100 tonkatsu e yoshoku, ~4-5.000 ¥. Ultima ordinazione 19:45. Prenotazione online, carte accettate",
-        "catena": "🔍 Filiale non verificata (Ueno-Okachimachi ne è pieno): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7076,139.7727,16z)",
+        "ingresso": "18:30",
+        "locale": "**Ramen** tonkotsu alla Hakata da **Hakata Tonkotsu Ramen Ikkizuna Ueno-Okachimachi Honten** (博多豚骨らぁ麺 一絆): brodo di ossa di maiale cremoso, noodle sottili, *kaedama* per il secondo giro",
+        "prenotazione": "✅ Prenotato",
+        "tabelog": "[Gurunavi](https://r.gnavi.co.jp/5uz2samm0000/)",
+        "note": "Ueno 6-4-18, a 1 minuto da Ueno-okachimachi. Su Tabelog in inglese è \"Ichiban\". Tel. 050-5494-2786. Eccezione orario: cena alle 18:30, dopo Ameyoko. Sostituisce Ponta Honke",
+        "catena": "🔍 Filiale non verificata (Ueno-Okachimachi ne è pieno): [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.7085,139.7738,16z)",
         "citta": "Tokyo, prima tappa",
-        "stato": "consigliata",
-        "nome": "Ponta Honke",
-        "piatto": "Tonkatsu",
-        "link": "https://tabelog.com/en/tokyo/A1311/A131101/13003587/",
-        "dopo": "Ameyoko Market",
-        "entro": "15 nov"
+        "stato": "prenotato",
+        "nome": "Ramen",
+        "link": "https://r.gnavi.co.jp/5uz2samm0000/",
+        "dopo": "Ameyoko Market"
       },
       {
         "pasto": "Spuntino",
@@ -593,24 +585,23 @@ window.TRIP = {
     "2026-11-23": [
       {
         "pasto": "Pranzo",
-        "ingresso": "11:30",
-        "locale": "**AFURI Nakameguro** (yuzu shio ramen) + Starbucks Reserve Roastery — alt. 📸 **Blocks de Gamin**, bistrot francese a Nakameguro (pranzo dalle 12:00, da 3.960 ¥; chiuso mar e mer, il 23/11 è aperto) o 📸 **Ko Sushi**, Nishi-Shinjuku 7-7-22, a conduzione familiare (set di 10 pezzi 1.700 ¥, uscendo da Shinjuku Gyoen; apertura nel festivo da verificare)",
-        "prenotazione": "✅ Walk-in (si fa la fila)",
-        "tabelog": "[AFURI](https://tabelog.com/en/tokyo/A1317/A131701/13129706/) · [Roastery](https://tabelog.com/en/tokyo/A1317/A131701/13231942/)",
-        "note": "⚠️ Solo pagamento cashless",
-        "catena": "A Nakameguro davanti alla stazione c'è **MOS Burger**; le altre catene no · [MOS Burger sulla mappa](https://www.google.com/maps/search/%E3%83%A2%E3%82%B9%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC/@35.644,139.699,16z)",
+        "ingresso": "12:00",
+        "locale": "**Sushi** al banco da **Matsue Ebisu Honten** (松栄 恵比寿本店): set *Matsu*, 13 nigiri con due antipasti e chawanmushi",
+        "prenotazione": "✅ Prenotato",
+        "tabelog": "[Tabelog](https://tabelog.com/en/tokyo/A1303/A130302/13003167/)",
+        "note": "~5.700 ¥ a testa. Ebisu-minami 1-2-4, ~3 min dalla stazione di Ebisu. Tel. 03-3711-4364. ⚠️ Oltre 15 minuti di ritardo il tavolo può saltare: telefonate se tardate. Caffè più tardi alla **Starbucks Reserve Roastery** di Nakameguro ([Tabelog](https://tabelog.com/en/tokyo/A1317/A131701/13231942/))",
+        "catena": "🔍 Filiale non verificata: [Matsuya sulla mappa](https://www.google.com/maps/search/%E6%9D%BE%E5%B1%8B/@35.6467,139.7101,16z)",
         "citta": "Tokyo, prima tappa",
-        "stato": "walkin",
-        "prenNota": "(si fa la fila)",
-        "nome": "AFURI Nakameguro",
-        "link": "https://tabelog.com/en/tokyo/A1317/A131701/13129706/",
+        "stato": "prenotato",
+        "nome": "Sushi",
+        "link": "https://tabelog.com/en/tokyo/A1303/A130302/13003167/",
         "dopo": "Shinjuku Gyoen",
-        "poi": "Starbucks Reserve Roastery Tokyo"
+        "poi": "Ebisu Garden Place"
       },
       {
         "pasto": "Cena",
         "ingresso": "17:30",
-        "locale": "**Tempura** da **Funabashiya Shinjuku Honten** (dal 1886, fritta nell'olio di sesamo) — alt. oden da **Itteki Hassenya** (3.62, ~4-5.000 ¥)",
+        "locale": "Libera, a Shinjuku. Proposta: **tempura** da **Funabashiya Shinjuku Honten** (dal 1886, fritta nell'olio di sesamo) — alt. oden da **Itteki Hassenya** (3.62, ~4-5.000 ¥)",
         "prenotazione": "📞 Consigliata, è festivo",
         "tabelog": "[Funabashiya](https://tabelog.com/en/tokyo/A1304/A130401/13012090/) · [Itteki Hassenya](https://tabelog.com/en/tokyo/A1304/A130401/13000760/)",
         "note": "Tabelog 3.49, Tabelog 100 tempura 2022, ~4-5.000 ¥. Aperto tutti i giorni 11:30-21:00, a 1 minuto da Shinjuku-sanchome. Scartato Gyutan Iroha: 3.24, e su Tabelog risulta locale per fumatori. Omoide Yokocho resta una passeggiata per le foto",
@@ -619,11 +610,10 @@ window.TRIP = {
         "stato": "consigliata",
         "prenNota": "è festivo",
         "nome": "Funabashiya Shinjuku Honten",
-        "piatto": "Tempura",
+        "piatto": "tempura",
         "link": "https://tabelog.com/en/tokyo/A1304/A130401/13012090/",
         "dopo": "Tokyo Metropolitan Government Building",
-        "poi": "Disney FLAGSHIP TOKYO",
-        "entro": "15 nov"
+        "poi": "Disney FLAGSHIP TOKYO"
       }
     ],
     "2026-11-24": [
@@ -1216,16 +1206,6 @@ window.TRIP = {
       ]
     },
     {
-      "cosa": "Maguro Mart (cena 20/11, facoltativa)",
-      "apre": "già aperta (30 giorni prima, 12:00 JST)",
-      "oraIt": "",
-      "entro": "appena decidete, si esaurisce. **Turno delle 20:15 o più tardi**: il Kaiji arriva a Shinjuku alle 19:48",
-      "dove": "[Tabelog](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) · tel. 050-5597-6557",
-      "chiavi": [
-        "2026-11-20 Cena"
-      ]
-    },
-    {
       "cosa": "Choshoku Kishin (colazione 28/11, opzione B, ora quella principale)",
       "apre": "già aperta",
       "oraIt": "",
@@ -1236,15 +1216,33 @@ window.TRIP = {
       ]
     },
     {
-      "cosa": "Izuei Honten (pranzo 21/11), Ponta Honke (cena 21/11), Tempura Funabashiya (cena 23/11)",
-      "apre": "già aperta (online)",
+      "cosa": "Nihonbashi Sushi Dokoro Ninomiya Ueno (pranzo 21/11, ore 11:30)",
+      "apre": "--",
       "oraIt": "",
-      "entro": "15 nov",
-      "dove": "[Izuei](https://tabelog.com/en/tokyo/A1311/A131101/13003586/) · [Ponta Honke](https://tabelog.com/en/tokyo/A1311/A131101/13003587/) · [Funabashiya](https://tabelog.com/en/tokyo/A1304/A130401/13012090/)",
+      "entro": "✅ **prenotato** (15 nov) su Tabelog: 2 persone, *Ninomiya Supreme* da 15 pezzi, da pagare al ristorante (codice in PRIVATO.md). Cancellazione gratuita fino al 21/11 alle 05:59 JST (**20/11 alle 21:59 italiane**), poi 100%",
+      "dove": "Tabelog · tel. 03-5826-4554",
       "chiavi": [
-        "2026-11-21 Pranzo",
-        "2026-11-21 Cena",
-        "2026-11-23 Cena"
+        "2026-11-21 Pranzo"
+      ]
+    },
+    {
+      "cosa": "Hakata Tonkotsu Ramen Ikkizuna, Ueno-Okachimachi (cena 21/11, ore 18:30)",
+      "apre": "--",
+      "oraIt": "",
+      "entro": "✅ **prenotato** (15 nov) su Tabelog: 2 persone, solo posti (codice in PRIVATO.md). Cancellazione gratuita fino al 21/11 alle 05:59 JST, poi 1.150 ¥ a testa",
+      "dove": "Tabelog · tel. 050-5494-2786",
+      "chiavi": [
+        "2026-11-21 Cena"
+      ]
+    },
+    {
+      "cosa": "Matsue Ebisu Honten (pranzo 23/11, ore 12:00)",
+      "apre": "--",
+      "oraIt": "",
+      "entro": "✅ **prenotato** (15 nov) su TableCheck: 2 persone al banco, 2 × *Matsu* (13 nigiri e chawanmushi). ⚠️ **Oltre 15 minuti di ritardo possono cancellarvi il tavolo**: se tardate, telefonate",
+      "dove": "TableCheck · tel. 03-3711-4364",
+      "chiavi": [
+        "2026-11-23 Pranzo"
       ]
     },
     {
@@ -1364,11 +1362,27 @@ window.TRIP = {
       ]
     },
     {
-      "titolo": "Maguro Mart, Nakano, cena del 20/11 (facoltativa)",
-      "tags": "📞",
-      "done": false,
+      "titolo": "Nihonbashi Sushi Dokoro Ninomiya, Ueno, pranzo del 21/11 alle 11:30",
+      "tags": "🎫",
+      "done": true,
       "note": [
-        "[Tabelog](https://tabelog.com/en/tokyo/A1319/A131902/13236734/) (3.63, ~4-5.000 ¥), izakaya tutto tonno consigliato da Camilla: \"bisogna prenotare, è tostissima\". Prenotazioni 30 giorni prima, a mezzogiorno ora giapponese (04:00 italiane): per il 20/11 sono già aperte. Tel. 050-5597-6557. Se col piano B meteo il Fuji passa al 21/11, spostate o cancellate."
+        "✅ **Prenotato su Tabelog il 15 novembre** (codice in PRIVATO.md), 2 persone, *Ninomiya Supreme ★ Exquisite Omakase*, 15 pezzi di sushi Edomae. Nome giapponese 日本橋 すし処 二ノ宮 上野店, UENO3153 Bldg 2F (Ueno Koen 1-57), a 30 secondi dall'uscita Shinobazu di JR Ueno. Tel. 03-5826-4554. Tabelog 3.46 (oltre 850 recensioni), fascia di prezzo a pranzo 3.000-3.999 ¥, dentro il tetto; menu multilingue, carte accettate. **Si paga al ristorante**: il prezzo esatto del set *Supreme* non è nella conferma, controllatelo su Tabelog (potrebbe superare la fascia media). Chi ordina alcolici paga 540 ¥ di coperto. Niente profumi forti. Già pagati 880 ¥ di costo del servizio Tabelog, non rimborsabili. **Cancellazione gratuita fino al 21/11 alle 05:59 JST (20/11 alle 21:59 italiane)**, poi 100% del prezzo del set. Sostituisce Izuei Honten."
+      ]
+    },
+    {
+      "titolo": "Hakata Tonkotsu Ramen Ikkizuna, Ueno-Okachimachi, cena del 21/11 alle 18:30",
+      "tags": "🎫",
+      "done": true,
+      "note": [
+        "✅ **Prenotato su Tabelog il 15 novembre** (codice in PRIVATO.md), 2 persone, solo posti, si ordina sul momento. Su Tabelog in inglese compare come \"Hakata Tonkotsu Ramen Ichiban\", ma il nome è 博多豚骨らぁ麺 一絆 上野御徒町本店 (Ikkizuna): usate questo su Google Maps. Ueno 6-4-18, a 1 minuto da Ueno-okachimachi (Oedo Line, diretta per Iidabashi). Tel. 050-5494-2786. Già pagati 880 ¥ a Tabelog, non rimborsabili. **Cancellazione gratuita fino al 21/11 alle 05:59 JST**, poi 1.150 ¥ a testa. Sostituisce Ponta Honke."
+      ]
+    },
+    {
+      "titolo": "Matsue Ebisu Honten, pranzo del 23/11 alle 12:00",
+      "tags": "🎫",
+      "done": true,
+      "note": [
+        "✅ **Prenotato su TableCheck il 15 novembre** (codice in PRIVATO.md), 2 persone **al banco**, 2 × *Matsu* (nigiri 13 pezzi, due antipasti, chawanmushi), ~5.700 ¥ a testa, dentro il tetto. Nome giapponese 松栄 恵比寿本店, Ebisu-minami 1-2-4, a ~3 minuti dalla stazione di Ebisu. Tel. 03-3711-4364. Segnalato come anniversario di nozze. ⚠️ **Oltre 15 minuti di ritardo il tavolo può essere cancellato**: se tardate, telefonate. Sostituisce AFURI Nakameguro."
       ]
     },
     {
@@ -1388,19 +1402,11 @@ window.TRIP = {
       ]
     },
     {
-      "titolo": "Tempura Funabashiya, Shinjuku, cena del 23/11 (festa nazionale)",
+      "titolo": "Cena del 23/11 (festa nazionale), libera: proposta Tempura Funabashiya, Shinjuku",
       "tags": "📞",
       "done": false,
       "note": [
-        "[Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13012090/) (3.49, Tabelog 100 tempura 2022), tempura dal 1886, a 1 minuto da Shinjuku-sanchome. Aperto tutti i giorni 11:30-21:00. Prenotazione online: è festivo. Alternativa: oden da **Itteki Hassenya** ([Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13000760/), 3.62)."
-      ]
-    },
-    {
-      "titolo": "Ponta Honke, Ueno, cena del 21/11",
-      "tags": "📞",
-      "done": false,
-      "note": [
-        "[Tabelog](https://tabelog.com/en/tokyo/A1311/A131101/13003587/) (3.77, Tabelog 100 tonkatsu e yoshoku), il locale del 1905 che si vanta di aver inventato il tonkatsu. ~4-5.000 ¥. Sabato cena 16:30-20:20 (ultima ordinazione 19:45), chiuso il lunedì. Prenotazione online per due o più persone; carte accettate."
+        "[Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13012090/) (3.49, Tabelog 100 tempura 2022), tempura dal 1886, a 1 minuto da Shinjuku-sanchome. Aperto tutti i giorni 11:30-21:00. Facoltativa: se la volete, prenotate online, è festivo. Alternativa: oden da **Itteki Hassenya** ([Tabelog](https://tabelog.com/en/tokyo/A1304/A130401/13000760/), 3.62)."
       ]
     },
     {
@@ -1417,14 +1423,6 @@ window.TRIP = {
       "done": false,
       "note": [
         "[Tabelog](https://tabelog.com/en/tokyo/A1301/A130103/13001520/) (3.66, Tabelog 100 yakitori 2021 e 2025), spiedini grandi e frattaglie alla griglia, ~5-8.000 ¥. Lun-ven 17:00-23:00, chiuso domenica e festivi. Prenotazione online. **Solo contanti.**"
-      ]
-    },
-    {
-      "titolo": "Pranzo del 21/11, Izuei Honten (Ueno)",
-      "tags": "📞",
-      "done": false,
-      "note": [
-        "[Tabelog](https://tabelog.com/en/tokyo/A1311/A131101/13003586/). Anguilla in stile Edo, locale storico (dal periodo Edo) sul laghetto Shinobazu, a 5 minuti dall'uscita Shinobazu di JR Ueno. Prendete l'unaju; prezzi e orari da riconfermare su Tabelog (le fonti danno 11:00-21:00 o 22:00, pranzo da ~2.000-4.000 ¥). Primo giorno del ponte: meglio prenotare. Sostituisce Komagata Maekawa (14/11): stava sul fiume Sumida, a est, e costringeva a tornare indietro tra Kappabashi e Ueno."
       ]
     },
     {
@@ -1463,9 +1461,9 @@ window.TRIP = {
         "11:20"
       ],
       [
-        "Tonkatsu Aoki no Curry Ya Ippekoppe Iidabashi",
-        35.6993,
-        139.7478,
+        "Tsujita Iidabashi",
+        35.7012,
+        139.7462,
         "14:15"
       ],
       [
@@ -1475,10 +1473,16 @@ window.TRIP = {
         "15:15"
       ],
       [
+        "TORIKURA Kagurazaka",
+        35.7035,
+        139.7345,
+        "18:00"
+      ],
+      [
         "Kagurazaka",
         35.702,
         139.7405,
-        "17:30"
+        "19:45"
       ]
     ],
     "2026-11-20": [
@@ -1531,10 +1535,10 @@ window.TRIP = {
         "18:43"
       ],
       [
-        "Maguro Mart Nakano",
-        35.7105,
-        139.6668,
-        "20:15"
+        "Kakekomi Gyoza Kabukicho",
+        35.6945,
+        139.702,
+        "20:00"
       ]
     ],
     "2026-11-21": [
@@ -1551,9 +1555,9 @@ window.TRIP = {
         "10:15"
       ],
       [
-        "Izuei Honten Ueno",
-        35.7095,
-        139.7712,
+        "Nihonbashi Sushi Dokoro Ninomiya Ueno",
+        35.7115,
+        139.7735,
         "11:30"
       ],
       [
@@ -1575,10 +1579,10 @@ window.TRIP = {
         "17:00"
       ],
       [
-        "Ponta Honke Ueno",
-        35.7076,
-        139.7727,
-        "17:45"
+        "Hakata Tonkotsu Ramen Ikkizuna Ueno Okachimachi",
+        35.7085,
+        139.7738,
+        "18:30"
       ]
     ],
     "2026-11-22": [
@@ -1639,16 +1643,16 @@ window.TRIP = {
         "09:00"
       ],
       [
-        "AFURI Nakameguro",
-        35.644,
-        139.699,
-        "11:30"
+        "Matsue Ebisu Honten",
+        35.6458,
+        139.7088,
+        "12:00"
       ],
       [
-        "Starbucks Reserve Roastery Tokyo",
-        35.6492,
-        139.6936,
-        "12:30"
+        "Ebisu Garden Place",
+        35.6421,
+        139.7137,
+        "13:15"
       ],
       [
         "Daikanyama T-Site",
@@ -1657,9 +1661,9 @@ window.TRIP = {
         "14:00"
       ],
       [
-        "Ebisu Garden Place",
-        35.6421,
-        139.7137,
+        "Starbucks Reserve Roastery Tokyo",
+        35.6492,
+        139.6936,
         "15:00"
       ],
       [
@@ -2470,13 +2474,13 @@ window.TRIP = {
       "titolo": "Arrivo a Tokyo e primo assaggio",
       "hotel": "Hotel Metropolitan Edmont",
       "items": [
-        "**11:20 – 13:00** Arrivo a Haneda, immigrazione e dogana, acquisto di **due Welcome Suica** ai distributori del Terminal 3. 🎫 💴 Prelevate subito **40-50.000 ¥** a un bancomat Seven Bank del Terminal 3: nei primi giorni molti pagamenti sono solo in contanti (Ippekoppe, Houtou Fudo, spedizione bagagli all'Edmont, Yama San Sushi, Turban Curry) e in stazione le Suica si ricaricano di solito solo in contanti.",
+        "**11:20 – 13:00** Arrivo a Haneda, immigrazione e dogana, acquisto di **due Welcome Suica** ai distributori del Terminal 3. 🎫 💴 Prelevate subito **40-50.000 ¥** a un bancomat Seven Bank del Terminal 3: nei primi giorni molti pagamenti sono solo in contanti (Houtou Fudo, spedizione bagagli all'Edmont, Yama San Sushi, Turban Curry) e in stazione le Suica si ricaricano di solito solo in contanti.",
         "**13:00 – 13:45** 🚇 **Trasferimento in hotel, senza fermarsi a mangiare in aeroporto:** Keikyu Airport Line fino a **Daimon** (diretti sulla Toei Asakusa Line, ~30 min), poi **Toei Oedo Line fino a Iidabashi** (~15 min). In alternativa Monorail fino a Hamamatsucho e poi la Oedo. Piano B: taxi (~35-40 min).",
         "**13:45 – 14:15** Check-in o deposito bagagli all'**Hotel Metropolitan Edmont**, Iidabashi.",
-        "**14:15 – 15:00** *Pranzo (eccezione per l'arrivo):* **katsu curry** da **Ippekoppe**, a 4 minuti dall'uscita est di Iidabashi. Ultima ordinazione 14:45, solo contanti. Se la fame arriva prima, un onigiri al konbini.",
+        "**14:15 – 15:00** *Pranzo (eccezione per l'arrivo):* **tsukemen** da **Tsujita Iidabashi**, tra la stazione e l'hotel: si ordina alla macchinetta all'ingresso. Aperto tutto il giorno: se arrivate prima, mangiate prima.",
         "**15:15 – 16:15** 🌟✅ **Koishikawa Korakuen Gardens:** a piedi dall'hotel (~10 min), primo foliage. ⚠️ Ultimo ingresso alle 16:30.",
         "**16:30 – 17:15** 🎫 **Ritiro dei biglietti di carta** di Azusa 3, Kaiji 48 (20/11) e Kagayaki 503 (24/11) alla biglietteria automatica per posti riservati della stazione JR di Iidabashi, **uscita est** (東口きっぷうりば, la più vicina all'Edmont; aperta dalla prima corsa alle 23:50), con la carta usata per pagare: meglio adesso che dopo cena, se la macchinetta fa storie c'è tempo per chiedere al personale. Accanto c'è la Midori-no-madoguchi (09:30-18:00). Piano B: macchinette di Shinjuku la mattina del 20/11, arrivando 10 minuti prima. Poi riposo breve in hotel.",
-        "**17:30 – 19:30** *Cena:* soba e tempura da **Kyorakutei**, Bib Gourmand (si fa la fila, arrivate un po' prima), oppure izakaya a Kagurazaka (~8 min a piedi).",
+        "**18:00 – 19:30** *Cena informale:* **yakitori** da **Torikizoku** (catena, vicino all'hotel) oppure da **TORIKURA Kagurazaka** (apre alle 18:00, a 1 minuto dalla stazione di Kagurazaka, ~15 min a piedi dall'Edmont; meglio prenotare su TableCheck).",
         "**19:45 – 20:30** 🔄✅ Passeggiata breve tra i vicoli in salita di **Kagurazaka**. Saltatela se il jet lag si fa sentire: domani si parte alle 07:00.",
         "🚶 **Rientro in hotel:** a piedi (~8 min)."
       ]
@@ -2503,8 +2507,8 @@ window.TRIP = {
         "**16:50 – 17:15** ✅ Red Line dalla fermata del museo Kubota Itchiku fino a **Kawaguchiko Station** (~20-25 min, passa ogni ~15 min). Dopo il tramonto fa molto freddo: uno strato in più per l'attesa.",
         "**17:20 – 18:20** ✅ Locale **Fujikyu** da Kawaguchiko a **Otsuki** (~55 min, con la Suica). Prendete una corsa che arrivi entro le 18:30: controllate gli orari su Google Maps la mattina stessa.",
         "**18:43 – 19:48** 🎫 **Kaiji 48**, Otsuki → Shinjuku, ✅ prenotato, **carrozza 5, posti 8C-8D**.",
-        "**20:15 – 22:00** 🔄🎫 *Cena facoltativa:* **Maguro Mart**, Nakano, izakaya tutto tonno consigliato da Camilla. JR Chuo Rapid da Shinjuku a Nakano (~5 min) + ~8 min a piedi. Prenotazione obbligatoria, **turno delle 20:15 o più tardi**. Se siete cotti, a Shinjuku: 📸 **Kakekomi Gyoza** (Kabukicho, aperto 24 ore) o 📸 **Pasta Mama**.",
-        "🚆 **Rientro in hotel:** Tozai Line diretta da Nakano a Iidabashi (~13 min, la più rapida) o JR Chuo-Sobu Line (~20 min); porta a porta ~30-35 min. Piano B: taxi (~20-25 min, ~3.000-3.500 ¥). Senza Maguro Mart: JR Chuo-Sobu Line da Shinjuku a Iidabashi (~12 min)."
+        "**20:00 – 21:30** ✅ *Cena:* **gyoza** e birra appena scesi a Shinjuku, da 📸 **Kakekomi Gyoza** (Kabukicho, aperto 24 ore, ~10 min a piedi dall'uscita est), oppure 📸 **Pasta Mama**. Niente prenotazioni: dopo una giornata lunga si mangia dove capita.",
+        "🚆 **Rientro in hotel:** JR Chuo-Sobu Line da Shinjuku a Iidabashi (~12 min). Piano B: taxi (~15-20 min)."
       ]
     },
     {
@@ -2518,14 +2522,14 @@ window.TRIP = {
       "items": [
         "🚇 **Andata dall'hotel:** Toei Oedo Line da Iidabashi a Kuramae, cambio Toei Asakusa Line fino a Asakusa (~20 min).",
         "**08:30 – 10:00** 🌟✅ **Senso-ji**, Asakusa, e le bancarelle di Nakamise-dori. Ingresso libero.",
-        "**10:15 – 11:15** 🔄✅ **Kappabashi Kitchen Town**, ~10 min a piedi a ovest del Senso-ji, già sulla strada per Ueno: utensili da cucina e *sampuru*, i modelli di cibo in cera. ⚠️ Alcuni negozi chiudono il sabato pomeriggio: la mattina è il momento giusto.",
-        "🚇 *Trasferimento:* Ginza Line da Tawaramachi a Ueno (~5 min) + ~5 min a piedi fino al laghetto Shinobazu, oppure tutto a piedi (~20 min). Il giorno va sempre verso ovest, senza tornare verso il Sumida.",
-        "**11:30 – 12:30** *Pranzo:* unagi da **Izuei Honten**, sul laghetto Shinobazu, all'ingresso sud di Ueno Park.",
+        "**10:15 – 11:00** 🔄✅ **Kappabashi Kitchen Town**, ~10 min a piedi a ovest del Senso-ji, già sulla strada per Ueno: utensili da cucina e *sampuru*, i modelli di cibo in cera. ⚠️ Alcuni negozi chiudono il sabato pomeriggio: la mattina è il momento giusto.",
+        "🚇 *Trasferimento, entro le 11:00:* Ginza Line da Tawaramachi a Ueno (~5 min) + ~3 min a piedi fino all'uscita Shinobazu di JR Ueno, oppure tutto a piedi (~20 min). Il giorno va sempre verso ovest, senza tornare verso il Sumida.",
+        "**11:30 – 12:30** 🎫 *Pranzo:* sushi omakase da **Ninomiya Ueno**, ✅ prenotato su Tabelog (codice in PRIVATO.md), 2° piano dell'edificio UENO3153, sopra l'uscita Shinobazu di JR Ueno e all'ingresso sud di Ueno Park. Niente profumi forti.",
         "**12:45 – 14:15** 🔄✅ **Ueno Park**: dal laghetto Shinobazu il parco attraversato a piedi verso nord-ovest fino a Yanaka (~20 min). La crociera verso Hamarikyu è stata tolta: porta a sud, mentre Yanaka è a nord. ☔ Se piove: **Tokyo National Museum**, dentro il parco (katane, armature samurai, tesori nazionali; 09:30-17:00, sabato aperto), al posto del parco.",
         "**14:15 – 16:45** 🌟✅ **Yanaka Ginza:** quartiere nostalgico, coi templi e il cimitero di Yanaka, fino al tramonto delle 16:30 dalla scalinata **Yuyake Dandan**.",
         "🚃 *Trasferimento:* JR Yamanote Line da Nippori a Okachimachi (~5 min).",
-        "**17:00 – 17:45** ✅ **Ameyoko**, il mercato sotto la ferrovia, con le insegne accese: un assaggio leggero, la cena è subito dopo. Spostato qui da dopo Ueno Park per non tornare indietro.",
-        "**17:45 – 19:45** *Cena:* **tonkatsu** da **Ponta Honke**, a ~5 minuti da Ameyoko, dal 1905. Ultima ordinazione 19:45.",
+        "**17:00 – 18:15** ✅ **Ameyoko**, il mercato sotto la ferrovia, con le insegne accese: un assaggio leggero, la cena è alle 18:30. Spostato qui da dopo Ueno Park per non tornare indietro.",
+        "**18:30 – 19:30** 🎫 *Cena:* **ramen** tonkotsu alla Hakata da **Ikkizuna** (博多豚骨らぁ麺 一絆), a 1 minuto da Ueno-okachimachi, in fondo ad Ameyoko. ✅ Prenotato su Tabelog (codice in PRIVATO.md); su Tabelog in inglese compare come \"Ichiban\".",
         "🚇 **Rientro in hotel:** Toei Oedo Line da Ueno-okachimachi a Iidabashi, diretta (~15 min). Piano B: taxi."
       ]
     },
@@ -2557,19 +2561,23 @@ window.TRIP = {
     {
       "data": "2026-11-23",
       "giorno": "Lunedì",
-      "titolo": "Festa nazionale: Shinjuku Gyoen e Nakameguro",
+      "titolo": "Festa nazionale: Shinjuku Gyoen, sushi a Ebisu, Daikanyama e Nakameguro",
       "hotel": "Hotel Metropolitan Edmont",
+      "note": [
+        "🔁 **Riordinato il 15/11** attorno al pranzo prenotato da Matsue alle 12:00: un anello Ebisu → Garden Place → Daikanyama → Nakameguro, poi Shinjuku per il tramonto."
+      ],
       "items": [
         "⚠️ **Shinjuku Gyoen** è normalmente chiuso il lunedì, ma il 23/11 è festivo e apre: confermatelo sul sito la settimana prima.",
         "🚇 **Andata dall'hotel:** JR Chuo-Sobu Line da Iidabashi a Shinjuku (~12 min) + 10 min a piedi.",
-        "**09:00 – 11:00** 🌟✅ **Shinjuku Gyoen National Garden:** entrate all'apertura, alle **09:00**, non prima. Biglietto in loco; se sul sito c'è la vendita online, compratelo prima: nel festivo del foliage la coda alla cassa è lunga.",
-        "🚇 *Trasferimento:* dall'uscita Shinjuku Gate a piedi fino a Shinjuku-sanchome (~5 min), poi **Fukutoshin Line** con un treno che prosegue sulla Tokyu Toyoko, diretto fino a **Nakameguro** (~15 min). Se il treno si ferma a Shibuya, cambiate lì sulla Toyoko.",
-        "**11:30 – 13:00** *Pranzo e caffè:* *AFURI Nakameguro*, yuzu shio ramen, e *Starbucks Reserve Roastery*. In alternativa 📸 **Blocks de Gamin** (bistrot francese, dalle 12:00).",
-        "**13:15 – 14:30** 🔄✅ Passeggiata a Daikanyama, boutique di design e Tsutaya Books.",
-        "**14:45 – 15:45** ✅ **Ebisu Garden Place:** il lampadario Baccarat e la Sky Lounge gratuita al 38° piano.",
-        "🚃 *Trasferimento:* JR Yamanote Line da Ebisu a Shinjuku (~8 min).",
-        "**16:15 – 17:15** 🌟✅ **Tokyo Metropolitan Government Office**, Nishi-Shinjuku: osservatorio gratuito, tramonto alle 16:30, nei giorni tersi si vede il Fuji.",
-        "**17:30 – 19:30** *Cena (festivo, prenotate):* **tempura** da **Funabashiya**, Shinjuku-sanchome, dal 1886. Lungo la strada, un giro per le foto tra i vicoli di Omoide Yokocho.",
+        "**09:00 – 11:15** 🌟✅ **Shinjuku Gyoen National Garden:** entrate all'apertura, alle **09:00**, non prima. Biglietto in loco; se sul sito c'è la vendita online, compratelo prima: nel festivo del foliage la coda alla cassa è lunga. ⚠️ **Uscite alle 11:15** dalla Shinjuku Gate: il pranzo è prenotato e oltre 15 minuti di ritardo il tavolo può saltare.",
+        "🚃 *Trasferimento:* dalla Shinjuku Gate a piedi alla stazione JR di Shinjuku (~10 min, uscita sud), JR Yamanote Line fino a **Ebisu** (~7 min), poi ~3 min a piedi. Lì entro le 11:50. Se siete in ritardo, telefonate al 03-3711-4364.",
+        "**12:00 – 13:15** 🎫 *Pranzo:* sushi al banco da **Matsue Ebisu Honten**, set *Matsu* (13 nigiri). ✅ Prenotato su TableCheck (codice in PRIVATO.md), segnalato come anniversario di nozze.",
+        "**13:15 – 13:45** ✅ **Ebisu Garden Place**, ~8 min a piedi col tapis roulant coperto (Ebisu Skywalk): il lampadario Baccarat e la Sky Lounge gratuita al 38° piano.",
+        "**14:00 – 14:45** 🔄✅ Passeggiata a **Daikanyama**, ~15 min a piedi verso ovest: boutique di design e Tsutaya Books.",
+        "**15:00 – 15:40** ✅ **Nakameguro**, ~10 min a piedi in discesa: il canale Meguro e il caffè alla **Starbucks Reserve Roastery**. Nel festivo all'ingresso si prende un biglietto numerato e l'attesa può essere lunga: se è così, basta il canale.",
+        "🚇 *Trasferimento:* Hibiya Line da Nakameguro a Ebisu (una fermata), JR Yamanote Line fino a Shinjuku, ~12 min a piedi dall'uscita ovest (~30 min in tutto). Uscite da Nakameguro entro le 15:40.",
+        "**16:15 – 17:15** 🌟✅ **Tokyo Metropolitan Government Office**, Nishi-Shinjuku: osservatorio gratuito, tramonto alle 16:30, nei giorni tersi si vede il Fuji. Nel festivo c'è coda ai controlli e agli ascensori.",
+        "**17:30 – 19:30** *Cena libera* a Shinjuku: proposta **tempura** da **Funabashiya**, Shinjuku-sanchome, dal 1886 (se la volete, prenotate: è festivo). Lungo la strada, un giro per le foto tra i vicoli di Omoide Yokocho.",
         "**19:45 – 20:45** ✅ **Disney FLAGSHIP TOKYO:** il Disney Store più grande del Giappone, 3 piani su Shinjuku-dori. A piedi da Omoide Yokocho (~10 min), uscita B6 di Shinjuku-sanchome. ⚠️ Chiude alle 21:00 (da riconfermare).",
         "🚆 **Rientro in hotel:** JR Chuo-Sobu Line da Shinjuku a Iidabashi (~12 min)."
       ]

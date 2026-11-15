@@ -150,11 +150,11 @@ window.TRIP = {
       "dove": "[teamLab](https://www.teamlab.art/e/botanicalgarden/)"
     },
     {
-      "cosa": "Illuminazione Rikugien (06/12)",
-      "apre": "fine ott, da annunciare",
+      "cosa": "Illuminazione Rikugien (06/12, fascia 18:00-19:30)",
+      "apre": "--",
       "oraIt": "",
-      "entro": "controllate ogni pochi giorni, al più tardi 25 nov",
-      "dove": "[sito](https://www.tokyo-park.or.jp/teien/en/rikugien/)"
+      "entro": "✅ **prenotato** il 15 nov su asoview!: 2 adulti, 2.000 ¥, pagato con carta (link del biglietto in PRIVATO.md). Biglietto solo sullo smartphone (My Page o app asoview!, \"Use ticket\"). Cancellazione gratuita fino al 5/12 alle 23:59 JST (15:59 italiane)",
+      "dove": "[asoview!](https://www.asoview.com/) · [sito](https://www.tokyo-park.or.jp/teien/en/rikugien/)"
     },
     {
       "cosa": "Kaiyukan (05/12, ingresso 10:45-11:00)",
@@ -326,11 +326,13 @@ window.TRIP = {
         {
           "titolo": "Illuminazione notturna Rikugien, Tokyo, 06/12",
           "tags": "🌟🎫",
-          "done": false,
+          "done": true,
           "note": [
-            "**Dove:** [sito ufficiale del Rikugien](https://www.tokyo-park.or.jp/teien/en/rikugien/). Biglietto anticipato 1.000 ¥ **solo online**, a numero chiuso. In loco 1.200 ¥ in contanti, se non esaurito. Tel. +81 3-3941-2222.",
-            "**Quando:** vendita attesa da fine ottobre: controllate ogni pochi giorni. Limite: 25 novembre.",
-            "Evento 2026 **25 novembre — 6 dicembre**, 18:00-20:30 (ultimo ingresso 19:30). Il 6 dicembre è **l'ultima sera**: zero margine."
+            "✅ **Prenotato il 15 novembre**",
+            "Su **asoview!** (account a nome Spataro Raffaele; l'email di conferma dell'acquisto è stata inviata), biglietto anticipato *\"庭紅葉の六義園\" 夜間特別観賞券*, **6/12, fascia 18:00-19:30**, 2 adulti, **2.000 ¥ in due** (1.000 ¥ a testa), pagato con carta.",
+            "**Il biglietto è solo sullo smartphone:** all'ingresso aprite *My Page → Reservation Management* (o l'app asoview!), toccate **\"Use ticket\"**, scegliete 2 biglietti e mostrate allo staff la schermata \"Please present to the staff\". Fate il login sul telefono prima di partire e verificate l'email dell'account (il sito chiede di confermarla).",
+            "**Cancellazione gratuita fino al 5/12 alle 23:59 JST** (15:59 italiane).",
+            "Evento 2026 **25 novembre — 6 dicembre**, 18:00-20:30 (ultimo ingresso 19:30). Tel. +81 3-3941-2222. [Sito ufficiale](https://www.tokyo-park.or.jp/teien/en/rikugien/)."
           ]
         },
         {
@@ -2321,6 +2323,12 @@ window.TRIP = {
         35.733,
         139.7465,
         "18:00"
+      ],
+      [
+        "LUFTBAUM NEWoMan Takanawa",
+        35.6355,
+        139.7405,
+        "20:15"
       ]
     ],
     "2026-12-07": [
@@ -2839,8 +2847,9 @@ window.TRIP = {
         "• 🔄✅ **Alternativa facoltativa: Giardini Orientali del Palazzo Imperiale** (ingresso libero, chiusi lunedì e venerdì; in dicembre ultimo ingresso 15:30, chiusura 16:00). Se preferite un giardino alle vetrine: Ginza fino alle 14:45, poi a piedi o Marunouchi Line fino a Otemachi, porta **Ote-mon**, e dalle 16:00 a piedi fino a Nihonbashi per la cena (~15 min). Si salta Don Quijote.",
         "**16:30 – 17:20** *Cena:* 📸 **tonkatsu** da **Nihonbashi Tonkatsu Hajime HANARE**, a Nihonbashi-Muromachi: Ginza Line da Ginza a Mitsukoshimae (~5 min), poi ~3 min a piedi. Niente prenotazioni: presto, di domenica, la fila è più corta. Sono quasi quattro ore dopo il ramen: a pranzo restate leggeri.",
         "**17:20 – 18:00** Trasferimento a Komagome: a piedi fino a Kanda (~8 min), JR Yamanote Line fino a Komagome (~15 min), poi ~7 min a piedi all'ingresso principale.",
-        "**18:00 – 19:30** 🌟🎫 **Illuminazione notturna del Rikugien:** giardino Edo del 1695, aceri riflessi nello stagno e proiezioni sul magazzino storico. Percorso a senso unico, circa un'ora. Ultimo ingresso alle 19:30: qualche minuto di ritardo non è un problema.",
-        "🚆 **Rientro in hotel:** JR Yamanote Line da Komagome a Hamamatsucho (~25 min), poi a piedi."
+        "**18:00 – 19:30** 🌟🎫 **Illuminazione notturna del Rikugien:** giardino Edo del 1695, aceri riflessi nello stagno e proiezioni sul magazzino storico. Percorso a senso unico, circa un'ora. ✅ **Prenotato su asoview!** (15 nov), 2 adulti, fascia 18:00-19:30: all'ingresso mostrate il biglietto dal telefono (My Page → \"Use ticket\"). Ultimo ingresso alle 19:30: qualche minuto di ritardo non è un problema.",
+        "**20:15 – 21:00** 🔄✅ **LUFTBAUM**, il giardino pensile al 28° e 29° piano di **NEWoMan Takanawa**, a ~150 m d'altezza: piante, luci soffuse e Tokyo di notte verso la baia e il Rainbow Bridge, coi treni che passano sotto. Ingresso libero, aperto 08:00-24:00 (i locali al piano hanno orari propri). Collegato alla stazione **Takanawa Gateway**: dal Rikugien restate sulla JR Yamanote Line da Komagome fino a Takanawa Gateway (~30-35 min), due fermate dopo Hamamatsucho. È diverso dagli altri osservatori: guarda a sud-est, sulla baia, ed è gratis. Saltatelo se siete stanchi: il 7/12 si esce alle 08:00.",
+        "🚆 **Rientro in hotel:** JR Yamanote Line da Takanawa Gateway a Hamamatsucho (due fermate, ~5 min), poi a piedi (~10 min). Senza LUFTBAUM: JR Yamanote Line da Komagome a Hamamatsucho (~25 min), poi a piedi."
       ]
     },
     {

@@ -19,7 +19,7 @@ subtitle: 18 Novembre - 9 Dicembre
 
 ## Scadenze in tabella
 
-> 📅 **Aggiornata al 15 novembre.** Già prenotati tutti i treni tranne lo Shinkansen del 5/12 (da comprare il giorno stesso), Shibuya Sky, Nezu Museum, teamLab, Kaiyukan, Pretty Pork e Sushiya Shota. In ordine di urgenza: prima i ristoranti con scadenza al 15 novembre, poi quelli entro il 20.
+> 📅 **Aggiornata al 15 novembre.** Già prenotati tutti i treni tranne lo Shinkansen del 5/12 (da comprare il giorno stesso), Shibuya Sky, Nezu Museum, teamLab, Kaiyukan, illuminazione del Rikugien, Pretty Pork e Sushiya Shota. In ordine di urgenza: prima i ristoranti con scadenza al 15 novembre, poi quelli entro il 20.
 
 | Cosa | Apre | Ora italiana | Fare entro | Dove |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ subtitle: 18 Novembre - 9 Dicembre
 | Shinkansen Tokaido (05/12) | già aperta | -- | **il giorno stesso** (scelta del 14 nov), o qualche giorno prima dal Giappone per avere la coppia D+E. Prima di partire: account smartEX e carta registrati | [smartEX](https://smart-ex.jp/en/) |
 | Visit Japan Web | -- | -- | ✅ **fatto** (13 nov): tenete il QR a portata di mano (si apre anche offline) | [Visit Japan Web](https://services.digital.go.jp/en/visit-japan-web/) |
 | teamLab Botanical Garden (04/12) | -- | -- | ✅ **prenotato** il 13 nov: ingresso 18:00, 2 adulti, 4.000 ¥ (codici in PRIVATO.md). QR visibile 24 ore prima | [teamLab](https://www.teamlab.art/e/botanicalgarden/) |
-| Illuminazione Rikugien (06/12) | fine ott, da annunciare | -- | controllate ogni pochi giorni, al più tardi 25 nov | [sito](https://www.tokyo-park.or.jp/teien/en/rikugien/) |
+| Illuminazione Rikugien (06/12, fascia 18:00-19:30) | -- | -- | ✅ **prenotato** il 15 nov su asoview!: 2 adulti, 2.000 ¥, pagato con carta (link del biglietto in PRIVATO.md). Biglietto solo sullo smartphone (My Page o app asoview!, "Use ticket"). Cancellazione gratuita fino al 5/12 alle 23:59 JST (15:59 italiane) | [asoview!](https://www.asoview.com/) · [sito](https://www.tokyo-park.or.jp/teien/en/rikugien/) |
 | Kaiyukan (05/12, ingresso 10:45-11:00) | -- | -- | ✅ **prenotato** il 13 nov sul sito ufficiale (Webket), 2 adulti, 5.600 ¥ (numero d'acquisto in PRIVATO.md). QR in Webket (My Page) e nell'email; orario modificabile altre 2 volte, solo il 5/12 | [Webket Kaiyukan](https://www.kaiyukan.com/) |
 | Sushiya Shota (cena 08/12, ore 20:00) | -- | -- | ✅ **prenotato** (codice in PRIVATO.md). Cancellazione gratuita fino al 6 dic alle 21:59 italiane | [Tabelog](https://tabelog.com/en/tokyo/A1307/A130702/13241750/) |
 | Shinkansen Hokuriku, Tokyo -> Kanazawa (24/11) | -- | -- | ✅ **prenotato** il 3 nov: Kagayaki 503, 07:20 -> 09:44, 2 adulti, **carrozza 2, posti 11D-11E**, biglietto di carta (codici in PRIVATO.md). Ritiro il pomeriggio del 19/11 a Iidabashi | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) |
@@ -130,10 +130,11 @@ subtitle: 18 Novembre - 9 Dicembre
   - [Sito ufficiale teamLab](https://www.teamlab.art/e/botanicalgarden/), 2 adulti, **ingresso 18:00** (era l'unica fascia disponibile), **4.000 ¥ in due** (2.000 ¥ a testa). Si resta fino alla chiusura delle 20:30, niente rientro. Codici e link in PRIVATO.md.
   - Il QR code compare **24 ore prima** dell'ingresso: fate uno screenshot. Il biglietto si può modificare o cancellare dalla pagina della prenotazione.
 
-- [ ] **Illuminazione notturna Rikugien, Tokyo, 06/12** 🌟🎫
-  - **Dove:** [sito ufficiale del Rikugien](https://www.tokyo-park.or.jp/teien/en/rikugien/). Biglietto anticipato 1.000 ¥ **solo online**, a numero chiuso. In loco 1.200 ¥ in contanti, se non esaurito. Tel. +81 3-3941-2222.
-  - **Quando:** vendita attesa da fine ottobre: controllate ogni pochi giorni. Limite: 25 novembre.
-  - Evento 2026 **25 novembre -- 6 dicembre**, 18:00-20:30 (ultimo ingresso 19:30). Il 6 dicembre è **l'ultima sera**: zero margine.
+- [x] **Illuminazione notturna Rikugien, Tokyo, 06/12** 🌟🎫 -- ✅ **Prenotato il 15 novembre**
+  - Su **asoview!** (account a nome Spataro Raffaele; l'email di conferma dell'acquisto è stata inviata), biglietto anticipato *"庭紅葉の六義園" 夜間特別観賞券*, **6/12, fascia 18:00-19:30**, 2 adulti, **2.000 ¥ in due** (1.000 ¥ a testa), pagato con carta.
+  - **Il biglietto è solo sullo smartphone:** all'ingresso aprite *My Page -> Reservation Management* (o l'app asoview!), toccate **"Use ticket"**, scegliete 2 biglietti e mostrate allo staff la schermata "Please present to the staff". Fate il login sul telefono prima di partire e verificate l'email dell'account (il sito chiede di confermarla).
+  - **Cancellazione gratuita fino al 5/12 alle 23:59 JST** (15:59 italiane).
+  - Evento 2026 **25 novembre -- 6 dicembre**, 18:00-20:30 (ultimo ingresso 19:30). Tel. +81 3-3941-2222. [Sito ufficiale](https://www.tokyo-park.or.jp/teien/en/rikugien/).
 
 - [x] **Shibuya Sky, Tokyo, 22/11, slot 10:40** 🌟🎫 -- ✅ **Prenotato il 13 novembre**
   - [Sito ufficiale](https://www.shibuya-scramble-square.com/sky/ticket/), 2 "Web ticket", 22 novembre, ingresso **10:40**, nessun limite di permanenza. Per il 22/11 restavano solo slot del mattino: il giorno è stato riordinato attorno a questo orario.
@@ -732,8 +733,9 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
   - 🔄✅ **Alternativa facoltativa: Giardini Orientali del Palazzo Imperiale** (ingresso libero, chiusi lunedì e venerdì; in dicembre ultimo ingresso 15:30, chiusura 16:00). Se preferite un giardino alle vetrine: Ginza fino alle 14:45, poi a piedi o Marunouchi Line fino a Otemachi, porta **Ote-mon**, e dalle 16:00 a piedi fino a Nihonbashi per la cena (~15 min). Si salta Don Quijote.
 - **16:30 -- 17:20** *Cena:* 📸 **tonkatsu** da **Nihonbashi Tonkatsu Hajime HANARE**, a Nihonbashi-Muromachi: Ginza Line da Ginza a Mitsukoshimae (~5 min), poi ~3 min a piedi. Niente prenotazioni: presto, di domenica, la fila è più corta. Sono quasi quattro ore dopo il ramen: a pranzo restate leggeri.
 - **17:20 -- 18:00** Trasferimento a Komagome: a piedi fino a Kanda (~8 min), JR Yamanote Line fino a Komagome (~15 min), poi ~7 min a piedi all'ingresso principale.
-- **18:00 -- 19:30** 🌟🎫 **Illuminazione notturna del Rikugien:** giardino Edo del 1695, aceri riflessi nello stagno e proiezioni sul magazzino storico. Percorso a senso unico, circa un'ora. Ultimo ingresso alle 19:30: qualche minuto di ritardo non è un problema.
-- 🚆 **Rientro in hotel:** JR Yamanote Line da Komagome a Hamamatsucho (~25 min), poi a piedi.
+- **18:00 -- 19:30** 🌟🎫 **Illuminazione notturna del Rikugien:** giardino Edo del 1695, aceri riflessi nello stagno e proiezioni sul magazzino storico. Percorso a senso unico, circa un'ora. ✅ **Prenotato su asoview!** (15 nov), 2 adulti, fascia 18:00-19:30: all'ingresso mostrate il biglietto dal telefono (My Page -> "Use ticket"). Ultimo ingresso alle 19:30: qualche minuto di ritardo non è un problema.
+- **20:15 -- 21:00** 🔄✅ **LUFTBAUM**, il giardino pensile al 28° e 29° piano di **NEWoMan Takanawa**, a ~150 m d'altezza: piante, luci soffuse e Tokyo di notte verso la baia e il Rainbow Bridge, coi treni che passano sotto. Ingresso libero, aperto 08:00-24:00 (i locali al piano hanno orari propri). Collegato alla stazione **Takanawa Gateway**: dal Rikugien restate sulla JR Yamanote Line da Komagome fino a Takanawa Gateway (~30-35 min), due fermate dopo Hamamatsucho. È diverso dagli altri osservatori: guarda a sud-est, sulla baia, ed è gratis. Saltatelo se siete stanchi: il 7/12 si esce alle 08:00.
+- 🚆 **Rientro in hotel:** JR Yamanote Line da Takanawa Gateway a Hamamatsucho (due fermate, ~5 min), poi a piedi (~10 min). Senza LUFTBAUM: JR Yamanote Line da Komagome a Hamamatsucho (~25 min), poi a piedi.
 - 🏨 **Shiba Park Hotel**
 
 ---
@@ -943,6 +945,7 @@ Verso le **16:30 a Tokyo** e le **16:45 a Kyoto e Kanazawa**.
 | 06/12 | 15:00 | Don Quijote Ginza | 35.6685 | 139.7605 |
 | 06/12 | 16:30 | Nihonbashi Tonkatsu Hajime HANARE | 35.6866 | 139.7738 |
 | 06/12 | 18:00 | Rikugien | 35.733 | 139.7465 |
+| 06/12 | 20:15 | LUFTBAUM NEWoMan Takanawa | 35.6355 | 139.7405 |
 | 07/12 | 09:00 | Engaku-ji | 35.3373 | 139.5475 |
 | 07/12 | 09:45 | Meigetsu-in | 35.3352 | 139.5517 |
 | 07/12 | 10:15 | Kencho-ji | 35.3313 | 139.5559 |
